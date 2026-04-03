@@ -1,5 +1,7 @@
 """Base scraper with shared HTTP client and rate limiting."""
 
+from __future__ import annotations
+
 import asyncio
 import random
 from abc import ABC, abstractmethod
