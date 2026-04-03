@@ -1,0 +1,39 @@
+name: Scrape Reality Portals
+
+on:
+  schedule:
+    - cron: '0 5 * * *'   # 07:00 CET
+    - cron: '0 16 * * *'  # 18:00 CET
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python -m src.main
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Reality Bot"
+          git config user.email "bot@reality-fetcher"
+          git add data/ site/
+          git diff --cached --quiet || git commit -m "Update $(date -u +%Y-%m-%d_%H:%M)"
+          git push
