@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Frýdek-Místek — Reality Monitor</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      margin: 0; padding: 0;
+      background: #fafafa; color: #222;
+      line-height: 1.5;
+    }
+    .header {
+      background: #1a1a2e; color: #fff;
+      padding: 16px 24px;
+    }
+    .header h1 {
+      margin: 0 0 4px 0; font-size: 1.4em;
+    }
+    .header .updated {
+      font-size: 0.85em; opacity: 0.7;
+    }
+    .stats {
+      display: flex; gap: 16px; margin-top: 8px; flex-wrap: wrap;
+    }
+    .stat {
+      background: rgba(255,255,255,0.1);
+      padding: 4px 12px; border-radius: 6px;
+      font-size: 0.85em;
+    }
+    .stat strong { font-size: 1.1em; }
+
+    .filters {
+      position: sticky; top: 0; z-index: 100;
+      background: #fff; border-bottom: 1px solid #ddd;
+      padding: 12px 24px;
+      display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end;
+    }
+    .filter-group {
+      display: flex; flex-direction: column; gap: 2px;
+    }
+    .filter-group label {
+      font-size: 0.75em; font-weight: 600; color: #666;
+      text-transform: uppercase; letter-spacing: 0.5px;
+    }
+    .filter-group select,
+    .filter-group input {
+      padding: 6px 10px; border: 1px solid #ccc; border-radius: 4px;
+      font-size: 0.9em; font-family: inherit;
+    }
+    .filter-group input[type="number"] {
+      width: 100px;
+    }
+    .range-inputs {
+      display: flex; gap: 4px; align-items: center;
+    }
+    .range-sep { color: #999; }
+
+    .container {
+      padding: 0 24px 40px;
+    }
+
+    table {
+      width: 100%; border-collapse: collapse;
+      margin-top: 16px; background: #fff;
+      border-radius: 8px; overflow: hidden;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+    thead th {
+      background: #f5f5f5; padding: 10px 12px;
+      text-align: left; font-size: 0.8em;
+      text-transform: uppercase; letter-spacing: 0.5px;
+      color: #555; border-bottom: 2px solid #e0e0e0;
+      white-space: nowrap;
+    }
+    tbody td {
+      padding: 10px 12px; border-bottom: 1px solid #f0f0f0;
+      font-size: 0.9em; vertical-align: middle;
+    }
+    tbody tr:hover {
+      background: #f8f8ff;
+    }
+
+    .badge {
+      display: inline-block; padding: 2px 8px;
+      border-radius: 4px; font-size: 0.75em;
+      font-weight: 600; text-transform: uppercase;
+    }
+    .badge-dum { background: #e3f2fd; color: #1565c0; }
+    .badge-pozemek { background: #e8f5e9; color: #2e7d32; }
+    .badge-byt { background: #fff3e0; color: #e65100; }
+    .badge-new {
+      background: #43a047; color: #fff;
+      margin-left: 6px; font-size: 0.7em;
+      vertical-align: middle;
+    }
+
+    .price-changed {
+      background: #fff9c4 !important;
+    }
+    .price-change {
+      font-size: 0.8em; white-space: nowrap;
+    }
+    .price-drop { color: #2e7d32; }
+    .price-rise { color: #c62828; }
+
+    .location-link {
+      color: #1565c0; text-decoration: none;
+    }
+    .location-link:hover { text-decoration: underline; }
+
+    .portal-link {
+      color: #1565c0; text-decoration: none;
+      font-size: 0.85em;
+    }
+    .portal-link:hover { text-decoration: underline; }
+
+    .removed-section {
+      margin-top: 32px;
+    }
+    .removed-toggle {
+      cursor: pointer; user-select: none;
+      padding: 12px 0; font-size: 1.1em; font-weight: 600;
+      color: #666; display: flex; align-items: center; gap: 8px;
+    }
+    .removed-toggle:hover { color: #333; }
+    .removed-toggle .arrow {
+      transition: transform 0.2s;
+      display: inline-block;
+    }
+    .removed-toggle .arrow.open {
+      transform: rotate(90deg);
+    }
+    .removed-content { display: none; }
+    .removed-content.open { display: block; }
+
+    .removed-row td {
+      text-decoration: line-through;
+      color: #999;
+    }
+    .removed-row .badge { opacity: 0.5; }
+
+    .no-results {
+      text-align: center; padding: 40px;
+      color: #999; font-size: 1.1em;
+    }
+
+    .price-unknown {
+      font-style: italic; color: #888;
+    }
+
+    @media (max-width: 900px) {
+      .filters { padding: 10px 12px; gap: 8px; }
+      .container { padding: 0 8px 24px; }
+      table { font-size: 0.85em; }
+      thead th, tbody td { padding: 8px 6px; }
+      .filter-group input[type="number"] { width: 80px; }
+    }
+    @media (max-width: 600px) {
+      table { display: block; overflow-x: auto; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Frýdek-Místek</h1>
+  <div class="updated" id="updated"></div>
+  <div class="stats" id="stats"></div>
+</div>
+
+<div class="filters">
+  <div class="filter-group">
+    <label for="filter-status">Status</label>
+    <select id="filter-status">
+      <option value="">Vše</option>
+      <option value="new">Nové</option>
+      <option value="price_changed">Změna ceny</option>
+      <option value="removed">Smazané</option>
+    </select>
+  </div>
+        <div class="filter-group">
+          <label for="filter-type">Typ</label>
+          <select id="filter-type"><option value="">Vše</option><option value="dum">Dům</option><option value="pozemek">Pozemek</option></select>
+        </div>
+  <div class="filter-group">
+    <label for="filter-location">Lokalita</label>
+    <select id="filter-location">
+      <option value="">Vše</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <label>Cena</label>
+    <div class="range-inputs">
+      <input type="number" id="filter-price-min" placeholder="od">
+      <span class="range-sep">–</span>
+      <input type="number" id="filter-price-max" placeholder="do">
+    </div>
+  </div>
+  <div class="filter-group">
+    <label>Plocha (m²)</label>
+    <div class="range-inputs">
+      <input type="number" id="filter-area-min" placeholder="od">
+      <span class="range-sep">–</span>
+      <input type="number" id="filter-area-max" placeholder="do">
+    </div>
+  </div>
+  <div class="filter-group">
+    <label for="filter-sort">Řazení</label>
+    <select id="filter-sort">
+      <option value="added_desc">Datum přidání ↓</option>
+      <option value="added_asc">Datum přidání ↑</option>
+      <option value="price_asc">Cena ↑</option>
+      <option value="price_desc">Cena ↓</option>
+      <option value="ppm2_asc">Cena/m² ↑</option>
+      <option value="ppm2_desc">Cena/m² ↓</option>
+      <option value="area_asc">Plocha ↑</option>
+      <option value="area_desc">Plocha ↓</option>
+    </select>
+  </div>
+</div>
+
+<div class="container">
+  <table>
+    <thead>
+      <tr>
+        <th>Typ</th>
+        <th>Lokalita</th>
+        <th>Plocha</th>
+        <th>Cena</th>
+        <th>Cena/m²</th>
+        <th>Změna ceny</th>
+        <th>Přidáno</th>
+        <th>Odkaz</th>
+      </tr>
+    </thead>
+    <tbody id="listing-body"></tbody>
+  </table>
+  <div id="no-results" class="no-results" style="display:none;">Žádné výsledky pro zvolené filtry.</div>
+
+  <div class="removed-section">
+    <div class="removed-toggle" id="removed-toggle" style="display:none;">
+      <span class="arrow" id="removed-arrow">&#9654;</span>
+      Smazané inzeráty (<span id="removed-count">0</span>)
+    </div>
+    <div class="removed-content" id="removed-content">
+      <table>
+        <thead>
+          <tr>
+            <th>Typ</th>
+            <th>Lokalita</th>
+            <th>Plocha</th>
+            <th>Cena</th>
+            <th>Cena/m²</th>
+            <th>Smazáno</th>
+            <th>Odkaz</th>
+          </tr>
+        </thead>
+        <tbody id="removed-body"></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<script>const DATA = {"generated": "2026-04-03T19:32:16.864529+00:00", "area": {"name": "Frýdek-Místek", "slug": "fm"}, "listings": [{"id": "sreality_1451115340", "status": "active", "type": "dum", "title": "Prodej  rodinného domu 90 m², pozemek 833 m²", "location": "FM-Skalice", "location_id": "fm_skalice", "coordinates": [48.964428, 16.224798], "area_m2": 833, "price": 1890000, "price_per_m2": 2269, "price_unknown": false, "area_unknown": false, "url": "https://www.sreality.cz/detail/prodej/dum/vila/skalice-skalice-/1451115340", "portal": "sreality", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 1890000}], "removed_date": null}, {"id": "sreality_110969676", "status": "active", "type": "dum", "title": "Prodej  rodinného domu 180 m², pozemek 2 727 m²", "location": "FM-Skalice", "location_id": "fm_skalice", "coordinates": [48.963371, 16.223757], "area_m2": 2727, "price": 5990000, "price_per_m2": 2197, "price_unknown": false, "area_unknown": false, "url": "https://www.sreality.cz/detail/prodej/dum/vila/skalice-skalice-/110969676", "portal": "sreality", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 5990000}], "removed_date": null}, {"id": "sreality_1667654476", "status": "active", "type": "pozemek", "title": "Prodej  stavebního pozemku 1 058 m²", "location": "FM-Skalice", "location_id": "fm_skalice", "coordinates": [49.480427, 16.603745], "area_m2": 1058, "price": null, "price_per_m2": null, "price_unknown": true, "area_unknown": false, "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/skalice-nad-svitavou--/1667654476", "portal": "sreality", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [], "removed_date": null}, {"id": "sreality_216347468", "status": "active", "type": "pozemek", "title": "Prodej  stavebního pozemku 1 626 m²", "location": "FM-Skalice", "location_id": "fm_skalice", "coordinates": [49.479168, 16.600483], "area_m2": 1626, "price": 1990000, "price_per_m2": 1224, "price_unknown": false, "area_unknown": false, "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/skalice-nad-svitavou-skalice-nad-svitavou-/216347468", "portal": "sreality", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 1990000}], "removed_date": null}, {"id": "sreality_3067249484", "status": "active", "type": "pozemek", "title": "Prodej  stavebního pozemku 1 080 m²", "location": "FM-Skalice", "location_id": "fm_skalice", "coordinates": [48.964428, 16.224798], "area_m2": 1080, "price": 700000, "price_per_m2": 648, "price_unknown": false, "area_unknown": false, "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/skalice--/3067249484", "portal": "sreality", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 700000}], "removed_date": null}, {"id": "realingo_24538582", "status": "active", "type": "dum", "title": "Rodinny dum, Metylovice", "location": "Metylovice", "location_id": "metylovice", "coordinates": [49.606656921626396, 18.33911244775995], "area_m2": 1068, "price": 3100000, "price_per_m2": 2903, "price_unknown": false, "area_unknown": false, "url": "https://www.realingo.cz/prodej/dum-rodinny-metylovice/24538582", "portal": "realingo", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 3100000}], "removed_date": null}, {"id": "realingo_24480496", "status": "active", "type": "dum", "title": "Rodinny dum, Lubno, Frýdlant nad Ostravicí", "location": "Frýdlant-Lubno", "location_id": "frydlant_lubno", "coordinates": [49.60130342039203, 18.376230058378642], "area_m2": 1952, "price": null, "price_per_m2": null, "price_unknown": true, "area_unknown": false, "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24480496", "portal": "realingo", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [], "removed_date": null}, {"id": "realingo_24525057", "status": "active", "type": "dum", "title": "Rodinny dum, Kunčičky u Bašky, Baška", "location": "Kunčičky u Bašky", "location_id": "kuncicky_u_basky", "coordinates": [49.65202881917256, 18.359718487920045], "area_m2": 912, "price": 6990000, "price_per_m2": 7664, "price_unknown": false, "area_unknown": false, "url": "https://www.realingo.cz/prodej/dum-rodinny-kuncicky-u-basky-baska/24525057", "portal": "realingo", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 6990000}], "removed_date": null}, {"id": "realingo_24524392", "status": "active", "type": "dum", "title": "Rodinny dum, Sviadnov, 739 25", "location": "Sviadnov", "location_id": "sviadnov", "coordinates": [49.698283, 18.31584], "area_m2": null, "price": 8099900, "price_per_m2": null, "price_unknown": false, "area_unknown": true, "url": "https://www.realingo.cz/prodej/dum-rodinny-sviadnov-739-25/24524392", "portal": "realingo", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 8099900}], "removed_date": null}, {"id": "realingo_24517678", "status": "active", "type": "dum", "title": "Rodinny dum, Baška", "location": "Baška", "location_id": "baska", "coordinates": [49.641169444444, 18.383540555556], "area_m2": 1301, "price": null, "price_per_m2": null, "price_unknown": true, "area_unknown": false, "url": "https://www.realingo.cz/prodej/dum-rodinny-baska/24517678", "portal": "realingo", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [], "removed_date": null}, {"id": "realingo_24497302", "status": "active", "type": "dum", "title": "Rodinny dum, Metylovice, 739 49", "location": "Metylovice", "location_id": "metylovice", "coordinates": [49.609375, 18.334637], "area_m2": null, "price": 8790000, "price_per_m2": null, "price_unknown": false, "area_unknown": true, "url": "https://www.realingo.cz/prodej/dum-rodinny-metylovice-739-49/24497302", "portal": "realingo", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 8790000}], "removed_date": null}, {"id": "realingo_24137513", "status": "active", "type": "dum", "title": "Rodinny dum, Dobrá", "location": "Dobrá", "location_id": "dobra", "coordinates": [49.67382844509328, 18.413927324214118], "area_m2": 855, "price": 8290000, "price_per_m2": 9696, "price_unknown": false, "area_unknown": false, "url": "https://www.realingo.cz/prodej/dum-rodinny-dobra/24137513", "portal": "realingo", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 8290000}], "removed_date": null}, {"id": "eurobydleni_10083549", "status": "active", "type": "dum", "title": "Exkluzivní rodinný dům s výhledem na Beskydy", "location": "Malenovice", "location_id": "malenovice", "coordinates": [49.61, 18.44], "area_m2": 18900, "price": null, "price_per_m2": null, "price_unknown": true, "area_unknown": false, "url": "https://www.eurobydleni.cz/exkluzivni-rodinny-dum-s-vyhledem-na-beskydy/detail/10083549/", "portal": "eurobydleni", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [], "removed_date": null}, {"id": "eurobydleni_10003092", "status": "active", "type": "pozemek", "title": "Prodej rodinného domu 117m, pozemek 393m", "location": "Pstruží", "location_id": "pstruzi", "coordinates": [49.58, 18.38], "area_m2": 3930, "price": 4900000, "price_per_m2": 1247, "price_unknown": false, "area_unknown": false, "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-117m-pozemek-393m/detail/10003092/", "portal": "eurobydleni", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 4900000}], "removed_date": null}, {"id": "eurobydleni_10043340", "status": "active", "type": "pozemek", "title": "Prodej rodinného domu 100 m, pozemek 1032 m, Metylovice", "location": "Metylovice", "location_id": "metylovice", "coordinates": [49.6, 18.34], "area_m2": 10320, "price": 8490000, "price_per_m2": 823, "price_unknown": false, "area_unknown": false, "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-100-m-pozemek-1032-m-metylovice/detail/10043340/", "portal": "eurobydleni", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 8490000}], "removed_date": null}, {"id": "eurobydleni_10038323", "status": "active", "type": "pozemek", "title": "Prodej rodinného domu 120 m2, pozemek 1180 m2  Baška", "location": "Baška", "location_id": "baska", "coordinates": [49.6422, 18.3553], "area_m2": 11800, "price": 5900000, "price_per_m2": 500, "price_unknown": false, "area_unknown": false, "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-120-m2-pozemek-1180-m2baska/detail/10038323/", "portal": "eurobydleni", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 5900000}], "removed_date": null}, {"id": "eurobydleni_9918323", "status": "active", "type": "dum", "title": "Dům 7 + kk Baška", "location": "Baška", "location_id": "baska", "coordinates": [49.6422, 18.3553], "area_m2": 4330, "price": 6750000, "price_per_m2": 1559, "price_unknown": false, "area_unknown": false, "url": "https://www.eurobydleni.cz/dum-7kk-baska/detail/9918323/", "portal": "eurobydleni", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 6750000}], "removed_date": null}, {"id": "eurobydleni_10050518", "status": "active", "type": "pozemek", "title": "Stavební pozemky Dobrá u Frýdku-Místku", "location": "Dobrá", "location_id": "dobra", "coordinates": [49.67, 18.41], "area_m2": 8500, "price": 2550000, "price_per_m2": 300, "price_unknown": false, "area_unknown": false, "url": "https://www.eurobydleni.cz/stavebni-pozemky-dobra-u-frydku-mistku/detail/10050518/", "portal": "eurobydleni", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 2550000}], "removed_date": null}, {"id": "eurobydleni_10016479", "status": "active", "type": "pozemek", "title": "Pozemek, bydlení, prodej, Kunčičky u Bašky, Baška, Frýdek-Místek", "location": "Kunčičky u Bašky", "location_id": "kuncicky_u_basky", "coordinates": [49.635, 18.365], "area_m2": 10040, "price": null, "price_per_m2": null, "price_unknown": true, "area_unknown": false, "url": "https://www.eurobydleni.cz/pozemek-bydleni-prodej-kuncicky-u-basky-baska-frydek-mistek/detail/10016479/", "portal": "eurobydleni", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [], "removed_date": null}, {"id": "eurobydleni_10008591", "status": "active", "type": "pozemek", "title": "Stavební pozemek o velikosti 958m v obci Řepiště", "location": "Řepiště", "location_id": "repiste", "coordinates": [49.72, 18.31], "area_m2": 9580, "price": 2299000, "price_per_m2": 240, "price_unknown": false, "area_unknown": false, "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-velikosti-958m-v-obci-repiste/detail/10008591/", "portal": "eurobydleni", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 2299000}], "removed_date": null}, {"id": "eurobydleni_10000121", "status": "active", "type": "pozemek", "title": "Stavební pozemek o výměře 1071 m2 v obci Řepiště", "location": "Řepiště", "location_id": "repiste", "coordinates": [49.72, 18.31], "area_m2": 10710, "price": 2499999, "price_per_m2": 233, "price_unknown": false, "area_unknown": false, "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-1071-m2-v-obci-repiste/detail/10000121/", "portal": "eurobydleni", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 2499999}], "removed_date": null}, {"id": "eurobydleni_9977479", "status": "active", "type": "pozemek", "title": "Pozemek 7.540 m2, Pstruží", "location": "Pstruží", "location_id": "pstruzi", "coordinates": [49.58, 18.38], "area_m2": 75400, "price": 3770000, "price_per_m2": 50, "price_unknown": false, "area_unknown": false, "url": "https://www.eurobydleni.cz/pozemek-7540-m2-pstruzi/detail/9977479/", "portal": "eurobydleni", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 3770000}], "removed_date": null}, {"id": "sousede_3679461", "status": "active", "type": "pozemek", "title": "Prodej stavební parcely 2 662 m² Frýdek-Místek Skalice", "location": "FM-Skalice", "location_id": "fm_skalice", "coordinates": [49.7, 18.38], "area_m2": 2662, "price": null, "price_per_m2": null, "price_unknown": true, "area_unknown": false, "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-2-662-m2-3679461.html", "portal": "sousede", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [], "removed_date": null}, {"id": "sousede_3583701", "status": "active", "type": "pozemek", "title": "Prodej stavební parcely 1 006 m² Baška Kunčičky u Bašky", "location": "Kunčičky u Bašky", "location_id": "kuncicky_u_basky", "coordinates": [49.635, 18.365], "area_m2": 1006, "price": null, "price_per_m2": null, "price_unknown": true, "area_unknown": false, "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/baska/prodej-stavebni-parcely-1-006-m2-3583701.html", "portal": "sousede", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [], "removed_date": null}, {"id": "sousede_3583501", "status": "active", "type": "pozemek", "title": "Prodej stavební parcely 1 004 m² Baška Kunčičky u Bašky", "location": "Kunčičky u Bašky", "location_id": "kuncicky_u_basky", "coordinates": [49.635, 18.365], "area_m2": 1004, "price": null, "price_per_m2": null, "price_unknown": true, "area_unknown": false, "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/baska/prodej-stavebni-parcely-1-004-m2-3583501.html", "portal": "sousede", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [], "removed_date": null}, {"id": "sousede_3578826", "status": "active", "type": "pozemek", "title": "Prodej stavební parcely 2 000 m² Metylovice", "location": "Metylovice", "location_id": "metylovice", "coordinates": [49.6, 18.34], "area_m2": 2000, "price": 4990000, "price_per_m2": 2495, "price_unknown": false, "area_unknown": false, "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/metylovice/prodej-stavebni-parcely-2-000-m2-3578826.html", "portal": "sousede", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 4990000}], "removed_date": null}, {"id": "realcity_4360830", "status": "active", "type": "pozemek", "title": "Pozemek prodej 2 166 m²", "location": "Baška", "location_id": "baska", "coordinates": [49.6422, 18.3553], "area_m2": 2166, "price": null, "price_per_m2": null, "price_unknown": true, "area_unknown": false, "url": "https://www.realcity.cz/nemovitost/prodej-pozemku-baska-4360830", "portal": "realcity", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [], "removed_date": null}, {"id": "realcity_4385953", "status": "active", "type": "pozemek", "title": "Pozemek prodej 2 160 m²", "location": "Sviadnov", "location_id": "sviadnov", "coordinates": [49.71, 18.32], "area_m2": 2160, "price": null, "price_per_m2": null, "price_unknown": true, "area_unknown": false, "url": "https://www.realcity.cz/nemovitost/prodej-pozemku-sviadnov-ostravska-4385953", "portal": "realcity", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [], "removed_date": null}, {"id": "realcity_4377876", "status": "active", "type": "pozemek", "title": "Pozemek prodej 1 789 m²", "location": "Baška", "location_id": "baska", "coordinates": [49.6422, 18.3553], "area_m2": 1789, "price": 650000, "price_per_m2": 363, "price_unknown": false, "area_unknown": false, "url": "https://www.realcity.cz/nemovitost/prodej-pozemku-baska-4377876", "portal": "realcity", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 650000}], "removed_date": null}, {"id": "realcity_4346335", "status": "active", "type": "pozemek", "title": "Pozemek prodej 18 917 m²", "location": "Paskov", "location_id": "paskov", "coordinates": [49.73, 18.29], "area_m2": 18917, "price": 1991700, "price_per_m2": 105, "price_unknown": false, "area_unknown": false, "url": "https://www.realcity.cz/nemovitost/prodej-pozemku-paskov-4346335", "portal": "realcity", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 1991700}], "removed_date": null}, {"id": "realcity_4299881", "status": "active", "type": "pozemek", "title": "Pozemek prodej 3 955 m²", "location": "Pstruží", "location_id": "pstruzi", "coordinates": [49.58, 18.38], "area_m2": 3955, "price": 4400000, "price_per_m2": 1113, "price_unknown": false, "area_unknown": false, "url": "https://www.realcity.cz/nemovitost/prodej-pozemku-pstruzi-4299881", "portal": "realcity", "added": "2026-04-03", "updated": "2026-04-03", "price_history": [{"date": "2026-04-03", "price": 4400000}], "removed_date": null}]};</script>
+<script>
+(function() {
+  const SLUG = "fm";
+  const STORAGE_KEY = "rf2_filters_" + SLUG;
+
+  const typeLabels = { dum: "Dům", pozemek: "Pozemek", byt: "Byt" };
+  const typeBadgeClass = { dum: "badge-dum", pozemek: "badge-pozemek", byt: "badge-byt" };
+
+  // --- Helpers ---
+  function formatPrice(price, unknown) {
+    if (unknown || price == null) return '<span class="price-unknown">Cena na vyžádání</span>';
+    return price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ") + " Kč";
+  }
+
+  function formatArea(m2) {
+    if (m2 == null) return "—";
+    return m2.toLocaleString("cs-CZ") + " m²";
+  }
+
+  function formatDate(d) {
+    if (!d) return "—";
+    const parts = d.split("-");
+    return parts[2] + "." + parts[1] + "." + parts[0];
+  }
+
+  function mapsLink(location, coords) {
+    if (coords && coords.length === 2) {
+      return '<a class="location-link" href="https://maps.google.com/?q=' +
+        coords[0] + ',' + coords[1] + '" target="_blank" rel="noopener">' +
+        escHtml(location) + '</a>';
+    }
+    return escHtml(location);
+  }
+
+  function escHtml(s) {
+    if (!s) return "";
+    return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+  }
+
+  function getPriceChange(listing) {
+    const hist = listing.price_history;
+    if (!hist || hist.length < 2) return null;
+    const prev = hist[hist.length - 2].price;
+    const curr = hist[hist.length - 1].price;
+    if (prev == null || curr == null || prev === curr) return null;
+    const pct = ((curr - prev) / prev) * 100;
+    return { prev: prev, curr: curr, pct: pct };
+  }
+
+  function isNew(listing) {
+    if (!DATA.generated || !listing.added) return false;
+    const genDate = DATA.generated.substring(0, 10);
+    return listing.added === genDate;
+  }
+
+  // --- Populate location dropdown ---
+  function populateLocations() {
+    const sel = document.getElementById("filter-location");
+    const locs = new Set();
+    (DATA.listings || []).forEach(function(l) {
+      if (l.location && l.status === "active") locs.add(l.location);
+    });
+    Array.from(locs).sort(function(a,b) { return a.localeCompare(b, "cs"); }).forEach(function(loc) {
+      const opt = document.createElement("option");
+      opt.value = loc; opt.textContent = loc;
+      sel.appendChild(opt);
+    });
+  }
+
+  // --- Stats ---
+  function updateStats() {
+    const listings = DATA.listings || [];
+    const active = listings.filter(function(l) { return l.status === "active"; });
+    const newToday = active.filter(isNew);
+    const priceChanged = active.filter(function(l) { return getPriceChange(l) !== null; });
+    const removed = listings.filter(function(l) { return l.status === "removed"; });
+
+    document.getElementById("stats").innerHTML =
+      '<div class="stat"><strong>' + active.length + '</strong> aktivních</div>' +
+      '<div class="stat"><strong>' + newToday.length + '</strong> nových</div>' +
+      '<div class="stat"><strong>' + priceChanged.length + '</strong> změn ceny</div>' +
+      '<div class="stat"><strong>' + removed.length + '</strong> smazaných</div>';
+
+    if (DATA.generated) {
+      const d = new Date(DATA.generated);
+      document.getElementById("updated").textContent = "Aktualizováno: " +
+        d.toLocaleString("cs-CZ", { day: "numeric", month: "numeric", year: "numeric",
+          hour: "2-digit", minute: "2-digit" });
+    }
+  }
+
+  // --- Filter state ---
+  function getFilterState() {
+    return {
+      status: document.getElementById("filter-status").value,
+      type: document.getElementById("filter-type") ? document.getElementById("filter-type").value : "",
+      location: document.getElementById("filter-location").value,
+      priceMin: document.getElementById("filter-price-min").value,
+      priceMax: document.getElementById("filter-price-max").value,
+      areaMin: document.getElementById("filter-area-min").value,
+      areaMax: document.getElementById("filter-area-max").value,
+      sort: document.getElementById("filter-sort").value
+    };
+  }
+
+  function setFilterState(state) {
+    if (!state) return;
+    if (state.status) document.getElementById("filter-status").value = state.status;
+    var typeEl = document.getElementById("filter-type");
+    if (typeEl && state.type) typeEl.value = state.type;
+    if (state.location) document.getElementById("filter-location").value = state.location;
+    if (state.priceMin) document.getElementById("filter-price-min").value = state.priceMin;
+    if (state.priceMax) document.getElementById("filter-price-max").value = state.priceMax;
+    if (state.areaMin) document.getElementById("filter-area-min").value = state.areaMin;
+    if (state.areaMax) document.getElementById("filter-area-max").value = state.areaMax;
+    if (state.sort) document.getElementById("filter-sort").value = state.sort;
+  }
+
+  function saveFilters() {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(getFilterState())); } catch(e) {}
+  }
+
+  function loadFilters() {
+    try {
+      var s = localStorage.getItem(STORAGE_KEY);
+      if (s) setFilterState(JSON.parse(s));
+    } catch(e) {}
+  }
+
+  // --- Filter + Sort + Render ---
+  function filterAndSort() {
+    var state = getFilterState();
+    var listings = (DATA.listings || []).slice();
+
+    // Separate active and removed
+    var active = listings.filter(function(l) { return l.status === "active"; });
+    var removed = listings.filter(function(l) { return l.status === "removed"; });
+
+    // Apply filters to active listings
+    var filtered = active;
+
+    // Status filter
+    if (state.status === "new") {
+      filtered = filtered.filter(isNew);
+    } else if (state.status === "price_changed") {
+      filtered = filtered.filter(function(l) { return getPriceChange(l) !== null; });
+    } else if (state.status === "removed") {
+      // Show removed instead
+      filtered = [];
+    }
+
+    // Type filter
+    if (state.type) {
+      filtered = filtered.filter(function(l) { return l.type === state.type; });
+    }
+
+    // Location filter
+    if (state.location) {
+      filtered = filtered.filter(function(l) { return l.location === state.location; });
+    }
+
+    // Price range (pass price_unknown through)
+    var priceMin = state.priceMin ? parseInt(state.priceMin) : null;
+    var priceMax = state.priceMax ? parseInt(state.priceMax) : null;
+    if (priceMin != null) {
+      filtered = filtered.filter(function(l) { return l.price_unknown || (l.price != null && l.price >= priceMin); });
+    }
+    if (priceMax != null) {
+      filtered = filtered.filter(function(l) { return l.price_unknown || (l.price != null && l.price <= priceMax); });
+    }
+
+    // Area range
+    var areaMin = state.areaMin ? parseInt(state.areaMin) : null;
+    var areaMax = state.areaMax ? parseInt(state.areaMax) : null;
+    if (areaMin != null) {
+      filtered = filtered.filter(function(l) { return l.area_m2 != null && l.area_m2 >= areaMin; });
+    }
+    if (areaMax != null) {
+      filtered = filtered.filter(function(l) { return l.area_m2 != null && l.area_m2 <= areaMax; });
+    }
+
+    // Sort
+    var sortParts = state.sort.split("_");
+    var sortKey = sortParts[0];
+    var sortDir = sortParts[1] === "asc" ? 1 : -1;
+
+    filtered.sort(function(a, b) {
+      var va, vb;
+      if (sortKey === "added") {
+        va = a.added || ""; vb = b.added || "";
+        return va < vb ? -sortDir : va > vb ? sortDir : 0;
+      } else if (sortKey === "price") {
+        va = a.price != null ? a.price : (sortDir === 1 ? Infinity : -Infinity);
+        vb = b.price != null ? b.price : (sortDir === 1 ? Infinity : -Infinity);
+      } else if (sortKey === "ppm2") {
+        va = a.price_per_m2 != null ? a.price_per_m2 : (sortDir === 1 ? Infinity : -Infinity);
+        vb = b.price_per_m2 != null ? b.price_per_m2 : (sortDir === 1 ? Infinity : -Infinity);
+      } else if (sortKey === "area") {
+        va = a.area_m2 != null ? a.area_m2 : (sortDir === 1 ? Infinity : -Infinity);
+        vb = b.area_m2 != null ? b.area_m2 : (sortDir === 1 ? Infinity : -Infinity);
+      } else {
+        return 0;
+      }
+      return (va - vb) * sortDir;
+    });
+
+    // Render active
+    renderActive(filtered);
+
+    // Render removed (always, but in collapsed section)
+    renderRemoved(removed, state.status === "removed");
+
+    saveFilters();
+  }
+
+  function renderActive(listings) {
+    var tbody = document.getElementById("listing-body");
+    var noResults = document.getElementById("no-results");
+
+    if (listings.length === 0) {
+      tbody.innerHTML = "";
+      noResults.style.display = "block";
+      return;
+    }
+    noResults.style.display = "none";
+
+    var html = "";
+    listings.forEach(function(l) {
+      var change = getPriceChange(l);
+      var rowClass = change ? ' class="price-changed"' : '';
+      var newBadge = isNew(l) ? ' <span class="badge badge-new">NEW</span>' : '';
+
+      var changeHtml = "—";
+      if (change) {
+        var dir = change.pct < 0 ? "drop" : "rise";
+        var arrow = change.pct < 0 ? "&#8595;" : "&#8593;";
+        var sign = change.pct > 0 ? "+" : "";
+        changeHtml = '<span class="price-change price-' + dir + '">' +
+          arrow + " " + sign + change.pct.toFixed(1) + "%</span>";
+      }
+
+      html += "<tr" + rowClass + ">" +
+        "<td><span class='badge " + (typeBadgeClass[l.type] || "") + "'>" +
+          (typeLabels[l.type] || l.type) + "</span>" + newBadge + "</td>" +
+        "<td>" + mapsLink(l.location, l.coordinates) + "</td>" +
+        "<td>" + formatArea(l.area_m2) + "</td>" +
+        "<td>" + formatPrice(l.price, l.price_unknown) + "</td>" +
+        "<td>" + formatPrice(l.price_per_m2, l.price_unknown) + "</td>" +
+        "<td>" + changeHtml + "</td>" +
+        "<td>" + formatDate(l.added) + "</td>" +
+        "<td><a class='portal-link' href='" + escHtml(l.url) + "' target='_blank' rel='noopener'>" +
+          escHtml(l.portal) + "</a></td>" +
+        "</tr>";
+    });
+    tbody.innerHTML = html;
+  }
+
+  function renderRemoved(listings, forceShow) {
+    var toggle = document.getElementById("removed-toggle");
+    var body = document.getElementById("removed-body");
+    var countEl = document.getElementById("removed-count");
+
+    if (listings.length === 0) {
+      toggle.style.display = "none";
+      return;
+    }
+    toggle.style.display = "flex";
+    countEl.textContent = listings.length;
+
+    // Sort removed by removed_date desc
+    listings.sort(function(a, b) {
+      var da = a.removed_date || ""; var db = b.removed_date || "";
+      return da < db ? 1 : da > db ? -1 : 0;
+    });
+
+    var html = "";
+    listings.forEach(function(l) {
+      html += '<tr class="removed-row">' +
+        "<td><span class='badge " + (typeBadgeClass[l.type] || "") + "'>" +
+          (typeLabels[l.type] || l.type) + "</span></td>" +
+        "<td>" + escHtml(l.location) + "</td>" +
+        "<td>" + formatArea(l.area_m2) + "</td>" +
+        "<td>" + formatPrice(l.price, l.price_unknown) + "</td>" +
+        "<td>" + formatPrice(l.price_per_m2, l.price_unknown) + "</td>" +
+        "<td>" + formatDate(l.removed_date) + "</td>" +
+        "<td><a class='portal-link' href='" + escHtml(l.url) + "' target='_blank' rel='noopener'>" +
+          escHtml(l.portal) + "</a></td>" +
+        "</tr>";
+    });
+    body.innerHTML = html;
+
+    // If status filter is "removed", expand the section
+    if (forceShow) {
+      document.getElementById("removed-content").classList.add("open");
+      document.getElementById("removed-arrow").classList.add("open");
+    }
+  }
+
+  // --- Toggle removed section ---
+  document.getElementById("removed-toggle").addEventListener("click", function() {
+    var content = document.getElementById("removed-content");
+    var arrow = document.getElementById("removed-arrow");
+    content.classList.toggle("open");
+    arrow.classList.toggle("open");
+  });
+
+  // --- Event listeners ---
+  var filterIds = ["filter-status", "filter-type", "filter-location",
+    "filter-price-min", "filter-price-max", "filter-area-min", "filter-area-max", "filter-sort"];
+  filterIds.forEach(function(id) {
+    var el = document.getElementById(id);
+    if (el) el.addEventListener("change", filterAndSort);
+    if (el && (el.type === "number")) el.addEventListener("input", filterAndSort);
+  });
+
+  // --- Init ---
+  populateLocations();
+  loadFilters();
+  updateStats();
+  filterAndSort();
+})();
+</script>
+</body>
+</html>

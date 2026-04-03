@@ -1,20 +1,92 @@
 {
-  "sreality": {"active": true, "failures": 0, "deactivated_until": null},
-  "idnes": {"active": true, "failures": 0, "deactivated_until": null},
-  "realitymix": {"active": true, "failures": 0, "deactivated_until": null},
-  "bezrealitky": {"active": true, "failures": 0, "deactivated_until": null},
-  "bazos": {"active": true, "failures": 0, "deactivated_until": null},
-  "realingo": {"active": true, "failures": 0, "deactivated_until": null},
-  "eurobydleni": {"active": true, "failures": 0, "deactivated_until": null},
-  "sousede": {"active": true, "failures": 0, "deactivated_until": null},
-  "remaxcz": {"active": true, "failures": 0, "deactivated_until": null},
-  "realitycz": {"active": true, "failures": 0, "deactivated_until": null},
-  "realcity": {"active": true, "failures": 0, "deactivated_until": null},
-  "realhit": {"active": true, "failures": 0, "deactivated_until": null},
-  "century21": {"active": true, "failures": 0, "deactivated_until": null},
-  "moravskereality": {"active": true, "failures": 0, "deactivated_until": null},
-  "rksting": {"active": true, "failures": 0, "deactivated_until": null},
-  "boreality": {"active": true, "failures": 0, "deactivated_until": null},
-  "realityregio": {"active": true, "failures": 0, "deactivated_until": null},
-  "mmreality": {"active": true, "failures": 0, "deactivated_until": null}
+  "sreality": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "idnes": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "realitymix": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "bezrealitky": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "bazos": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "realingo": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "eurobydleni": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "sousede": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "remaxcz": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "realitycz": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "realcity": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "realhit": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "century21": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "moravskereality": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "rksting": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "boreality": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "realityregio": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  },
+  "mmreality": {
+    "active": true,
+    "failures": 0,
+    "deactivated_until": null
+  }
 }
