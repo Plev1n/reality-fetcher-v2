@@ -1,0 +1,9 @@
+{
+  "fm": [
+    "vodni-ploch", "rybnik", "louka", "les", "zahrady", "zemedelsk",
+    "orna-puda", "ostatni-ostatni", "ostatni-pozemky", "prumyslovy",
+    "areal", "komercni", "apartma", "na-klic", "rekreacni",
+    "ostrava-hrabova", "kuncice-pod-ondrej", "oldrichovic", "brusperk", "trinec"
+  ],
+  "poruba": []
+}

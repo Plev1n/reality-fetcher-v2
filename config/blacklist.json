@@ -1,0 +1,36 @@
+{
+  "fm": [
+    "les", "lesni", "zemedelsky", "zemedelska", "zemědělská", "zemedelska puda",
+    "orna puda", "pole", "louka", "louky", "chata", "chalupa", "rekreacni",
+    "zahrada", "zahradkarska kolonie", "komercni", "komerční", "komercni vystavba",
+    "komerční výstavba", "komerční pozemek", "prumyslovy", "garaz", "pasport",
+    "provozni", "provozní", "mobilni dum", "mobilní dům", "vinice", "byt", "bytu",
+    "ordinace", "kancelar", "kancelář", "pronajem", "pronájem",
+    "rezervovano", "rezervováno",
+    "bila", "bílá", "bukovec", "bystrice", "bystřice", "dobratice", "domaslavice",
+    "dolni domaslavice", "dolní domaslavice", "horni domaslavice", "horní domaslavice",
+    "frycovice", "fryčovice", "hnojnik", "hnojník", "hradek", "hrádek", "hukvaldy",
+    "jablunkov", "komorni lhotka", "komorní lhotka", "krasna", "krásná", "krmelín",
+    "lucina", "lučina", "milikov", "milíkov", "moravka", "morávka",
+    "mosty u jablunkova", "mosty u jabl", "navsi", "návší", "nosovice",
+    "nydek", "nýdek", "pazderna", "pazderná", "pisek", "písek", "prazmo",
+    "reka", "řeka", "ropice", "sobesovice", "soběšovice", "stare hamry", "staré hamry",
+    "stritez", "střítež", "tranovice", "třanovice", "trinec", "třinec",
+    "trojanovice", "vendryne", "vendryně", "vojkovice",
+    "vysni lhoty", "vyšní lhoty", "lomna", "lomná",
+    "horni tosanovice", "horní tošanovice"
+  ],
+  "poruba": [
+    "pronájem", "pronajem", "podnájem", "podnajem",
+    "rezervováno", "rezervovano", "prodáno", "prodano",
+    "komercni", "komerční", "kancelář", "kancelar", "ordinace", "provozní", "provozni",
+    "garáž", "garaz", "garážové stání", "garazove stani", "parking",
+    "sklep", "skladový", "skladovy",
+    "dražba", "drazba", "aukce",
+    "poptávka", "poptavka", "hledám", "hledam", "koupím", "koupim", "sháním", "shanim",
+    "spoluvlastnický podíl", "spoluvlastnicky podil", "podíl na bytové", "podil na bytove",
+    "1/2 podíl", "1/3 podíl", "1/4 podíl", "1/8 podíl",
+    "výměna bytu", "vymena bytu", "výměnou", "vymenou", "vyměním", "vymenim",
+    "nabídněte", "nabidnete"
+  ]
+}

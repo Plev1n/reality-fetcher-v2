@@ -1,0 +1,36 @@
+{
+  "fm": [
+    {"id": "frydek_mistek", "name": "Frýdek-Místek", "coordinates": [49.6878, 18.3498]},
+    {"id": "frydlant", "name": "Frýdlant nad Ostravicí", "coordinates": [49.59, 18.36]},
+    {"id": "celadna", "name": "Čeladná", "coordinates": [49.54, 18.34]},
+    {"id": "ostravice", "name": "Ostravice", "coordinates": [49.53, 18.39]},
+    {"id": "baska", "name": "Baška", "coordinates": [49.6422, 18.3553]},
+    {"id": "kuncicky_u_basky", "name": "Kunčičky u Bašky", "coordinates": [49.635, 18.365]},
+    {"id": "hodonovice", "name": "Hodoňovice", "coordinates": [49.65, 18.37]},
+    {"id": "chlebovice", "name": "Chlebovice", "coordinates": [49.655, 18.31]},
+    {"id": "fm_liskovec", "name": "FM-Lískovec", "coordinates": [49.68, 18.35]},
+    {"id": "fm_skalice", "name": "FM-Skalice", "coordinates": [49.70, 18.38]},
+    {"id": "zelinkovice", "name": "Zelinkovice", "coordinates": [49.66, 18.30]},
+    {"id": "lysuvky", "name": "Lysůvky", "coordinates": [49.65, 18.32]},
+    {"id": "frydlant_lubno", "name": "Frýdlant-Lubno", "coordinates": [49.59, 18.36]},
+    {"id": "frydlant_nova_ves", "name": "Frýdlant-Nová Ves", "coordinates": [49.58, 18.35]},
+    {"id": "bruzovice", "name": "Bruzovice", "coordinates": [49.695, 18.39]},
+    {"id": "dobra", "name": "Dobrá", "coordinates": [49.67, 18.41]},
+    {"id": "janovice", "name": "Janovice", "coordinates": [49.61, 18.39]},
+    {"id": "malenovice", "name": "Malenovice", "coordinates": [49.61, 18.44]},
+    {"id": "metylovice", "name": "Metylovice", "coordinates": [49.60, 18.34]},
+    {"id": "palkovice", "name": "Palkovice", "coordinates": [49.635, 18.32]},
+    {"id": "paskov", "name": "Paskov", "coordinates": [49.73, 18.29]},
+    {"id": "przno", "name": "Pržno", "coordinates": [49.6264, 18.3756]},
+    {"id": "pstruzi", "name": "Pstruží", "coordinates": [49.58, 18.38]},
+    {"id": "raskovice", "name": "Raškovice", "coordinates": [49.61, 18.47]},
+    {"id": "repiste", "name": "Řepiště", "coordinates": [49.72, 18.31]},
+    {"id": "sedliste", "name": "Sedliště", "coordinates": [49.7097, 18.37]},
+    {"id": "staric", "name": "Staříč", "coordinates": [49.67, 18.31]},
+    {"id": "sviadnov", "name": "Sviadnov", "coordinates": [49.71, 18.32]},
+    {"id": "zaben", "name": "Žabeň", "coordinates": [49.72, 18.33]}
+  ],
+  "poruba": [
+    {"id": "poruba", "name": "Ostrava-Poruba", "coordinates": [49.8361, 18.1694]}
+  ]
+}

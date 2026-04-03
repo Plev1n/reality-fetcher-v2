@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "fm",
+    "name": "Frýdek-Místek",
+    "types": ["dum", "pozemek"],
+    "max_price": 10000000,
+    "min_area": 750,
+    "email_recipients": ["dav.plev@seznam.cz"]
+  },
+  {
+    "slug": "poruba",
+    "name": "Ostrava-Poruba",
+    "types": ["byt"],
+    "max_price": 4000000,
+    "min_area": 20,
+    "email_recipients": ["ivos.pleva@gmail.com"]
+  }
+]
