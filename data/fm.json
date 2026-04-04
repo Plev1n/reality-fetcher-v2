@@ -1,61 +1,10 @@
 {
-  "generated": "2026-04-04T05:49:36.037756+00:00",
+  "generated": "2026-04-04T09:35:00.355689+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "sreality_1667654476",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej  stavebního pozemku 1 058 m²",
-      "location": "FM-Skalice",
-      "location_id": "fm_skalice",
-      "coordinates": [
-        49.480427,
-        16.603745
-      ],
-      "area_m2": 1058,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/skalice-nad-svitavou--/1667654476",
-      "portal": "sreality",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_3067249484",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej  stavebního pozemku 1 080 m²",
-      "location": "FM-Skalice",
-      "location_id": "fm_skalice",
-      "coordinates": [
-        48.964428,
-        16.224798
-      ],
-      "area_m2": 1080,
-      "price": 700000,
-      "price_per_m2": 648,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/skalice--/3067249484",
-      "portal": "sreality",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 700000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "sreality_1451115340",
       "status": "active",
@@ -85,6 +34,29 @@
       "removed_date": null
     },
     {
+      "id": "sreality_1667654476",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej  stavebního pozemku 1 058 m²",
+      "location": "FM-Skalice",
+      "location_id": "fm_skalice",
+      "coordinates": [
+        49.480427,
+        16.603745
+      ],
+      "area_m2": 1058,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/skalice-nad-svitavou--/1667654476",
+      "portal": "sreality",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "sreality_110969676",
       "status": "active",
       "type": "dum",
@@ -108,6 +80,34 @@
         {
           "date": "2026-04-03",
           "price": 5990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_216347468",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej  stavebního pozemku 1 626 m²",
+      "location": "FM-Skalice",
+      "location_id": "fm_skalice",
+      "coordinates": [
+        49.479168,
+        16.600483
+      ],
+      "area_m2": 1626,
+      "price": 1990000,
+      "price_per_m2": 1224,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/skalice-nad-svitavou-skalice-nad-svitavou-/216347468",
+      "portal": "sreality",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 1990000
         }
       ],
       "removed_date": null
@@ -299,141 +299,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10050518",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemky Dobrá u Frýdku-Místku",
-      "location": "Dobrá",
-      "location_id": "dobra",
-      "coordinates": [
-        49.67,
-        18.41
-      ],
-      "area_m2": 8500,
-      "price": 2550000,
-      "price_per_m2": 300,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemky-dobra-u-frydku-mistku/detail/10050518/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2550000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10016479",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek, bydlení, prodej, Kunčičky u Bašky, Baška, Frýdek-Místek",
-      "location": "Kunčičky u Bašky",
-      "location_id": "kuncicky_u_basky",
-      "coordinates": [
-        49.635,
-        18.365
-      ],
-      "area_m2": 10040,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/pozemek-bydleni-prodej-kuncicky-u-basky-baska-frydek-mistek/detail/10016479/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10008591",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek o velikosti 958m v obci Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.72,
-        18.31
-      ],
-      "area_m2": 9580,
-      "price": 2299000,
-      "price_per_m2": 240,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-velikosti-958m-v-obci-repiste/detail/10008591/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2299000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10000121",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek o výměře 1071 m2 v obci Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.72,
-        18.31
-      ],
-      "area_m2": 10710,
-      "price": 2499999,
-      "price_per_m2": 233,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-1071-m2-v-obci-repiste/detail/10000121/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2499999
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_9977479",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek 7.540 m2, Pstruží",
-      "location": "Pstruží",
-      "location_id": "pstruzi",
-      "coordinates": [
-        49.58,
-        18.38
-      ],
-      "area_m2": 75400,
-      "price": 3770000,
-      "price_per_m2": 50,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/pozemek-7540-m2-pstruzi/detail/9977479/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 3770000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10083549",
       "status": "active",
       "type": "dum",
@@ -564,6 +429,141 @@
         {
           "date": "2026-04-03",
           "price": 6750000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10050518",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemky Dobrá u Frýdku-Místku",
+      "location": "Dobrá",
+      "location_id": "dobra",
+      "coordinates": [
+        49.67,
+        18.41
+      ],
+      "area_m2": 8500,
+      "price": 2550000,
+      "price_per_m2": 300,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemky-dobra-u-frydku-mistku/detail/10050518/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2550000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10016479",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek, bydlení, prodej, Kunčičky u Bašky, Baška, Frýdek-Místek",
+      "location": "Kunčičky u Bašky",
+      "location_id": "kuncicky_u_basky",
+      "coordinates": [
+        49.635,
+        18.365
+      ],
+      "area_m2": 10040,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/pozemek-bydleni-prodej-kuncicky-u-basky-baska-frydek-mistek/detail/10016479/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10008591",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek o velikosti 958m v obci Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 9580,
+      "price": 2299000,
+      "price_per_m2": 240,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-velikosti-958m-v-obci-repiste/detail/10008591/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2299000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10000121",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek o výměře 1071 m2 v obci Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 10710,
+      "price": 2499999,
+      "price_per_m2": 233,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-1071-m2-v-obci-repiste/detail/10000121/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2499999
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_9977479",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek 7.540 m2, Pstruží",
+      "location": "Pstruží",
+      "location_id": "pstruzi",
+      "coordinates": [
+        49.58,
+        18.38
+      ],
+      "area_m2": 75400,
+      "price": 3770000,
+      "price_per_m2": 50,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/pozemek-7540-m2-pstruzi/detail/9977479/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 3770000
         }
       ],
       "removed_date": null
@@ -796,29 +796,29 @@
       "removed_date": null
     },
     {
-      "id": "sreality_216347468",
+      "id": "sreality_3067249484",
       "status": "removed",
       "type": "pozemek",
-      "title": "Prodej  stavebního pozemku 1 626 m²",
+      "title": "Prodej  stavebního pozemku 1 080 m²",
       "location": "FM-Skalice",
       "location_id": "fm_skalice",
       "coordinates": [
-        49.479168,
-        16.600483
+        48.964428,
+        16.224798
       ],
-      "area_m2": 1626,
-      "price": 1990000,
-      "price_per_m2": 1224,
+      "area_m2": 1080,
+      "price": 700000,
+      "price_per_m2": 648,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/skalice-nad-svitavou-skalice-nad-svitavou-/216347468",
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/skalice--/3067249484",
       "portal": "sreality",
       "added": "2026-04-03",
       "updated": "2026-04-03",
       "price_history": [
         {
           "date": "2026-04-03",
-          "price": 1990000
+          "price": 700000
         }
       ],
       "removed_date": "2026-04-04"
