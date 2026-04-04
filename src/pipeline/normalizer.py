@@ -167,35 +167,41 @@ def resolve_location(
             loc_lookup[loc["id"]] = loc
 
     raw = raw_name.strip()
+    # Normalize various dash characters to standard hyphen
+    raw = raw.replace("\u2013", "-").replace("\u2014", "-").replace("\u2010", "-")
 
-    # 1. Exact alias match (case-insensitive)
-    for alias, loc_id in aliases.items():
-        if alias.lower() == raw.lower():
-            loc = loc_lookup.get(loc_id)
-            if loc:
-                coords = tuple(loc["coordinates"]) if loc.get("coordinates") else None
-                return loc_id, loc["name"], coords
-
-    # 2. Strip postal code from end (Bazos: "Ostrava708 00")
-    stripped = re.sub(r"\s*\d{3}\s*\d{2}\s*$", "", raw).strip()
-    if stripped != raw:
+    # Helper to try alias match
+    def _try_alias(name: str):
+        name_lower = name.lower()
         for alias, loc_id in aliases.items():
-            if alias.lower() == stripped.lower():
+            if alias.lower() == name_lower:
                 loc = loc_lookup.get(loc_id)
                 if loc:
                     coords = tuple(loc["coordinates"]) if loc.get("coordinates") else None
                     return loc_id, loc["name"], coords
+        return None
+
+    # 1. Exact alias match (case-insensitive)
+    result = _try_alias(raw)
+    if result:
+        return result
+
+    # 2. Strip postal code (Bazos formats: "Ostrava708 00", "Frýdek - Místek738 01", "Třinec, 739 61")
+    stripped = re.sub(r",?\s*\d{3}\s*\d{2}\s*$", "", raw).strip()
+    # Also handle PSČ glued to name without space
+    stripped = re.sub(r"\d{3}\s*\d{2}\s*$", "", stripped).strip()
+    if stripped != raw:
+        result = _try_alias(stripped)
+        if result:
+            return result
 
     # 3. Strip district suffix ("okres Frydek-Mistek")
     without_district = re.sub(r",?\s*(okres|okr\.?)\s+.*$", "", stripped, flags=re.IGNORECASE).strip()
     without_district = without_district.split(",")[0].strip()
     if without_district and without_district != stripped:
-        for alias, loc_id in aliases.items():
-            if alias.lower() == without_district.lower():
-                loc = loc_lookup.get(loc_id)
-                if loc:
-                    coords = tuple(loc["coordinates"]) if loc.get("coordinates") else None
-                    return loc_id, loc["name"], coords
+        result = _try_alias(without_district)
+        if result:
+            return result
 
     # 4. Substring match on aliases
     target = (without_district or stripped).lower()
@@ -206,15 +212,13 @@ def resolve_location(
                 coords = tuple(loc["coordinates"]) if loc.get("coordinates") else None
                 return loc_id, loc["name"], coords
 
-    # 5. Extract base municipality (before " - ")
-    municipality = target.split(" - ")[0].strip()
-    if municipality and municipality != target:
-        for alias, loc_id in aliases.items():
-            if alias.lower() == municipality:
-                loc = loc_lookup.get(loc_id)
-                if loc:
-                    coords = tuple(loc["coordinates"]) if loc.get("coordinates") else None
-                    return loc_id, loc["name"], coords
+    # 5. Extract base municipality (before " - " or " / ")
+    for sep in [" - ", " / "]:
+        municipality = target.split(sep)[0].strip()
+        if municipality and municipality != target:
+            result = _try_alias(municipality)
+            if result:
+                return result
 
     return None
 

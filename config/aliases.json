@@ -1,42 +1,124 @@
 {
+  "Frýdek-Místek": "frydek_mistek",
+  "Frydek-Mistek": "frydek_mistek",
+  "Frýdek - Místek": "frydek_mistek",
+  "Frýdek-Místek, okres Frýdek-Místek": "frydek_mistek",
+  "Frýdek-Místek - Místek": "frydek_mistek",
+  "Frýdek-Místek - Frýdek": "frydek_mistek",
+  "Frýdek - Místek738 01": "frydek_mistek",
+  "Frýdek - Místek739 61": "frydek_mistek",
+  "Frýdek-Místek738 01": "frydek_mistek",
+  "Frýdek-Místek739 61": "frydek_mistek",
+  "Frydek-Mistek738 01": "frydek_mistek",
+  "Frydek-Mistek739 61": "frydek_mistek",
+  "Místek": "frydek_mistek",
+
+  "Frýdlant nad Ostravicí": "frydlant",
+  "Frydlant nad Ostravici": "frydlant",
+  "Frýdlant nad Ostravicí, okres Frýdek-Místek": "frydlant",
+  "Frýdlant nad Ostravicí - Frýdlant": "frydlant",
+  "Frýdlant nad Ostravicí - Frýdlant, okres Frýdek-Místek": "frydlant",
+  "Frýdlant nad Ostravicí - Lubno": "frydlant_lubno",
+  "Frýdlant nad Ostravicí - Lubno, okres Frýdek-Místek": "frydlant",
+  "Frýdlant nad Ostravicí - Nová Ves": "frydlant_nova_ves",
+  "Lubno": "frydlant_lubno",
+
+  "Čeladná": "celadna",
+  "Celadna": "celadna",
+  "Čeladná, okres Frýdek-Místek": "celadna",
+
+  "Ostravice": "ostravice",
+  "Ostravice, okres Frýdek-Místek": "ostravice",
+
   "Baška": "baska",
+  "Baska": "baska",
   "Baska u Frydku-Mistku": "baska",
+  "Baška, okres Frýdek-Místek": "baska",
   "Baška - Kunčičky u Bašky": "kuncicky_u_basky",
   "Kunčičky u Bašky": "kuncicky_u_basky",
+  "Baška Kunčičky u Bašky": "kuncicky_u_basky",
   "Baška - Hodoňovice": "hodonovice",
   "Baška Hodoňovice": "hodonovice",
   "Hodoňovice": "hodonovice",
-  "Baška Kunčičky u Bašky": "kuncicky_u_basky",
+
   "Frydek-Mistek - Chlebovice": "chlebovice",
   "Frydek-Mistek, cast Chlebovice": "chlebovice",
   "Frydek-Mistek-Chlebovice": "chlebovice",
+  "Frýdek-Místek - Chlebovice": "chlebovice",
   "Frýdek-Místek - Chlebovice, okres Frýdek-Místek": "chlebovice",
+  "Chlebovice": "chlebovice",
+
   "FM-Lískovec": "fm_liskovec",
   "Frýdek-Místek - Lískovec": "fm_liskovec",
   "Lískovec": "fm_liskovec",
+  "Liskovec": "fm_liskovec",
+
   "FM-Skalice": "fm_skalice",
   "Frýdek-Místek - Skalice": "fm_skalice",
   "Skalice": "fm_skalice",
-  "Frýdek-Místek - Skalice, okres Frýdek-Místek": "frydek_mistek",
-  "Frýdek-Místek - Místek": "frydek_mistek",
+  "Frýdek-Místek - Skalice, okres Frýdek-Místek": "fm_skalice",
+
   "Zelinkovice": "zelinkovice",
   "Frýdek-Místek - Zelinkovice": "zelinkovice",
+
   "Lysůvky": "lysuvky",
+  "Lysuvky": "lysuvky",
   "Frýdek-Místek - Lysůvky": "lysuvky",
-  "Frýdlant nad Ostravicí - Lubno": "frydlant_lubno",
-  "Frýdlant nad Ostravicí - Lubno, okres Frýdek-Místek": "frydlant",
-  "Lubno": "frydlant_lubno",
-  "Frýdlant nad Ostravicí - Nová Ves": "frydlant_nova_ves",
-  "Frýdlant nad Ostravicí - Frýdlant, okres Frýdek-Místek": "frydlant",
+
   "Dobrá": "dobra",
+  "Dobra": "dobra",
   "Dobrá u Frýdku-Místku": "dobra",
+  "Dobrá, okres Frýdek-Místek": "dobra",
+
   "Bruzovice": "bruzovice",
+  "Bruzovice, okres Frýdek-Místek": "bruzovice",
+
+  "Janovice": "janovice",
+  "Janovice, okres Frýdek-Místek": "janovice",
+
   "Malenovice": "malenovice",
+  "Malenovice, okres Frýdek-Místek": "malenovice",
+
   "Metylovice": "metylovice",
+  "Metylovice, okres Frýdek-Místek": "metylovice",
+
+  "Palkovice": "palkovice",
+  "Palkovice, okres Frýdek-Místek": "palkovice",
+
   "Paskov": "paskov",
+  "Paskov, okres Frýdek-Místek": "paskov",
+
+  "Pržno": "przno",
+  "Przno": "przno",
+  "Pržno, okres Frýdek-Místek": "przno",
+
   "Pstruží": "pstruzi",
+  "Pstruzi": "pstruzi",
+  "Pstruží, okres Frýdek-Místek": "pstruzi",
+
+  "Raškovice": "raskovice",
+  "Raskovice": "raskovice",
+  "Raškovice, okres Frýdek-Místek": "raskovice",
+
   "Řepiště": "repiste",
+  "Repiste": "repiste",
+  "Řepiště, okres Frýdek-Místek": "repiste",
+
+  "Sedliště": "sedliste",
+  "Sedliste": "sedliste",
+  "Sedliště, okres Frýdek-Místek": "sedliste",
+
+  "Staříč": "staric",
+  "Staric": "staric",
+  "Staříč, okres Frýdek-Místek": "staric",
+
   "Sviadnov": "sviadnov",
+  "Sviadnov, okres Frýdek-Místek": "sviadnov",
+
+  "Žabeň": "zaben",
+  "Zaben": "zaben",
+  "Žabeň, okres Frýdek-Místek": "zaben",
+
   "Ostrava-Poruba": "poruba",
   "Ostrava - Poruba": "poruba",
   "Ostrava, Poruba": "poruba",
