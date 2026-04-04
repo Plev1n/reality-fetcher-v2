@@ -36,6 +36,8 @@ _PRICE_UNKNOWN_PATTERNS = [
 
 _ROOM_PATTERN = re.compile(r"\d\+(?:\d|kk|KK)")
 _AREA_PATTERN = re.compile(r"(\d[\d\s,.]*)\s*m[²2\u00b2]")
+# Also match bare "m" preceded by digits and whitespace (e.g., "393 m,")
+_AREA_PATTERN_BARE_M = re.compile(r"(\d[\d\s,.]*)\s*m(?:\s|,|$)")
 _NUMERIC_RE = re.compile(r"[\d]+")
 
 
@@ -104,11 +106,46 @@ def normalize_price(price_raw: str | None) -> tuple[int | None, bool]:
     return None, True
 
 
+def _parse_area_number(raw_num: str) -> int | None:
+    """Parse a raw number string to int, handling Czech formatting.
+
+    Handles: "1 058", "7.540", "1,058", "7 540,5", "393"
+    Czech convention: dot and space are thousands separators, comma is decimal.
+    """
+    s = raw_num.replace("\xa0", " ").strip()
+
+    # If contains dot as thousands separator (e.g., "7.540") — no decimal digits after dot > 2
+    # Czech: "7.540" = 7540, but "7.5" could be ambiguous
+    if "." in s:
+        parts = s.split(".")
+        if len(parts) == 2 and len(parts[1]) == 3:
+            # Thousands separator: "7.540" -> "7540"
+            s = s.replace(".", "")
+        else:
+            # Decimal point, take integer part
+            s = parts[0]
+
+    # Strip comma (either thousands sep or decimal)
+    if "," in s:
+        parts = s.split(",")
+        # "1,058" with 3 digits after = thousands, "540,5" = decimal
+        if len(parts) == 2 and len(parts[1]) == 3:
+            s = s.replace(",", "")
+        else:
+            s = parts[0]  # Take integer part
+
+    s = s.replace(" ", "").strip()
+    if s.isdigit() and int(s) > 0:
+        return int(s)
+    return None
+
+
 def normalize_area(area_raw: str | None) -> tuple[int | None, bool]:
     """Parse raw area to (area_m2, is_unknown).
 
     FIXED: v1 bug concatenated room count with area ('3+1 65 m2' -> 165).
     v2 strips room patterns first, then extracts last m2 match.
+    Also handles Czech number formatting (dot/space as thousands separator).
     """
     if not area_raw or not area_raw.strip():
         return None, True
@@ -118,28 +155,19 @@ def normalize_area(area_raw: str | None) -> tuple[int | None, bool]:
     # Strip room patterns: "3+1", "2+kk", "1+KK" etc.
     text = _ROOM_PATTERN.sub("", text)
 
-    # Find all m2 matches, take the last one (e.g., "dum 89 m2, pozemek 544 m2" -> 544)
+    # Find all m²/m2 matches, take the last one (e.g., "dum 89 m², pozemek 544 m²" -> 544)
     matches = _AREA_PATTERN.findall(text)
     if matches:
-        last = matches[-1].replace(" ", "").replace("\xa0", "").replace(",", "").replace(".", "")
-        try:
-            value = int(last)
-            if value > 0:
-                return value, False
-        except ValueError:
-            pass
+        value = _parse_area_number(matches[-1])
+        if value:
+            return value, False
 
-    # Fallback: try to find any number before "m" in cleaned text
-    cleaned = text.replace("m²", "").replace("m2", "").replace("m\u00b2", "")
-    cleaned = cleaned.replace("\xa0", "").replace(" ", "").strip()
-    match = _NUMERIC_RE.search(cleaned)
-    if match:
-        try:
-            value = int(match.group())
-            if value > 0:
-                return value, False
-        except ValueError:
-            pass
+    # Try bare "m" pattern (e.g., "393 m," or "1032 m")
+    matches_bare = _AREA_PATTERN_BARE_M.findall(text)
+    if matches_bare:
+        value = _parse_area_number(matches_bare[-1])
+        if value:
+            return value, False
 
     return None, True
 
@@ -223,6 +251,24 @@ def resolve_location(
     return None
 
 
+def _parse_all_areas(text: str) -> list[int]:
+    """Extract all area values from text, in order. Used to get both house area and plot area."""
+    if not text:
+        return []
+    text = _ROOM_PATTERN.sub("", text)
+    results = []
+    for match in _AREA_PATTERN.findall(text):
+        val = _parse_area_number(match)
+        if val:
+            results.append(val)
+    if not results:
+        for match in _AREA_PATTERN_BARE_M.findall(text):
+            val = _parse_area_number(match)
+            if val:
+                results.append(val)
+    return results
+
+
 def normalize_listing(
     raw: RawListing,
     aliases: dict[str, str],
@@ -234,7 +280,26 @@ def normalize_listing(
         return None
 
     price, price_unknown = normalize_price(raw.price_raw)
-    area, area_unknown = normalize_area(raw.area_raw)
+
+    # Parse areas: for houses, title often has "domu 120 m², pozemek 1180 m²"
+    # First = usable area (house), Last = plot area
+    # For land (pozemek), there's typically just one area = plot
+    all_areas = _parse_all_areas(raw.area_raw or raw.title)
+
+    if all_areas:
+        if typ == "dum" and len(all_areas) >= 2:
+            # House: first = usable area, last = plot area
+            usable_area = all_areas[0]
+            plot_area = all_areas[-1]
+            area = plot_area          # For filtering (min 750m² = plot)
+            area_for_price = usable_area  # For price/m² calculation
+        else:
+            # Land or single area: use the last (largest) value
+            area = all_areas[-1]
+            area_for_price = area
+        area_unknown = False
+    else:
+        area, area_for_price, area_unknown = None, None, True
 
     location_result = resolve_location(raw.location_raw or "", aliases, localities)
     if location_result is None:
@@ -246,8 +311,8 @@ def normalize_listing(
     coordinates = raw.coordinates or loc_coords
 
     price_per_m2 = None
-    if price and area and area > 0:
-        price_per_m2 = round(price / area)
+    if price and area_for_price and area_for_price > 0:
+        price_per_m2 = round(price / area_for_price)
 
     return NormalizedListing(
         portal=raw.portal,
