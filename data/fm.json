@@ -1,10 +1,38 @@
 {
-  "generated": "2026-04-04T10:00:35.586862+00:00",
+  "generated": "2026-04-04T16:32:15.978422+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "sreality_2669912908",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej  stavebního pozemku 989 m²",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        48.858608,
+        17.028587
+      ],
+      "area_m2": 989,
+      "price": 3200000,
+      "price_per_m2": 3236,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/dolni-bojanovice-dolni-bojanovice-/2669912908",
+      "portal": "sreality",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 3200000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "sreality_988209996",
       "status": "active",
@@ -1862,6 +1890,85 @@
       "removed_date": null
     },
     {
+      "id": "realingo_24525057",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Kunčičky u Bašky, Baška",
+      "location": "Kunčičky u Bašky",
+      "location_id": "kuncicky_u_basky",
+      "coordinates": [
+        49.65202881917256,
+        18.359718487920045
+      ],
+      "area_m2": 912,
+      "price": 6990000,
+      "price_per_m2": 7664,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-kuncicky-u-basky-baska/24525057",
+      "portal": "realingo",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 6990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24524392",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Sviadnov, 739 25",
+      "location": "Sviadnov",
+      "location_id": "sviadnov",
+      "coordinates": [
+        49.698283,
+        18.31584
+      ],
+      "area_m2": null,
+      "price": 8099900,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-sviadnov-739-25/24524392",
+      "portal": "realingo",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 8099900
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24517678",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Baška",
+      "location": "Baška",
+      "location_id": "baska",
+      "coordinates": [
+        49.641169444444,
+        18.383540555556
+      ],
+      "area_m2": 1301,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-baska/24517678",
+      "portal": "realingo",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "realingo_24232330",
       "status": "active",
       "type": "dum",
@@ -1885,6 +1992,34 @@
         {
           "date": "2026-04-04",
           "price": 8800000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24497302",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Metylovice, 739 49",
+      "location": "Metylovice",
+      "location_id": "metylovice",
+      "coordinates": [
+        49.609375,
+        18.334637
+      ],
+      "area_m2": null,
+      "price": 8790000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-metylovice-739-49/24497302",
+      "portal": "realingo",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 8790000
         }
       ],
       "removed_date": null
@@ -1918,26 +2053,54 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10039554",
+      "id": "eurobydleni_10083549",
       "status": "active",
       "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
+      "title": "Exkluzivní rodinný dům s výhledem na Beskydy",
+      "location": "Malenovice",
+      "location_id": "malenovice",
       "coordinates": [
-        49.7097,
-        18.37
+        49.61,
+        18.44
       ],
-      "area_m2": null,
+      "area_m2": 18900,
       "price": null,
       "price_per_m2": null,
       "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/exkluzivni-rodinny-dum-s-vyhledem-na-beskydy/detail/10083549/",
       "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
       "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10043340",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej rodinného domu 100 m, pozemek 1032 m, Metylovice",
+      "location": "Metylovice",
+      "location_id": "metylovice",
+      "coordinates": [
+        49.6,
+        18.34
+      ],
+      "area_m2": 10320,
+      "price": 8490000,
+      "price_per_m2": 823,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-100-m-pozemek-1032-m-metylovice/detail/10043340/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 8490000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -2059,6 +2222,136 @@
       "price_unknown": true,
       "area_unknown": false,
       "url": "https://www.eurobydleni.cz/pozemek-bydleni-prodej-palkovice-frydek-mistek/detail/10033473/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10016479",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek, bydlení, prodej, Kunčičky u Bašky, Baška, Frýdek-Místek",
+      "location": "Kunčičky u Bašky",
+      "location_id": "kuncicky_u_basky",
+      "coordinates": [
+        49.635,
+        18.365
+      ],
+      "area_m2": 10040,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/pozemek-bydleni-prodej-kuncicky-u-basky-baska-frydek-mistek/detail/10016479/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10008591",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek o velikosti 958m v obci Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 9580,
+      "price": 2299000,
+      "price_per_m2": 240,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-velikosti-958m-v-obci-repiste/detail/10008591/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2299000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10000121",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek o výměře 1071 m2 v obci Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 10710,
+      "price": 2499999,
+      "price_per_m2": 233,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-1071-m2-v-obci-repiste/detail/10000121/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2499999
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_9977479",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek 7.540 m2, Pstruží",
+      "location": "Pstruží",
+      "location_id": "pstruzi",
+      "coordinates": [
+        49.58,
+        18.38
+      ],
+      "area_m2": 75400,
+      "price": 3770000,
+      "price_per_m2": 50,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/pozemek-7540-m2-pstruzi/detail/9977479/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 3770000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
       "portal": "eurobydleni",
       "added": "2026-04-04",
       "updated": "2026-04-04",
@@ -2364,6 +2657,52 @@
       "removed_date": null
     },
     {
+      "id": "realcity_4360830",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek prodej 2 166 m²",
+      "location": "Baška",
+      "location_id": "baska",
+      "coordinates": [
+        49.6422,
+        18.3553
+      ],
+      "area_m2": 2166,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.realcity.cz/nemovitost/prodej-pozemku-baska-4360830",
+      "portal": "realcity",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "realcity_4385953",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek prodej 2 160 m²",
+      "location": "Sviadnov",
+      "location_id": "sviadnov",
+      "coordinates": [
+        49.71,
+        18.32
+      ],
+      "area_m2": 2160,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.realcity.cz/nemovitost/prodej-pozemku-sviadnov-ostravska-4385953",
+      "portal": "realcity",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "realcity_4372351",
       "status": "active",
       "type": "pozemek",
@@ -2417,317 +2756,6 @@
           "price": 1650000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24525057",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Kunčičky u Bašky, Baška",
-      "location": "Kunčičky u Bašky",
-      "location_id": "kuncicky_u_basky",
-      "coordinates": [
-        49.65202881917256,
-        18.359718487920045
-      ],
-      "area_m2": 912,
-      "price": 6990000,
-      "price_per_m2": 7664,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-kuncicky-u-basky-baska/24525057",
-      "portal": "realingo",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 6990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24524392",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Sviadnov, 739 25",
-      "location": "Sviadnov",
-      "location_id": "sviadnov",
-      "coordinates": [
-        49.698283,
-        18.31584
-      ],
-      "area_m2": null,
-      "price": 8099900,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-sviadnov-739-25/24524392",
-      "portal": "realingo",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 8099900
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24517678",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Baška",
-      "location": "Baška",
-      "location_id": "baska",
-      "coordinates": [
-        49.641169444444,
-        18.383540555556
-      ],
-      "area_m2": 1301,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-baska/24517678",
-      "portal": "realingo",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24497302",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Metylovice, 739 49",
-      "location": "Metylovice",
-      "location_id": "metylovice",
-      "coordinates": [
-        49.609375,
-        18.334637
-      ],
-      "area_m2": null,
-      "price": 8790000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-metylovice-739-49/24497302",
-      "portal": "realingo",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 8790000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10083549",
-      "status": "active",
-      "type": "dum",
-      "title": "Exkluzivní rodinný dům s výhledem na Beskydy",
-      "location": "Malenovice",
-      "location_id": "malenovice",
-      "coordinates": [
-        49.61,
-        18.44
-      ],
-      "area_m2": 18900,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/exkluzivni-rodinny-dum-s-vyhledem-na-beskydy/detail/10083549/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10043340",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej rodinného domu 100 m, pozemek 1032 m, Metylovice",
-      "location": "Metylovice",
-      "location_id": "metylovice",
-      "coordinates": [
-        49.6,
-        18.34
-      ],
-      "area_m2": 10320,
-      "price": 8490000,
-      "price_per_m2": 823,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-100-m-pozemek-1032-m-metylovice/detail/10043340/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 8490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10016479",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek, bydlení, prodej, Kunčičky u Bašky, Baška, Frýdek-Místek",
-      "location": "Kunčičky u Bašky",
-      "location_id": "kuncicky_u_basky",
-      "coordinates": [
-        49.635,
-        18.365
-      ],
-      "area_m2": 10040,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/pozemek-bydleni-prodej-kuncicky-u-basky-baska-frydek-mistek/detail/10016479/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10008591",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek o velikosti 958m v obci Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.72,
-        18.31
-      ],
-      "area_m2": 9580,
-      "price": 2299000,
-      "price_per_m2": 240,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-velikosti-958m-v-obci-repiste/detail/10008591/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2299000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10000121",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek o výměře 1071 m2 v obci Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.72,
-        18.31
-      ],
-      "area_m2": 10710,
-      "price": 2499999,
-      "price_per_m2": 233,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-1071-m2-v-obci-repiste/detail/10000121/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2499999
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_9977479",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek 7.540 m2, Pstruží",
-      "location": "Pstruží",
-      "location_id": "pstruzi",
-      "coordinates": [
-        49.58,
-        18.38
-      ],
-      "area_m2": 75400,
-      "price": 3770000,
-      "price_per_m2": 50,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/pozemek-7540-m2-pstruzi/detail/9977479/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 3770000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "realcity_4360830",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek prodej 2 166 m²",
-      "location": "Baška",
-      "location_id": "baska",
-      "coordinates": [
-        49.6422,
-        18.3553
-      ],
-      "area_m2": 2166,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.realcity.cz/nemovitost/prodej-pozemku-baska-4360830",
-      "portal": "realcity",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "realcity_4385953",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek prodej 2 160 m²",
-      "location": "Sviadnov",
-      "location_id": "sviadnov",
-      "coordinates": [
-        49.71,
-        18.32
-      ],
-      "area_m2": 2160,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.realcity.cz/nemovitost/prodej-pozemku-sviadnov-ostravska-4385953",
-      "portal": "realcity",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [],
       "removed_date": null
     },
     {
