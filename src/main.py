@@ -87,14 +87,24 @@ def main():
         )
 
         candidates = []
+        unresolved_locations = {}
         for portal_name, raw_listings in all_raw.items():
             for raw in raw_listings:
                 normalized = normalize_listing(raw, aliases, localities)
                 if normalized is None:
+                    loc = (raw.location_raw or "").strip()
+                    if loc:
+                        unresolved_locations[loc] = unresolved_locations.get(loc, 0) + 1
                     continue
                 if not pipeline.apply(normalized):
                     continue
                 candidates.append(normalized)
+
+        if unresolved_locations:
+            top = sorted(unresolved_locations.items(), key=lambda x: -x[1])[:30]
+            print(f"  Top unresolved locations ({len(unresolved_locations)} unique):")
+            for loc, count in top:
+                print(f"    {count:4d}x  {loc}")
 
         print(f"  Candidates after filter: {len(candidates)}")
 
