@@ -1,34 +1,118 @@
 {
-  "generated": "2026-04-07T16:43:16.391206+00:00",
+  "generated": "2026-04-08T05:54:22.284143+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_217265558",
+      "id": "bazos_217289007",
       "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek 3813 m2 v Dolních Soběšovicích.",
+      "type": "dum",
+      "title": "Prodej domu 5+1 s podkrovím,pozemek 2 250 m2,Sedlišt, 134542",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": 3813,
-      "price": 4766250,
-      "price_per_m2": 1250,
+      "area_m2": 2250,
+      "price": 5190000,
+      "price_per_m2": 2307,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217265558/pozemek-3813-m2-v-dolnich-sobesovicich.php",
+      "url": "https://reality.bazos.cz/inzerat/217289007/prodej-domu-51-s-podkrovimpozemek-2-250-m2sedlist-134542.php",
       "portal": "bazos",
-      "added": "2026-04-07",
-      "updated": "2026-04-07",
+      "added": "2026-04-08",
+      "updated": "2026-04-08",
       "price_history": [
         {
-          "date": "2026-04-07",
-          "price": 4766250
+          "date": "2026-04-08",
+          "price": 5190000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_217283487",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinný dům - penzion s restaurací v obci Guty s pozemkem 31",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217283487/rodinny-dum-penzion-s-restauraci-v-obci-guty-s-pozemkem-31.php",
+      "portal": "bazos",
+      "added": "2026-04-08",
+      "updated": "2026-04-08",
+      "price_history": [
+        {
+          "date": "2026-04-08",
+          "price": 6999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_217283228",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinný dům, ul. Luční Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 6499000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217283228/rodinny-dum-ul-lucni-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-04-08",
+      "updated": "2026-04-08",
+      "price_history": [
+        {
+          "date": "2026-04-08",
+          "price": 6499000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_2669912908",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej  stavebního pozemku 989 m²",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        48.858608,
+        17.028587
+      ],
+      "area_m2": 989,
+      "price": 3200000,
+      "price_per_m2": 3236,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/dolni-bojanovice-dolni-bojanovice-/2669912908",
+      "portal": "sreality",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 3200000
         }
       ],
       "removed_date": null
@@ -85,34 +169,6 @@
       "removed_date": null
     },
     {
-      "id": "sreality_2283316044",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej  projektu na klíč 126 m², pozemek 989 m²",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        48.859814,
-        17.025494
-      ],
-      "area_m2": 989,
-      "price": 7168000,
-      "price_per_m2": 7248,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum//dolni-bojanovice--/2283316044",
-      "portal": "sreality",
-      "added": "2026-04-07",
-      "updated": "2026-04-07",
-      "price_history": [
-        {
-          "date": "2026-04-07",
-          "price": 7168000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_216433160",
       "status": "active",
       "type": "pozemek",
@@ -164,6 +220,34 @@
         {
           "date": "2026-04-04",
           "price": 3014900
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_217265558",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek 3813 m2 v Dolních Soběšovicích.",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3813,
+      "price": 4766250,
+      "price_per_m2": 1250,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217265558/pozemek-3813-m2-v-dolnich-sobesovicich.php",
+      "portal": "bazos",
+      "added": "2026-04-07",
+      "updated": "2026-04-07",
+      "price_history": [
+        {
+          "date": "2026-04-07",
+          "price": 4766250
         }
       ],
       "removed_date": null
@@ -1144,34 +1228,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_214589617",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební parcela Kunčičky u Bašky",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1611,
-      "price": 1500000,
-      "price_per_m2": 931,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/214589617/stavebni-parcela-kuncicky-u-basky.php",
-      "portal": "bazos",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 1500000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_215636141",
       "status": "active",
       "type": "dum",
@@ -1251,34 +1307,6 @@
         {
           "date": "2026-04-04",
           "price": 4200000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_216991597",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinný dům - penzion s restaurací v obci Guty s pozemkem 31",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/216991597/rodinny-dum-penzion-s-restauraci-v-obci-guty-s-pozemkem-31.php",
-      "portal": "bazos",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 6999000
         }
       ],
       "removed_date": null
@@ -1648,62 +1676,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_214607613",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej domu 5+1 s podkrovím,pozemek 2 250 m2,Sedlišt, 134542",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2250,
-      "price": 5190000,
-      "price_per_m2": 2307,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/214607613/prodej-domu-51-s-podkrovimpozemek-2-250-m2sedlist-134542.php",
-      "portal": "bazos",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 5190000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24439092",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, , Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.678636626033,
-        18.350473102409
-      ],
-      "area_m2": 1500,
-      "price": 7900000,
-      "price_per_m2": 5267,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek/24439092",
-      "portal": "realingo",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 7900000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "realingo_24473768",
       "status": "active",
       "type": "dum",
@@ -1908,6 +1880,34 @@
         {
           "date": "2026-04-03",
           "price": 8790000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24439092",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, , Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.678636626033,
+        18.350473102409
+      ],
+      "area_m2": 1500,
+      "price": 7900000,
+      "price_per_m2": 5267,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek/24439092",
+      "portal": "realingo",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 7900000
         }
       ],
       "removed_date": null
@@ -2247,6 +2247,29 @@
       "removed_date": null
     },
     {
+      "id": "sousede_3674641",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 2 336 m² Frýdlant nad Ostravicí",
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "coordinates": [
+        49.59,
+        18.36
+      ],
+      "area_m2": 2336,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydlant-nad-ostravici/prodej-stavebni-parcely-2-336-m2-3674641.html",
+      "portal": "sousede",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "sousede_2884004",
       "status": "active",
       "type": "pozemek",
@@ -2272,29 +2295,6 @@
           "price": 3133000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "sousede_3674641",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 2 336 m² Frýdlant nad Ostravicí",
-      "location": "Frýdlant nad Ostravicí",
-      "location_id": "frydlant",
-      "coordinates": [
-        49.59,
-        18.36
-      ],
-      "area_m2": 2336,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydlant-nad-ostravici/prodej-stavebni-parcely-2-336-m2-3674641.html",
-      "portal": "sousede",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -3233,34 +3233,6 @@
       "removed_date": "2026-04-05"
     },
     {
-      "id": "sreality_2669912908",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej  stavebního pozemku 989 m²",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        48.858608,
-        17.028587
-      ],
-      "area_m2": 989,
-      "price": 3200000,
-      "price_per_m2": 3236,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/dolni-bojanovice-dolni-bojanovice-/2669912908",
-      "portal": "sreality",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 3200000
-        }
-      ],
-      "removed_date": "2026-04-06"
-    },
-    {
       "id": "bazos_214533797",
       "status": "removed",
       "type": "dum",
@@ -3567,6 +3539,118 @@
         }
       ],
       "removed_date": "2026-04-07"
+    },
+    {
+      "id": "sreality_2283316044",
+      "status": "removed",
+      "type": "dum",
+      "title": "Prodej  projektu na klíč 126 m², pozemek 989 m²",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        48.859814,
+        17.025494
+      ],
+      "area_m2": 989,
+      "price": 7168000,
+      "price_per_m2": 7248,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/dum//dolni-bojanovice--/2283316044",
+      "portal": "sreality",
+      "added": "2026-04-07",
+      "updated": "2026-04-07",
+      "price_history": [
+        {
+          "date": "2026-04-07",
+          "price": 7168000
+        }
+      ],
+      "removed_date": "2026-04-08"
+    },
+    {
+      "id": "bazos_214589617",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební parcela Kunčičky u Bašky",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1611,
+      "price": 1500000,
+      "price_per_m2": 931,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/214589617/stavebni-parcela-kuncicky-u-basky.php",
+      "portal": "bazos",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 1500000
+        }
+      ],
+      "removed_date": "2026-04-08"
+    },
+    {
+      "id": "bazos_216991597",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinný dům - penzion s restaurací v obci Guty s pozemkem 31",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/216991597/rodinny-dum-penzion-s-restauraci-v-obci-guty-s-pozemkem-31.php",
+      "portal": "bazos",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 6999000
+        }
+      ],
+      "removed_date": "2026-04-08"
+    },
+    {
+      "id": "bazos_214607613",
+      "status": "removed",
+      "type": "dum",
+      "title": "Prodej domu 5+1 s podkrovím,pozemek 2 250 m2,Sedlišt, 134542",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2250,
+      "price": 5190000,
+      "price_per_m2": 2307,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/214607613/prodej-domu-51-s-podkrovimpozemek-2-250-m2sedlist-134542.php",
+      "portal": "bazos",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 5190000
+        }
+      ],
+      "removed_date": "2026-04-08"
     }
   ]
 }
