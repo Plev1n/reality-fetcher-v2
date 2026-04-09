@@ -1,10 +1,66 @@
 {
-  "generated": "2026-04-08T16:50:23.746399+00:00",
+  "generated": "2026-04-09T05:57:29.184049+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_217013340",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 51 m², Ostrava - Poruba, ul. Ľudovíta Štúra",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 51,
+      "price": 3440000,
+      "price_per_m2": 67451,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217013340/prodej-bytu-21-51-m-ostrava-poruba-ul-ludovita-stura.php",
+      "portal": "bazos",
+      "added": "2026-04-09",
+      "updated": "2026-04-09",
+      "price_history": [
+        {
+          "date": "2026-04-09",
+          "price": 3440000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_217251024",
+      "status": "active",
+      "type": "byt",
+      "title": "prodej dr. bytu o vel. 1+1, ul. Ludvíka Podéště, Ost, 135108",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3240000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217251024/prodej-dr-bytu-o-vel-11-ul-ludvika-podeste-ost-135108.php",
+      "portal": "bazos",
+      "added": "2026-04-07",
+      "updated": "2026-04-07",
+      "price_history": [
+        {
+          "date": "2026-04-07",
+          "price": 3240000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_217046071",
       "status": "active",
@@ -146,34 +202,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_217251024",
-      "status": "active",
-      "type": "byt",
-      "title": "prodej dr. bytu o vel. 1+1, ul. Ludvíka Podéště, Ost, 135108",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3240000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/217251024/prodej-dr-bytu-o-vel-11-ul-ludvika-podeste-ost-135108.php",
-      "portal": "bazos",
-      "added": "2026-04-07",
-      "updated": "2026-04-07",
-      "price_history": [
-        {
-          "date": "2026-04-07",
-          "price": 3240000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_217131604",
       "status": "active",
       "type": "byt",
@@ -253,34 +281,6 @@
         {
           "date": "2026-04-03",
           "price": 2599000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217012775",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1,51 m2, Ostrava–Poruba, ul. Alžírská",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 51,
-      "price": 3500000,
-      "price_per_m2": 68627,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217012775/prodej-bytu-2151-m2-ostravaporuba-ul-alzirska.php",
-      "portal": "bazos",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 3500000
         }
       ],
       "removed_date": null
@@ -811,6 +811,34 @@
       "updated": "2026-04-04",
       "price_history": [],
       "removed_date": "2026-04-08"
+    },
+    {
+      "id": "bazos_217012775",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 2+1,51 m2, Ostrava–Poruba, ul. Alžírská",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 51,
+      "price": 3500000,
+      "price_per_m2": 68627,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217012775/prodej-bytu-2151-m2-ostravaporuba-ul-alzirska.php",
+      "portal": "bazos",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 3500000
+        }
+      ],
+      "removed_date": "2026-04-09"
     }
   ]
 }
