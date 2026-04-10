@@ -1,10 +1,38 @@
 {
-  "generated": "2026-04-10T06:07:07.570035+00:00",
+  "generated": "2026-04-10T16:41:50.045647+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_217046071",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 2+1 44 m², Ostrava-Poruba, ul. Svojsíkova",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 144,
+      "price": 2750000,
+      "price_per_m2": 19097,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217046071/prodej-byt-21-44-m-ostrava-poruba-ul-svojsikova.php",
+      "portal": "bazos",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2750000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_216473995",
       "status": "active",
@@ -57,34 +85,6 @@
         {
           "date": "2026-04-07",
           "price": 3240000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217046071",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 2+1 44 m², Ostrava-Poruba, ul. Svojsíkova",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 144,
-      "price": 2750000,
-      "price_per_m2": 19097,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217046071/prodej-byt-21-44-m-ostrava-poruba-ul-svojsikova.php",
-      "portal": "bazos",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2750000
         }
       ],
       "removed_date": null
@@ -421,34 +421,6 @@
         {
           "date": "2026-04-03",
           "price": 2490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_216708838",
-      "status": "active",
-      "type": "byt",
-      "title": "Rekonstruovaný byt 2+1 s krásným výhledem, ul. Oty Synka, Po",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/216708838/dr-byt-2kk-s-krasnym-vyhledem-poruba.php",
-      "portal": "bazos",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 3999000
         }
       ],
       "removed_date": null
@@ -843,6 +815,34 @@
         }
       ],
       "removed_date": "2026-04-09"
+    },
+    {
+      "id": "bazos_216708838",
+      "status": "removed",
+      "type": "byt",
+      "title": "Rekonstruovaný byt 2+1 s krásným výhledem, ul. Oty Synka, Po",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/216708838/dr-byt-2kk-s-krasnym-vyhledem-poruba.php",
+      "portal": "bazos",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 3999000
+        }
+      ],
+      "removed_date": "2026-04-10"
     }
   ]
 }
