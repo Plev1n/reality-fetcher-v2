@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-11T16:32:44.101241+00:00",
+  "generated": "2026-04-12T06:03:34.498586+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -598,34 +598,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_214795760",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej družstevního bytu 2+1, 53 m², ulice Francouzská, Ostr",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 53,
-      "price": 3390000,
-      "price_per_m2": 63962,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/214795760/prodej-druzstevniho-bytu-21-53-m-ulice-francouzska-ostr.php",
-      "portal": "bazos",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 3390000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_216652970",
       "status": "removed",
       "type": "byt",
@@ -871,6 +843,34 @@
         }
       ],
       "removed_date": "2026-04-10"
+    },
+    {
+      "id": "bazos_214795760",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej družstevního bytu 2+1, 53 m², ulice Francouzská, Ostr",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 53,
+      "price": 3390000,
+      "price_per_m2": 63962,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/214795760/prodej-druzstevniho-bytu-21-53-m-ulice-francouzska-ostr.php",
+      "portal": "bazos",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 3390000
+        }
+      ],
+      "removed_date": "2026-04-12"
     }
   ]
 }
