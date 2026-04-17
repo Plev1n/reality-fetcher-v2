@@ -1,10 +1,66 @@
 {
-  "generated": "2026-04-17T06:05:38.003642+00:00",
+  "generated": "2026-04-17T16:47:03.246499+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_217686215",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 50 m², Ostrava, ul. Oty Synka",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 50,
+      "price": 3950000,
+      "price_per_m2": 79000,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217686215/prodej-bytu-21-50-m-ostrava-ul-oty-synka.php",
+      "portal": "bazos",
+      "added": "2026-04-17",
+      "updated": "2026-04-17",
+      "price_history": [
+        {
+          "date": "2026-04-17",
+          "price": 3950000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_216696200",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2790000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/216696200/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
+      "portal": "bazos",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2790000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_217643569",
       "status": "active",
@@ -169,34 +225,6 @@
         {
           "date": "2026-04-14",
           "price": 2800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_216696200",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2790000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/216696200/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
-      "portal": "bazos",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2790000
         }
       ],
       "removed_date": null
