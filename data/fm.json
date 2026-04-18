@@ -1,94 +1,10 @@
 {
-  "generated": "2026-04-17T16:47:02.577537+00:00",
+  "generated": "2026-04-18T05:56:29.270147+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "bazos_217702005",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, 1028 m², Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1028,
-      "price": 3290000,
-      "price_per_m2": 3200,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217702005/prodej-pozemku-k-bydleni-1028-m-frydek-mistek.php",
-      "portal": "bazos",
-      "added": "2026-04-17",
-      "updated": "2026-04-17",
-      "price_history": [
-        {
-          "date": "2026-04-17",
-          "price": 3290000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_2669912908",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej  stavebního pozemku 989 m²",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        48.858608,
-        17.028587
-      ],
-      "area_m2": 989,
-      "price": 3200000,
-      "price_per_m2": 3236,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/dolni-bojanovice-dolni-bojanovice-/2669912908",
-      "portal": "sreality",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 3200000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_988209996",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej  stavebního pozemku 1 895 m²",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        48.949703,
-        16.80015
-      ],
-      "area_m2": 1895,
-      "price": 3699999,
-      "price_per_m2": 1953,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/horni-bojanovice-horni-bojanovice-/988209996",
-      "portal": "sreality",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 3699999
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "sreality_3451516236",
       "status": "active",
@@ -164,6 +80,62 @@
         {
           "date": "2026-04-04",
           "price": 2499000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_217702005",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 1028 m², Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1028,
+      "price": 3290000,
+      "price_per_m2": 3200,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217702005/prodej-pozemku-k-bydleni-1028-m-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-04-17",
+      "updated": "2026-04-17",
+      "price_history": [
+        {
+          "date": "2026-04-17",
+          "price": 3290000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_215968421",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemky 9600 m², asfaltová cesta 5.000 m², , 133789",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 9598,
+      "price": 3200000,
+      "price_per_m2": 333,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/215968421/stavebni-pozemky-9600-m2-asfaltova-cesta-5000-m2-133789.php",
+      "portal": "bazos",
+      "added": "2026-04-16",
+      "updated": "2026-04-16",
+      "price_history": [
+        {
+          "date": "2026-04-16",
+          "price": 3200000
         }
       ],
       "removed_date": null
@@ -2278,29 +2250,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10083549",
       "status": "active",
       "type": "dum",
@@ -2377,6 +2326,29 @@
           "price": 6000000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -4768,34 +4740,6 @@
       "removed_date": "2026-04-17"
     },
     {
-      "id": "bazos_215968421",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Stavební pozemky 9600 m², asfaltová cesta 5.000 m², , 133789",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 9598,
-      "price": 3200000,
-      "price_per_m2": 333,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/215968421/stavebni-pozemky-9600-m2-asfaltova-cesta-5000-m2-133789.php",
-      "portal": "bazos",
-      "added": "2026-04-16",
-      "updated": "2026-04-16",
-      "price_history": [
-        {
-          "date": "2026-04-16",
-          "price": 3200000
-        }
-      ],
-      "removed_date": "2026-04-17"
-    },
-    {
       "id": "eurobydleni_10073238",
       "status": "removed",
       "type": "dum",
@@ -4929,6 +4873,62 @@
         }
       ],
       "removed_date": "2026-04-17"
+    },
+    {
+      "id": "sreality_2669912908",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej  stavebního pozemku 989 m²",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        48.858608,
+        17.028587
+      ],
+      "area_m2": 989,
+      "price": 3200000,
+      "price_per_m2": 3236,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/dolni-bojanovice-dolni-bojanovice-/2669912908",
+      "portal": "sreality",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 3200000
+        }
+      ],
+      "removed_date": "2026-04-18"
+    },
+    {
+      "id": "sreality_988209996",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej  stavebního pozemku 1 895 m²",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        48.949703,
+        16.80015
+      ],
+      "area_m2": 1895,
+      "price": 3699999,
+      "price_per_m2": 1953,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/horni-bojanovice-horni-bojanovice-/988209996",
+      "portal": "sreality",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 3699999
+        }
+      ],
+      "removed_date": "2026-04-18"
     }
   ]
 }
