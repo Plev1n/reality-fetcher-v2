@@ -1,100 +1,31 @@
 {
-  "generated": "2026-04-22T06:14:17.827727+00:00",
+  "generated": "2026-04-22T16:53:15.141369+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_217866468",
+      "id": "rksting_135415",
       "status": "active",
       "type": "byt",
-      "title": "Prodej družstevního bytu 2+1 lodžie, Karla Pokorného, Ostrav",
+      "title": "Prodej bytu 3+1",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 55,
-      "price": 3390000,
-      "price_per_m2": 61636,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217866468/prodej-druzstevniho-bytu-21-lodzie-karla-pokorneho-ostrav.php",
-      "portal": "bazos",
-      "added": "2026-04-22",
-      "updated": "2026-04-22",
-      "price_history": [
-        {
-          "date": "2026-04-22",
-          "price": 3390000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_216686818",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej dr. bytu 2kk, celková plocha 56m2, Liptaňské náměstí,",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 56,
-      "price": 3800000,
-      "price_per_m2": 67857,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/216686818/prodej-dr-bytu-2kk-celkova-plocha-56m2-liptanske-namesti.php",
-      "portal": "bazos",
-      "added": "2026-04-22",
-      "updated": "2026-04-22",
-      "price_history": [
-        {
-          "date": "2026-04-22",
-          "price": 3800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_216376751",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej byt 2+1, 56㎡",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3199999,
+      "area_m2": 69,
+      "price": null,
       "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/216376751/prodej-byt-21-56.php",
-      "portal": "bazos",
-      "added": "2026-04-03",
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-135415/",
+      "portal": "rksting",
+      "added": "2026-04-22",
       "updated": "2026-04-22",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 3499000
-        },
-        {
-          "date": "2026-04-09",
-          "price": 3299999
-        },
-        {
-          "date": "2026-04-22",
-          "price": 3199999
-        }
-      ],
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -121,6 +52,34 @@
         {
           "date": "2026-04-03",
           "price": 2790000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_217866468",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej družstevního bytu 2+1 lodžie, Karla Pokorného, Ostrav",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 55,
+      "price": 3390000,
+      "price_per_m2": 61636,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217866468/prodej-druzstevniho-bytu-21-lodzie-karla-pokorneho-ostrav.php",
+      "portal": "bazos",
+      "added": "2026-04-22",
+      "updated": "2026-04-22",
+      "price_history": [
+        {
+          "date": "2026-04-22",
+          "price": 3390000
         }
       ],
       "removed_date": null
@@ -466,6 +425,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_216686818",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej dr. bytu 2kk, celková plocha 56m2, Liptaňské náměstí,",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 56,
+      "price": 3800000,
+      "price_per_m2": 67857,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/216686818/prodej-dr-bytu-2kk-celkova-plocha-56m2-liptanske-namesti.php",
+      "portal": "bazos",
+      "added": "2026-04-22",
+      "updated": "2026-04-22",
+      "price_history": [
+        {
+          "date": "2026-04-22",
+          "price": 3800000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_216739069",
       "status": "active",
       "type": "byt",
@@ -545,6 +532,42 @@
         {
           "date": "2026-04-03",
           "price": 3790000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_216376751",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej byt 2+1, 56㎡",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3199999,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/216376751/prodej-byt-21-56.php",
+      "portal": "bazos",
+      "added": "2026-04-03",
+      "updated": "2026-04-22",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 3499000
+        },
+        {
+          "date": "2026-04-09",
+          "price": 3299999
+        },
+        {
+          "date": "2026-04-22",
+          "price": 3199999
         }
       ],
       "removed_date": null
