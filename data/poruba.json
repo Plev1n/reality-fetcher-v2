@@ -1,31 +1,36 @@
 {
-  "generated": "2026-04-22T16:53:15.141369+00:00",
+  "generated": "2026-04-23T06:10:39.835795+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "rksting_135415",
+      "id": "bazos_217922921",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 3+1",
+      "title": "Prodej bytu 3+1, 66 m², Ostrava, ul. Aleše Hrdličky",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 69,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
+      "area_m2": 66,
+      "price": 3490000,
+      "price_per_m2": 52879,
+      "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-135415/",
-      "portal": "rksting",
-      "added": "2026-04-22",
-      "updated": "2026-04-22",
-      "price_history": [],
+      "url": "https://reality.bazos.cz/inzerat/217922921/prodej-bytu-31-66-m-ostrava-ul-alese-hrdlicky.php",
+      "portal": "bazos",
+      "added": "2026-04-23",
+      "updated": "2026-04-23",
+      "price_history": [
+        {
+          "date": "2026-04-23",
+          "price": 3490000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -80,34 +85,6 @@
         {
           "date": "2026-04-22",
           "price": 3390000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217829604",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 3+1, 66 m², Ostrava, ul. Aleše Hrdličky",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 66,
-      "price": 3420000,
-      "price_per_m2": 51818,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217829604/prodej-bytu-31-66-m-ostrava-ul-alese-hrdlicky.php",
-      "portal": "bazos",
-      "added": "2026-04-20",
-      "updated": "2026-04-20",
-      "price_history": [
-        {
-          "date": "2026-04-20",
-          "price": 3420000
         }
       ],
       "removed_date": null
@@ -570,6 +547,29 @@
           "price": 3199999
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "rksting_135415",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 3+1",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 69,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-135415/",
+      "portal": "rksting",
+      "added": "2026-04-22",
+      "updated": "2026-04-22",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -1322,6 +1322,34 @@
         }
       ],
       "removed_date": "2026-04-22"
+    },
+    {
+      "id": "bazos_217829604",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 3+1, 66 m², Ostrava, ul. Aleše Hrdličky",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 66,
+      "price": 3420000,
+      "price_per_m2": 51818,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217829604/prodej-bytu-31-66-m-ostrava-ul-alese-hrdlicky.php",
+      "portal": "bazos",
+      "added": "2026-04-20",
+      "updated": "2026-04-20",
+      "price_history": [
+        {
+          "date": "2026-04-20",
+          "price": 3420000
+        }
+      ],
+      "removed_date": "2026-04-23"
     }
   ]
 }
