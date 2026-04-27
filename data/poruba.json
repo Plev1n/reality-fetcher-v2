@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-27T06:21:28.367431+00:00",
+  "generated": "2026-04-27T16:55:02.751662+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -29,6 +29,34 @@
         {
           "date": "2026-04-03",
           "price": 2790000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_216739069",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byty/1+kk, 22 m2, Karla Pokorného 1291/13, Poruba, 7",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 22,
+      "price": 2490000,
+      "price_per_m2": 113182,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/216739069/prodej-byty1kk-22-m2-karla-pokorneho-129113-poruba-7.php",
+      "portal": "bazos",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2490000
         }
       ],
       "removed_date": null
@@ -397,34 +425,6 @@
         {
           "date": "2026-04-22",
           "price": 3800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_216739069",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byty/1+kk, 22 m2, Karla Pokorného 1291/13, Poruba, 7",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 22,
-      "price": 2490000,
-      "price_per_m2": 113182,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/216739069/prodej-byty1kk-22-m2-karla-pokorneho-129113-poruba-7.php",
-      "portal": "bazos",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2490000
         }
       ],
       "removed_date": null
