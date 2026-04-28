@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-27T16:55:02.751662+00:00",
+  "generated": "2026-04-28T06:21:37.559336+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -62,29 +62,29 @@
       "removed_date": null
     },
     {
-      "id": "bazos_217922921",
+      "id": "bazos_216652970",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 3+1, 66 m², Ostrava, ul. Aleše Hrdličky",
+      "title": "Prodej bytu 3+1, 65 m², Ostrava, ul. Na Robinsonce",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 66,
-      "price": 3490000,
-      "price_per_m2": 52879,
+      "area_m2": 65,
+      "price": 3650000,
+      "price_per_m2": 56154,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217922921/prodej-bytu-31-66-m-ostrava-ul-alese-hrdlicky.php",
+      "url": "https://reality.bazos.cz/inzerat/216652970/prodej-bytu-31-65-m-ostrava-ul-na-robinsonce.php",
       "portal": "bazos",
-      "added": "2026-04-23",
-      "updated": "2026-04-23",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
       "price_history": [
         {
-          "date": "2026-04-23",
-          "price": 3490000
+          "date": "2026-04-03",
+          "price": 3650000
         }
       ],
       "removed_date": null
@@ -169,34 +169,6 @@
         {
           "date": "2026-04-07",
           "price": 3240000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_216652970",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 3+1, 65 m², Ostrava, ul. Na Robinsonce",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 65,
-      "price": 3650000,
-      "price_per_m2": 56154,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/216652970/prodej-bytu-31-65-m-ostrava-ul-na-robinsonce.php",
-      "portal": "bazos",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 3650000
         }
       ],
       "removed_date": null
@@ -1378,6 +1350,34 @@
         }
       ],
       "removed_date": "2026-04-26"
+    },
+    {
+      "id": "bazos_217922921",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 3+1, 66 m², Ostrava, ul. Aleše Hrdličky",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 66,
+      "price": 3490000,
+      "price_per_m2": 52879,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217922921/prodej-bytu-31-66-m-ostrava-ul-alese-hrdlicky.php",
+      "portal": "bazos",
+      "added": "2026-04-23",
+      "updated": "2026-04-23",
+      "price_history": [
+        {
+          "date": "2026-04-23",
+          "price": 3490000
+        }
+      ],
+      "removed_date": "2026-04-28"
     }
   ]
 }
