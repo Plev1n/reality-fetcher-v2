@@ -1,34 +1,34 @@
 {
-  "generated": "2026-04-30T06:24:49.299615+00:00",
+  "generated": "2026-04-30T17:03:42.755004+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_218218479",
+      "id": "bazos_217297369",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu (52m2) na ulici Větrná v Ostravě - Porubě",
+      "title": "Prodej bytu 2+1, 51 m2, Ostrava–Poruba, ul. 1. ČS Armádního",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 52,
-      "price": 3290000,
-      "price_per_m2": 63269,
+      "area_m2": 51,
+      "price": 3990000,
+      "price_per_m2": 78235,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218218479/prodej-bytu-52m2-na-ulici-vetrna-v-ostrave-porube.php",
+      "url": "https://reality.bazos.cz/inzerat/217297369/prodej-bytu-21-51-m2-ostravaporuba-ul-1-cs-armadniho.php",
       "portal": "bazos",
-      "added": "2026-04-30",
-      "updated": "2026-04-30",
+      "added": "2026-04-25",
+      "updated": "2026-04-25",
       "price_history": [
         {
-          "date": "2026-04-30",
-          "price": 3290000
+          "date": "2026-04-25",
+          "price": 3990000
         }
       ],
       "removed_date": null
@@ -197,34 +197,6 @@
         {
           "date": "2026-04-03",
           "price": 3100000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217297369",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 51 m2, Ostrava–Poruba, ul. 1. ČS Armádního",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 51,
-      "price": 3990000,
-      "price_per_m2": 78235,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217297369/prodej-bytu-21-51-m2-ostravaporuba-ul-1-cs-armadniho.php",
-      "portal": "bazos",
-      "added": "2026-04-25",
-      "updated": "2026-04-25",
-      "price_history": [
-        {
-          "date": "2026-04-25",
-          "price": 3990000
         }
       ],
       "removed_date": null
@@ -427,29 +399,6 @@
           "price": 3790000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "rksting_135415",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 3+1",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 69,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-135415/",
-      "portal": "rksting",
-      "added": "2026-04-22",
-      "updated": "2026-04-22",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -1461,6 +1410,57 @@
           "price": 3650000
         }
       ],
+      "removed_date": "2026-04-30"
+    },
+    {
+      "id": "bazos_218218479",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu (52m2) na ulici Větrná v Ostravě - Porubě",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 52,
+      "price": 3290000,
+      "price_per_m2": 63269,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218218479/prodej-bytu-52m2-na-ulici-vetrna-v-ostrave-porube.php",
+      "portal": "bazos",
+      "added": "2026-04-30",
+      "updated": "2026-04-30",
+      "price_history": [
+        {
+          "date": "2026-04-30",
+          "price": 3290000
+        }
+      ],
+      "removed_date": "2026-04-30"
+    },
+    {
+      "id": "rksting_135415",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 3+1",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 69,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-135415/",
+      "portal": "rksting",
+      "added": "2026-04-22",
+      "updated": "2026-04-22",
+      "price_history": [],
       "removed_date": "2026-04-30"
     }
   ]
