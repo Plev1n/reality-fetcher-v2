@@ -1,10 +1,38 @@
 {
-  "generated": "2026-04-30T17:03:42.755004+00:00",
+  "generated": "2026-05-01T06:33:03.260250+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_217282274",
+      "status": "active",
+      "type": "byt",
+      "title": "Byt 1+1, Ostrava-Poruba, družstevní, vybavený",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2850000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217282274/byt-11-ostrava-poruba-druzstevni-vybaveny.php",
+      "portal": "bazos",
+      "added": "2026-05-01",
+      "updated": "2026-05-01",
+      "price_history": [
+        {
+          "date": "2026-05-01",
+          "price": 2850000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_217297369",
       "status": "active",
@@ -253,34 +281,6 @@
         {
           "date": "2026-04-13",
           "price": 3890000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_215639423",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej Družstevního bytu 1+1 V. Makovského Ostrava Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 40,
-      "price": 2850000,
-      "price_per_m2": 71250,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/215639423/prodej-druzstevniho-bytu-11-v-makovskeho-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-04-08",
-      "updated": "2026-04-08",
-      "price_history": [
-        {
-          "date": "2026-04-08",
-          "price": 2850000
         }
       ],
       "removed_date": null
@@ -1462,6 +1462,34 @@
       "updated": "2026-04-22",
       "price_history": [],
       "removed_date": "2026-04-30"
+    },
+    {
+      "id": "bazos_215639423",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej Družstevního bytu 1+1 V. Makovského Ostrava Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 40,
+      "price": 2850000,
+      "price_per_m2": 71250,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/215639423/prodej-druzstevniho-bytu-11-v-makovskeho-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-04-08",
+      "updated": "2026-04-08",
+      "price_history": [
+        {
+          "date": "2026-04-08",
+          "price": 2850000
+        }
+      ],
+      "removed_date": "2026-05-01"
     }
   ]
 }
