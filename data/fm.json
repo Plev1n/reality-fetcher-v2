@@ -1,10 +1,89 @@
 {
-  "generated": "2026-05-06T06:27:30.919976+00:00",
+  "generated": "2026-05-06T17:00:29.325208+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "bazos_218479895",
+      "status": "active",
+      "type": "pozemek",
+      "title": "prodej pozemku 14087 m2 Baška",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 14087,
+      "price": 1760000,
+      "price_per_m2": 125,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218479895/prodej-pozemku-14087-m2-baska.php",
+      "portal": "bazos",
+      "added": "2026-05-06",
+      "updated": "2026-05-06",
+      "price_history": [
+        {
+          "date": "2026-05-06",
+          "price": 1760000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_988209996",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej  stavebního pozemku 1 895 m²",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        48.949703,
+        16.80015
+      ],
+      "area_m2": 1895,
+      "price": 3699999,
+      "price_per_m2": 1953,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/horni-bojanovice-horni-bojanovice-/988209996",
+      "portal": "sreality",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 3699999
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_3451516236",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej  stavebního pozemku 2 900 m²",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        48.94968,
+        16.800144
+      ],
+      "area_m2": 2900,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/horni-bojanovice--/3451516236",
+      "portal": "sreality",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
     {
       "id": "bazos_218474362",
       "status": "active",
@@ -59,57 +138,6 @@
           "price": 10000000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_988209996",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej  stavebního pozemku 1 895 m²",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        48.949703,
-        16.80015
-      ],
-      "area_m2": 1895,
-      "price": 3699999,
-      "price_per_m2": 1953,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/horni-bojanovice-horni-bojanovice-/988209996",
-      "portal": "sreality",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 3699999
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_3451516236",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej  stavebního pozemku 2 900 m²",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        48.94968,
-        16.800144
-      ],
-      "area_m2": 2900,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/horni-bojanovice--/3451516236",
-      "portal": "sreality",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
