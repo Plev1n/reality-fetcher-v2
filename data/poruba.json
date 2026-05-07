@@ -1,10 +1,38 @@
 {
-  "generated": "2026-05-07T06:27:45.530633+00:00",
+  "generated": "2026-05-07T17:03:15.919898+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_218530968",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 ul. Ukrajinská",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3700000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218530968/prodej-bytu-21-ul-ukrajinska.php",
+      "portal": "bazos",
+      "added": "2026-05-07",
+      "updated": "2026-05-07",
+      "price_history": [
+        {
+          "date": "2026-05-07",
+          "price": 3700000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_218284743",
       "status": "active",
