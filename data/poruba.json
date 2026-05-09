@@ -1,10 +1,46 @@
 {
-  "generated": "2026-05-08T16:58:57.190121+00:00",
+  "generated": "2026-05-09T06:20:33.996713+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_216848237",
+      "status": "active",
+      "type": "byt",
+      "title": "Exkluzivně nabízíme na prodej byt 2+1 v družstevním vlastnic",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2749000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/216848237/exkluzivne-nabizime-na-prodej-byt-21-v-druzstevnim-vlastnic.php",
+      "portal": "bazos",
+      "added": "2026-04-12",
+      "updated": "2026-05-09",
+      "price_history": [
+        {
+          "date": "2026-04-12",
+          "price": 2850000
+        },
+        {
+          "date": "2026-04-19",
+          "price": 2799000
+        },
+        {
+          "date": "2026-05-09",
+          "price": 2749000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_218530968",
       "status": "active",
@@ -388,38 +424,6 @@
         {
           "date": "2026-04-04",
           "price": 2990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_216848237",
-      "status": "active",
-      "type": "byt",
-      "title": "Exkluzivně nabízíme na prodej byt 2+1 v družstevním vlastnic",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2799000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/216848237/exkluzivne-nabizime-na-prodej-byt-21-v-druzstevnim-vlastnic.php",
-      "portal": "bazos",
-      "added": "2026-04-12",
-      "updated": "2026-04-19",
-      "price_history": [
-        {
-          "date": "2026-04-12",
-          "price": 2850000
-        },
-        {
-          "date": "2026-04-19",
-          "price": 2799000
         }
       ],
       "removed_date": null
