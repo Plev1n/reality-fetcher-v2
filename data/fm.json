@@ -1,10 +1,78 @@
 {
-  "generated": "2026-05-09T06:20:33.310941+00:00",
+  "generated": "2026-05-09T16:43:46.637225+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "bazos_218600257",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 2 348 m, Frýdlant nad Ostravicí",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2348,
+      "price": 6299999,
+      "price_per_m2": 2683,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218600257/prodej-stavebniho-pozemku-2-348-m-frydlant-nad-ostravici.php",
+      "portal": "bazos",
+      "added": "2026-05-09",
+      "updated": "2026-05-09",
+      "price_history": [
+        {
+          "date": "2026-05-09",
+          "price": 6299999
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218043026",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 150 m² se zahradou 866 m²",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 866,
+      "price": 4700000,
+      "price_per_m2": 5427,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218043026/prodej-rodinneho-domu-150-m-se-zahradou-866-m.php",
+      "portal": "bazos",
+      "added": "2026-04-26",
+      "updated": "2026-05-09",
+      "price_history": [
+        {
+          "date": "2026-04-26",
+          "price": 5700000
+        },
+        {
+          "date": "2026-04-29",
+          "price": 5200000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 4900000
+        },
+        {
+          "date": "2026-05-09",
+          "price": 4700000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "sreality_988209996",
       "status": "active",
@@ -364,42 +432,6 @@
         {
           "date": "2026-04-04",
           "price": 5250000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218043026",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 150 m² se zahradou 866 m²",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 866,
-      "price": 4900000,
-      "price_per_m2": 5658,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218043026/prodej-rodinneho-domu-150-m-se-zahradou-866-m.php",
-      "portal": "bazos",
-      "added": "2026-04-26",
-      "updated": "2026-05-02",
-      "price_history": [
-        {
-          "date": "2026-04-26",
-          "price": 5700000
-        },
-        {
-          "date": "2026-04-29",
-          "price": 5200000
-        },
-        {
-          "date": "2026-05-02",
-          "price": 4900000
         }
       ],
       "removed_date": null
@@ -2319,6 +2351,29 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_9945096",
       "status": "active",
       "type": "pozemek",
@@ -2399,29 +2454,6 @@
           "price": 6000000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
