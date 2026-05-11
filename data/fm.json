@@ -1,10 +1,130 @@
 {
-  "generated": "2026-05-11T06:42:47.171890+00:00",
+  "generated": "2026-05-11T17:21:18.548526+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "bazos_218683585",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej dvougeneračního domu v Třinci",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 6850000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218683585/prodej-dvougeneracniho-domu-v-trinci.php",
+      "portal": "bazos",
+      "added": "2026-05-11",
+      "updated": "2026-05-11",
+      "price_history": [
+        {
+          "date": "2026-05-11",
+          "price": 6850000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218698187",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku s dřevěnicí v obci Raškovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1626,
+      "price": 4500000,
+      "price_per_m2": 2768,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218698187/prodej-stavebniho-pozemku-s-drevenici-v-obci-raskovice.php",
+      "portal": "bazos",
+      "added": "2026-05-11",
+      "updated": "2026-05-11",
+      "price_history": [
+        {
+          "date": "2026-05-11",
+          "price": 4500000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218155209",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 4+kk , Dolní Tošanovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 9290000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218155209/prodej-rodinneho-domu-4kk-dolni-tosanovice.php",
+      "portal": "bazos",
+      "added": "2026-04-29",
+      "updated": "2026-05-11",
+      "price_history": [
+        {
+          "date": "2026-04-29",
+          "price": 9100000
+        },
+        {
+          "date": "2026-05-11",
+          "price": 9290000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218264005",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku s rodinným domem v Lučině",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2139,
+      "price": 4590000,
+      "price_per_m2": 2146,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218264005/prodej-stavebniho-pozemku-s-rodinnym-domem-v-lucine.php",
+      "portal": "bazos",
+      "added": "2026-05-01",
+      "updated": "2026-05-11",
+      "price_history": [
+        {
+          "date": "2026-05-01",
+          "price": 4790000
+        },
+        {
+          "date": "2026-05-11",
+          "price": 4590000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "sreality_988209996",
       "status": "active",
@@ -308,34 +428,6 @@
         {
           "date": "2026-05-05",
           "price": 4150000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218155209",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 4+kk , Dolní Tošanovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 9100000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/218155209/prodej-rodinneho-domu-4kk-dolni-tosanovice.php",
-      "portal": "bazos",
-      "added": "2026-04-29",
-      "updated": "2026-04-29",
-      "price_history": [
-        {
-          "date": "2026-04-29",
-          "price": 9100000
         }
       ],
       "removed_date": null
@@ -821,34 +913,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_218264005",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku s rodinným domem v Lučině",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2139,
-      "price": 4790000,
-      "price_per_m2": 2239,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218264005/prodej-stavebniho-pozemku-s-rodinnym-domem-v-lucine.php",
-      "portal": "bazos",
-      "added": "2026-05-01",
-      "updated": "2026-05-01",
-      "price_history": [
-        {
-          "date": "2026-05-01",
-          "price": 4790000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_218624973",
       "status": "active",
       "type": "pozemek",
@@ -1236,34 +1300,6 @@
         {
           "date": "2026-04-30",
           "price": 4145200
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217904976",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1636 m2, Palkovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1636,
-      "price": 3000,
-      "price_per_m2": 2,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217904976/prodej-stavebniho-pozemku-1636-m2-palkovice.php",
-      "portal": "bazos",
-      "added": "2026-04-22",
-      "updated": "2026-04-22",
-      "price_history": [
-        {
-          "date": "2026-04-22",
-          "price": 3000
         }
       ],
       "removed_date": null
@@ -2323,29 +2359,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_9945096",
       "status": "active",
       "type": "pozemek",
@@ -2426,6 +2439,29 @@
           "price": 6000000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -7146,6 +7182,34 @@
         {
           "date": "2026-04-04",
           "price": 6850000
+        }
+      ],
+      "removed_date": "2026-05-11"
+    },
+    {
+      "id": "bazos_217904976",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1636 m2, Palkovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1636,
+      "price": 3000,
+      "price_per_m2": 2,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217904976/prodej-stavebniho-pozemku-1636-m2-palkovice.php",
+      "portal": "bazos",
+      "added": "2026-04-22",
+      "updated": "2026-04-22",
+      "price_history": [
+        {
+          "date": "2026-04-22",
+          "price": 3000
         }
       ],
       "removed_date": "2026-05-11"
