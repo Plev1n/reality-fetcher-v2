@@ -1,10 +1,38 @@
 {
-  "generated": "2026-05-12T17:07:18.827390+00:00",
+  "generated": "2026-05-13T06:36:43.448219+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_217852707",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej dr. bytu 3+kk se zasklenou lodžií, 53 m2, ul., 134686",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 53,
+      "price": 3800000,
+      "price_per_m2": 71698,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217852707/prodej-dr-bytu-3kk-se-zasklenou-lodzii-53-m2-ul-134686.php",
+      "portal": "bazos",
+      "added": "2026-05-13",
+      "updated": "2026-05-13",
+      "price_history": [
+        {
+          "date": "2026-05-13",
+          "price": 3800000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_218747107",
       "status": "active",
@@ -113,34 +141,6 @@
         {
           "date": "2026-05-07",
           "price": 3700000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218284743",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 2+1, Ostrava-Poruba, Rabasova, ev.č. 1602",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3800000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/218284743/prodej-byt-21-ostrava-poruba-rabasova-evc-1602.php",
-      "portal": "bazos",
-      "added": "2026-05-02",
-      "updated": "2026-05-02",
-      "price_history": [
-        {
-          "date": "2026-05-02",
-          "price": 3800000
         }
       ],
       "removed_date": null
@@ -1708,6 +1708,34 @@
       "updated": "2026-05-05",
       "price_history": [],
       "removed_date": "2026-05-12"
+    },
+    {
+      "id": "bazos_218284743",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej, byt 2+1, Ostrava-Poruba, Rabasova, ev.č. 1602",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3800000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218284743/prodej-byt-21-ostrava-poruba-rabasova-evc-1602.php",
+      "portal": "bazos",
+      "added": "2026-05-02",
+      "updated": "2026-05-02",
+      "price_history": [
+        {
+          "date": "2026-05-02",
+          "price": 3800000
+        }
+      ],
+      "removed_date": "2026-05-13"
     }
   ]
 }
