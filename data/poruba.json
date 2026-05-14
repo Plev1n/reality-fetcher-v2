@@ -1,10 +1,42 @@
 {
-  "generated": "2026-05-14T06:29:12.463632+00:00",
+  "generated": "2026-05-14T17:05:50.786755+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_217142710",
+      "status": "active",
+      "type": "byt",
+      "title": "Družstevní byt 2+1 na Hlavní třídě v Ostravě-Porubě",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3390000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217142710/druzstevni-byt-21-na-hlavni-tride-v-ostrave-porube.php",
+      "portal": "bazos",
+      "added": "2026-04-04",
+      "updated": "2026-05-14",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 3490000
+        },
+        {
+          "date": "2026-05-14",
+          "price": 3390000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_217852707",
       "status": "active",
@@ -34,29 +66,29 @@
       "removed_date": null
     },
     {
-      "id": "bazos_218799230",
+      "id": "bazos_217297369",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 3+1, 66 m², Ostrava, ul. Aleše Hrdličky",
+      "title": "Prodej bytu 2+1, 51 m2, Ostrava–Poruba, ul. 1. ČS Armádního",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 66,
-      "price": 3390000,
-      "price_per_m2": 51364,
+      "area_m2": 51,
+      "price": 3990000,
+      "price_per_m2": 78235,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218799230/prodej-bytu-31-66-m-ostrava-ul-alese-hrdlicky.php",
+      "url": "https://reality.bazos.cz/inzerat/217297369/prodej-bytu-21-51-m2-ostravaporuba-ul-1-cs-armadniho.php",
       "portal": "bazos",
-      "added": "2026-05-13",
-      "updated": "2026-05-13",
+      "added": "2026-04-25",
+      "updated": "2026-04-25",
       "price_history": [
         {
-          "date": "2026-05-13",
-          "price": 3390000
+          "date": "2026-04-25",
+          "price": 3990000
         }
       ],
       "removed_date": null
@@ -141,34 +173,6 @@
         {
           "date": "2026-05-12",
           "price": 2600000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217297369",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 51 m2, Ostrava–Poruba, ul. 1. ČS Armádního",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 51,
-      "price": 3990000,
-      "price_per_m2": 78235,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217297369/prodej-bytu-21-51-m2-ostravaporuba-ul-1-cs-armadniho.php",
-      "portal": "bazos",
-      "added": "2026-04-25",
-      "updated": "2026-04-25",
-      "price_history": [
-        {
-          "date": "2026-04-25",
-          "price": 3990000
         }
       ],
       "removed_date": null
@@ -895,34 +899,6 @@
         {
           "date": "2026-04-03",
           "price": 2599000
-        }
-      ],
-      "removed_date": "2026-04-14"
-    },
-    {
-      "id": "bazos_217142710",
-      "status": "removed",
-      "type": "byt",
-      "title": "Družstevní byt 2+1 na Hlavní třídě v Ostravě-Porubě",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3490000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/217142710/druzstevni-byt-21-na-hlavni-tride-v-ostrave-porube.php",
-      "portal": "bazos",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 3490000
         }
       ],
       "removed_date": "2026-04-14"
@@ -1764,6 +1740,34 @@
         }
       ],
       "removed_date": "2026-05-13"
+    },
+    {
+      "id": "bazos_218799230",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 3+1, 66 m², Ostrava, ul. Aleše Hrdličky",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 66,
+      "price": 3390000,
+      "price_per_m2": 51364,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218799230/prodej-bytu-31-66-m-ostrava-ul-alese-hrdlicky.php",
+      "portal": "bazos",
+      "added": "2026-05-13",
+      "updated": "2026-05-13",
+      "price_history": [
+        {
+          "date": "2026-05-13",
+          "price": 3390000
+        }
+      ],
+      "removed_date": "2026-05-14"
     }
   ]
 }
