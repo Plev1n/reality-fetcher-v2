@@ -1,10 +1,38 @@
 {
-  "generated": "2026-05-15T17:02:31.870168+00:00",
+  "generated": "2026-05-16T06:24:53.472495+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_218887540",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 v Ostravě-Porubě – kliknete a budete chtít p",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3777777,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218887540/prodej-bytu-21-v-ostrave-porube-kliknete-a-budete-chtit-p.php",
+      "portal": "bazos",
+      "added": "2026-05-16",
+      "updated": "2026-05-16",
+      "price_history": [
+        {
+          "date": "2026-05-16",
+          "price": 3777777
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_217852707",
       "status": "active",
@@ -89,34 +117,6 @@
         {
           "date": "2026-05-14",
           "price": 3390000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_216473995",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 57 m², Ostrava, ul. Opavská",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 57,
-      "price": 3790000,
-      "price_per_m2": 66491,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/216473995/prodej-bytu-21-57-m-ostrava-ul-opavska.php",
-      "portal": "bazos",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 3790000
         }
       ],
       "removed_date": null
@@ -512,6 +512,34 @@
         {
           "date": "2026-04-03",
           "price": 2500000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_216473995",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 57 m², Ostrava, ul. Opavská",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 57,
+      "price": 3790000,
+      "price_per_m2": 66491,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/216473995/prodej-bytu-21-57-m-ostrava-ul-opavska.php",
+      "portal": "bazos",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 3790000
         }
       ],
       "removed_date": null
