@@ -1,34 +1,34 @@
 {
-  "generated": "2026-05-17T06:27:54.384453+00:00",
+  "generated": "2026-05-17T16:42:29.644992+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_216479293",
+      "id": "bazos_218944054",
       "status": "active",
       "type": "byt",
-      "title": "Byt v Ostravě - Porubě, 28 m²",
+      "title": "Exkluzivně nabízíme na prodej byt 2+1 v družstevním vlastnic",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 28,
-      "price": 2900000,
-      "price_per_m2": 103571,
+      "area_m2": null,
+      "price": 2749000,
+      "price_per_m2": null,
       "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/216479293/byt-v-ostrave-porube-28-m.php",
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218944054/exkluzivne-nabizime-na-prodej-byt-21-v-druzstevnim-vlastnic.php",
       "portal": "bazos",
       "added": "2026-05-17",
       "updated": "2026-05-17",
       "price_history": [
         {
           "date": "2026-05-17",
-          "price": 2900000
+          "price": 2749000
         }
       ],
       "removed_date": null
@@ -313,6 +313,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_216479293",
+      "status": "active",
+      "type": "byt",
+      "title": "Byt v Ostravě - Porubě, 28 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 28,
+      "price": 2900000,
+      "price_per_m2": 103571,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/216479293/byt-v-ostrave-porube-28-m.php",
+      "portal": "bazos",
+      "added": "2026-05-17",
+      "updated": "2026-05-17",
+      "price_history": [
+        {
+          "date": "2026-05-17",
+          "price": 2900000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_217531332",
       "status": "active",
       "type": "byt",
@@ -392,42 +420,6 @@
         {
           "date": "2026-04-04",
           "price": 2990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_216848237",
-      "status": "active",
-      "type": "byt",
-      "title": "Exkluzivně nabízíme na prodej byt 2+1 v družstevním vlastnic",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2749000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/216848237/exkluzivne-nabizime-na-prodej-byt-21-v-druzstevnim-vlastnic.php",
-      "portal": "bazos",
-      "added": "2026-04-12",
-      "updated": "2026-05-09",
-      "price_history": [
-        {
-          "date": "2026-04-12",
-          "price": 2850000
-        },
-        {
-          "date": "2026-04-19",
-          "price": 2799000
-        },
-        {
-          "date": "2026-05-09",
-          "price": 2749000
         }
       ],
       "removed_date": null
@@ -1821,6 +1813,42 @@
         {
           "date": "2026-04-13",
           "price": 3890000
+        }
+      ],
+      "removed_date": "2026-05-17"
+    },
+    {
+      "id": "bazos_216848237",
+      "status": "removed",
+      "type": "byt",
+      "title": "Exkluzivně nabízíme na prodej byt 2+1 v družstevním vlastnic",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2749000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/216848237/exkluzivne-nabizime-na-prodej-byt-21-v-druzstevnim-vlastnic.php",
+      "portal": "bazos",
+      "added": "2026-04-12",
+      "updated": "2026-05-09",
+      "price_history": [
+        {
+          "date": "2026-04-12",
+          "price": 2850000
+        },
+        {
+          "date": "2026-04-19",
+          "price": 2799000
+        },
+        {
+          "date": "2026-05-09",
+          "price": 2749000
         }
       ],
       "removed_date": "2026-05-17"
