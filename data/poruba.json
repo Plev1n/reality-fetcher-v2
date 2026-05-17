@@ -1,10 +1,38 @@
 {
-  "generated": "2026-05-16T16:42:10.719423+00:00",
+  "generated": "2026-05-17T06:27:54.384453+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_216479293",
+      "status": "active",
+      "type": "byt",
+      "title": "Byt v Ostravě - Porubě, 28 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 28,
+      "price": 2900000,
+      "price_per_m2": 103571,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/216479293/byt-v-ostrave-porube-28-m.php",
+      "portal": "bazos",
+      "added": "2026-05-17",
+      "updated": "2026-05-17",
+      "price_history": [
+        {
+          "date": "2026-05-17",
+          "price": 2900000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_217852707",
       "status": "active",
@@ -57,34 +85,6 @@
         {
           "date": "2026-05-16",
           "price": 3777777
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217297369",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 51 m2, Ostrava–Poruba, ul. 1. ČS Armádního",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 51,
-      "price": 3990000,
-      "price_per_m2": 78235,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217297369/prodej-bytu-21-51-m2-ostravaporuba-ul-1-cs-armadniho.php",
-      "portal": "bazos",
-      "added": "2026-04-25",
-      "updated": "2026-04-25",
-      "price_history": [
-        {
-          "date": "2026-04-25",
-          "price": 3990000
         }
       ],
       "removed_date": null
@@ -313,34 +313,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_216343696",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej 1+kk v Ostrave-Porube",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 28,
-      "price": 2300000,
-      "price_per_m2": 82143,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/216343696/prodej-1kk-v-ostrave-porube.php",
-      "portal": "bazos",
-      "added": "2026-05-05",
-      "updated": "2026-05-05",
-      "price_history": [
-        {
-          "date": "2026-05-05",
-          "price": 2300000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_217531332",
       "status": "active",
       "type": "byt",
@@ -364,34 +336,6 @@
         {
           "date": "2026-04-14",
           "price": 2800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217499978",
-      "status": "active",
-      "type": "byt",
-      "title": "Byt 2+1, Ostrava-Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3890000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/217499978/byt-21-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-04-13",
-      "updated": "2026-04-13",
-      "price_history": [
-        {
-          "date": "2026-04-13",
-          "price": 3890000
         }
       ],
       "removed_date": null
@@ -1796,6 +1740,90 @@
         }
       ],
       "removed_date": "2026-05-14"
+    },
+    {
+      "id": "bazos_217297369",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 51 m2, Ostrava–Poruba, ul. 1. ČS Armádního",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 51,
+      "price": 3990000,
+      "price_per_m2": 78235,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217297369/prodej-bytu-21-51-m2-ostravaporuba-ul-1-cs-armadniho.php",
+      "portal": "bazos",
+      "added": "2026-04-25",
+      "updated": "2026-04-25",
+      "price_history": [
+        {
+          "date": "2026-04-25",
+          "price": 3990000
+        }
+      ],
+      "removed_date": "2026-05-17"
+    },
+    {
+      "id": "bazos_216343696",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej 1+kk v Ostrave-Porube",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 28,
+      "price": 2300000,
+      "price_per_m2": 82143,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/216343696/prodej-1kk-v-ostrave-porube.php",
+      "portal": "bazos",
+      "added": "2026-05-05",
+      "updated": "2026-05-05",
+      "price_history": [
+        {
+          "date": "2026-05-05",
+          "price": 2300000
+        }
+      ],
+      "removed_date": "2026-05-17"
+    },
+    {
+      "id": "bazos_217499978",
+      "status": "removed",
+      "type": "byt",
+      "title": "Byt 2+1, Ostrava-Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3890000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217499978/byt-21-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-04-13",
+      "updated": "2026-04-13",
+      "price_history": [
+        {
+          "date": "2026-04-13",
+          "price": 3890000
+        }
+      ],
+      "removed_date": "2026-05-17"
     }
   ]
 }
