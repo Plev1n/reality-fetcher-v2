@@ -1,34 +1,34 @@
 {
-  "generated": "2026-05-18T06:52:02.141670+00:00",
+  "generated": "2026-05-18T17:22:07.910181+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_218987432",
+      "id": "bazos_217251024",
       "status": "active",
       "type": "byt",
-      "title": "2+1, 54m, OV, Poruba",
+      "title": "prodej dr. bytu o vel. 1+1, ul. Ludvíka Podéště, Ost, 135108",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 54,
-      "price": 3600000,
-      "price_per_m2": 66667,
+      "area_m2": null,
+      "price": 3240000,
+      "price_per_m2": null,
       "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218987432/21-54m-ov-poruba.php",
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217251024/prodej-dr-bytu-o-vel-11-ul-ludvika-podeste-ost-135108.php",
       "portal": "bazos",
-      "added": "2026-05-18",
-      "updated": "2026-05-18",
+      "added": "2026-04-07",
+      "updated": "2026-04-07",
       "price_history": [
         {
-          "date": "2026-05-18",
-          "price": 3600000
+          "date": "2026-04-07",
+          "price": 3240000
         }
       ],
       "removed_date": null
@@ -61,6 +61,34 @@
         {
           "date": "2026-05-14",
           "price": 3390000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218987432",
+      "status": "active",
+      "type": "byt",
+      "title": "2+1, 54m, OV, Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 54,
+      "price": 3600000,
+      "price_per_m2": 66667,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218987432/21-54m-ov-poruba.php",
+      "portal": "bazos",
+      "added": "2026-05-18",
+      "updated": "2026-05-18",
+      "price_history": [
+        {
+          "date": "2026-05-18",
+          "price": 3600000
         }
       ],
       "removed_date": null
@@ -308,34 +336,6 @@
         {
           "date": "2026-04-03",
           "price": 2490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217251024",
-      "status": "active",
-      "type": "byt",
-      "title": "prodej dr. bytu o vel. 1+1, ul. Ludvíka Podéště, Ost, 135108",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3240000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/217251024/prodej-dr-bytu-o-vel-11-ul-ludvika-podeste-ost-135108.php",
-      "portal": "bazos",
-      "added": "2026-04-07",
-      "updated": "2026-04-07",
-      "price_history": [
-        {
-          "date": "2026-04-07",
-          "price": 3240000
         }
       ],
       "removed_date": null
