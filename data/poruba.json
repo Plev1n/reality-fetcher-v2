@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-18T17:22:07.910181+00:00",
+  "generated": "2026-05-19T06:47:21.665629+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -29,6 +29,34 @@
         {
           "date": "2026-04-07",
           "price": 3240000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_217852707",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej dr. bytu 3+kk se zasklenou lodžií, 53 m2, ul., 134686",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 53,
+      "price": 3800000,
+      "price_per_m2": 71698,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217852707/prodej-dr-bytu-3kk-se-zasklenou-lodzii-53-m2-ul-134686.php",
+      "portal": "bazos",
+      "added": "2026-05-13",
+      "updated": "2026-05-13",
+      "price_history": [
+        {
+          "date": "2026-05-13",
+          "price": 3800000
         }
       ],
       "removed_date": null
@@ -89,34 +117,6 @@
         {
           "date": "2026-05-18",
           "price": 3600000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217852707",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej dr. bytu 3+kk se zasklenou lodžií, 53 m2, ul., 134686",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 53,
-      "price": 3800000,
-      "price_per_m2": 71698,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217852707/prodej-dr-bytu-3kk-se-zasklenou-lodzii-53-m2-ul-134686.php",
-      "portal": "bazos",
-      "added": "2026-05-13",
-      "updated": "2026-05-13",
-      "price_history": [
-        {
-          "date": "2026-05-13",
-          "price": 3800000
         }
       ],
       "removed_date": null
