@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-19T06:47:21.665629+00:00",
+  "generated": "2026-05-19T17:22:48.071620+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -313,28 +313,28 @@
       "removed_date": null
     },
     {
-      "id": "bazos_216739069",
+      "id": "bazos_218122810",
       "status": "active",
       "type": "byt",
-      "title": "Prodej, byty/1+kk, 22 m2, Karla Pokorného 1291/13, Poruba, 7",
+      "title": "Prodej bytu 1+kk, 27 m², Ostrava - Poruba, ul. Francouzská",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 22,
+      "area_m2": 27,
       "price": 2490000,
-      "price_per_m2": 113182,
+      "price_per_m2": 92222,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/216739069/prodej-byty1kk-22-m2-karla-pokorneho-129113-poruba-7.php",
+      "url": "https://reality.bazos.cz/inzerat/218122810/prodej-bytu-1kk-27-m-ostrava-poruba-ul-francouzska.php",
       "portal": "bazos",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
+      "added": "2026-04-29",
+      "updated": "2026-04-29",
       "price_history": [
         {
-          "date": "2026-04-03",
+          "date": "2026-04-29",
           "price": 2490000
         }
       ],
@@ -1352,34 +1352,6 @@
       "removed_date": "2026-04-29"
     },
     {
-      "id": "bazos_218122810",
-      "status": "removed",
-      "type": "byt",
-      "title": "Prodej bytu 1+kk, 27 m², Ostrava - Poruba, ul. Francouzská",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 27,
-      "price": 2490000,
-      "price_per_m2": 92222,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218122810/prodej-bytu-1kk-27-m-ostrava-poruba-ul-francouzska.php",
-      "portal": "bazos",
-      "added": "2026-04-29",
-      "updated": "2026-04-29",
-      "price_history": [
-        {
-          "date": "2026-04-29",
-          "price": 2490000
-        }
-      ],
-      "removed_date": "2026-04-30"
-    },
-    {
       "id": "rksting_135108",
       "status": "removed",
       "type": "byt",
@@ -1880,6 +1852,34 @@
         }
       ],
       "removed_date": "2026-05-17"
+    },
+    {
+      "id": "bazos_216739069",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej, byty/1+kk, 22 m2, Karla Pokorného 1291/13, Poruba, 7",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 22,
+      "price": 2490000,
+      "price_per_m2": 113182,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/216739069/prodej-byty1kk-22-m2-karla-pokorneho-129113-poruba-7.php",
+      "portal": "bazos",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2490000
+        }
+      ],
+      "removed_date": "2026-05-19"
     }
   ]
 }
