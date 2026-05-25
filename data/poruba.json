@@ -1,10 +1,38 @@
 {
-  "generated": "2026-05-24T16:49:46.137437+00:00",
+  "generated": "2026-05-25T06:58:48.423422+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_219285010",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2790000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219285010/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
+      "portal": "bazos",
+      "added": "2026-05-25",
+      "updated": "2026-05-25",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 2790000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_218492720",
       "status": "active",
@@ -285,34 +313,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_216696200",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2790000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/216696200/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
-      "portal": "bazos",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2790000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_217578005",
       "status": "active",
       "type": "byt",
@@ -448,34 +448,6 @@
         {
           "date": "2026-04-04",
           "price": 2990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_216705298",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej družstevního bytu 1+1, Ostrava, Poruba, ul. Ludvíka P",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2500000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/216705298/prodej-druzstevniho-bytu-11-ostrava-poruba-ul-ludvika-p.php",
-      "portal": "bazos",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2500000
         }
       ],
       "removed_date": null
@@ -1908,6 +1880,62 @@
         }
       ],
       "removed_date": "2026-05-23"
+    },
+    {
+      "id": "bazos_216696200",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2790000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/216696200/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
+      "portal": "bazos",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2790000
+        }
+      ],
+      "removed_date": "2026-05-25"
+    },
+    {
+      "id": "bazos_216705298",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej družstevního bytu 1+1, Ostrava, Poruba, ul. Ludvíka P",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2500000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/216705298/prodej-druzstevniho-bytu-11-ostrava-poruba-ul-ludvika-p.php",
+      "portal": "bazos",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2500000
+        }
+      ],
+      "removed_date": "2026-05-25"
     }
   ]
 }
