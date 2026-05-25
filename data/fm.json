@@ -1,10 +1,117 @@
 {
-  "generated": "2026-05-25T06:58:47.788169+00:00",
+  "generated": "2026-05-25T17:06:50.567675+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "bazos_219298546",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku, 134783",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 833,
+      "price": 2299000,
+      "price_per_m2": 2760,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219298546/prodej-stavebniho-pozemku-134783.php",
+      "portal": "bazos",
+      "added": "2026-05-25",
+      "updated": "2026-05-25",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 2299000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219314454",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej  rodinného domu v Třinci Kojkovicích, 135749",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 4600000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219314454/prodej-rodinneho-domu-v-trinci-kojkovicich-135749.php",
+      "portal": "bazos",
+      "added": "2026-05-25",
+      "updated": "2026-05-25",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 4600000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10130999",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek, bydlení, prodej, Palkovice, Frýdek-Místek",
+      "location": "Palkovice",
+      "location_id": "palkovice",
+      "coordinates": [
+        49.635,
+        18.32
+      ],
+      "area_m2": 5309,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/pozemek-bydleni-prodej-palkovice-frydek-mistek/detail/10130999/",
+      "portal": "eurobydleni",
+      "added": "2026-05-25",
+      "updated": "2026-05-25",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3781272",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 166 m² Sedliště",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": 1166,
+      "price": 2099000,
+      "price_per_m2": 1800,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/sedliste/prodej-stavebni-parcely-1-166-m2-3781272.html",
+      "portal": "sousede",
+      "added": "2026-05-25",
+      "updated": "2026-05-25",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 2099000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_219273815",
       "status": "active",
@@ -31,113 +138,6 @@
           "price": 4578000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219284959",
-      "status": "active",
-      "type": "dum",
-      "title": "Novostavba rodinného domu v Dolních Domaslavicích, 97349",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1244,
-      "price": 8690000,
-      "price_per_m2": 6986,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219284959/novostavba-rodinneho-domu-v-dolnich-domaslavicich-97349.php",
-      "portal": "bazos",
-      "added": "2026-05-25",
-      "updated": "2026-05-25",
-      "price_history": [
-        {
-          "date": "2026-05-25",
-          "price": 8690000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10037235",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek o výměře 6.986 m2 v obci Čeladná",
-      "location": "Čeladná",
-      "location_id": "celadna",
-      "coordinates": [
-        49.54,
-        18.34
-      ],
-      "area_m2": 6986,
-      "price": 8990000,
-      "price_per_m2": 1287,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-6986-m2-v-obci-celadna/detail/10037235/",
-      "portal": "eurobydleni",
-      "added": "2026-05-25",
-      "updated": "2026-05-25",
-      "price_history": [
-        {
-          "date": "2026-05-25",
-          "price": 8990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_988209996",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej  stavebního pozemku 1 895 m²",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        48.949703,
-        16.80015
-      ],
-      "area_m2": 1895,
-      "price": 3699999,
-      "price_per_m2": 1953,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/horni-bojanovice-horni-bojanovice-/988209996",
-      "portal": "sreality",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 3699999
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_3451516236",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej  stavebního pozemku 2 900 m²",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        48.94968,
-        16.800144
-      ],
-      "area_m2": 2900,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/horni-bojanovice--/3451516236",
-      "portal": "sreality",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -1401,6 +1401,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_219284959",
+      "status": "active",
+      "type": "dum",
+      "title": "Novostavba rodinného domu v Dolních Domaslavicích, 97349",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1244,
+      "price": 8690000,
+      "price_per_m2": 6986,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219284959/novostavba-rodinneho-domu-v-dolnich-domaslavicich-97349.php",
+      "portal": "bazos",
+      "added": "2026-05-25",
+      "updated": "2026-05-25",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 8690000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_219126714",
       "status": "active",
       "type": "dum",
@@ -2461,57 +2489,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10124291",
-      "status": "active",
-      "type": "dum",
-      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
-      "portal": "eurobydleni",
-      "added": "2026-05-15",
-      "updated": "2026-05-15",
-      "price_history": [
-        {
-          "date": "2026-05-15",
-          "price": 6999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10130443",
       "status": "active",
       "type": "pozemek",
@@ -2568,29 +2545,29 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10008591",
+      "id": "eurobydleni_10037235",
       "status": "active",
       "type": "pozemek",
-      "title": "Stavební pozemek o velikosti 958m v obci Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
+      "title": "Stavební pozemek o výměře 6.986 m2 v obci Čeladná",
+      "location": "Čeladná",
+      "location_id": "celadna",
       "coordinates": [
-        49.72,
-        18.31
+        49.54,
+        18.34
       ],
-      "area_m2": 9580,
-      "price": 2299000,
-      "price_per_m2": 240,
+      "area_m2": 6986,
+      "price": 8990000,
+      "price_per_m2": 1287,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-velikosti-958m-v-obci-repiste/detail/10008591/",
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-6986-m2-v-obci-celadna/detail/10037235/",
       "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
+      "added": "2026-05-25",
+      "updated": "2026-05-25",
       "price_history": [
         {
-          "date": "2026-04-03",
-          "price": 2299000
+          "date": "2026-05-25",
+          "price": 8990000
         }
       ],
       "removed_date": null
@@ -2656,6 +2633,57 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10124291",
+      "status": "active",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
+      "portal": "eurobydleni",
+      "added": "2026-05-15",
+      "updated": "2026-05-15",
+      "price_history": [
+        {
+          "date": "2026-05-15",
+          "price": 6999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10129685",
       "status": "active",
       "type": "pozemek",
@@ -2713,29 +2741,6 @@
           "price": 7490000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10050985",
-      "status": "active",
-      "type": "dum",
-      "title": "RD Ostravice ",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": 1021,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/rd-ostravice/detail/10050985/",
-      "portal": "eurobydleni",
-      "added": "2026-04-27",
-      "updated": "2026-04-27",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -8599,6 +8604,108 @@
           "price": 8990000
         }
       ],
+      "removed_date": "2026-05-25"
+    },
+    {
+      "id": "sreality_988209996",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej  stavebního pozemku 1 895 m²",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        48.949703,
+        16.80015
+      ],
+      "area_m2": 1895,
+      "price": 3699999,
+      "price_per_m2": 1953,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/horni-bojanovice-horni-bojanovice-/988209996",
+      "portal": "sreality",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 3699999
+        }
+      ],
+      "removed_date": "2026-05-25"
+    },
+    {
+      "id": "sreality_3451516236",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej  stavebního pozemku 2 900 m²",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        48.94968,
+        16.800144
+      ],
+      "area_m2": 2900,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/horni-bojanovice--/3451516236",
+      "portal": "sreality",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": "2026-05-25"
+    },
+    {
+      "id": "eurobydleni_10008591",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek o velikosti 958m v obci Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 9580,
+      "price": 2299000,
+      "price_per_m2": 240,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-velikosti-958m-v-obci-repiste/detail/10008591/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2299000
+        }
+      ],
+      "removed_date": "2026-05-25"
+    },
+    {
+      "id": "eurobydleni_10050985",
+      "status": "removed",
+      "type": "dum",
+      "title": "RD Ostravice ",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": 1021,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/rd-ostravice/detail/10050985/",
+      "portal": "eurobydleni",
+      "added": "2026-04-27",
+      "updated": "2026-04-27",
+      "price_history": [],
       "removed_date": "2026-05-25"
     }
   ]
