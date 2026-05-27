@@ -1,42 +1,10 @@
 {
-  "generated": "2026-05-26T17:31:27.961817+00:00",
+  "generated": "2026-05-27T06:59:42.435224+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
-    {
-      "id": "bazos_219305639",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej družstevního bytu 1+1, Ostrava, Poruba, ul. Ludvíka P",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2400000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219305639/prodej-druzstevniho-bytu-11-ostrava-poruba-ul-ludvika-p.php",
-      "portal": "bazos",
-      "added": "2026-05-25",
-      "updated": "2026-05-26",
-      "price_history": [
-        {
-          "date": "2026-05-25",
-          "price": 2500000
-        },
-        {
-          "date": "2026-05-26",
-          "price": 2400000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_218492720",
       "status": "active",
@@ -112,6 +80,38 @@
         {
           "date": "2026-05-25",
           "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219305639",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej družstevního bytu 1+1, Ostrava, Poruba, ul. Ludvíka P",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2400000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219305639/prodej-druzstevniho-bytu-11-ostrava-poruba-ul-ludvika-p.php",
+      "portal": "bazos",
+      "added": "2026-05-25",
+      "updated": "2026-05-26",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 2500000
+        },
+        {
+          "date": "2026-05-26",
+          "price": 2400000
         }
       ],
       "removed_date": null
