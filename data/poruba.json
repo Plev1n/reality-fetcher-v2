@@ -1,10 +1,38 @@
 {
-  "generated": "2026-05-29T06:49:16.593400+00:00",
+  "generated": "2026-05-29T17:34:22.160034+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_219462816",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 1+1, Ostrava - Poruba, ul. Liptánské nám.",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 38,
+      "price": 2770000,
+      "price_per_m2": 72895,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219462816/prodej-byt-11-ostrava-poruba-ul-liptanske-nam.php",
+      "portal": "bazos",
+      "added": "2026-05-29",
+      "updated": "2026-05-29",
+      "price_history": [
+        {
+          "date": "2026-05-29",
+          "price": 2770000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_218492720",
       "status": "active",
