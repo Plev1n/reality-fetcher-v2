@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-30T06:24:11.429502+00:00",
+  "generated": "2026-05-30T16:40:26.082143+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -26,6 +26,66 @@
       "added": "2026-05-06",
       "updated": "2026-05-06",
       "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218734805",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+kk, 30 m², Ostrava, ul. náměstí Václava Vacka",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 30,
+      "price": 2600000,
+      "price_per_m2": 86667,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218734805/prodej-bytu-1kk-30-m-ostrava-ul-namesti-vaclava-vacka.php",
+      "portal": "bazos",
+      "added": "2026-05-12",
+      "updated": "2026-05-12",
+      "price_history": [
+        {
+          "date": "2026-05-12",
+          "price": 2600000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_217142710",
+      "status": "active",
+      "type": "byt",
+      "title": "Družstevní byt 2+1 na Hlavní třídě v Ostravě-Porubě",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3390000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217142710/druzstevni-byt-21-na-hlavni-tride-v-ostrave-porube.php",
+      "portal": "bazos",
+      "added": "2026-04-04",
+      "updated": "2026-05-14",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 3490000
+        },
+        {
+          "date": "2026-05-14",
+          "price": 3390000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -113,38 +173,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_217142710",
-      "status": "active",
-      "type": "byt",
-      "title": "Družstevní byt 2+1 na Hlavní třídě v Ostravě-Porubě",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3390000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/217142710/druzstevni-byt-21-na-hlavni-tride-v-ostrave-porube.php",
-      "portal": "bazos",
-      "added": "2026-04-04",
-      "updated": "2026-05-14",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 3490000
-        },
-        {
-          "date": "2026-05-14",
-          "price": 3390000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_219285010",
       "status": "active",
       "type": "byt",
@@ -168,34 +196,6 @@
         {
           "date": "2026-05-25",
           "price": 2790000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218734805",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+kk, 30 m², Ostrava, ul. náměstí Václava Vacka",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 30,
-      "price": 2600000,
-      "price_per_m2": 86667,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218734805/prodej-bytu-1kk-30-m-ostrava-ul-namesti-vaclava-vacka.php",
-      "portal": "bazos",
-      "added": "2026-05-12",
-      "updated": "2026-05-12",
-      "price_history": [
-        {
-          "date": "2026-05-12",
-          "price": 2600000
         }
       ],
       "removed_date": null
