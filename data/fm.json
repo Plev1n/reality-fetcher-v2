@@ -1,38 +1,10 @@
 {
-  "generated": "2026-06-05T17:09:21.720686+00:00",
+  "generated": "2026-06-06T06:30:44.174966+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "bazos_219767836",
-      "status": "active",
-      "type": "dum",
-      "title": "Finský domek 2+1 v obci Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 3499000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219767836/finsky-domek-21-v-obci-frydek-mistek.php",
-      "portal": "bazos",
-      "added": "2026-06-05",
-      "updated": "2026-06-05",
-      "price_history": [
-        {
-          "date": "2026-06-05",
-          "price": 3499000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_219298546",
       "status": "active",
@@ -1409,6 +1381,34 @@
         {
           "date": "2026-05-27",
           "price": 4950000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219767836",
+      "status": "active",
+      "type": "dum",
+      "title": "Finský domek 2+1 v obci Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 3499000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219767836/finsky-domek-21-v-obci-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-06-05",
+      "updated": "2026-06-05",
+      "price_history": [
+        {
+          "date": "2026-06-05",
+          "price": 3499000
         }
       ],
       "removed_date": null
