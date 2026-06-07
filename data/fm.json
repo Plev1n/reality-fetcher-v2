@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-06T16:43:31.164054+00:00",
+  "generated": "2026-06-07T06:50:24.875282+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
@@ -1266,94 +1266,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_217265558",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek 3813 m2 v Dolních Soběšovicích.",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 3813,
-      "price": 4766250,
-      "price_per_m2": 1250,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217265558/pozemek-3813-m2-v-dolnich-sobesovicich.php",
-      "portal": "bazos",
-      "added": "2026-04-07",
-      "updated": "2026-04-07",
-      "price_history": [
-        {
-          "date": "2026-04-07",
-          "price": 4766250
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217228443",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku, 3955 m², Pstruží",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 3955,
-      "price": 4400000,
-      "price_per_m2": 1113,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217228443/prodej-stavebniho-pozemku-3955-m-pstruzi.php",
-      "portal": "bazos",
-      "added": "2026-04-07",
-      "updated": "2026-04-07",
-      "price_history": [
-        {
-          "date": "2026-04-07",
-          "price": 4400000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217266594",
-      "status": "active",
-      "type": "dum",
-      "title": "Dům u potoka",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 3790000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/217266594/domecek-u-potoka.php",
-      "portal": "bazos",
-      "added": "2026-05-16",
-      "updated": "2026-05-18",
-      "price_history": [
-        {
-          "date": "2026-05-16",
-          "price": 3990000
-        },
-        {
-          "date": "2026-05-18",
-          "price": 3790000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_218412899",
       "status": "active",
       "type": "dum",
@@ -2121,34 +2033,6 @@
         {
           "date": "2026-05-30",
           "price": 6299000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217236218",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodám  rodinný dům",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 7500000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/217236218/prodam-rodinny-dum.php",
-      "portal": "bazos",
-      "added": "2026-04-17",
-      "updated": "2026-04-17",
-      "price_history": [
-        {
-          "date": "2026-04-17",
-          "price": 7500000
         }
       ],
       "removed_date": null
@@ -3016,6 +2900,34 @@
         {
           "date": "2026-06-01",
           "price": 8500000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "moravskereality_3781473",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 2 739 m² Frýdek-Místek Frýdek, Nové Dvory-Hlíny",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2739,
+      "price": 7500000,
+      "price_per_m2": 2738,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://severo.moravskereality.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-2-739-m2-nove-dvory-hliny-3781473.html",
+      "portal": "moravskereality",
+      "added": "2026-06-01",
+      "updated": "2026-06-01",
+      "price_history": [
+        {
+          "date": "2026-06-01",
+          "price": 7500000
         }
       ],
       "removed_date": null
@@ -9009,34 +8921,6 @@
       "removed_date": "2026-06-01"
     },
     {
-      "id": "moravskereality_3781473",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 2 739 m² Frýdek-Místek Frýdek, Nové Dvory-Hlíny",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2739,
-      "price": 7500000,
-      "price_per_m2": 2738,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://severo.moravskereality.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-2-739-m2-nove-dvory-hliny-3781473.html",
-      "portal": "moravskereality",
-      "added": "2026-06-01",
-      "updated": "2026-06-01",
-      "price_history": [
-        {
-          "date": "2026-06-01",
-          "price": 7500000
-        }
-      ],
-      "removed_date": "2026-06-01"
-    },
-    {
       "id": "bazos_218698187",
       "status": "removed",
       "type": "pozemek",
@@ -9672,6 +9556,122 @@
         }
       ],
       "removed_date": "2026-06-05"
+    },
+    {
+      "id": "bazos_217265558",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Pozemek 3813 m2 v Dolních Soběšovicích.",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3813,
+      "price": 4766250,
+      "price_per_m2": 1250,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217265558/pozemek-3813-m2-v-dolnich-sobesovicich.php",
+      "portal": "bazos",
+      "added": "2026-04-07",
+      "updated": "2026-04-07",
+      "price_history": [
+        {
+          "date": "2026-04-07",
+          "price": 4766250
+        }
+      ],
+      "removed_date": "2026-06-07"
+    },
+    {
+      "id": "bazos_217228443",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku, 3955 m², Pstruží",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3955,
+      "price": 4400000,
+      "price_per_m2": 1113,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217228443/prodej-stavebniho-pozemku-3955-m-pstruzi.php",
+      "portal": "bazos",
+      "added": "2026-04-07",
+      "updated": "2026-04-07",
+      "price_history": [
+        {
+          "date": "2026-04-07",
+          "price": 4400000
+        }
+      ],
+      "removed_date": "2026-06-07"
+    },
+    {
+      "id": "bazos_217266594",
+      "status": "removed",
+      "type": "dum",
+      "title": "Dům u potoka",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 3790000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217266594/domecek-u-potoka.php",
+      "portal": "bazos",
+      "added": "2026-05-16",
+      "updated": "2026-05-18",
+      "price_history": [
+        {
+          "date": "2026-05-16",
+          "price": 3990000
+        },
+        {
+          "date": "2026-05-18",
+          "price": 3790000
+        }
+      ],
+      "removed_date": "2026-06-07"
+    },
+    {
+      "id": "bazos_217236218",
+      "status": "removed",
+      "type": "dum",
+      "title": "Prodám  rodinný dům",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 7500000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217236218/prodam-rodinny-dum.php",
+      "portal": "bazos",
+      "added": "2026-04-17",
+      "updated": "2026-04-17",
+      "price_history": [
+        {
+          "date": "2026-04-17",
+          "price": 7500000
+        }
+      ],
+      "removed_date": "2026-06-07"
     }
   ]
 }
