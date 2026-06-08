@@ -1,66 +1,10 @@
 {
-  "generated": "2026-06-08T06:51:38.901341+00:00",
+  "generated": "2026-06-08T17:27:02.388910+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
-    {
-      "id": "bazos_218365820",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 2+1, 51 m2, Ostrava-Poruba, ul. Zednická",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 51,
-      "price": 3675000,
-      "price_per_m2": 72059,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218365820/prodej-byt-21-51-m2-ostrava-poruba-ul-zednicka.php",
-      "portal": "bazos",
-      "added": "2026-06-08",
-      "updated": "2026-06-08",
-      "price_history": [
-        {
-          "date": "2026-06-08",
-          "price": 3675000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218616807",
-      "status": "active",
-      "type": "byt",
-      "title": "Byt 2+1 Poruba Podroužkouva",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3990000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/218616807/byt-21-poruba-podrouzkouva.php",
-      "portal": "bazos",
-      "added": "2026-06-08",
-      "updated": "2026-06-08",
-      "price_history": [
-        {
-          "date": "2026-06-08",
-          "price": 3990000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_219301983",
       "status": "active",
@@ -192,6 +136,34 @@
         {
           "date": "2026-06-04",
           "price": 2700000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218365820",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 2+1, 51 m2, Ostrava-Poruba, ul. Zednická",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 51,
+      "price": 3675000,
+      "price_per_m2": 72059,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218365820/prodej-byt-21-51-m2-ostrava-poruba-ul-zednicka.php",
+      "portal": "bazos",
+      "added": "2026-06-08",
+      "updated": "2026-06-08",
+      "price_history": [
+        {
+          "date": "2026-06-08",
+          "price": 3675000
         }
       ],
       "removed_date": null
@@ -337,38 +309,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_218944054",
-      "status": "active",
-      "type": "byt",
-      "title": "Exkluzivně nabízíme na prodej byt 2+1 v družstevním vlastnic",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2690000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/218944054/exkluzivne-nabizime-na-prodej-byt-21-v-druzstevnim-vlastnic.php",
-      "portal": "bazos",
-      "added": "2026-05-17",
-      "updated": "2026-05-31",
-      "price_history": [
-        {
-          "date": "2026-05-17",
-          "price": 2749000
-        },
-        {
-          "date": "2026-05-31",
-          "price": 2690000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_218887540",
       "status": "active",
       "type": "byt",
@@ -392,6 +332,34 @@
         {
           "date": "2026-05-16",
           "price": 3777777
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218616807",
+      "status": "active",
+      "type": "byt",
+      "title": "Byt 2+1 Poruba Podroužkouva",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3990000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218616807/byt-21-poruba-podrouzkouva.php",
+      "portal": "bazos",
+      "added": "2026-06-08",
+      "updated": "2026-06-08",
+      "price_history": [
+        {
+          "date": "2026-06-08",
+          "price": 3990000
         }
       ],
       "removed_date": null
@@ -2333,6 +2301,38 @@
         {
           "date": "2026-05-01",
           "price": 2850000
+        }
+      ],
+      "removed_date": "2026-06-08"
+    },
+    {
+      "id": "bazos_218944054",
+      "status": "removed",
+      "type": "byt",
+      "title": "Exkluzivně nabízíme na prodej byt 2+1 v družstevním vlastnic",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2690000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218944054/exkluzivne-nabizime-na-prodej-byt-21-v-druzstevnim-vlastnic.php",
+      "portal": "bazos",
+      "added": "2026-05-17",
+      "updated": "2026-05-31",
+      "price_history": [
+        {
+          "date": "2026-05-17",
+          "price": 2749000
+        },
+        {
+          "date": "2026-05-31",
+          "price": 2690000
         }
       ],
       "removed_date": "2026-06-08"
