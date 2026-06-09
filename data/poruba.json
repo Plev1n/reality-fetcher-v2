@@ -1,10 +1,66 @@
 {
-  "generated": "2026-06-09T06:40:35.059863+00:00",
+  "generated": "2026-06-09T17:18:34.154723+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_219928325",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 1+kk, 27 m, Francouzská, Ostrava - Poruba, Česko",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 27,
+      "price": 2590000,
+      "price_per_m2": 95926,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219928325/prodej-byt-1kk-27-m-francouzska-ostrava-poruba-cesko.php",
+      "portal": "bazos",
+      "added": "2026-06-09",
+      "updated": "2026-06-09",
+      "price_history": [
+        {
+          "date": "2026-06-09",
+          "price": 2590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218616807",
+      "status": "active",
+      "type": "byt",
+      "title": "Byt 2+1 Poruba Podroužkouva",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3990000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218616807/byt-21-poruba-podrouzkouva.php",
+      "portal": "bazos",
+      "added": "2026-06-08",
+      "updated": "2026-06-08",
+      "price_history": [
+        {
+          "date": "2026-06-08",
+          "price": 3990000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_219301983",
       "status": "active",
@@ -54,34 +110,6 @@
       "added": "2026-05-06",
       "updated": "2026-05-06",
       "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218734805",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+kk, 30 m², Ostrava, ul. náměstí Václava Vacka",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 30,
-      "price": 2600000,
-      "price_per_m2": 86667,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218734805/prodej-bytu-1kk-30-m-ostrava-ul-namesti-vaclava-vacka.php",
-      "portal": "bazos",
-      "added": "2026-05-12",
-      "updated": "2026-05-12",
-      "price_history": [
-        {
-          "date": "2026-05-12",
-          "price": 2600000
-        }
-      ],
       "removed_date": null
     },
     {
@@ -281,6 +309,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_218734805",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+kk, 30 m², Ostrava, ul. náměstí Václava Vacka",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 30,
+      "price": 2600000,
+      "price_per_m2": 86667,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218734805/prodej-bytu-1kk-30-m-ostrava-ul-namesti-vaclava-vacka.php",
+      "portal": "bazos",
+      "added": "2026-05-12",
+      "updated": "2026-05-12",
+      "price_history": [
+        {
+          "date": "2026-05-12",
+          "price": 2600000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_218887540",
       "status": "active",
       "type": "byt",
@@ -332,34 +388,6 @@
         {
           "date": "2026-05-12",
           "price": 3300000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218616807",
-      "status": "active",
-      "type": "byt",
-      "title": "Byt 2+1 Poruba Podroužkouva",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3990000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/218616807/byt-21-poruba-podrouzkouva.php",
-      "portal": "bazos",
-      "added": "2026-06-08",
-      "updated": "2026-06-08",
-      "price_history": [
-        {
-          "date": "2026-06-08",
-          "price": 3990000
         }
       ],
       "removed_date": null
