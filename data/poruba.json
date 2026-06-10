@@ -1,34 +1,62 @@
 {
-  "generated": "2026-06-09T17:18:34.154723+00:00",
+  "generated": "2026-06-10T06:54:46.114203+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_219928325",
+      "id": "bazos_219650130",
       "status": "active",
       "type": "byt",
-      "title": "Prodej, byt 1+kk, 27 m, Francouzská, Ostrava - Poruba, Česko",
+      "title": "Prodej bytu 2+1, 57 m², Ostrava, ul. Opavská",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 27,
-      "price": 2590000,
-      "price_per_m2": 95926,
+      "area_m2": 57,
+      "price": 3590000,
+      "price_per_m2": 62982,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219928325/prodej-byt-1kk-27-m-francouzska-ostrava-poruba-cesko.php",
+      "url": "https://reality.bazos.cz/inzerat/219650130/prodej-bytu-21-57-m-ostrava-ul-opavska.php",
       "portal": "bazos",
-      "added": "2026-06-09",
-      "updated": "2026-06-09",
+      "added": "2026-06-10",
+      "updated": "2026-06-10",
       "price_history": [
         {
-          "date": "2026-06-09",
-          "price": 2590000
+          "date": "2026-06-10",
+          "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219507158",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+1 35 m² Žilinská, Ostrava - Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 135,
+      "price": 3390000,
+      "price_per_m2": 25111,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219507158/prodej-bytu-11-35-m-zilinska-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-06-10",
+      "updated": "2026-06-10",
+      "price_history": [
+        {
+          "date": "2026-06-10",
+          "price": 3390000
         }
       ],
       "removed_date": null
@@ -62,29 +90,29 @@
       "removed_date": null
     },
     {
-      "id": "bazos_219301983",
+      "id": "bazos_219928325",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 2+1, 57 m², Ostrava, ul. Ludvíka Podéště",
+      "title": "Prodej, byt 1+kk, 27 m, Francouzská, Ostrava - Poruba, Česko",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 57,
-      "price": 3390000,
-      "price_per_m2": 59474,
+      "area_m2": 27,
+      "price": 2590000,
+      "price_per_m2": 95926,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219301983/prodej-bytu-21-57-m-ostrava-ul-ludvika-podeste.php",
+      "url": "https://reality.bazos.cz/inzerat/219928325/prodej-byt-1kk-27-m-francouzska-ostrava-poruba-cesko.php",
       "portal": "bazos",
-      "added": "2026-05-26",
-      "updated": "2026-05-26",
+      "added": "2026-06-09",
+      "updated": "2026-06-09",
       "price_history": [
         {
-          "date": "2026-05-26",
-          "price": 3390000
+          "date": "2026-06-09",
+          "price": 2590000
         }
       ],
       "removed_date": null
@@ -2364,6 +2392,34 @@
         }
       ],
       "removed_date": "2026-06-08"
+    },
+    {
+      "id": "bazos_219301983",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 57 m², Ostrava, ul. Ludvíka Podéště",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 57,
+      "price": 3390000,
+      "price_per_m2": 59474,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219301983/prodej-bytu-21-57-m-ostrava-ul-ludvika-podeste.php",
+      "portal": "bazos",
+      "added": "2026-05-26",
+      "updated": "2026-05-26",
+      "price_history": [
+        {
+          "date": "2026-05-26",
+          "price": 3390000
+        }
+      ],
+      "removed_date": "2026-06-10"
     }
   ]
 }
