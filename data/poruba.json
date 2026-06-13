@@ -1,10 +1,38 @@
 {
-  "generated": "2026-06-12T17:24:33.921647+00:00",
+  "generated": "2026-06-13T06:50:02.705800+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_220016570",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej zařízeného bytu 2+1 52 m2 na ulici Francouzská 1091/4",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 152,
+      "price": 3890000,
+      "price_per_m2": 25592,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220016570/prodej-zarizeneho-bytu-21-52-m2-na-ulici-francouzska-10914.php",
+      "portal": "bazos",
+      "added": "2026-06-13",
+      "updated": "2026-06-13",
+      "price_history": [
+        {
+          "date": "2026-06-13",
+          "price": 3890000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_220069580",
       "status": "active",
@@ -85,34 +113,6 @@
         {
           "date": "2026-05-12",
           "price": 2600000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217499978",
-      "status": "active",
-      "type": "byt",
-      "title": "Byt 2+1, Ostrava-Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3890000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/217499978/byt-21-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-04-13",
-      "updated": "2026-04-13",
-      "price_history": [
-        {
-          "date": "2026-04-13",
-          "price": 3890000
         }
       ],
       "removed_date": null
@@ -388,34 +388,6 @@
         {
           "date": "2026-06-01",
           "price": 3800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217531332",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1, 39 m², Ostrava, ul. Otakara Jeremiáše",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 39,
-      "price": 2800000,
-      "price_per_m2": 71795,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217531332/prodej-bytu-11-39-m-ostrava-ul-otakara-jeremiase.php",
-      "portal": "bazos",
-      "added": "2026-04-14",
-      "updated": "2026-04-14",
-      "price_history": [
-        {
-          "date": "2026-04-14",
-          "price": 2800000
         }
       ],
       "removed_date": null
@@ -2448,6 +2420,62 @@
         }
       ],
       "removed_date": "2026-06-11"
+    },
+    {
+      "id": "bazos_217499978",
+      "status": "removed",
+      "type": "byt",
+      "title": "Byt 2+1, Ostrava-Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3890000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217499978/byt-21-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-04-13",
+      "updated": "2026-04-13",
+      "price_history": [
+        {
+          "date": "2026-04-13",
+          "price": 3890000
+        }
+      ],
+      "removed_date": "2026-06-13"
+    },
+    {
+      "id": "bazos_217531332",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 1+1, 39 m², Ostrava, ul. Otakara Jeremiáše",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 39,
+      "price": 2800000,
+      "price_per_m2": 71795,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217531332/prodej-bytu-11-39-m-ostrava-ul-otakara-jeremiase.php",
+      "portal": "bazos",
+      "added": "2026-04-14",
+      "updated": "2026-04-14",
+      "price_history": [
+        {
+          "date": "2026-04-14",
+          "price": 2800000
+        }
+      ],
+      "removed_date": "2026-06-13"
     }
   ]
 }
