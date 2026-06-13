@@ -1,38 +1,10 @@
 {
-  "generated": "2026-06-13T06:50:02.705800+00:00",
+  "generated": "2026-06-13T16:58:40.563934+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
-    {
-      "id": "bazos_220016570",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej zařízeného bytu 2+1 52 m2 na ulici Francouzská 1091/4",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 152,
-      "price": 3890000,
-      "price_per_m2": 25592,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220016570/prodej-zarizeneho-bytu-21-52-m2-na-ulici-francouzska-10914.php",
-      "portal": "bazos",
-      "added": "2026-06-13",
-      "updated": "2026-06-13",
-      "price_history": [
-        {
-          "date": "2026-06-13",
-          "price": 3890000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_220069580",
       "status": "active",
@@ -113,6 +85,34 @@
         {
           "date": "2026-05-12",
           "price": 2600000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220016570",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej zařízeného bytu 2+1 52 m2 na ulici Francouzská 1091/4",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 152,
+      "price": 3890000,
+      "price_per_m2": 25592,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220016570/prodej-zarizeneho-bytu-21-52-m2-na-ulici-francouzska-10914.php",
+      "portal": "bazos",
+      "added": "2026-06-13",
+      "updated": "2026-06-13",
+      "price_history": [
+        {
+          "date": "2026-06-13",
+          "price": 3890000
         }
       ],
       "removed_date": null
