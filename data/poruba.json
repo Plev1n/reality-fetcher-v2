@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T07:01:58.885733+00:00",
+  "generated": "2026-06-15T18:02:14.164417+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -62,6 +62,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_218365820",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 2+1, 51 m2, Ostrava-Poruba, ul. Zednická",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 51,
+      "price": 3675000,
+      "price_per_m2": 72059,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218365820/prodej-byt-21-51-m2-ostrava-poruba-ul-zednicka.php",
+      "portal": "bazos",
+      "added": "2026-06-08",
+      "updated": "2026-06-08",
+      "price_history": [
+        {
+          "date": "2026-06-08",
+          "price": 3675000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_218734805",
       "status": "active",
       "type": "byt",
@@ -113,62 +141,6 @@
         {
           "date": "2026-06-13",
           "price": 3890000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218365820",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 2+1, 51 m2, Ostrava-Poruba, ul. Zednická",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 51,
-      "price": 3675000,
-      "price_per_m2": 72059,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218365820/prodej-byt-21-51-m2-ostrava-poruba-ul-zednicka.php",
-      "portal": "bazos",
-      "added": "2026-06-08",
-      "updated": "2026-06-08",
-      "price_history": [
-        {
-          "date": "2026-06-08",
-          "price": 3675000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219507158",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1 35 m² Žilinská, Ostrava - Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 135,
-      "price": 3390000,
-      "price_per_m2": 25111,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219507158/prodej-bytu-11-35-m-zilinska-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-06-10",
-      "updated": "2026-06-10",
-      "price_history": [
-        {
-          "date": "2026-06-10",
-          "price": 3390000
         }
       ],
       "removed_date": null
@@ -418,6 +390,57 @@
           "price": 3800000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "rksting_135108",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+1",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 45,
+      "price": 3240000,
+      "price_per_m2": 72000,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-135108/",
+      "portal": "rksting",
+      "added": "2026-04-29",
+      "updated": "2026-04-29",
+      "price_history": [
+        {
+          "date": "2026-04-29",
+          "price": 3240000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "rksting_134686",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 3+kk",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 53,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-134686/",
+      "portal": "rksting",
+      "added": "2026-05-05",
+      "updated": "2026-05-05",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -2427,54 +2450,31 @@
       "removed_date": "2026-06-13"
     },
     {
-      "id": "rksting_135108",
+      "id": "bazos_219507158",
       "status": "removed",
       "type": "byt",
-      "title": "Prodej bytu 1+1",
+      "title": "Prodej bytu 1+1 35 m² Žilinská, Ostrava - Poruba",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 45,
-      "price": 3240000,
-      "price_per_m2": 72000,
+      "area_m2": 135,
+      "price": 3390000,
+      "price_per_m2": 25111,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-135108/",
-      "portal": "rksting",
-      "added": "2026-04-29",
-      "updated": "2026-04-29",
+      "url": "https://reality.bazos.cz/inzerat/219507158/prodej-bytu-11-35-m-zilinska-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-06-10",
+      "updated": "2026-06-10",
       "price_history": [
         {
-          "date": "2026-04-29",
-          "price": 3240000
+          "date": "2026-06-10",
+          "price": 3390000
         }
       ],
-      "removed_date": "2026-06-15"
-    },
-    {
-      "id": "rksting_134686",
-      "status": "removed",
-      "type": "byt",
-      "title": "Prodej bytu 3+kk",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 53,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-134686/",
-      "portal": "rksting",
-      "added": "2026-05-05",
-      "updated": "2026-05-05",
-      "price_history": [],
       "removed_date": "2026-06-15"
     }
   ]
