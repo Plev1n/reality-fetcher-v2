@@ -1,94 +1,10 @@
 {
-  "generated": "2026-06-15T18:02:13.957167+00:00",
+  "generated": "2026-06-16T07:12:25.023059+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "bazos_220188699",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej Rodinný dům, 250㎡",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 7999999,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/220188699/prodej-rodinny-dum-250.php",
-      "portal": "bazos",
-      "added": "2026-06-15",
-      "updated": "2026-06-15",
-      "price_history": [
-        {
-          "date": "2026-06-15",
-          "price": 7999999
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220193721",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek 1 002 m² v Pazderné – klidné bydlen, 136000",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1002,
-      "price": 2200000,
-      "price_per_m2": 2196,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220193721/stavebni-pozemek-1-002-m-v-pazderne-klidne-bydlen-136000.php",
-      "portal": "bazos",
-      "added": "2026-06-15",
-      "updated": "2026-06-15",
-      "price_history": [
-        {
-          "date": "2026-06-15",
-          "price": 2200000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220187176",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek o velikosti 1481 m2, Ostravice, 132576",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1481,
-      "price": 5183500,
-      "price_per_m2": 3500,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220187176/stavebni-pozemek-o-velikosti-1481-m2-ostravice-132576.php",
-      "portal": "bazos",
-      "added": "2026-06-15",
-      "updated": "2026-06-15",
-      "price_history": [
-        {
-          "date": "2026-06-15",
-          "price": 5183500
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_220023435",
       "status": "active",
@@ -113,6 +29,34 @@
         {
           "date": "2026-06-11",
           "price": 6250000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220188699",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej Rodinný dům, 250㎡",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 7999999,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220188699/prodej-rodinny-dum-250.php",
+      "portal": "bazos",
+      "added": "2026-06-15",
+      "updated": "2026-06-15",
+      "price_history": [
+        {
+          "date": "2026-06-15",
+          "price": 7999999
         }
       ],
       "removed_date": null
@@ -954,42 +898,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_217635894",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej dvougeneračního domu 2×3+1 s rozsáhlým pozemkem – Tři",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 4380000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/217635894/prodej-dvougeneracniho-domu-231-s-rozsahlym-pozemkem-tri.php",
-      "portal": "bazos",
-      "added": "2026-04-16",
-      "updated": "2026-05-18",
-      "price_history": [
-        {
-          "date": "2026-04-16",
-          "price": 5200000
-        },
-        {
-          "date": "2026-04-29",
-          "price": 4899000
-        },
-        {
-          "date": "2026-05-18",
-          "price": 4380000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_219298546",
       "status": "active",
       "type": "pozemek",
@@ -1013,6 +921,34 @@
         {
           "date": "2026-05-25",
           "price": 2299000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220193721",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek 1 002 m² v Pazderné – klidné bydlen, 136000",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1002,
+      "price": 2200000,
+      "price_per_m2": 2196,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220193721/stavebni-pozemek-1-002-m-v-pazderne-klidne-bydlen-136000.php",
+      "portal": "bazos",
+      "added": "2026-06-15",
+      "updated": "2026-06-15",
+      "price_history": [
+        {
+          "date": "2026-06-15",
+          "price": 2200000
         }
       ],
       "removed_date": null
@@ -1045,6 +981,34 @@
         {
           "date": "2026-05-11",
           "price": 4590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220187176",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek o velikosti 1481 m2, Ostravice, 132576",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1481,
+      "price": 5183500,
+      "price_per_m2": 3500,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220187176/stavebni-pozemek-o-velikosti-1481-m2-ostravice-132576.php",
+      "portal": "bazos",
+      "added": "2026-06-15",
+      "updated": "2026-06-15",
+      "price_history": [
+        {
+          "date": "2026-06-15",
+          "price": 5183500
         }
       ],
       "removed_date": null
@@ -10339,6 +10303,42 @@
         }
       ],
       "removed_date": "2026-06-15"
+    },
+    {
+      "id": "bazos_217635894",
+      "status": "removed",
+      "type": "dum",
+      "title": "Prodej dvougeneračního domu 2×3+1 s rozsáhlým pozemkem – Tři",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 4380000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/217635894/prodej-dvougeneracniho-domu-231-s-rozsahlym-pozemkem-tri.php",
+      "portal": "bazos",
+      "added": "2026-04-16",
+      "updated": "2026-05-18",
+      "price_history": [
+        {
+          "date": "2026-04-16",
+          "price": 5200000
+        },
+        {
+          "date": "2026-04-29",
+          "price": 4899000
+        },
+        {
+          "date": "2026-05-18",
+          "price": 4380000
+        }
+      ],
+      "removed_date": "2026-06-16"
     }
   ]
 }
