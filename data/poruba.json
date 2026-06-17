@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-16T17:59:00.729449+00:00",
+  "generated": "2026-06-17T06:58:29.604543+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -57,6 +57,34 @@
         {
           "date": "2026-06-12",
           "price": 3575000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218734805",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+kk, 30 m², Ostrava, ul. náměstí Václava Vacka",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 30,
+      "price": 2600000,
+      "price_per_m2": 86667,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218734805/prodej-bytu-1kk-30-m-ostrava-ul-namesti-vaclava-vacka.php",
+      "portal": "bazos",
+      "added": "2026-05-12",
+      "updated": "2026-05-12",
+      "price_history": [
+        {
+          "date": "2026-05-12",
+          "price": 2600000
         }
       ],
       "removed_date": null
@@ -225,34 +253,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_219661032",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1, 37 m², Ostrava, ul. náměstí Antonie Bejdové",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 37,
-      "price": 2965000,
-      "price_per_m2": 80135,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219661032/prodej-bytu-11-37-m-ostrava-ul-namesti-antonie-bejdove.php",
-      "portal": "bazos",
-      "added": "2026-06-03",
-      "updated": "2026-06-03",
-      "price_history": [
-        {
-          "date": "2026-06-03",
-          "price": 2965000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_219462816",
       "status": "active",
       "type": "byt",
@@ -304,34 +304,6 @@
         {
           "date": "2026-05-25",
           "price": 2790000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218734805",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+kk, 30 m², Ostrava, ul. náměstí Václava Vacka",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 30,
-      "price": 2600000,
-      "price_per_m2": 86667,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218734805/prodej-bytu-1kk-30-m-ostrava-ul-namesti-vaclava-vacka.php",
-      "portal": "bazos",
-      "added": "2026-05-12",
-      "updated": "2026-05-12",
-      "price_history": [
-        {
-          "date": "2026-05-12",
-          "price": 2600000
         }
       ],
       "removed_date": null
@@ -2476,6 +2448,34 @@
         }
       ],
       "removed_date": "2026-06-15"
+    },
+    {
+      "id": "bazos_219661032",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 1+1, 37 m², Ostrava, ul. náměstí Antonie Bejdové",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 37,
+      "price": 2965000,
+      "price_per_m2": 80135,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219661032/prodej-bytu-11-37-m-ostrava-ul-namesti-antonie-bejdove.php",
+      "portal": "bazos",
+      "added": "2026-06-03",
+      "updated": "2026-06-03",
+      "price_history": [
+        {
+          "date": "2026-06-03",
+          "price": 2965000
+        }
+      ],
+      "removed_date": "2026-06-17"
     }
   ]
 }

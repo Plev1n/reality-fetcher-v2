@@ -1,130 +1,34 @@
 {
-  "generated": "2026-06-16T17:59:00.525492+00:00",
+  "generated": "2026-06-17T06:58:29.387847+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "realingo_24566283",
+      "id": "bazos_220249441",
       "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Sedliště, 739 36",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.717376,
-        18.382874
-      ],
-      "area_m2": null,
-      "price": 8290000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-sedliste-739-36/24566283",
-      "portal": "realingo",
-      "added": "2026-06-16",
-      "updated": "2026-06-16",
-      "price_history": [
-        {
-          "date": "2026-06-16",
-          "price": 8290000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220009227",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu po rekonstrukci, 102096",
+      "type": "pozemek",
+      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": null,
-      "price": 8200000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/220009227/prodej-rodinneho-domu-po-rekonstrukci-102096.php",
-      "portal": "bazos",
-      "added": "2026-06-11",
-      "updated": "2026-06-16",
-      "price_history": [
-        {
-          "date": "2026-06-11",
-          "price": 8290000
-        },
-        {
-          "date": "2026-06-16",
-          "price": 8200000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219731001",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu k rekonstrukci",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 2270000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219731001/prodej-rodinneho-domu-k-rekonstrukci.php",
-      "portal": "bazos",
-      "added": "2026-06-04",
-      "updated": "2026-06-16",
-      "price_history": [
-        {
-          "date": "2026-06-04",
-          "price": 2190000
-        },
-        {
-          "date": "2026-06-16",
-          "price": 2270000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219284959",
-      "status": "active",
-      "type": "dum",
-      "title": "Novostavba rodinného domu v Dolních Domaslavicích, 97349",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1244,
-      "price": 8590000,
-      "price_per_m2": 6905,
+      "area_m2": 930,
+      "price": 2999000,
+      "price_per_m2": 3225,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219284959/novostavba-rodinneho-domu-v-dolnich-domaslavicich-97349.php",
+      "url": "https://reality.bazos.cz/inzerat/220249441/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste.php",
       "portal": "bazos",
-      "added": "2026-05-25",
-      "updated": "2026-06-16",
+      "added": "2026-06-17",
+      "updated": "2026-06-17",
       "price_history": [
         {
-          "date": "2026-05-25",
-          "price": 8690000
-        },
-        {
-          "date": "2026-06-16",
-          "price": 8590000
+          "date": "2026-06-17",
+          "price": 2999000
         }
       ],
       "removed_date": null
@@ -274,6 +178,38 @@
       "removed_date": null
     },
     {
+      "id": "bazos_220009227",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu po rekonstrukci, 102096",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 8200000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220009227/prodej-rodinneho-domu-po-rekonstrukci-102096.php",
+      "portal": "bazos",
+      "added": "2026-06-11",
+      "updated": "2026-06-16",
+      "price_history": [
+        {
+          "date": "2026-06-11",
+          "price": 8290000
+        },
+        {
+          "date": "2026-06-16",
+          "price": 8200000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_220005265",
       "status": "active",
       "type": "dum",
@@ -386,6 +322,38 @@
       "removed_date": null
     },
     {
+      "id": "bazos_219731001",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu k rekonstrukci",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 2270000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219731001/prodej-rodinneho-domu-k-rekonstrukci.php",
+      "portal": "bazos",
+      "added": "2026-06-04",
+      "updated": "2026-06-16",
+      "price_history": [
+        {
+          "date": "2026-06-04",
+          "price": 2190000
+        },
+        {
+          "date": "2026-06-16",
+          "price": 2270000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_219730141",
       "status": "active",
       "type": "dum",
@@ -446,34 +414,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_219389440",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinný dům v Metylovicích",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 5000000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219389440/rodinny-dum-v-metylovicich.php",
-      "portal": "bazos",
-      "added": "2026-05-27",
-      "updated": "2026-05-27",
-      "price_history": [
-        {
-          "date": "2026-05-27",
-          "price": 5000000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_218789815",
       "status": "active",
       "type": "dum",
@@ -525,6 +465,38 @@
         {
           "date": "2026-05-25",
           "price": 4600000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219284959",
+      "status": "active",
+      "type": "dum",
+      "title": "Novostavba rodinného domu v Dolních Domaslavicích, 97349",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1244,
+      "price": 8590000,
+      "price_per_m2": 6905,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219284959/novostavba-rodinneho-domu-v-dolnich-domaslavicich-97349.php",
+      "portal": "bazos",
+      "added": "2026-05-25",
+      "updated": "2026-06-16",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 8690000
+        },
+        {
+          "date": "2026-06-16",
+          "price": 8590000
         }
       ],
       "removed_date": null
@@ -1253,34 +1225,6 @@
         {
           "date": "2026-06-10",
           "price": 5890000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219964697",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek 930 m², Bukovice u Dobratic, sítě na hranic",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 930,
-      "price": 2400000,
-      "price_per_m2": 2581,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219964697/stavebni-pozemek-930-m-bukovice-u-dobratic-site-na-hranic.php",
-      "portal": "bazos",
-      "added": "2026-06-13",
-      "updated": "2026-06-13",
-      "price_history": [
-        {
-          "date": "2026-06-13",
-          "price": 2400000
         }
       ],
       "removed_date": null
@@ -2278,62 +2222,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_217702005",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, 1028 m², Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1028,
-      "price": 3290000,
-      "price_per_m2": 3200,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217702005/prodej-pozemku-k-bydleni-1028-m-frydek-mistek.php",
-      "portal": "bazos",
-      "added": "2026-04-17",
-      "updated": "2026-04-17",
-      "price_history": [
-        {
-          "date": "2026-04-17",
-          "price": 3290000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_217702007",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, 1025 m², Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1025,
-      "price": 3280000,
-      "price_per_m2": 3200,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/217702007/prodej-pozemku-k-bydleni-1025-m-frydek-mistek.php",
-      "portal": "bazos",
-      "added": "2026-04-23",
-      "updated": "2026-04-23",
-      "price_history": [
-        {
-          "date": "2026-04-23",
-          "price": 3280000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "realingo_24577926",
       "status": "active",
       "type": "dum",
@@ -2380,6 +2268,34 @@
         {
           "date": "2026-06-01",
           "price": 7995000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24566283",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Sedliště, 739 36",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.717376,
+        18.382874
+      ],
+      "area_m2": null,
+      "price": 8290000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-sedliste-739-36/24566283",
+      "portal": "realingo",
+      "added": "2026-06-16",
+      "updated": "2026-06-16",
+      "price_history": [
+        {
+          "date": "2026-06-16",
+          "price": 8290000
         }
       ],
       "removed_date": null
@@ -2571,6 +2487,57 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10124291",
+      "status": "active",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
+      "portal": "eurobydleni",
+      "added": "2026-05-15",
+      "updated": "2026-05-15",
+      "price_history": [
+        {
+          "date": "2026-05-15",
+          "price": 6999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10129685",
       "status": "active",
       "type": "pozemek",
@@ -2747,34 +2714,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10106703",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": 1930,
-      "price": 2999000,
-      "price_per_m2": 1554,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste/detail/10106703/",
-      "portal": "eurobydleni",
-      "added": "2026-06-13",
-      "updated": "2026-06-13",
-      "price_history": [
-        {
-          "date": "2026-06-13",
-          "price": 2999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10075484",
       "status": "active",
       "type": "pozemek",
@@ -2828,57 +2767,6 @@
           "price": 2499999
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10124291",
-      "status": "active",
-      "type": "dum",
-      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
-      "portal": "eurobydleni",
-      "added": "2026-05-15",
-      "updated": "2026-05-15",
-      "price_history": [
-        {
-          "date": "2026-05-15",
-          "price": 6999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -10379,6 +10267,146 @@
         }
       ],
       "removed_date": "2026-06-16"
+    },
+    {
+      "id": "bazos_219389440",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinný dům v Metylovicích",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 5000000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219389440/rodinny-dum-v-metylovicich.php",
+      "portal": "bazos",
+      "added": "2026-05-27",
+      "updated": "2026-05-27",
+      "price_history": [
+        {
+          "date": "2026-05-27",
+          "price": 5000000
+        }
+      ],
+      "removed_date": "2026-06-17"
+    },
+    {
+      "id": "bazos_219964697",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek 930 m², Bukovice u Dobratic, sítě na hranic",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 930,
+      "price": 2400000,
+      "price_per_m2": 2581,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219964697/stavebni-pozemek-930-m-bukovice-u-dobratic-site-na-hranic.php",
+      "portal": "bazos",
+      "added": "2026-06-13",
+      "updated": "2026-06-13",
+      "price_history": [
+        {
+          "date": "2026-06-13",
+          "price": 2400000
+        }
+      ],
+      "removed_date": "2026-06-17"
+    },
+    {
+      "id": "bazos_217702005",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 1028 m², Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1028,
+      "price": 3290000,
+      "price_per_m2": 3200,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217702005/prodej-pozemku-k-bydleni-1028-m-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-04-17",
+      "updated": "2026-04-17",
+      "price_history": [
+        {
+          "date": "2026-04-17",
+          "price": 3290000
+        }
+      ],
+      "removed_date": "2026-06-17"
+    },
+    {
+      "id": "bazos_217702007",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 1025 m², Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1025,
+      "price": 3280000,
+      "price_per_m2": 3200,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/217702007/prodej-pozemku-k-bydleni-1025-m-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-04-23",
+      "updated": "2026-04-23",
+      "price_history": [
+        {
+          "date": "2026-04-23",
+          "price": 3280000
+        }
+      ],
+      "removed_date": "2026-06-17"
+    },
+    {
+      "id": "eurobydleni_10106703",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": 1930,
+      "price": 2999000,
+      "price_per_m2": 1554,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste/detail/10106703/",
+      "portal": "eurobydleni",
+      "added": "2026-06-13",
+      "updated": "2026-06-13",
+      "price_history": [
+        {
+          "date": "2026-06-13",
+          "price": 2999000
+        }
+      ],
+      "removed_date": "2026-06-17"
     }
   ]
 }
