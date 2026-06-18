@@ -1,38 +1,10 @@
 {
-  "generated": "2026-06-18T06:49:42.771150+00:00",
+  "generated": "2026-06-18T17:23:03.505136+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
-    {
-      "id": "bazos_220283462",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1kk",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 25,
-      "price": 2450,
-      "price_per_m2": 98,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220283462/prodej-bytu-1kk.php",
-      "portal": "bazos",
-      "added": "2026-06-18",
-      "updated": "2026-06-18",
-      "price_history": [
-        {
-          "date": "2026-06-18",
-          "price": 2450
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_218747107",
       "status": "active",
@@ -113,6 +85,62 @@
         {
           "date": "2026-06-08",
           "price": 3675000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218503725",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej dr. bytu 2+1, 68m2, fran. okno, Ostrava - Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 68,
+      "price": 3800000,
+      "price_per_m2": 55882,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218503725/prodej-dr-bytu-21-68m2-fran-okno-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-06-01",
+      "updated": "2026-06-01",
+      "price_history": [
+        {
+          "date": "2026-06-01",
+          "price": 3800000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220283462",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1kk",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 25,
+      "price": 2450,
+      "price_per_m2": 98,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220283462/prodej-bytu-1kk.php",
+      "portal": "bazos",
+      "added": "2026-06-18",
+      "updated": "2026-06-18",
+      "price_history": [
+        {
+          "date": "2026-06-18",
+          "price": 2450
         }
       ],
       "removed_date": null
@@ -388,34 +416,6 @@
         {
           "date": "2026-05-16",
           "price": 3777777
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218503725",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej dr. bytu 2+1, 68m2, fran. okno, Ostrava - Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 68,
-      "price": 3800000,
-      "price_per_m2": 55882,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218503725/prodej-dr-bytu-21-68m2-fran-okno-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-06-01",
-      "updated": "2026-06-01",
-      "price_history": [
-        {
-          "date": "2026-06-01",
-          "price": 3800000
         }
       ],
       "removed_date": null
