@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T17:08:01.939346+00:00",
+  "generated": "2026-06-25T06:45:28.778088+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -304,34 +304,6 @@
         {
           "date": "2026-06-04",
           "price": 2700000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219681828",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 2+1, Ostrava - Poruba, ul. Větrná",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3080000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219681828/prodej-byt-21-ostrava-poruba-ul-vetrna.php",
-      "portal": "bazos",
-      "added": "2026-06-03",
-      "updated": "2026-06-03",
-      "price_history": [
-        {
-          "date": "2026-06-03",
-          "price": 3080000
         }
       ],
       "removed_date": null
@@ -2572,6 +2544,34 @@
         }
       ],
       "removed_date": "2026-06-22"
+    },
+    {
+      "id": "bazos_219681828",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej, byt 2+1, Ostrava - Poruba, ul. Větrná",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3080000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219681828/prodej-byt-21-ostrava-poruba-ul-vetrna.php",
+      "portal": "bazos",
+      "added": "2026-06-03",
+      "updated": "2026-06-03",
+      "price_history": [
+        {
+          "date": "2026-06-03",
+          "price": 3080000
+        }
+      ],
+      "removed_date": "2026-06-25"
     }
   ]
 }
