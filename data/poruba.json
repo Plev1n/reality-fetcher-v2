@@ -1,10 +1,66 @@
 {
-  "generated": "2026-06-25T06:45:28.778088+00:00",
+  "generated": "2026-06-26T17:07:13.845129+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_220458954",
+      "status": "active",
+      "type": "byt",
+      "title": "Byt 1+1 Pustkovec v osobním vlastnictví",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 40,
+      "price": 2950000,
+      "price_per_m2": 73750,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220458954/byt-11-pustkovec-v-osobnim-vlastnictvi.php",
+      "portal": "bazos",
+      "added": "2026-06-26",
+      "updated": "2026-06-26",
+      "price_history": [
+        {
+          "date": "2026-06-26",
+          "price": 2950000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220598591",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej kompletně zrekonstruovaného bytu 1+kk se zasklenou lo",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2680000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220598591/prodej-kompletne-zrekonstruovaneho-bytu-1kk-se-zasklenou-lo.php",
+      "portal": "bazos",
+      "added": "2026-06-26",
+      "updated": "2026-06-26",
+      "price_history": [
+        {
+          "date": "2026-06-26",
+          "price": 2680000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_218747107",
       "status": "active",
@@ -34,29 +90,29 @@
       "removed_date": null
     },
     {
-      "id": "bazos_220319329",
+      "id": "bazos_218365820",
       "status": "active",
       "type": "byt",
-      "title": "Slunný byt 1+1 se zasklenou lodžií, osobní vlastnict, 135785",
+      "title": "Prodej, byt 2+1, 51 m2, Ostrava-Poruba, ul. Zednická",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 40,
-      "price": 3440000,
-      "price_per_m2": 86000,
+      "area_m2": 51,
+      "price": 3675000,
+      "price_per_m2": 72059,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220319329/slunny-byt-11-se-zasklenou-lodzii-osobni-vlastnict-135785.php",
+      "url": "https://reality.bazos.cz/inzerat/218365820/prodej-byt-21-51-m2-ostrava-poruba-ul-zednicka.php",
       "portal": "bazos",
-      "added": "2026-06-22",
-      "updated": "2026-06-22",
+      "added": "2026-06-08",
+      "updated": "2026-06-08",
       "price_history": [
         {
-          "date": "2026-06-22",
-          "price": 3440000
+          "date": "2026-06-08",
+          "price": 3675000
         }
       ],
       "removed_date": null
@@ -85,34 +141,6 @@
         {
           "date": "2026-06-12",
           "price": 3575000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218365820",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 2+1, 51 m2, Ostrava-Poruba, ul. Zednická",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 51,
-      "price": 3675000,
-      "price_per_m2": 72059,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218365820/prodej-byt-21-51-m2-ostrava-poruba-ul-zednicka.php",
-      "portal": "bazos",
-      "added": "2026-06-08",
-      "updated": "2026-06-08",
-      "price_history": [
-        {
-          "date": "2026-06-08",
-          "price": 3675000
         }
       ],
       "removed_date": null
@@ -396,6 +424,38 @@
         {
           "date": "2026-05-12",
           "price": 2600000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "rksting_135108",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+1",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 45,
+      "price": 2990000,
+      "price_per_m2": 66444,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-135108/",
+      "portal": "rksting",
+      "added": "2026-04-29",
+      "updated": "2026-06-17",
+      "price_history": [
+        {
+          "date": "2026-04-29",
+          "price": 3240000
+        },
+        {
+          "date": "2026-06-17",
+          "price": 2990000
         }
       ],
       "removed_date": null
@@ -2486,38 +2546,6 @@
       "removed_date": "2026-06-19"
     },
     {
-      "id": "rksting_135108",
-      "status": "removed",
-      "type": "byt",
-      "title": "Prodej bytu 1+1",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 45,
-      "price": 2990000,
-      "price_per_m2": 66444,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-135108/",
-      "portal": "rksting",
-      "added": "2026-04-29",
-      "updated": "2026-06-17",
-      "price_history": [
-        {
-          "date": "2026-04-29",
-          "price": 3240000
-        },
-        {
-          "date": "2026-06-17",
-          "price": 2990000
-        }
-      ],
-      "removed_date": "2026-06-19"
-    },
-    {
       "id": "bazos_219780203",
       "status": "removed",
       "type": "byt",
@@ -2572,6 +2600,34 @@
         }
       ],
       "removed_date": "2026-06-25"
+    },
+    {
+      "id": "bazos_220319329",
+      "status": "removed",
+      "type": "byt",
+      "title": "Slunný byt 1+1 se zasklenou lodžií, osobní vlastnict, 135785",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 40,
+      "price": 3440000,
+      "price_per_m2": 86000,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220319329/slunny-byt-11-se-zasklenou-lodzii-osobni-vlastnict-135785.php",
+      "portal": "bazos",
+      "added": "2026-06-22",
+      "updated": "2026-06-22",
+      "price_history": [
+        {
+          "date": "2026-06-22",
+          "price": 3440000
+        }
+      ],
+      "removed_date": "2026-06-26"
     }
   ]
 }
