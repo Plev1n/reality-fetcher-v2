@@ -1,142 +1,10 @@
 {
-  "generated": "2026-06-26T17:07:13.600219+00:00",
+  "generated": "2026-06-27T06:37:15.111032+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "bazos_220574322",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, 3902 m², Ostravice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 3528,
-      "price": 4900000,
-      "price_per_m2": 1389,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220574322/prodej-pozemku-k-bydleni-3902-m-ostravice.php",
-      "portal": "bazos",
-      "added": "2026-06-26",
-      "updated": "2026-06-26",
-      "price_history": [
-        {
-          "date": "2026-06-26",
-          "price": 4900000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220616128",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinný dům 4+1 v obci Kunčičky u Bašky",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 5990000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/220616128/rodinny-dum-41-v-obci-kuncicky-u-basky.php",
-      "portal": "bazos",
-      "added": "2026-06-26",
-      "updated": "2026-06-26",
-      "price_history": [
-        {
-          "date": "2026-06-26",
-          "price": 5990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220234395",
-      "status": "active",
-      "type": "dum",
-      "title": "(N414) Rodinný dům v Čeladné",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 8500000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/220234395/n414-rodinny-dum-v-celadne.php",
-      "portal": "bazos",
-      "added": "2026-06-26",
-      "updated": "2026-06-26",
-      "price_history": [
-        {
-          "date": "2026-06-26",
-          "price": 8500000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218123667",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu, Staříč",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 4300000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/218123667/prodej-rodinneho-domu-staric.php",
-      "portal": "bazos",
-      "added": "2026-05-22",
-      "updated": "2026-06-26",
-      "price_history": [
-        {
-          "date": "2026-05-22",
-          "price": 5250000
-        },
-        {
-          "date": "2026-05-28",
-          "price": 5150000
-        },
-        {
-          "date": "2026-06-01",
-          "price": 5000000
-        },
-        {
-          "date": "2026-06-03",
-          "price": 4990000
-        },
-        {
-          "date": "2026-06-12",
-          "price": 4450000
-        },
-        {
-          "date": "2026-06-26",
-          "price": 4300000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_219298546",
       "status": "active",
@@ -161,6 +29,34 @@
         {
           "date": "2026-05-25",
           "price": 2299000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220574322",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 3902 m², Ostravice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3528,
+      "price": 4900000,
+      "price_per_m2": 1389,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220574322/prodej-pozemku-k-bydleni-3902-m-ostravice.php",
+      "portal": "bazos",
+      "added": "2026-06-26",
+      "updated": "2026-06-26",
+      "price_history": [
+        {
+          "date": "2026-06-26",
+          "price": 4900000
         }
       ],
       "removed_date": null
@@ -1306,38 +1202,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_218137978",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek 2147 m² se stavebním povolení a hotovou základovou d",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2147,
-      "price": 5900000,
-      "price_per_m2": 2748,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218137978/rodinny-dum-ve-vystavbe-156m2-s-pozemkem-o-velikosti-214.php",
-      "portal": "bazos",
-      "added": "2026-05-05",
-      "updated": "2026-05-13",
-      "price_history": [
-        {
-          "date": "2026-05-05",
-          "price": 6100000
-        },
-        {
-          "date": "2026-05-13",
-          "price": 5900000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_218879212",
       "status": "active",
       "type": "pozemek",
@@ -1710,6 +1574,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_220616128",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinný dům 4+1 v obci Kunčičky u Bašky",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 5990000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220616128/rodinny-dum-41-v-obci-kuncicky-u-basky.php",
+      "portal": "bazos",
+      "added": "2026-06-26",
+      "updated": "2026-06-26",
+      "price_history": [
+        {
+          "date": "2026-06-26",
+          "price": 5990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_218412899",
       "status": "active",
       "type": "dum",
@@ -1797,6 +1689,34 @@
         {
           "date": "2026-06-18",
           "price": 4380000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220234395",
+      "status": "active",
+      "type": "dum",
+      "title": "(N414) Rodinný dům v Čeladné",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 8500000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220234395/n414-rodinny-dum-v-celadne.php",
+      "portal": "bazos",
+      "added": "2026-06-26",
+      "updated": "2026-06-26",
+      "price_history": [
+        {
+          "date": "2026-06-26",
+          "price": 8500000
         }
       ],
       "removed_date": null
@@ -1917,34 +1837,6 @@
         {
           "date": "2026-06-24",
           "price": 6150000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219890342",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu, 180 m², Raškovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2901,
-      "price": 9200000,
-      "price_per_m2": 3171,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219890342/prodej-rodinneho-domu-180-m-raskovice.php",
-      "portal": "bazos",
-      "added": "2026-06-08",
-      "updated": "2026-06-08",
-      "price_history": [
-        {
-          "date": "2026-06-08",
-          "price": 9200000
         }
       ],
       "removed_date": null
@@ -2664,57 +2556,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10124291",
-      "status": "active",
-      "type": "dum",
-      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
-      "portal": "eurobydleni",
-      "added": "2026-05-15",
-      "updated": "2026-05-15",
-      "price_history": [
-        {
-          "date": "2026-05-15",
-          "price": 6999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10132671",
       "status": "active",
       "type": "pozemek",
@@ -2951,6 +2792,85 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10124291",
+      "status": "active",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
+      "portal": "eurobydleni",
+      "added": "2026-05-15",
+      "updated": "2026-05-15",
+      "price_history": [
+        {
+          "date": "2026-05-15",
+          "price": 6999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3683232",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 2 679 m² Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 2679,
+      "price": 5900000,
+      "price_per_m2": 2202,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3683232.html",
+      "portal": "sousede",
+      "added": "2026-04-30",
+      "updated": "2026-04-30",
+      "price_history": [
+        {
+          "date": "2026-04-30",
+          "price": 5900000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "sousede_3731844",
       "status": "active",
       "type": "pozemek",
@@ -3114,34 +3034,6 @@
         {
           "date": "2026-05-22",
           "price": 7200000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "moravskereality_3781473",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 2 739 m² Frýdek-Místek Frýdek, Nové Dvory-Hlíny",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2739,
-      "price": 7500000,
-      "price_per_m2": 2738,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://severo.moravskereality.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-2-739-m2-nove-dvory-hliny-3781473.html",
-      "portal": "moravskereality",
-      "added": "2026-06-01",
-      "updated": "2026-06-01",
-      "price_history": [
-        {
-          "date": "2026-06-01",
-          "price": 7500000
         }
       ],
       "removed_date": null
@@ -6925,34 +6817,6 @@
         {
           "date": "2026-05-05",
           "price": 650000
-        }
-      ],
-      "removed_date": "2026-05-13"
-    },
-    {
-      "id": "sousede_3683232",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 2 679 m² Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.72,
-        18.31
-      ],
-      "area_m2": 2679,
-      "price": 5900000,
-      "price_per_m2": 2202,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3683232.html",
-      "portal": "sousede",
-      "added": "2026-04-30",
-      "updated": "2026-04-30",
-      "price_history": [
-        {
-          "date": "2026-04-30",
-          "price": 5900000
         }
       ],
       "removed_date": "2026-05-13"
@@ -11167,6 +11031,142 @@
       "updated": "2026-05-21",
       "price_history": [],
       "removed_date": "2026-06-26"
+    },
+    {
+      "id": "bazos_218123667",
+      "status": "removed",
+      "type": "dum",
+      "title": "Prodej rodinného domu, Staříč",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 4300000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218123667/prodej-rodinneho-domu-staric.php",
+      "portal": "bazos",
+      "added": "2026-05-22",
+      "updated": "2026-06-26",
+      "price_history": [
+        {
+          "date": "2026-05-22",
+          "price": 5250000
+        },
+        {
+          "date": "2026-05-28",
+          "price": 5150000
+        },
+        {
+          "date": "2026-06-01",
+          "price": 5000000
+        },
+        {
+          "date": "2026-06-03",
+          "price": 4990000
+        },
+        {
+          "date": "2026-06-12",
+          "price": 4450000
+        },
+        {
+          "date": "2026-06-26",
+          "price": 4300000
+        }
+      ],
+      "removed_date": "2026-06-27"
+    },
+    {
+      "id": "bazos_218137978",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Pozemek 2147 m² se stavebním povolení a hotovou základovou d",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2147,
+      "price": 5900000,
+      "price_per_m2": 2748,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218137978/rodinny-dum-ve-vystavbe-156m2-s-pozemkem-o-velikosti-214.php",
+      "portal": "bazos",
+      "added": "2026-05-05",
+      "updated": "2026-05-13",
+      "price_history": [
+        {
+          "date": "2026-05-05",
+          "price": 6100000
+        },
+        {
+          "date": "2026-05-13",
+          "price": 5900000
+        }
+      ],
+      "removed_date": "2026-06-27"
+    },
+    {
+      "id": "bazos_219890342",
+      "status": "removed",
+      "type": "dum",
+      "title": "Prodej rodinného domu, 180 m², Raškovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2901,
+      "price": 9200000,
+      "price_per_m2": 3171,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219890342/prodej-rodinneho-domu-180-m-raskovice.php",
+      "portal": "bazos",
+      "added": "2026-06-08",
+      "updated": "2026-06-08",
+      "price_history": [
+        {
+          "date": "2026-06-08",
+          "price": 9200000
+        }
+      ],
+      "removed_date": "2026-06-27"
+    },
+    {
+      "id": "moravskereality_3781473",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 2 739 m² Frýdek-Místek Frýdek, Nové Dvory-Hlíny",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2739,
+      "price": 7500000,
+      "price_per_m2": 2738,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://severo.moravskereality.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-2-739-m2-nove-dvory-hliny-3781473.html",
+      "portal": "moravskereality",
+      "added": "2026-06-01",
+      "updated": "2026-06-01",
+      "price_history": [
+        {
+          "date": "2026-06-01",
+          "price": 7500000
+        }
+      ],
+      "removed_date": "2026-06-27"
     }
   ]
 }
