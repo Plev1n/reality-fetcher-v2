@@ -1,34 +1,34 @@
 {
-  "generated": "2026-06-28T16:47:46.637678+00:00",
+  "generated": "2026-06-29T07:00:48.344649+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_219650130",
+      "id": "bazos_218747107",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 2+1, 57 m², Ostrava, ul. Opavská",
+      "title": "Prodej bytu 2+1, 52 m², Ostrava, ul. Sokolovská",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 57,
-      "price": 3590000,
-      "price_per_m2": 62982,
+      "area_m2": 52,
+      "price": 3300000,
+      "price_per_m2": 63462,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219650130/prodej-bytu-21-57-m-ostrava-ul-opavska.php",
+      "url": "https://reality.bazos.cz/inzerat/218747107/prodej-bytu-21-52-m-ostrava-ul-sokolovska.php",
       "portal": "bazos",
-      "added": "2026-06-10",
-      "updated": "2026-06-10",
+      "added": "2026-05-12",
+      "updated": "2026-05-12",
       "price_history": [
         {
-          "date": "2026-06-10",
-          "price": 3590000
+          "date": "2026-05-12",
+          "price": 3300000
         }
       ],
       "removed_date": null
@@ -360,6 +360,130 @@
         {
           "date": "2026-06-04",
           "price": 2700000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219462816",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 1+1, Ostrava - Poruba, ul. Liptáňské nám.",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2770000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219462816/prodej-byt-11-ostrava-poruba-ul-liptanske-nam.php",
+      "portal": "bazos",
+      "added": "2026-05-29",
+      "updated": "2026-06-22",
+      "price_history": [
+        {
+          "date": "2026-05-29",
+          "price": 2770000
+        },
+        {
+          "date": "2026-06-19",
+          "price": 2670000
+        },
+        {
+          "date": "2026-06-22",
+          "price": 2770000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219285010",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2790000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219285010/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
+      "portal": "bazos",
+      "added": "2026-05-25",
+      "updated": "2026-05-25",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 2790000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_218734805",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+kk, 30 m², Ostrava, ul. náměstí Václava Vacka",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 30,
+      "price": 2600000,
+      "price_per_m2": 86667,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218734805/prodej-bytu-1kk-30-m-ostrava-ul-namesti-vaclava-vacka.php",
+      "portal": "bazos",
+      "added": "2026-05-12",
+      "updated": "2026-05-12",
+      "price_history": [
+        {
+          "date": "2026-05-12",
+          "price": 2600000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "rksting_135108",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+1",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 45,
+      "price": 2990000,
+      "price_per_m2": 66444,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-135108/",
+      "portal": "rksting",
+      "added": "2026-04-29",
+      "updated": "2026-06-17",
+      "price_history": [
+        {
+          "date": "2026-04-29",
+          "price": 3240000
+        },
+        {
+          "date": "2026-06-17",
+          "price": 2990000
         }
       ],
       "removed_date": null
@@ -2534,126 +2658,6 @@
       "removed_date": "2026-06-27"
     },
     {
-      "id": "bazos_218747107",
-      "status": "removed",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 52 m², Ostrava, ul. Sokolovská",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 52,
-      "price": 3300000,
-      "price_per_m2": 63462,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218747107/prodej-bytu-21-52-m-ostrava-ul-sokolovska.php",
-      "portal": "bazos",
-      "added": "2026-05-12",
-      "updated": "2026-05-12",
-      "price_history": [
-        {
-          "date": "2026-05-12",
-          "price": 3300000
-        }
-      ],
-      "removed_date": "2026-06-28"
-    },
-    {
-      "id": "bazos_219462816",
-      "status": "removed",
-      "type": "byt",
-      "title": "Prodej, byt 1+1, Ostrava - Poruba, ul. Liptáňské nám.",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2770000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219462816/prodej-byt-11-ostrava-poruba-ul-liptanske-nam.php",
-      "portal": "bazos",
-      "added": "2026-05-29",
-      "updated": "2026-06-22",
-      "price_history": [
-        {
-          "date": "2026-05-29",
-          "price": 2770000
-        },
-        {
-          "date": "2026-06-19",
-          "price": 2670000
-        },
-        {
-          "date": "2026-06-22",
-          "price": 2770000
-        }
-      ],
-      "removed_date": "2026-06-28"
-    },
-    {
-      "id": "bazos_219285010",
-      "status": "removed",
-      "type": "byt",
-      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2790000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219285010/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
-      "portal": "bazos",
-      "added": "2026-05-25",
-      "updated": "2026-05-25",
-      "price_history": [
-        {
-          "date": "2026-05-25",
-          "price": 2790000
-        }
-      ],
-      "removed_date": "2026-06-28"
-    },
-    {
-      "id": "bazos_218734805",
-      "status": "removed",
-      "type": "byt",
-      "title": "Prodej bytu 1+kk, 30 m², Ostrava, ul. náměstí Václava Vacka",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 30,
-      "price": 2600000,
-      "price_per_m2": 86667,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218734805/prodej-bytu-1kk-30-m-ostrava-ul-namesti-vaclava-vacka.php",
-      "portal": "bazos",
-      "added": "2026-05-12",
-      "updated": "2026-05-12",
-      "price_history": [
-        {
-          "date": "2026-05-12",
-          "price": 2600000
-        }
-      ],
-      "removed_date": "2026-06-28"
-    },
-    {
       "id": "bazos_219994634",
       "status": "removed",
       "type": "byt",
@@ -2710,36 +2714,32 @@
       "removed_date": "2026-06-28"
     },
     {
-      "id": "rksting_135108",
+      "id": "bazos_219650130",
       "status": "removed",
       "type": "byt",
-      "title": "Prodej bytu 1+1",
+      "title": "Prodej bytu 2+1, 57 m², Ostrava, ul. Opavská",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 45,
-      "price": 2990000,
-      "price_per_m2": 66444,
+      "area_m2": 57,
+      "price": 3590000,
+      "price_per_m2": 62982,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.rksting.cz/prodej-byty-ostrava-poruba-135108/",
-      "portal": "rksting",
-      "added": "2026-04-29",
-      "updated": "2026-06-17",
+      "url": "https://reality.bazos.cz/inzerat/219650130/prodej-bytu-21-57-m-ostrava-ul-opavska.php",
+      "portal": "bazos",
+      "added": "2026-06-10",
+      "updated": "2026-06-10",
       "price_history": [
         {
-          "date": "2026-04-29",
-          "price": 3240000
-        },
-        {
-          "date": "2026-06-17",
-          "price": 2990000
+          "date": "2026-06-10",
+          "price": 3590000
         }
       ],
-      "removed_date": "2026-06-28"
+      "removed_date": "2026-06-29"
     }
   ]
 }
