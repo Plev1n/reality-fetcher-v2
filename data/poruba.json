@@ -1,10 +1,42 @@
 {
-  "generated": "2026-06-29T07:00:48.344649+00:00",
+  "generated": "2026-06-29T17:24:20.442866+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_219285010",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2690000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219285010/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
+      "portal": "bazos",
+      "added": "2026-05-25",
+      "updated": "2026-06-29",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 2790000
+        },
+        {
+          "date": "2026-06-29",
+          "price": 2690000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_218747107",
       "status": "active",
@@ -396,34 +428,6 @@
         {
           "date": "2026-06-22",
           "price": 2770000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219285010",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2790000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219285010/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
-      "portal": "bazos",
-      "added": "2026-05-25",
-      "updated": "2026-05-25",
-      "price_history": [
-        {
-          "date": "2026-05-25",
-          "price": 2790000
         }
       ],
       "removed_date": null

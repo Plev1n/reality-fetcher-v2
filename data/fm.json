@@ -1,34 +1,90 @@
 {
-  "generated": "2026-06-29T07:00:48.114305+00:00",
+  "generated": "2026-06-29T17:24:20.227093+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "realingo_24532703",
+      "id": "bazos_220712782",
       "status": "active",
       "type": "dum",
-      "title": "Rodinny dum, Staříč, 739 43",
-      "location": "Staříč",
-      "location_id": "staric",
+      "title": "dům v Neborech",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.687178,
-        18.274727
+        49.6878,
+        18.3498
       ],
-      "area_m2": null,
-      "price": 7900000,
-      "price_per_m2": null,
+      "area_m2": 4000,
+      "price": 7950000,
+      "price_per_m2": 1988,
       "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-frycovicka-staric/24532703",
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220712782/dum-v-neborech.php",
+      "portal": "bazos",
+      "added": "2026-06-29",
+      "updated": "2026-06-29",
+      "price_history": [
+        {
+          "date": "2026-06-29",
+          "price": 7950000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24484254",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Lubno, Frýdlant nad Ostravicí",
+      "location": "Frýdlant-Lubno",
+      "location_id": "frydlant_lubno",
+      "coordinates": [
+        49.593261781164,
+        18.395893210462
+      ],
+      "area_m2": 1553,
+      "price": 6300000,
+      "price_per_m2": 4057,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24484254",
       "portal": "realingo",
       "added": "2026-06-29",
       "updated": "2026-06-29",
       "price_history": [
         {
           "date": "2026-06-29",
-          "price": 7900000
+          "price": 6300000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24528084",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Ostravice",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.5350970785275,
+        18.391640158392757
+      ],
+      "area_m2": 10918,
+      "price": 6249000,
+      "price_per_m2": 572,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice/24528084",
+      "portal": "realingo",
+      "added": "2026-04-04",
+      "updated": "2026-06-29",
+      "price_history": [
+        {
+          "date": "2026-06-29",
+          "price": 6249000
         }
       ],
       "removed_date": null
@@ -2394,29 +2450,29 @@
       "removed_date": null
     },
     {
-      "id": "realingo_24525057",
+      "id": "realingo_24532703",
       "status": "active",
       "type": "dum",
-      "title": "Rodinny dum, Kunčičky u Bašky, Baška",
-      "location": "Kunčičky u Bašky",
-      "location_id": "kuncicky_u_basky",
+      "title": "Rodinny dum, Staříč, 739 43",
+      "location": "Staříč",
+      "location_id": "staric",
       "coordinates": [
-        49.65202881917256,
-        18.359718487920045
+        49.687178,
+        18.274727
       ],
-      "area_m2": 912,
-      "price": 6990000,
-      "price_per_m2": 7664,
+      "area_m2": null,
+      "price": 7900000,
+      "price_per_m2": null,
       "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-kuncicky-u-basky-baska/24525057",
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-frycovicka-staric/24532703",
       "portal": "realingo",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
+      "added": "2026-06-29",
+      "updated": "2026-06-29",
       "price_history": [
         {
-          "date": "2026-04-03",
-          "price": 6990000
+          "date": "2026-06-29",
+          "price": 7900000
         }
       ],
       "removed_date": null
@@ -2526,29 +2582,6 @@
           "price": 9990000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24480496",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Lubno, Frýdlant nad Ostravicí",
-      "location": "Frýdlant-Lubno",
-      "location_id": "frydlant_lubno",
-      "coordinates": [
-        49.60130342039203,
-        18.376230058378642
-      ],
-      "area_m2": 1952,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24480496",
-      "portal": "realingo",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -2951,28 +2984,28 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3808981",
+      "id": "sousede_3578826",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavební parcely 1 000 m² Frýdek-Místek Frýdek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
+      "title": "Prodej stavební parcely 2 000 m² Metylovice",
+      "location": "Metylovice",
+      "location_id": "metylovice",
       "coordinates": [
-        49.6878,
-        18.3498
+        49.6,
+        18.34
       ],
-      "area_m2": 1000,
+      "area_m2": 2000,
       "price": 4990000,
-      "price_per_m2": 4990,
+      "price_per_m2": 2495,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-000-m2-3808981.html",
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/metylovice/prodej-stavebni-parcely-2-000-m2-3578826.html",
       "portal": "sousede",
-      "added": "2026-06-23",
-      "updated": "2026-06-23",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
       "price_history": [
         {
-          "date": "2026-06-23",
+          "date": "2026-04-03",
           "price": 4990000
         }
       ],
@@ -6344,29 +6377,6 @@
           "price": 5500000
         }
       ],
-      "removed_date": "2026-05-05"
-    },
-    {
-      "id": "realingo_24528084",
-      "status": "removed",
-      "type": "dum",
-      "title": "Rodinny dum, Ostravice",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.5350970785275,
-        18.391640158392757
-      ],
-      "area_m2": 10918,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice/24528084",
-      "portal": "realingo",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": "2026-05-05"
     },
     {
@@ -11197,28 +11207,79 @@
       "removed_date": "2026-06-29"
     },
     {
-      "id": "sousede_3578826",
+      "id": "realingo_24525057",
       "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 2 000 m² Metylovice",
-      "location": "Metylovice",
-      "location_id": "metylovice",
+      "type": "dum",
+      "title": "Rodinny dum, Kunčičky u Bašky, Baška",
+      "location": "Kunčičky u Bašky",
+      "location_id": "kuncicky_u_basky",
       "coordinates": [
-        49.6,
-        18.34
+        49.65202881917256,
+        18.359718487920045
       ],
-      "area_m2": 2000,
-      "price": 4990000,
-      "price_per_m2": 2495,
+      "area_m2": 912,
+      "price": 6990000,
+      "price_per_m2": 7664,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/metylovice/prodej-stavebni-parcely-2-000-m2-3578826.html",
-      "portal": "sousede",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-kuncicky-u-basky-baska/24525057",
+      "portal": "realingo",
       "added": "2026-04-03",
       "updated": "2026-04-03",
       "price_history": [
         {
           "date": "2026-04-03",
+          "price": 6990000
+        }
+      ],
+      "removed_date": "2026-06-29"
+    },
+    {
+      "id": "realingo_24480496",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Lubno, Frýdlant nad Ostravicí",
+      "location": "Frýdlant-Lubno",
+      "location_id": "frydlant_lubno",
+      "coordinates": [
+        49.60130342039203,
+        18.376230058378642
+      ],
+      "area_m2": 1952,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24480496",
+      "portal": "realingo",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [],
+      "removed_date": "2026-06-29"
+    },
+    {
+      "id": "sousede_3808981",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 000 m² Frýdek-Místek Frýdek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1000,
+      "price": 4990000,
+      "price_per_m2": 4990,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-000-m2-3808981.html",
+      "portal": "sousede",
+      "added": "2026-06-23",
+      "updated": "2026-06-23",
+      "price_history": [
+        {
+          "date": "2026-06-23",
           "price": 4990000
         }
       ],
