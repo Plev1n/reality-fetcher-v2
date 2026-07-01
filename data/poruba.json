@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T07:00:41.058844+00:00",
+  "generated": "2026-07-01T17:14:03.967960+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -29,6 +29,34 @@
         {
           "date": "2026-05-12",
           "price": 3300000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219738599",
+      "status": "active",
+      "type": "byt",
+      "title": "Byt v Ostravě - Porubě, 28 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 28,
+      "price": 2700000,
+      "price_per_m2": 96429,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219738599/byt-v-ostrave-porube-28-m.php",
+      "portal": "bazos",
+      "added": "2026-06-04",
+      "updated": "2026-06-04",
+      "price_history": [
+        {
+          "date": "2026-06-04",
+          "price": 2700000
         }
       ],
       "removed_date": null
@@ -338,34 +366,6 @@
       "added": "2026-05-06",
       "updated": "2026-05-06",
       "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219738599",
-      "status": "active",
-      "type": "byt",
-      "title": "Byt v Ostravě - Porubě, 28 m²",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 28,
-      "price": 2700000,
-      "price_per_m2": 96429,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219738599/byt-v-ostrave-porube-28-m.php",
-      "portal": "bazos",
-      "added": "2026-06-04",
-      "updated": "2026-06-04",
-      "price_history": [
-        {
-          "date": "2026-06-04",
-          "price": 2700000
-        }
-      ],
       "removed_date": null
     },
     {
