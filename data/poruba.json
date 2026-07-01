@@ -1,70 +1,10 @@
 {
-  "generated": "2026-06-30T17:10:53.612352+00:00",
+  "generated": "2026-07-01T07:00:41.058844+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
-    {
-      "id": "bazos_220755169",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1, 39 m², Ostrava, ul. Otakara Jeremiáše",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 39,
-      "price": 2800000,
-      "price_per_m2": 71795,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220755169/prodej-bytu-11-39-m-ostrava-ul-otakara-jeremiase.php",
-      "portal": "bazos",
-      "added": "2026-06-30",
-      "updated": "2026-06-30",
-      "price_history": [
-        {
-          "date": "2026-06-30",
-          "price": 2800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220283462",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1kk",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 25,
-      "price": 2350000,
-      "price_per_m2": 94000,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220283462/prodej-bytu-1kk.php",
-      "portal": "bazos",
-      "added": "2026-06-18",
-      "updated": "2026-06-30",
-      "price_history": [
-        {
-          "date": "2026-06-18",
-          "price": 2450
-        },
-        {
-          "date": "2026-06-30",
-          "price": 2350000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_218747107",
       "status": "active",
@@ -285,6 +225,38 @@
         {
           "date": "2026-06-27",
           "price": 3800000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220283462",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1kk",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 25,
+      "price": 2350000,
+      "price_per_m2": 94000,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220283462/prodej-bytu-1kk.php",
+      "portal": "bazos",
+      "added": "2026-06-18",
+      "updated": "2026-06-30",
+      "price_history": [
+        {
+          "date": "2026-06-18",
+          "price": 2450
+        },
+        {
+          "date": "2026-06-30",
+          "price": 2350000
         }
       ],
       "removed_date": null
@@ -2776,6 +2748,34 @@
         }
       ],
       "removed_date": "2026-06-29"
+    },
+    {
+      "id": "bazos_220755169",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 1+1, 39 m², Ostrava, ul. Otakara Jeremiáše",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 39,
+      "price": 2800000,
+      "price_per_m2": 71795,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220755169/prodej-bytu-11-39-m-ostrava-ul-otakara-jeremiase.php",
+      "portal": "bazos",
+      "added": "2026-06-30",
+      "updated": "2026-06-30",
+      "price_history": [
+        {
+          "date": "2026-06-30",
+          "price": 2800000
+        }
+      ],
+      "removed_date": "2026-07-01"
     }
   ]
 }
