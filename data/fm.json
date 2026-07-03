@@ -1,34 +1,42 @@
 {
-  "generated": "2026-07-03T08:23:57.310866+00:00",
+  "generated": "2026-07-03T17:38:42.280870+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_220770705",
+      "id": "bazos_218412899",
       "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku s rodinným domem v Lučině",
+      "type": "dum",
+      "title": "Rodinný dům k rekonstrukci Janovice, 135542",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": 2139,
-      "price": 4590000,
-      "price_per_m2": 2146,
+      "area_m2": null,
+      "price": 4490000,
+      "price_per_m2": null,
       "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220770705/prodej-stavebniho-pozemku-s-rodinnym-domem-v-lucine.php",
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218412899/rodinny-dum-k-rekonstrukci-janovice-135542.php",
       "portal": "bazos",
-      "added": "2026-07-01",
-      "updated": "2026-07-01",
+      "added": "2026-05-05",
+      "updated": "2026-06-19",
       "price_history": [
         {
-          "date": "2026-07-01",
-          "price": 4590000
+          "date": "2026-05-05",
+          "price": 5490000
+        },
+        {
+          "date": "2026-05-27",
+          "price": 4950000
+        },
+        {
+          "date": "2026-06-19",
+          "price": 4490000
         }
       ],
       "removed_date": null
@@ -1650,42 +1658,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_218412899",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinný dům k rekonstrukci Janovice, 135542",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 4490000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/218412899/rodinny-dum-k-rekonstrukci-janovice-135542.php",
-      "portal": "bazos",
-      "added": "2026-05-05",
-      "updated": "2026-06-19",
-      "price_history": [
-        {
-          "date": "2026-05-05",
-          "price": 5490000
-        },
-        {
-          "date": "2026-05-27",
-          "price": 4950000
-        },
-        {
-          "date": "2026-06-19",
-          "price": 4490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_219501695",
       "status": "active",
       "type": "dum",
@@ -2489,57 +2461,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10124291",
-      "status": "active",
-      "type": "dum",
-      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
-      "portal": "eurobydleni",
-      "added": "2026-05-15",
-      "updated": "2026-05-15",
-      "price_history": [
-        {
-          "date": "2026-05-15",
-          "price": 6999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10151436",
       "status": "active",
       "type": "pozemek",
@@ -2780,31 +2701,54 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3683232",
+      "id": "eurobydleni_10124291",
       "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 2 679 m² Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
       "coordinates": [
-        49.72,
-        18.31
+        49.53,
+        18.39
       ],
-      "area_m2": 2679,
-      "price": 5900000,
-      "price_per_m2": 2202,
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
       "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3683232.html",
-      "portal": "sousede",
-      "added": "2026-04-30",
-      "updated": "2026-04-30",
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
+      "portal": "eurobydleni",
+      "added": "2026-05-15",
+      "updated": "2026-05-15",
       "price_history": [
         {
-          "date": "2026-04-30",
-          "price": 5900000
+          "date": "2026-05-15",
+          "price": 6999000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -2887,6 +2831,34 @@
         {
           "date": "2026-05-05",
           "price": 3950100
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3683232",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 2 679 m² Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 2679,
+      "price": 5900000,
+      "price_per_m2": 2202,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3683232.html",
+      "portal": "sousede",
+      "added": "2026-04-30",
+      "updated": "2026-04-30",
+      "price_history": [
+        {
+          "date": "2026-04-30",
+          "price": 5900000
         }
       ],
       "removed_date": null
@@ -11509,6 +11481,34 @@
         {
           "date": "2026-05-05",
           "price": 5750000
+        }
+      ],
+      "removed_date": "2026-07-03"
+    },
+    {
+      "id": "bazos_220770705",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku s rodinným domem v Lučině",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2139,
+      "price": 4590000,
+      "price_per_m2": 2146,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220770705/prodej-stavebniho-pozemku-s-rodinnym-domem-v-lucine.php",
+      "portal": "bazos",
+      "added": "2026-07-01",
+      "updated": "2026-07-01",
+      "price_history": [
+        {
+          "date": "2026-07-01",
+          "price": 4590000
         }
       ],
       "removed_date": "2026-07-03"
