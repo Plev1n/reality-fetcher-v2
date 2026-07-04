@@ -1,42 +1,93 @@
 {
-  "generated": "2026-07-03T17:38:42.280870+00:00",
+  "generated": "2026-07-04T08:04:05.895238+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_218412899",
+      "id": "realingo_24481027",
       "status": "active",
       "type": "dum",
-      "title": "Rodinný dům k rekonstrukci Janovice, 135542",
+      "title": "Rodinny dum, Frýdlant nad Ostravicí, 739 11",
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "coordinates": [
+        49.594912,
+        18.362274
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-739-12/24481027",
+      "portal": "realingo",
+      "added": "2026-07-04",
+      "updated": "2026-07-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220770705",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku s rodinným domem v Lučině",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": null,
+      "area_m2": 2139,
       "price": 4490000,
+      "price_per_m2": 2099,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220770705/prodej-stavebniho-pozemku-s-rodinnym-domem-v-lucine.php",
+      "portal": "bazos",
+      "added": "2026-07-01",
+      "updated": "2026-07-04",
+      "price_history": [
+        {
+          "date": "2026-07-01",
+          "price": 4590000
+        },
+        {
+          "date": "2026-07-04",
+          "price": 4490000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24545724",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Sviadnov, 739 25",
+      "location": "Sviadnov",
+      "location_id": "sviadnov",
+      "coordinates": [
+        49.698283,
+        18.31584
+      ],
+      "area_m2": null,
+      "price": 6490000,
       "price_per_m2": null,
       "price_unknown": false,
       "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/218412899/rodinny-dum-k-rekonstrukci-janovice-135542.php",
-      "portal": "bazos",
-      "added": "2026-05-05",
-      "updated": "2026-06-19",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-zaben/24545724",
+      "portal": "realingo",
+      "added": "2026-04-13",
+      "updated": "2026-07-04",
       "price_history": [
         {
-          "date": "2026-05-05",
-          "price": 5490000
+          "date": "2026-05-22",
+          "price": 5990000
         },
         {
-          "date": "2026-05-27",
-          "price": 4950000
-        },
-        {
-          "date": "2026-06-19",
-          "price": 4490000
+          "date": "2026-07-04",
+          "price": 6490000
         }
       ],
       "removed_date": null
@@ -2242,34 +2293,6 @@
       "removed_date": null
     },
     {
-      "id": "realingo_24534881",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Frýdlant nad Ostravicí, 739 11",
-      "location": "Frýdlant nad Ostravicí",
-      "location_id": "frydlant",
-      "coordinates": [
-        49.594912,
-        18.362274
-      ],
-      "area_m2": null,
-      "price": 6900000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24534881",
-      "portal": "realingo",
-      "added": "2026-06-01",
-      "updated": "2026-06-01",
-      "price_history": [
-        {
-          "date": "2026-06-01",
-          "price": 6900000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "realingo_24528084",
       "status": "active",
       "type": "dum",
@@ -2293,34 +2316,6 @@
         {
           "date": "2026-06-29",
           "price": 6249000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24532703",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Staříč, 739 43",
-      "location": "Staříč",
-      "location_id": "staric",
-      "coordinates": [
-        49.687178,
-        18.274727
-      ],
-      "area_m2": null,
-      "price": 7900000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-frycovicka-staric/24532703",
-      "portal": "realingo",
-      "added": "2026-06-29",
-      "updated": "2026-06-29",
-      "price_history": [
-        {
-          "date": "2026-06-29",
-          "price": 7900000
         }
       ],
       "removed_date": null
@@ -2354,29 +2349,29 @@
       "removed_date": null
     },
     {
-      "id": "realingo_24546808",
+      "id": "realingo_24548200",
       "status": "active",
       "type": "dum",
-      "title": "Rodinny dum, Sviadnov, 739 25",
-      "location": "Sviadnov",
-      "location_id": "sviadnov",
+      "title": "Rodinny dum, Paskov, 739 21",
+      "location": "Paskov",
+      "location_id": "paskov",
       "coordinates": [
-        49.698283,
-        18.31584
+        49.73036,
+        18.2864
       ],
       "area_m2": null,
-      "price": 7990000,
+      "price": 6280000,
       "price_per_m2": null,
       "price_unknown": false,
       "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-sviadnov-739-25/24546808",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-paskov-739-21/24548200",
       "portal": "realingo",
-      "added": "2026-05-07",
-      "updated": "2026-05-07",
+      "added": "2026-04-14",
+      "updated": "2026-04-14",
       "price_history": [
         {
-          "date": "2026-05-07",
-          "price": 7990000
+          "date": "2026-04-14",
+          "price": 6280000
         }
       ],
       "removed_date": null
@@ -2428,34 +2423,6 @@
         {
           "date": "2026-04-29",
           "price": 9990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24484254",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Lubno, Frýdlant nad Ostravicí",
-      "location": "Frýdlant-Lubno",
-      "location_id": "frydlant_lubno",
-      "coordinates": [
-        49.593261781164,
-        18.395893210462
-      ],
-      "area_m2": 1553,
-      "price": 6300000,
-      "price_per_m2": 4057,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24484254",
-      "portal": "realingo",
-      "added": "2026-06-29",
-      "updated": "2026-06-29",
-      "price_history": [
-        {
-          "date": "2026-06-29",
-          "price": 6300000
         }
       ],
       "removed_date": null
@@ -4876,34 +4843,6 @@
         {
           "date": "2026-04-04",
           "price": 1700000
-        }
-      ],
-      "removed_date": "2026-04-23"
-    },
-    {
-      "id": "realingo_24548200",
-      "status": "removed",
-      "type": "dum",
-      "title": "Rodinny dum, Paskov, 739 21",
-      "location": "Paskov",
-      "location_id": "paskov",
-      "coordinates": [
-        49.73036,
-        18.2864
-      ],
-      "area_m2": null,
-      "price": 6280000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-paskov-739-21/24548200",
-      "portal": "realingo",
-      "added": "2026-04-14",
-      "updated": "2026-04-14",
-      "price_history": [
-        {
-          "date": "2026-04-14",
-          "price": 6280000
         }
       ],
       "removed_date": "2026-04-23"
@@ -10812,34 +10751,6 @@
       "removed_date": "2026-06-26"
     },
     {
-      "id": "realingo_24545724",
-      "status": "removed",
-      "type": "dum",
-      "title": "Rodinny dum, Žabeň",
-      "location": "Žabeň",
-      "location_id": "zaben",
-      "coordinates": [
-        49.710108579387,
-        18.305056290531
-      ],
-      "area_m2": 1247,
-      "price": 5990000,
-      "price_per_m2": 4804,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-zaben/24545724",
-      "portal": "realingo",
-      "added": "2026-04-13",
-      "updated": "2026-05-22",
-      "price_history": [
-        {
-          "date": "2026-05-22",
-          "price": 5990000
-        }
-      ],
-      "removed_date": "2026-06-26"
-    },
-    {
       "id": "sousede_3778648",
       "status": "removed",
       "type": "pozemek",
@@ -11486,32 +11397,152 @@
       "removed_date": "2026-07-03"
     },
     {
-      "id": "bazos_220770705",
+      "id": "bazos_218412899",
       "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku s rodinným domem v Lučině",
+      "type": "dum",
+      "title": "Rodinný dům k rekonstrukci Janovice, 135542",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": 2139,
-      "price": 4590000,
-      "price_per_m2": 2146,
+      "area_m2": null,
+      "price": 4490000,
+      "price_per_m2": null,
       "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220770705/prodej-stavebniho-pozemku-s-rodinnym-domem-v-lucine.php",
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/218412899/rodinny-dum-k-rekonstrukci-janovice-135542.php",
       "portal": "bazos",
-      "added": "2026-07-01",
-      "updated": "2026-07-01",
+      "added": "2026-05-05",
+      "updated": "2026-06-19",
       "price_history": [
         {
-          "date": "2026-07-01",
-          "price": 4590000
+          "date": "2026-05-05",
+          "price": 5490000
+        },
+        {
+          "date": "2026-05-27",
+          "price": 4950000
+        },
+        {
+          "date": "2026-06-19",
+          "price": 4490000
         }
       ],
-      "removed_date": "2026-07-03"
+      "removed_date": "2026-07-04"
+    },
+    {
+      "id": "realingo_24534881",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Frýdlant nad Ostravicí, 739 11",
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "coordinates": [
+        49.594912,
+        18.362274
+      ],
+      "area_m2": null,
+      "price": 6900000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24534881",
+      "portal": "realingo",
+      "added": "2026-06-01",
+      "updated": "2026-06-01",
+      "price_history": [
+        {
+          "date": "2026-06-01",
+          "price": 6900000
+        }
+      ],
+      "removed_date": "2026-07-04"
+    },
+    {
+      "id": "realingo_24532703",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Staříč, 739 43",
+      "location": "Staříč",
+      "location_id": "staric",
+      "coordinates": [
+        49.687178,
+        18.274727
+      ],
+      "area_m2": null,
+      "price": 7900000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-frycovicka-staric/24532703",
+      "portal": "realingo",
+      "added": "2026-06-29",
+      "updated": "2026-06-29",
+      "price_history": [
+        {
+          "date": "2026-06-29",
+          "price": 7900000
+        }
+      ],
+      "removed_date": "2026-07-04"
+    },
+    {
+      "id": "realingo_24546808",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Sviadnov, 739 25",
+      "location": "Sviadnov",
+      "location_id": "sviadnov",
+      "coordinates": [
+        49.698283,
+        18.31584
+      ],
+      "area_m2": null,
+      "price": 7990000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-sviadnov-739-25/24546808",
+      "portal": "realingo",
+      "added": "2026-05-07",
+      "updated": "2026-05-07",
+      "price_history": [
+        {
+          "date": "2026-05-07",
+          "price": 7990000
+        }
+      ],
+      "removed_date": "2026-07-04"
+    },
+    {
+      "id": "realingo_24484254",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Lubno, Frýdlant nad Ostravicí",
+      "location": "Frýdlant-Lubno",
+      "location_id": "frydlant_lubno",
+      "coordinates": [
+        49.593261781164,
+        18.395893210462
+      ],
+      "area_m2": 1553,
+      "price": 6300000,
+      "price_per_m2": 4057,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24484254",
+      "portal": "realingo",
+      "added": "2026-06-29",
+      "updated": "2026-06-29",
+      "price_history": [
+        {
+          "date": "2026-06-29",
+          "price": 6300000
+        }
+      ],
+      "removed_date": "2026-07-04"
     }
   ]
 }
