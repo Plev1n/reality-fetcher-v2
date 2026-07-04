@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T08:04:06.080829+00:00",
+  "generated": "2026-07-04T17:21:39.270066+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -29,6 +29,38 @@
         {
           "date": "2026-05-12",
           "price": 3300000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220283462",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1kk",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 25,
+      "price": 2350000,
+      "price_per_m2": 94000,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220283462/prodej-bytu-1kk.php",
+      "portal": "bazos",
+      "added": "2026-06-18",
+      "updated": "2026-06-30",
+      "price_history": [
+        {
+          "date": "2026-06-18",
+          "price": 2450
+        },
+        {
+          "date": "2026-06-30",
+          "price": 2350000
         }
       ],
       "removed_date": null
@@ -281,38 +313,6 @@
         {
           "date": "2026-06-27",
           "price": 3800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220283462",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1kk",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 25,
-      "price": 2350000,
-      "price_per_m2": 94000,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220283462/prodej-bytu-1kk.php",
-      "portal": "bazos",
-      "added": "2026-06-18",
-      "updated": "2026-06-30",
-      "price_history": [
-        {
-          "date": "2026-06-18",
-          "price": 2450
-        },
-        {
-          "date": "2026-06-30",
-          "price": 2350000
         }
       ],
       "removed_date": null
