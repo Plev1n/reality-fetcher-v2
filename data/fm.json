@@ -1,38 +1,70 @@
 {
-  "generated": "2026-07-06T09:20:34.320306+00:00",
+  "generated": "2026-07-06T18:32:54.935648+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "realingo_24567356",
+      "id": "sousede_3824080",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 317 m² Janovice",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        49.61,
+        18.39
+      ],
+      "area_m2": 1317,
+      "price": 2790000,
+      "price_per_m2": 2118,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/janovice/prodej-stavebni-parcely-1-317-m2-3824080.html",
+      "portal": "sousede",
+      "added": "2026-07-06",
+      "updated": "2026-07-06",
+      "price_history": [
+        {
+          "date": "2026-07-06",
+          "price": 2790000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219147566",
       "status": "active",
       "type": "dum",
-      "title": "Rodinny dum, Metylovice, 739 49",
-      "location": "Metylovice",
-      "location_id": "metylovice",
+      "title": "Moderní bungalov 4+kk s výhledem na Lysou – Horní Domaslavic",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.609375,
-        18.334637
+        49.6878,
+        18.3498
       ],
       "area_m2": null,
-      "price": 7499000,
+      "price": 9299000,
       "price_per_m2": null,
       "price_unknown": false,
       "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-metylovice-739-49/24567356",
-      "portal": "realingo",
+      "url": "https://reality.bazos.cz/inzerat/219147566/moderni-bungalov-4kk-s-vyhledem-na-lysou-horni-domaslavic.php",
+      "portal": "bazos",
       "added": "2026-06-01",
       "updated": "2026-07-06",
       "price_history": [
         {
           "date": "2026-06-01",
-          "price": 7995000
+          "price": 9990000
+        },
+        {
+          "date": "2026-06-22",
+          "price": 9590000
         },
         {
           "date": "2026-07-06",
-          "price": 7499000
+          "price": 9299000
         }
       ],
       "removed_date": null
@@ -565,38 +597,6 @@
         {
           "date": "2026-06-16",
           "price": 8590000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219147566",
-      "status": "active",
-      "type": "dum",
-      "title": "Moderní bungalov 4+kk s výhledem na Lysou – Horní Domaslavic",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 9590000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219147566/moderni-bungalov-4kk-s-vyhledem-na-lysou-horni-domaslavic.php",
-      "portal": "bazos",
-      "added": "2026-06-01",
-      "updated": "2026-06-22",
-      "price_history": [
-        {
-          "date": "2026-06-01",
-          "price": 9990000
-        },
-        {
-          "date": "2026-06-22",
-          "price": 9590000
         }
       ],
       "removed_date": null
@@ -1618,34 +1618,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_219087715",
-      "status": "active",
-      "type": "pozemek",
-      "title": "realita",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 160000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219087715/realita.php",
-      "portal": "bazos",
-      "added": "2026-05-20",
-      "updated": "2026-05-20",
-      "price_history": [
-        {
-          "date": "2026-05-20",
-          "price": 160000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_219273815",
       "status": "active",
       "type": "pozemek",
@@ -1785,6 +1757,34 @@
         {
           "date": "2026-05-20",
           "price": 5651100
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219087715",
+      "status": "active",
+      "type": "pozemek",
+      "title": "realita",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 160000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219087715/realita.php",
+      "portal": "bazos",
+      "added": "2026-05-20",
+      "updated": "2026-05-20",
+      "price_history": [
+        {
+          "date": "2026-05-20",
+          "price": 160000
         }
       ],
       "removed_date": null
@@ -2093,6 +2093,38 @@
         {
           "date": "2026-05-07",
           "price": 1981320
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24567356",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Metylovice, 739 49",
+      "location": "Metylovice",
+      "location_id": "metylovice",
+      "coordinates": [
+        49.609375,
+        18.334637
+      ],
+      "area_m2": null,
+      "price": 7499000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-metylovice-739-49/24567356",
+      "portal": "realingo",
+      "added": "2026-06-01",
+      "updated": "2026-07-06",
+      "price_history": [
+        {
+          "date": "2026-06-01",
+          "price": 7995000
+        },
+        {
+          "date": "2026-07-06",
+          "price": 7499000
         }
       ],
       "removed_date": null
