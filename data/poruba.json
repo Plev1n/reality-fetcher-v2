@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T08:41:54.926341+00:00",
+  "generated": "2026-07-07T18:15:29.466143+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -29,6 +29,34 @@
         {
           "date": "2026-05-12",
           "price": 3300000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220314266",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, ul. Slepá, Ostrava - Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 56,
+      "price": 3800000,
+      "price_per_m2": 67857,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220314266/prodej-bytu-21-ul-slepa-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-06-27",
+      "updated": "2026-06-27",
+      "price_history": [
+        {
+          "date": "2026-06-27",
+          "price": 3800000
         }
       ],
       "removed_date": null
@@ -285,34 +313,6 @@
         {
           "date": "2026-06-22",
           "price": 3600000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220314266",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, ul. Slepá, Ostrava - Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 56,
-      "price": 3800000,
-      "price_per_m2": 67857,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220314266/prodej-bytu-21-ul-slepa-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-06-27",
-      "updated": "2026-06-27",
-      "price_history": [
-        {
-          "date": "2026-06-27",
-          "price": 3800000
         }
       ],
       "removed_date": null

@@ -1,62 +1,34 @@
 {
-  "generated": "2026-07-07T08:41:54.758840+00:00",
+  "generated": "2026-07-07T18:15:29.232771+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "realingo_24598074",
+      "id": "bazos_219344862",
       "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Frýdek-Místek Lískovec",
+      "type": "pozemek",
+      "title": "Stavební pozemek s projektovou dokumentací domu 5KK o výměře",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
-        49.710356097368,
-        18.334680401286
+        49.6878,
+        18.3498
       ],
-      "area_m2": 2222,
-      "price": 3390000,
-      "price_per_m2": 1526,
+      "area_m2": 2618,
+      "price": 6500000,
+      "price_per_m2": 2483,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-liskovec/24598074",
-      "portal": "realingo",
+      "url": "https://reality.bazos.cz/inzerat/219344862/stavebni-pozemek-s-projektovou-dokumentaci-domu-5kk-o-vymere.php",
+      "portal": "bazos",
       "added": "2026-07-07",
       "updated": "2026-07-07",
       "price_history": [
         {
           "date": "2026-07-07",
-          "price": 3390000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10141365",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej rodinného domu s penzionem a s okolními pozemky, Malenovice",
-      "location": "Malenovice",
-      "location_id": "malenovice",
-      "coordinates": [
-        49.61,
-        18.44
-      ],
-      "area_m2": 99841,
-      "price": 9490000,
-      "price_per_m2": 95,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-s-penzionem-a-s-okolnimi-pozemky-malenovice/detail/10141365/",
-      "portal": "eurobydleni",
-      "added": "2026-07-07",
-      "updated": "2026-07-07",
-      "price_history": [
-        {
-          "date": "2026-07-07",
-          "price": 9490000
+          "price": 6500000
         }
       ],
       "removed_date": null
@@ -2070,6 +2042,34 @@
       "removed_date": null
     },
     {
+      "id": "realingo_24598074",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Frýdek-Místek Lískovec",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.710356097368,
+        18.334680401286
+      ],
+      "area_m2": 2222,
+      "price": 3390000,
+      "price_per_m2": 1526,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-liskovec/24598074",
+      "portal": "realingo",
+      "added": "2026-07-07",
+      "updated": "2026-07-07",
+      "price_history": [
+        {
+          "date": "2026-07-07",
+          "price": 3390000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "realingo_24567356",
       "status": "active",
       "type": "dum",
@@ -2357,6 +2357,85 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10124291",
+      "status": "active",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
+      "portal": "eurobydleni",
+      "added": "2026-05-15",
+      "updated": "2026-05-15",
+      "price_history": [
+        {
+          "date": "2026-05-15",
+          "price": 6999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10141365",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej rodinného domu s penzionem a s okolními pozemky, Malenovice",
+      "location": "Malenovice",
+      "location_id": "malenovice",
+      "coordinates": [
+        49.61,
+        18.44
+      ],
+      "area_m2": 99841,
+      "price": 9490000,
+      "price_per_m2": 95,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-s-penzionem-a-s-okolnimi-pozemky-malenovice/detail/10141365/",
+      "portal": "eurobydleni",
+      "added": "2026-07-07",
+      "updated": "2026-07-07",
+      "price_history": [
+        {
+          "date": "2026-07-07",
+          "price": 9490000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10129685",
       "status": "active",
       "type": "pozemek",
@@ -2478,57 +2557,6 @@
           "price": 6000000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10124291",
-      "status": "active",
-      "type": "dum",
-      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
-      "portal": "eurobydleni",
-      "added": "2026-05-15",
-      "updated": "2026-05-15",
-      "price_history": [
-        {
-          "date": "2026-05-15",
-          "price": 6999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -2751,29 +2779,29 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3779530",
+      "id": "moravskereality_3781473",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavební parcely 5 336 m² Ostravice",
-      "location": "Ostravice",
-      "location_id": "ostravice",
+      "title": "Prodej stavební parcely 2 739 m² Frýdek-Místek Frýdek, Nové Dvory-Hlíny",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.53,
-        18.39
+        49.6878,
+        18.3498
       ],
-      "area_m2": 5336,
-      "price": 7200000,
-      "price_per_m2": 1349,
+      "area_m2": 2739,
+      "price": 7500000,
+      "price_per_m2": 2738,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/ostravice/prodej-stavebni-parcely-5-336-m2-3779530.html",
-      "portal": "sousede",
-      "added": "2026-05-22",
-      "updated": "2026-05-22",
+      "url": "https://severo.moravskereality.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-2-739-m2-nove-dvory-hliny-3781473.html",
+      "portal": "moravskereality",
+      "added": "2026-06-01",
+      "updated": "2026-06-01",
       "price_history": [
         {
-          "date": "2026-05-22",
-          "price": 7200000
+          "date": "2026-06-01",
+          "price": 7500000
         }
       ],
       "removed_date": null
@@ -11716,29 +11744,29 @@
       "removed_date": "2026-07-07"
     },
     {
-      "id": "moravskereality_3781473",
+      "id": "sousede_3779530",
       "status": "removed",
       "type": "pozemek",
-      "title": "Prodej stavební parcely 2 739 m² Frýdek-Místek Frýdek, Nové Dvory-Hlíny",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
+      "title": "Prodej stavební parcely 5 336 m² Ostravice",
+      "location": "Ostravice",
+      "location_id": "ostravice",
       "coordinates": [
-        49.6878,
-        18.3498
+        49.53,
+        18.39
       ],
-      "area_m2": 2739,
-      "price": 7500000,
-      "price_per_m2": 2738,
+      "area_m2": 5336,
+      "price": 7200000,
+      "price_per_m2": 1349,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://severo.moravskereality.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-2-739-m2-nove-dvory-hliny-3781473.html",
-      "portal": "moravskereality",
-      "added": "2026-06-01",
-      "updated": "2026-06-01",
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/ostravice/prodej-stavebni-parcely-5-336-m2-3779530.html",
+      "portal": "sousede",
+      "added": "2026-05-22",
+      "updated": "2026-05-22",
       "price_history": [
         {
-          "date": "2026-06-01",
-          "price": 7500000
+          "date": "2026-05-22",
+          "price": 7200000
         }
       ],
       "removed_date": "2026-07-07"
