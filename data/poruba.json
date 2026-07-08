@@ -1,10 +1,70 @@
 {
-  "generated": "2026-07-08T07:46:58.243804+00:00",
+  "generated": "2026-07-08T17:50:18.106927+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_221056103",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej kompletně zrekonstruovaného bytu 1+kk se zasklenou lo",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2680000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221056103/prodej-kompletne-zrekonstruovaneho-bytu-1kk-se-zasklenou-lo.php",
+      "portal": "bazos",
+      "added": "2026-07-08",
+      "updated": "2026-07-08",
+      "price_history": [
+        {
+          "date": "2026-07-08",
+          "price": 2680000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220831439",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 se zasklenou lodžií, Nám. Družby, Ostrava -",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3200000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220831439/prodej-bytu-21-se-zasklenou-lodzii-nam-druzby-ostrava.php",
+      "portal": "bazos",
+      "added": "2026-07-02",
+      "updated": "2026-07-08",
+      "price_history": [
+        {
+          "date": "2026-07-02",
+          "price": 3150000
+        },
+        {
+          "date": "2026-07-08",
+          "price": 3200000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_218747107",
       "status": "active",
@@ -29,6 +89,34 @@
         {
           "date": "2026-05-12",
           "price": 3300000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219650130",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 57 m², Ostrava, ul. Opavská",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 57,
+      "price": 3590000,
+      "price_per_m2": 62982,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219650130/prodej-bytu-21-57-m-ostrava-ul-opavska.php",
+      "portal": "bazos",
+      "added": "2026-06-10",
+      "updated": "2026-06-10",
+      "price_history": [
+        {
+          "date": "2026-06-10",
+          "price": 3590000
         }
       ],
       "removed_date": null
@@ -122,34 +210,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_220831439",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1 se zasklenou lodžií, Nám. Družby, Ostrava -",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3150000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/220831439/prodej-bytu-21-se-zasklenou-lodzii-nam-druzby-ostrava.php",
-      "portal": "bazos",
-      "added": "2026-07-02",
-      "updated": "2026-07-02",
-      "price_history": [
-        {
-          "date": "2026-07-02",
-          "price": 3150000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_219738599",
       "status": "active",
       "type": "byt",
@@ -229,34 +289,6 @@
         {
           "date": "2026-06-27",
           "price": 3688888
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220598591",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej kompletně zrekonstruovaného bytu 1+kk se zasklenou lo",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2680000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/220598591/prodej-kompletne-zrekonstruovaneho-bytu-1kk-se-zasklenou-lo.php",
-      "portal": "bazos",
-      "added": "2026-06-26",
-      "updated": "2026-06-26",
-      "price_history": [
-        {
-          "date": "2026-06-26",
-          "price": 2680000
         }
       ],
       "removed_date": null
@@ -2671,34 +2703,6 @@
       "removed_date": "2026-06-28"
     },
     {
-      "id": "bazos_219650130",
-      "status": "removed",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 57 m², Ostrava, ul. Opavská",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 57,
-      "price": 3590000,
-      "price_per_m2": 62982,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219650130/prodej-bytu-21-57-m-ostrava-ul-opavska.php",
-      "portal": "bazos",
-      "added": "2026-06-10",
-      "updated": "2026-06-10",
-      "price_history": [
-        {
-          "date": "2026-06-10",
-          "price": 3590000
-        }
-      ],
-      "removed_date": "2026-06-29"
-    },
-    {
       "id": "bazos_220755169",
       "status": "removed",
       "type": "byt",
@@ -2860,6 +2864,34 @@
       "updated": "2026-05-06",
       "price_history": [],
       "removed_date": "2026-07-06"
+    },
+    {
+      "id": "bazos_220598591",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej kompletně zrekonstruovaného bytu 1+kk se zasklenou lo",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2680000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220598591/prodej-kompletne-zrekonstruovaneho-bytu-1kk-se-zasklenou-lo.php",
+      "portal": "bazos",
+      "added": "2026-06-26",
+      "updated": "2026-06-26",
+      "price_history": [
+        {
+          "date": "2026-06-26",
+          "price": 2680000
+        }
+      ],
+      "removed_date": "2026-07-08"
     }
   ]
 }
