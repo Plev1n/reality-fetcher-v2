@@ -1,10 +1,38 @@
 {
-  "generated": "2026-07-08T17:50:17.919939+00:00",
+  "generated": "2026-07-09T08:55:01.873687+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "moravskereality_3826719",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 500 m² Frýdlant nad Ostravicí Frýdlant, Frenštátská",
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "coordinates": [
+        49.59,
+        18.36
+      ],
+      "area_m2": 1500,
+      "price": 2450000,
+      "price_per_m2": 1633,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://severo.moravskereality.cz/prodej/pozemky/stavebni-parcely/frydlant-nad-ostravici/prodej-stavebni-parcely-1-500-m2-frenstatska-3826719.html",
+      "portal": "moravskereality",
+      "added": "2026-07-09",
+      "updated": "2026-07-09",
+      "price_history": [
+        {
+          "date": "2026-07-09",
+          "price": 2450000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_220023435",
       "status": "active",
@@ -622,6 +650,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_219298546",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku, 134783",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 833,
+      "price": 2299000,
+      "price_per_m2": 2760,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219298546/prodej-stavebniho-pozemku-134783.php",
+      "portal": "bazos",
+      "added": "2026-05-25",
+      "updated": "2026-05-25",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 2299000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_221051795",
       "status": "active",
       "type": "pozemek",
@@ -785,34 +841,6 @@
         {
           "date": "2026-05-27",
           "price": 3640000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219298546",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku, 134783",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 833,
-      "price": 2299000,
-      "price_per_m2": 2760,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219298546/prodej-stavebniho-pozemku-134783.php",
-      "portal": "bazos",
-      "added": "2026-05-25",
-      "updated": "2026-05-25",
-      "price_history": [
-        {
-          "date": "2026-05-25",
-          "price": 2299000
         }
       ],
       "removed_date": null
@@ -2029,34 +2057,6 @@
         {
           "date": "2026-05-10",
           "price": 7980000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218600257",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 2 348 m, Frýdlant nad Ostravicí",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2348,
-      "price": 6299999,
-      "price_per_m2": 2683,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218600257/prodej-stavebniho-pozemku-2-348-m-frydlant-nad-ostravici.php",
-      "portal": "bazos",
-      "added": "2026-05-09",
-      "updated": "2026-05-09",
-      "price_history": [
-        {
-          "date": "2026-05-09",
-          "price": 6299999
         }
       ],
       "removed_date": null
@@ -11826,6 +11826,34 @@
         }
       ],
       "removed_date": "2026-07-08"
+    },
+    {
+      "id": "bazos_218600257",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 2 348 m, Frýdlant nad Ostravicí",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2348,
+      "price": 6299999,
+      "price_per_m2": 2683,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218600257/prodej-stavebniho-pozemku-2-348-m-frydlant-nad-ostravici.php",
+      "portal": "bazos",
+      "added": "2026-05-09",
+      "updated": "2026-05-09",
+      "price_history": [
+        {
+          "date": "2026-05-09",
+          "price": 6299999
+        }
+      ],
+      "removed_date": "2026-07-09"
     }
   ]
 }
