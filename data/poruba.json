@@ -1,10 +1,38 @@
 {
-  "generated": "2026-07-09T18:17:08.988509+00:00",
+  "generated": "2026-07-10T08:40:55.535785+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_219732001",
+      "status": "active",
+      "type": "byt",
+      "title": "Družstevní byt 2+1 na Hlavní třídě v Ostravě-Porubě",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3390000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219732001/druzstevni-byt-21-na-hlavni-tride-v-ostrave-porube.php",
+      "portal": "bazos",
+      "added": "2026-07-10",
+      "updated": "2026-07-10",
+      "price_history": [
+        {
+          "date": "2026-07-10",
+          "price": 3390000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_218747107",
       "status": "active",
@@ -373,34 +401,6 @@
         {
           "date": "2026-06-13",
           "price": 3890000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219507158",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1 35 m² Žilinská, Ostrava - Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 135,
-      "price": 3390000,
-      "price_per_m2": 25111,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219507158/prodej-bytu-11-35-m-zilinska-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-06-10",
-      "updated": "2026-06-10",
-      "price_history": [
-        {
-          "date": "2026-06-10",
-          "price": 3390000
         }
       ],
       "removed_date": null
@@ -2892,6 +2892,34 @@
         }
       ],
       "removed_date": "2026-07-09"
+    },
+    {
+      "id": "bazos_219507158",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 1+1 35 m² Žilinská, Ostrava - Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 135,
+      "price": 3390000,
+      "price_per_m2": 25111,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219507158/prodej-bytu-11-35-m-zilinska-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-06-10",
+      "updated": "2026-06-10",
+      "price_history": [
+        {
+          "date": "2026-06-10",
+          "price": 3390000
+        }
+      ],
+      "removed_date": "2026-07-10"
     }
   ]
 }
