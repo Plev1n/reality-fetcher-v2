@@ -1,10 +1,46 @@
 {
-  "generated": "2026-07-10T18:04:13.518785+00:00",
+  "generated": "2026-07-11T07:28:36.998919+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_220831439",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 se zasklenou lodžií, Nám. Družby, Ostrava -",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3225000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220831439/prodej-bytu-21-se-zasklenou-lodzii-nam-druzby-ostrava.php",
+      "portal": "bazos",
+      "added": "2026-07-02",
+      "updated": "2026-07-11",
+      "price_history": [
+        {
+          "date": "2026-07-02",
+          "price": 3150000
+        },
+        {
+          "date": "2026-07-08",
+          "price": 3200000
+        },
+        {
+          "date": "2026-07-11",
+          "price": 3225000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_218747107",
       "status": "active",
@@ -173,38 +209,6 @@
         {
           "date": "2026-05-26",
           "price": 3999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220831439",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1 se zasklenou lodžií, Nám. Družby, Ostrava -",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3200000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/220831439/prodej-bytu-21-se-zasklenou-lodzii-nam-druzby-ostrava.php",
-      "portal": "bazos",
-      "added": "2026-07-02",
-      "updated": "2026-07-08",
-      "price_history": [
-        {
-          "date": "2026-07-02",
-          "price": 3150000
-        },
-        {
-          "date": "2026-07-08",
-          "price": 3200000
         }
       ],
       "removed_date": null
