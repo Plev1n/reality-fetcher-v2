@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T08:31:44.117509+00:00",
+  "generated": "2026-07-13T18:10:01.476762+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -437,42 +437,6 @@
         {
           "date": "2026-07-10",
           "price": 3390000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219462816",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 1+1, Ostrava - Poruba, ul. Liptáňské nám.",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2770000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219462816/prodej-byt-11-ostrava-poruba-ul-liptanske-nam.php",
-      "portal": "bazos",
-      "added": "2026-05-29",
-      "updated": "2026-06-22",
-      "price_history": [
-        {
-          "date": "2026-05-29",
-          "price": 2770000
-        },
-        {
-          "date": "2026-06-19",
-          "price": 2670000
-        },
-        {
-          "date": "2026-06-22",
-          "price": 2770000
         }
       ],
       "removed_date": null
@@ -2956,6 +2920,42 @@
         }
       ],
       "removed_date": "2026-07-12"
+    },
+    {
+      "id": "bazos_219462816",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej, byt 1+1, Ostrava - Poruba, ul. Liptáňské nám.",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2770000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219462816/prodej-byt-11-ostrava-poruba-ul-liptanske-nam.php",
+      "portal": "bazos",
+      "added": "2026-05-29",
+      "updated": "2026-06-22",
+      "price_history": [
+        {
+          "date": "2026-05-29",
+          "price": 2770000
+        },
+        {
+          "date": "2026-06-19",
+          "price": 2670000
+        },
+        {
+          "date": "2026-06-22",
+          "price": 2770000
+        }
+      ],
+      "removed_date": "2026-07-13"
     }
   ]
 }
