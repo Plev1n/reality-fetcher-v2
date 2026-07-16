@@ -1,34 +1,34 @@
 {
-  "generated": "2026-07-15T17:32:12.216322+00:00",
+  "generated": "2026-07-16T07:40:13.234893+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_221339244",
+      "id": "bazos_221364066",
       "status": "active",
-      "type": "dum",
-      "title": "Prodej domu 5+1 v Kunčicích pod Ondřejníkem",
+      "type": "pozemek",
+      "title": "Prodej pozemku v Raškovicích, 135638",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": null,
-      "price": 3790000,
-      "price_per_m2": null,
+      "area_m2": 8800,
+      "price": 3600000,
+      "price_per_m2": 409,
       "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/221339244/domecek-u-potoka.php",
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221364066/prodej-pozemku-v-raskovicich-135638.php",
       "portal": "bazos",
-      "added": "2026-07-15",
-      "updated": "2026-07-15",
+      "added": "2026-07-16",
+      "updated": "2026-07-16",
       "price_history": [
         {
-          "date": "2026-07-15",
-          "price": 3790000
+          "date": "2026-07-16",
+          "price": 3600000
         }
       ],
       "removed_date": null
@@ -57,6 +57,34 @@
         {
           "date": "2026-06-11",
           "price": 6250000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221339244",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej domu 5+1 v Kunčicích pod Ondřejníkem",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 3790000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221339244/domecek-u-potoka.php",
+      "portal": "bazos",
+      "added": "2026-07-15",
+      "updated": "2026-07-15",
+      "price_history": [
+        {
+          "date": "2026-07-15",
+          "price": 3790000
         }
       ],
       "removed_date": null
@@ -1965,34 +1993,6 @@
         {
           "date": "2026-05-17",
           "price": 1550000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_218920815",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku v Raškovicích, 135638",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 8800,
-      "price": 3600000,
-      "price_per_m2": 409,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/218920815/prodej-pozemku-v-raskovicich-135638.php",
-      "portal": "bazos",
-      "added": "2026-05-16",
-      "updated": "2026-05-16",
-      "price_history": [
-        {
-          "date": "2026-05-16",
-          "price": 3600000
         }
       ],
       "removed_date": null
@@ -12198,6 +12198,34 @@
         }
       ],
       "removed_date": "2026-07-15"
+    },
+    {
+      "id": "bazos_218920815",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku v Raškovicích, 135638",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 8800,
+      "price": 3600000,
+      "price_per_m2": 409,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/218920815/prodej-pozemku-v-raskovicich-135638.php",
+      "portal": "bazos",
+      "added": "2026-05-16",
+      "updated": "2026-05-16",
+      "price_history": [
+        {
+          "date": "2026-05-16",
+          "price": 3600000
+        }
+      ],
+      "removed_date": "2026-07-16"
     }
   ]
 }
