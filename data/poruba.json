@@ -1,10 +1,66 @@
 {
-  "generated": "2026-07-17T17:28:29.173386+00:00",
+  "generated": "2026-07-18T07:17:54.681819+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_221430652",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 se zasklenou lodžií, Nám. Družby, Ostrava -",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3225000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221430652/prodej-bytu-21-se-zasklenou-lodzii-nam-druzby-ostrava.php",
+      "portal": "bazos",
+      "added": "2026-07-18",
+      "updated": "2026-07-18",
+      "price_history": [
+        {
+          "date": "2026-07-18",
+          "price": 3225000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219730532",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 51 m², Ostrava - Poruba, ul. Ľudovíta Štúra",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 51,
+      "price": 3740000,
+      "price_per_m2": 73333,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219730532/prodej-bytu-21-51-m-ostrava-poruba-ul-ludovita-stura.php",
+      "portal": "bazos",
+      "added": "2026-07-18",
+      "updated": "2026-07-18",
+      "price_history": [
+        {
+          "date": "2026-07-18",
+          "price": 3740000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_221350025",
       "status": "active",
@@ -205,70 +261,6 @@
         {
           "date": "2026-06-27",
           "price": 3800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219014906",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 51,
-      "price": 3999000,
-      "price_per_m2": 78412,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219014906/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
-      "portal": "bazos",
-      "added": "2026-05-26",
-      "updated": "2026-05-26",
-      "price_history": [
-        {
-          "date": "2026-05-26",
-          "price": 3999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220831439",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1 se zasklenou lodžií, Nám. Družby, Ostrava -",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3225000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/220831439/prodej-bytu-21-se-zasklenou-lodzii-nam-druzby-ostrava.php",
-      "portal": "bazos",
-      "added": "2026-07-02",
-      "updated": "2026-07-11",
-      "price_history": [
-        {
-          "date": "2026-07-02",
-          "price": 3150000
-        },
-        {
-          "date": "2026-07-08",
-          "price": 3200000
-        },
-        {
-          "date": "2026-07-11",
-          "price": 3225000
         }
       ],
       "removed_date": null
@@ -3072,6 +3064,70 @@
         }
       ],
       "removed_date": "2026-07-17"
+    },
+    {
+      "id": "bazos_219014906",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 51,
+      "price": 3999000,
+      "price_per_m2": 78412,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219014906/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
+      "portal": "bazos",
+      "added": "2026-05-26",
+      "updated": "2026-05-26",
+      "price_history": [
+        {
+          "date": "2026-05-26",
+          "price": 3999000
+        }
+      ],
+      "removed_date": "2026-07-18"
+    },
+    {
+      "id": "bazos_220831439",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 se zasklenou lodžií, Nám. Družby, Ostrava -",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3225000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220831439/prodej-bytu-21-se-zasklenou-lodzii-nam-druzby-ostrava.php",
+      "portal": "bazos",
+      "added": "2026-07-02",
+      "updated": "2026-07-11",
+      "price_history": [
+        {
+          "date": "2026-07-02",
+          "price": 3150000
+        },
+        {
+          "date": "2026-07-08",
+          "price": 3200000
+        },
+        {
+          "date": "2026-07-11",
+          "price": 3225000
+        }
+      ],
+      "removed_date": "2026-07-18"
     }
   ]
 }
