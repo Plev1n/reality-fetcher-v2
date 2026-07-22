@@ -1,10 +1,42 @@
 {
-  "generated": "2026-07-21T17:34:12.470207+00:00",
+  "generated": "2026-07-22T07:49:33.294757+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_220622720",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej 2+KK, 68m2, balkón, dr. Ostrava - poruba Nábřeží SPB",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 68,
+      "price": 3600000,
+      "price_per_m2": 52941,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220622720/prodej-2kk-68m2-balkon-dr-ostrava-poruba-nabrezi-spb.php",
+      "portal": "bazos",
+      "added": "2026-06-27",
+      "updated": "2026-07-22",
+      "price_history": [
+        {
+          "date": "2026-06-27",
+          "price": 3688888
+        },
+        {
+          "date": "2026-07-22",
+          "price": 3600000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_221500201",
       "status": "active",
@@ -373,34 +405,6 @@
         {
           "date": "2026-06-26",
           "price": 2950000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220387883",
-      "status": "active",
-      "type": "byt",
-      "title": "Družstevní byt 1+1 46m2 Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 46,
-      "price": 3600000,
-      "price_per_m2": 78261,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220387883/druzstevni-byt-11-46m2-poruba.php",
-      "portal": "bazos",
-      "added": "2026-06-22",
-      "updated": "2026-06-22",
-      "price_history": [
-        {
-          "date": "2026-06-22",
-          "price": 3600000
         }
       ],
       "removed_date": null
@@ -3130,34 +3134,6 @@
       "removed_date": "2026-07-18"
     },
     {
-      "id": "bazos_220622720",
-      "status": "removed",
-      "type": "byt",
-      "title": "Prodej 2+KK, 68m2, balkón, dr. Ostrava - poruba Nábřeží SPB",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 68,
-      "price": 3688888,
-      "price_per_m2": 54248,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220622720/prodej-2kk-68m2-balkon-dr-ostrava-poruba-nabrezi-spb.php",
-      "portal": "bazos",
-      "added": "2026-06-27",
-      "updated": "2026-06-27",
-      "price_history": [
-        {
-          "date": "2026-06-27",
-          "price": 3688888
-        }
-      ],
-      "removed_date": "2026-07-19"
-    },
-    {
       "id": "bazos_220016570",
       "status": "removed",
       "type": "byt",
@@ -3184,6 +3160,34 @@
         }
       ],
       "removed_date": "2026-07-21"
+    },
+    {
+      "id": "bazos_220387883",
+      "status": "removed",
+      "type": "byt",
+      "title": "Družstevní byt 1+1 46m2 Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 46,
+      "price": 3600000,
+      "price_per_m2": 78261,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220387883/druzstevni-byt-11-46m2-poruba.php",
+      "portal": "bazos",
+      "added": "2026-06-22",
+      "updated": "2026-06-22",
+      "price_history": [
+        {
+          "date": "2026-06-22",
+          "price": 3600000
+        }
+      ],
+      "removed_date": "2026-07-22"
     }
   ]
 }
