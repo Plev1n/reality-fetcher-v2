@@ -1,10 +1,38 @@
 {
-  "generated": "2026-07-24T17:54:50.407484+00:00",
+  "generated": "2026-07-25T07:34:17.947416+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_221728852",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2690000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221728852/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
+      "portal": "bazos",
+      "added": "2026-07-25",
+      "updated": "2026-07-25",
+      "price_history": [
+        {
+          "date": "2026-07-25",
+          "price": 2690000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_219994634",
       "status": "active",
@@ -89,34 +117,6 @@
         {
           "date": "2026-06-10",
           "price": 3590000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221624102",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1, 41 m², Ostrava, ul. Vietnamská",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 41,
-      "price": 3299000,
-      "price_per_m2": 80463,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221624102/prodej-bytu-11-41-m-ostrava-ul-vietnamska.php",
-      "portal": "bazos",
-      "added": "2026-07-22",
-      "updated": "2026-07-22",
-      "price_history": [
-        {
-          "date": "2026-07-22",
-          "price": 3299000
         }
       ],
       "removed_date": null
@@ -233,34 +233,6 @@
         {
           "date": "2026-07-08",
           "price": 2680000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220314266",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, ul. Slepá, Ostrava - Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 56,
-      "price": 3800000,
-      "price_per_m2": 67857,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220314266/prodej-bytu-21-ul-slepa-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-06-27",
-      "updated": "2026-06-27",
-      "price_history": [
-        {
-          "date": "2026-06-27",
-          "price": 3800000
         }
       ],
       "removed_date": null
@@ -438,6 +410,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_220314266",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, ul. Slepá, Ostrava - Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 56,
+      "price": 3800000,
+      "price_per_m2": 67857,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220314266/prodej-bytu-21-ul-slepa-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-06-27",
+      "updated": "2026-06-27",
+      "price_history": [
+        {
+          "date": "2026-06-27",
+          "price": 3800000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_219732001",
       "status": "active",
       "type": "byt",
@@ -465,38 +465,6 @@
         {
           "date": "2026-07-14",
           "price": 3350000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219285010",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2690000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219285010/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
-      "portal": "bazos",
-      "added": "2026-05-25",
-      "updated": "2026-06-29",
-      "price_history": [
-        {
-          "date": "2026-05-25",
-          "price": 2790000
-        },
-        {
-          "date": "2026-06-29",
-          "price": 2690000
         }
       ],
       "removed_date": null
@@ -3276,6 +3244,66 @@
         }
       ],
       "removed_date": "2026-07-24"
+    },
+    {
+      "id": "bazos_221624102",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 1+1, 41 m², Ostrava, ul. Vietnamská",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 41,
+      "price": 3299000,
+      "price_per_m2": 80463,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221624102/prodej-bytu-11-41-m-ostrava-ul-vietnamska.php",
+      "portal": "bazos",
+      "added": "2026-07-22",
+      "updated": "2026-07-22",
+      "price_history": [
+        {
+          "date": "2026-07-22",
+          "price": 3299000
+        }
+      ],
+      "removed_date": "2026-07-25"
+    },
+    {
+      "id": "bazos_219285010",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 1+KK se zasklenou lodžií, Ostrava - Poru, 134997",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2690000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219285010/prodej-bytu-1kk-se-zasklenou-lodzii-ostrava-poru-134997.php",
+      "portal": "bazos",
+      "added": "2026-05-25",
+      "updated": "2026-06-29",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 2790000
+        },
+        {
+          "date": "2026-06-29",
+          "price": 2690000
+        }
+      ],
+      "removed_date": "2026-07-25"
     }
   ]
 }
