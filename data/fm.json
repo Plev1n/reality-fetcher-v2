@@ -1,34 +1,626 @@
 {
-  "generated": "2026-07-28T17:40:13.984421+00:00",
+  "generated": "2026-07-29T07:57:22.306711+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_221871280",
+      "id": "bazos_221888815",
       "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 5+1, 161 m and sup2;, pozemek 1 357 m",
+      "type": "pozemek",
+      "title": "Stavební pozemek 930 m², Bukovice u Dobratic, sítě na hranic",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": 1357,
-      "price": 6490000,
-      "price_per_m2": 40311,
+      "area_m2": 930,
+      "price": 2400000,
+      "price_per_m2": 2581,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221871280/prodej-rodinneho-domu-51-161-m-and-sup2-pozemek-1-357-m.php",
+      "url": "https://reality.bazos.cz/inzerat/221888815/stavebni-pozemek-930-m-bukovice-u-dobratic-site-na-hranic.php",
+      "portal": "bazos",
+      "added": "2026-07-29",
+      "updated": "2026-07-29",
+      "price_history": [
+        {
+          "date": "2026-07-29",
+          "price": 2400000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221888212",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek s projektovou dokumentací domu 5KK o výměře",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2618,
+      "price": 6500000,
+      "price_per_m2": 2483,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221888212/stavebni-pozemek-s-projektovou-dokumentaci-domu-5kk-o-vymere.php",
+      "portal": "bazos",
+      "added": "2026-07-29",
+      "updated": "2026-07-29",
+      "price_history": [
+        {
+          "date": "2026-07-29",
+          "price": 6500000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221888210",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek o výměře 6.986 m2 v obci Čeladná",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 986,
+      "price": 8990000,
+      "price_per_m2": 9118,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221888210/stavebni-pozemek-o-vymere-6986-m2-v-obci-celadna.php",
+      "portal": "bazos",
+      "added": "2026-07-29",
+      "updated": "2026-07-29",
+      "price_history": [
+        {
+          "date": "2026-07-29",
+          "price": 8990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3818653",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 297 m² Metylovice",
+      "location": "Metylovice",
+      "location_id": "metylovice",
+      "coordinates": [
+        49.6,
+        18.34
+      ],
+      "area_m2": 1297,
+      "price": 3900000,
+      "price_per_m2": 3007,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/metylovice/prodej-stavebni-parcely-1-297-m2-3818653.html",
+      "portal": "sousede",
+      "added": "2026-07-29",
+      "updated": "2026-07-29",
+      "price_history": [
+        {
+          "date": "2026-07-29",
+          "price": 3900000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3767822",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 626 m² Raškovice",
+      "location": "Raškovice",
+      "location_id": "raskovice",
+      "coordinates": [
+        49.61,
+        18.47
+      ],
+      "area_m2": 1626,
+      "price": 4500000,
+      "price_per_m2": 2768,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/raskovice/prodej-stavebni-parcely-1-626-m2-3767822.html",
+      "portal": "sousede",
+      "added": "2026-07-29",
+      "updated": "2026-07-29",
+      "price_history": [
+        {
+          "date": "2026-07-29",
+          "price": 4500000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221585183",
+      "status": "active",
+      "type": "pozemek",
+      "title": "prodej stavebního pozemku o výměře 1922m2, Pstruží, , 136243",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1922,
+      "price": 5746780,
+      "price_per_m2": 2990,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221585183/prodej-stavebniho-pozemku-o-vymere-1922m2-pstruzi-136243.php",
+      "portal": "bazos",
+      "added": "2026-07-21",
+      "updated": "2026-07-21",
+      "price_history": [
+        {
+          "date": "2026-07-21",
+          "price": 5746780
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221859393",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 3 269 m², Bruzovice, ev.č. 00605",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3269,
+      "price": 3945200,
+      "price_per_m2": 1207,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221859393/prodej-stavebniho-pozemku-3-269-m-bruzovice-evc-00605.php",
       "portal": "bazos",
       "added": "2026-07-28",
       "updated": "2026-07-28",
       "price_history": [
         {
           "date": "2026-07-28",
-          "price": 6490000
+          "price": 3945200
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221858978",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 4 261 m², Bruzovice, ev.č. 00604",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 4261,
+      "price": 4877870,
+      "price_per_m2": 1145,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221858978/prodej-stavebniho-pozemku-4-261-m-bruzovice-evc-00604.php",
+      "portal": "bazos",
+      "added": "2026-07-28",
+      "updated": "2026-07-28",
+      "price_history": [
+        {
+          "date": "2026-07-28",
+          "price": 4877870
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220770705",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku s rodinným domem v Lučině",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2139,
+      "price": 4490000,
+      "price_per_m2": 2099,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220770705/prodej-stavebniho-pozemku-s-rodinnym-domem-v-lucine.php",
+      "portal": "bazos",
+      "added": "2026-07-01",
+      "updated": "2026-07-04",
+      "price_history": [
+        {
+          "date": "2026-07-01",
+          "price": 4590000
+        },
+        {
+          "date": "2026-07-04",
+          "price": 4490000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221788508",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Ostrov squid game",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 67,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221788508/ostrov-squid-game.php",
+      "portal": "bazos",
+      "added": "2026-07-27",
+      "updated": "2026-07-27",
+      "price_history": [
+        {
+          "date": "2026-07-27",
+          "price": 67
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221728844",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku, 134783",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 833,
+      "price": 2299000,
+      "price_per_m2": 2760,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221728844/prodej-stavebniho-pozemku-134783.php",
+      "portal": "bazos",
+      "added": "2026-07-25",
+      "updated": "2026-07-25",
+      "price_history": [
+        {
+          "date": "2026-07-25",
+          "price": 2299000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221710432",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Nabízím k prodeji pozemek ke stavbě RD Ostravice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 3500,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221710432/nabizim-k-prodeji-pozemek-ke-stavbe-rd-ostravice.php",
+      "portal": "bazos",
+      "added": "2026-07-27",
+      "updated": "2026-07-27",
+      "price_history": [
+        {
+          "date": "2026-07-27",
+          "price": 3500
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221707021",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku pro bydlení, 1154 m2, Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1154,
+      "price": 5250700,
+      "price_per_m2": 4550,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221707021/prodej-pozemku-pro-bydleni-1154-m2-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-07-24",
+      "updated": "2026-07-24",
+      "price_history": [
+        {
+          "date": "2026-07-24",
+          "price": 5250700
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221707015",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku pro bydlení, 1242 m2, Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1242,
+      "price": 5651100,
+      "price_per_m2": 4550,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221707015/prodej-pozemku-pro-bydleni-1242-m2-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-07-24",
+      "updated": "2026-07-24",
+      "price_history": [
+        {
+          "date": "2026-07-24",
+          "price": 5651100
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221707012",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku pro bydlení, 800 m2, Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 800,
+      "price": 3640000,
+      "price_per_m2": 4550,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221707012/prodej-pozemku-pro-bydleni-800-m2-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-07-24",
+      "updated": "2026-07-24",
+      "price_history": [
+        {
+          "date": "2026-07-24",
+          "price": 3640000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219730141",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej domu 5+1 s podkrovím,pozemek 2 250 m2,Sedlišt, 134542",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2250,
+      "price": 5190000,
+      "price_per_m2": 2307,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219730141/prodej-domu-51-s-podkrovimpozemek-2-250-m2sedlist-134542.php",
+      "portal": "bazos",
+      "added": "2026-06-04",
+      "updated": "2026-06-04",
+      "price_history": [
+        {
+          "date": "2026-06-04",
+          "price": 5190000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221604951",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek o výměře 3.886 m2 v obci Ostravice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 886,
+      "price": 4999000,
+      "price_per_m2": 5642,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221604951/stavebni-pozemek-o-vymere-3886-m2-v-obci-ostravice.php",
+      "portal": "bazos",
+      "added": "2026-07-22",
+      "updated": "2026-07-22",
+      "price_history": [
+        {
+          "date": "2026-07-22",
+          "price": 4999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221588574",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemky v klidné části obce Dolní Tošanovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1483,
+      "price": 2000,
+      "price_per_m2": 1,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221588574/stavebni-pozemky-v-klidne-casti-obce-dolni-tosanovice.php",
+      "portal": "bazos",
+      "added": "2026-07-21",
+      "updated": "2026-07-21",
+      "price_history": [
+        {
+          "date": "2026-07-21",
+          "price": 2000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221581265",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku k výstavbě RD v Třinci,Nebory",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 1550,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221581265/prodej-pozemku-k-vystavbe-rd-v-trincinebory.php",
+      "portal": "bazos",
+      "added": "2026-07-21",
+      "updated": "2026-07-21",
+      "price_history": [
+        {
+          "date": "2026-07-21",
+          "price": 1550
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221577879",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej krásného pozemku pod Beskydami, Horní Domasla, 131486",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1811,
+      "price": 3622000,
+      "price_per_m2": 2000,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221577879/prodej-krasneho-pozemku-pod-beskydami-horni-domasla-131486.php",
+      "portal": "bazos",
+      "added": "2026-07-21",
+      "updated": "2026-07-21",
+      "price_history": [
+        {
+          "date": "2026-07-21",
+          "price": 3622000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221531787",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 4870,
+      "price": 2950000,
+      "price_per_m2": 606,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221531787/stavebni-pozemek.php",
+      "portal": "bazos",
+      "added": "2026-07-28",
+      "updated": "2026-07-28",
+      "price_history": [
+        {
+          "date": "2026-07-28",
+          "price": 2950000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221522082",
+      "status": "active",
+      "type": "pozemek",
+      "title": "realita",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 160000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221522082/realita.php",
+      "portal": "bazos",
+      "added": "2026-07-20",
+      "updated": "2026-07-20",
+      "price_history": [
+        {
+          "date": "2026-07-20",
+          "price": 160000
         }
       ],
       "removed_date": null
@@ -57,6 +649,62 @@
         {
           "date": "2026-06-11",
           "price": 6250000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220070683",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej, rodinný dům, Janovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 7790000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220070683/prodej-rodinny-dum-janovice.php",
+      "portal": "bazos",
+      "added": "2026-06-12",
+      "updated": "2026-06-12",
+      "price_history": [
+        {
+          "date": "2026-06-12",
+          "price": 7790000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221871280",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 5+1, 161 m and sup2;, pozemek 1 357 m",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1357,
+      "price": 6490000,
+      "price_per_m2": 40311,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221871280/prodej-rodinneho-domu-51-161-m-and-sup2-pozemek-1-357-m.php",
+      "portal": "bazos",
+      "added": "2026-07-28",
+      "updated": "2026-07-28",
+      "price_history": [
+        {
+          "date": "2026-07-28",
+          "price": 6490000
         }
       ],
       "removed_date": null
@@ -225,34 +873,6 @@
         {
           "date": "2026-07-15",
           "price": 3790000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220070683",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej, rodinný dům, Janovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 7790000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/220070683/prodej-rodinny-dum-janovice.php",
-      "portal": "bazos",
-      "added": "2026-06-12",
-      "updated": "2026-06-12",
-      "price_history": [
-        {
-          "date": "2026-06-12",
-          "price": 7790000
         }
       ],
       "removed_date": null
@@ -466,38 +1086,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_220770705",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku s rodinným domem v Lučině",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2139,
-      "price": 4490000,
-      "price_per_m2": 2099,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220770705/prodej-stavebniho-pozemku-s-rodinnym-domem-v-lucine.php",
-      "portal": "bazos",
-      "added": "2026-07-01",
-      "updated": "2026-07-04",
-      "price_history": [
-        {
-          "date": "2026-07-01",
-          "price": 4590000
-        },
-        {
-          "date": "2026-07-04",
-          "price": 4490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_220712782",
       "status": "active",
       "type": "dum",
@@ -586,34 +1174,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_219730141",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej domu 5+1 s podkrovím,pozemek 2 250 m2,Sedlišt, 134542",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2250,
-      "price": 5190000,
-      "price_per_m2": 2307,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219730141/prodej-domu-51-s-podkrovimpozemek-2-250-m2sedlist-134542.php",
-      "portal": "bazos",
-      "added": "2026-06-04",
-      "updated": "2026-06-04",
-      "price_history": [
-        {
-          "date": "2026-06-04",
-          "price": 5190000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_219681444",
       "status": "active",
       "type": "dum",
@@ -637,1334 +1197,6 @@
         {
           "date": "2026-07-08",
           "price": 3290000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221531787",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 4870,
-      "price": 2950000,
-      "price_per_m2": 606,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221531787/stavebni-pozemek.php",
-      "portal": "bazos",
-      "added": "2026-07-28",
-      "updated": "2026-07-28",
-      "price_history": [
-        {
-          "date": "2026-07-28",
-          "price": 2950000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221859393",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 3 269 m², Bruzovice, ev.č. 00605",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 3269,
-      "price": 3945200,
-      "price_per_m2": 1207,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221859393/prodej-stavebniho-pozemku-3-269-m-bruzovice-evc-00605.php",
-      "portal": "bazos",
-      "added": "2026-07-28",
-      "updated": "2026-07-28",
-      "price_history": [
-        {
-          "date": "2026-07-28",
-          "price": 3945200
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221858978",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 4 261 m², Bruzovice, ev.č. 00604",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 4261,
-      "price": 4877870,
-      "price_per_m2": 1145,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221858978/prodej-stavebniho-pozemku-4-261-m-bruzovice-evc-00604.php",
-      "portal": "bazos",
-      "added": "2026-07-28",
-      "updated": "2026-07-28",
-      "price_history": [
-        {
-          "date": "2026-07-28",
-          "price": 4877870
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221788508",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Ostrov squid game",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 67,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/221788508/ostrov-squid-game.php",
-      "portal": "bazos",
-      "added": "2026-07-27",
-      "updated": "2026-07-27",
-      "price_history": [
-        {
-          "date": "2026-07-27",
-          "price": 67
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221728844",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku, 134783",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 833,
-      "price": 2299000,
-      "price_per_m2": 2760,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221728844/prodej-stavebniho-pozemku-134783.php",
-      "portal": "bazos",
-      "added": "2026-07-25",
-      "updated": "2026-07-25",
-      "price_history": [
-        {
-          "date": "2026-07-25",
-          "price": 2299000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221710432",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Nabízím k prodeji pozemek ke stavbě RD Ostravice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 3500,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/221710432/nabizim-k-prodeji-pozemek-ke-stavbe-rd-ostravice.php",
-      "portal": "bazos",
-      "added": "2026-07-27",
-      "updated": "2026-07-27",
-      "price_history": [
-        {
-          "date": "2026-07-27",
-          "price": 3500
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221707021",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku pro bydlení, 1154 m2, Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1154,
-      "price": 5250700,
-      "price_per_m2": 4550,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221707021/prodej-pozemku-pro-bydleni-1154-m2-frydek-mistek.php",
-      "portal": "bazos",
-      "added": "2026-07-24",
-      "updated": "2026-07-24",
-      "price_history": [
-        {
-          "date": "2026-07-24",
-          "price": 5250700
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221707015",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku pro bydlení, 1242 m2, Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1242,
-      "price": 5651100,
-      "price_per_m2": 4550,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221707015/prodej-pozemku-pro-bydleni-1242-m2-frydek-mistek.php",
-      "portal": "bazos",
-      "added": "2026-07-24",
-      "updated": "2026-07-24",
-      "price_history": [
-        {
-          "date": "2026-07-24",
-          "price": 5651100
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221707012",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku pro bydlení, 800 m2, Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 800,
-      "price": 3640000,
-      "price_per_m2": 4550,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221707012/prodej-pozemku-pro-bydleni-800-m2-frydek-mistek.php",
-      "portal": "bazos",
-      "added": "2026-07-24",
-      "updated": "2026-07-24",
-      "price_history": [
-        {
-          "date": "2026-07-24",
-          "price": 3640000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220249441",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 930,
-      "price": 2999000,
-      "price_per_m2": 3225,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220249441/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste.php",
-      "portal": "bazos",
-      "added": "2026-06-17",
-      "updated": "2026-06-17",
-      "price_history": [
-        {
-          "date": "2026-06-17",
-          "price": 2999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221604951",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek o výměře 3.886 m2 v obci Ostravice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 886,
-      "price": 4999000,
-      "price_per_m2": 5642,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221604951/stavebni-pozemek-o-vymere-3886-m2-v-obci-ostravice.php",
-      "portal": "bazos",
-      "added": "2026-07-22",
-      "updated": "2026-07-22",
-      "price_history": [
-        {
-          "date": "2026-07-22",
-          "price": 4999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221588574",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemky v klidné části obce Dolní Tošanovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1483,
-      "price": 2000,
-      "price_per_m2": 1,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221588574/stavebni-pozemky-v-klidne-casti-obce-dolni-tosanovice.php",
-      "portal": "bazos",
-      "added": "2026-07-21",
-      "updated": "2026-07-21",
-      "price_history": [
-        {
-          "date": "2026-07-21",
-          "price": 2000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221585183",
-      "status": "active",
-      "type": "pozemek",
-      "title": "prodej stavebního pozemku o výměře 1922m2, Pstruží, , 136243",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1922,
-      "price": 5746780,
-      "price_per_m2": 2990,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221585183/prodej-stavebniho-pozemku-o-vymere-1922m2-pstruzi-136243.php",
-      "portal": "bazos",
-      "added": "2026-07-21",
-      "updated": "2026-07-21",
-      "price_history": [
-        {
-          "date": "2026-07-21",
-          "price": 5746780
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221581265",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k výstavbě RD v Třinci,Nebory",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 1550,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/221581265/prodej-pozemku-k-vystavbe-rd-v-trincinebory.php",
-      "portal": "bazos",
-      "added": "2026-07-21",
-      "updated": "2026-07-21",
-      "price_history": [
-        {
-          "date": "2026-07-21",
-          "price": 1550
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221577879",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej krásného pozemku pod Beskydami, Horní Domasla, 131486",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1811,
-      "price": 3622000,
-      "price_per_m2": 2000,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221577879/prodej-krasneho-pozemku-pod-beskydami-horni-domasla-131486.php",
-      "portal": "bazos",
-      "added": "2026-07-21",
-      "updated": "2026-07-21",
-      "price_history": [
-        {
-          "date": "2026-07-21",
-          "price": 3622000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221522082",
-      "status": "active",
-      "type": "pozemek",
-      "title": "realita",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 160000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/221522082/realita.php",
-      "portal": "bazos",
-      "added": "2026-07-20",
-      "updated": "2026-07-20",
-      "price_history": [
-        {
-          "date": "2026-07-20",
-          "price": 160000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221317299",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku s dřevěnicí v obci Raškovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1626,
-      "price": 4500000,
-      "price_per_m2": 2768,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221317299/prodej-stavebniho-pozemku-s-drevenici-v-obci-raskovice.php",
-      "portal": "bazos",
-      "added": "2026-07-20",
-      "updated": "2026-07-20",
-      "price_history": [
-        {
-          "date": "2026-07-20",
-          "price": 4500000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221229308",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku, 3955 m², Pstruží",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 3955,
-      "price": 4400000,
-      "price_per_m2": 1113,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221229308/prodej-stavebniho-pozemku-3955-m-pstruzi.php",
-      "portal": "bazos",
-      "added": "2026-07-13",
-      "updated": "2026-07-13",
-      "price_history": [
-        {
-          "date": "2026-07-13",
-          "price": 4400000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221202620",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek 1934 m² na Ostravici",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1934,
-      "price": 5090000,
-      "price_per_m2": 2632,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221202620/stavebni-pozemek-1934-m-na-ostravici.php",
-      "portal": "bazos",
-      "added": "2026-07-12",
-      "updated": "2026-07-12",
-      "price_history": [
-        {
-          "date": "2026-07-12",
-          "price": 5090000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221192672",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemky 9600 m², asfaltová cesta 5.000 m², , 133789",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 9598,
-      "price": 3200000,
-      "price_per_m2": 333,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221192672/stavebni-pozemky-9600-m-asfaltova-cesta-5000-m-133789.php",
-      "portal": "bazos",
-      "added": "2026-07-12",
-      "updated": "2026-07-12",
-      "price_history": [
-        {
-          "date": "2026-07-12",
-          "price": 3200000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221141182",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku v Pržně",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 3753,
-      "price": 490000,
-      "price_per_m2": 131,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221141182/prodej-pozemku-v-przne.php",
-      "portal": "bazos",
-      "added": "2026-07-10",
-      "updated": "2026-07-10",
-      "price_history": [
-        {
-          "date": "2026-07-10",
-          "price": 490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221138350",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 2 348 m, Frýdlant nad Ostravicí",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2348,
-      "price": 6299999,
-      "price_per_m2": 2683,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221138350/prodej-stavebniho-pozemku-2-348-m-frydlant-nad-ostravici.php",
-      "portal": "bazos",
-      "added": "2026-07-10",
-      "updated": "2026-07-10",
-      "price_history": [
-        {
-          "date": "2026-07-10",
-          "price": 6299999
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221136016",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek 2 437 m2, jihozápadní mírný svah, voda, el.",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2437,
-      "price": 7980000,
-      "price_per_m2": 3275,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221136016/stavebni-pozemek-2-437-m2-jihozapadni-mirny-svah-voda-el.php",
-      "portal": "bazos",
-      "added": "2026-07-10",
-      "updated": "2026-07-10",
-      "price_history": [
-        {
-          "date": "2026-07-10",
-          "price": 7980000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221051795",
-      "status": "active",
-      "type": "pozemek",
-      "title": "prodej pozemku 14087 m2 Baška",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 14087,
-      "price": 1760000,
-      "price_per_m2": 125,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221051795/prodej-pozemku-14087-m2-baska.php",
-      "portal": "bazos",
-      "added": "2026-07-08",
-      "updated": "2026-07-08",
-      "price_history": [
-        {
-          "date": "2026-07-08",
-          "price": 1760000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220932290",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1 182 m², Palkovice - Myslík",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1182,
-      "price": 3490000,
-      "price_per_m2": 2953,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220932290/prodej-stavebniho-pozemku-1-182-m-palkovice-myslik.php",
-      "portal": "bazos",
-      "added": "2026-07-05",
-      "updated": "2026-07-05",
-      "price_history": [
-        {
-          "date": "2026-07-05",
-          "price": 3490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220809790",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku v Palkovicích",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1220,
-      "price": 4190000,
-      "price_per_m2": 3434,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220809790/prodej-stavebniho-pozemku-v-palkovicich.php",
-      "portal": "bazos",
-      "added": "2026-07-02",
-      "updated": "2026-07-02",
-      "price_history": [
-        {
-          "date": "2026-07-02",
-          "price": 4190000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220752603",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek 1 002 m² v Pazderné – klidné bydlen, 136000",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1002,
-      "price": 2200000,
-      "price_per_m2": 2196,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220752603/stavebni-pozemek-1-002-m-v-pazderne-klidne-bydlen-136000.php",
-      "portal": "bazos",
-      "added": "2026-06-30",
-      "updated": "2026-06-30",
-      "price_history": [
-        {
-          "date": "2026-06-30",
-          "price": 2200000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220751529",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, 1297 m², Metylovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1297,
-      "price": 3900000,
-      "price_per_m2": 3007,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220751529/prodej-pozemku-k-bydleni-1297-m-metylovice.php",
-      "portal": "bazos",
-      "added": "2026-06-30",
-      "updated": "2026-06-30",
-      "price_history": [
-        {
-          "date": "2026-06-30",
-          "price": 3900000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220574322",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, 3902 m², Ostravice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 3528,
-      "price": 4900000,
-      "price_per_m2": 1389,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220574322/prodej-pozemku-k-bydleni-3902-m-ostravice.php",
-      "portal": "bazos",
-      "added": "2026-06-26",
-      "updated": "2026-06-26",
-      "price_history": [
-        {
-          "date": "2026-06-26",
-          "price": 4900000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220556714",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Spekulační - stát 4 956 m²",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 4956,
-      "price": 545160,
-      "price_per_m2": 110,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220556714/spekulacni-stat-4-956-m.php",
-      "portal": "bazos",
-      "added": "2026-06-25",
-      "updated": "2026-06-25",
-      "price_history": [
-        {
-          "date": "2026-06-25",
-          "price": 545160
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220556609",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Spekulační - rezidenční 5 892 m², Podíl 25 % o výměře 1 473",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 5892,
-      "price": 213585,
-      "price_per_m2": 36,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220556609/spekulacni-rezidencni-5-892-m-podil-25-o-vymere-1-473.php",
-      "portal": "bazos",
-      "added": "2026-06-25",
-      "updated": "2026-06-25",
-      "price_history": [
-        {
-          "date": "2026-06-25",
-          "price": 213585
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220556521",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební - bydlení 14 482 m², Podíl 25 % o výměře 3 621 m²",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 3621,
-      "price": 590589,
-      "price_per_m2": 163,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220556521/stavebni-bydleni-14-752-m-podil-25-o-vymere-3-688-m.php",
-      "portal": "bazos",
-      "added": "2026-06-25",
-      "updated": "2026-07-22",
-      "price_history": [
-        {
-          "date": "2026-06-25",
-          "price": 674132
-        },
-        {
-          "date": "2026-07-12",
-          "price": 606718
-        },
-        {
-          "date": "2026-07-22",
-          "price": 590589
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220554974",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební - bydlení 1 336 m²",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1336,
-      "price": 206813,
-      "price_per_m2": 155,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220554974/stavebni-bydleni-1-336-m.php",
-      "portal": "bazos",
-      "added": "2026-06-25",
-      "updated": "2026-06-25",
-      "price_history": [
-        {
-          "date": "2026-06-25",
-          "price": 206813
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220519175",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Spekulační - rezidenční 11 858 m², Podíl 6 % o výměře 659 m²",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1460,
-      "price": 27273,
-      "price_per_m2": 19,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220519175/spekulacni-rezidencni-11-858-m-podil-6-o-vymere-659-m.php",
-      "portal": "bazos",
-      "added": "2026-06-24",
-      "updated": "2026-06-24",
-      "price_history": [
-        {
-          "date": "2026-06-24",
-          "price": 27273
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220352663",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, 4352 m², Čeladná",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1501,
-      "price": 7550000,
-      "price_per_m2": 5030,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220352663/prodej-pozemku-k-bydleni-4352-m-celadna.php",
-      "portal": "bazos",
-      "added": "2026-06-23",
-      "updated": "2026-06-23",
-      "price_history": [
-        {
-          "date": "2026-06-23",
-          "price": 7550000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220228303",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej, stavební pozemek 1178 m2, Žabeň",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1178,
-      "price": 3800000,
-      "price_per_m2": 3226,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220228303/prodej-stavebni-pozemek-1178-m2-zaben.php",
-      "portal": "bazos",
-      "added": "2026-07-20",
-      "updated": "2026-07-20",
-      "price_history": [
-        {
-          "date": "2026-07-20",
-          "price": 3800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220062464",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemků se stavbou, Janovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 24610,
-      "price": 9950000,
-      "price_per_m2": 404,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220062464/prodej-pozemku-se-stavbou-janovice.php",
-      "portal": "bazos",
-      "added": "2026-06-12",
-      "updated": "2026-06-12",
-      "price_history": [
-        {
-          "date": "2026-06-12",
-          "price": 9950000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220017748",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, 1185 m², Malenovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1185,
-      "price": 7725000,
-      "price_per_m2": 6519,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220017748/prodej-pozemku-k-bydleni-1185-m-malenovice.php",
-      "portal": "bazos",
-      "added": "2026-06-11",
-      "updated": "2026-06-11",
-      "price_history": [
-        {
-          "date": "2026-06-11",
-          "price": 7725000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219989941",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek Janovice u Frýdku-Místku 1788m2",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1788,
-      "price": 999000,
-      "price_per_m2": 559,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219989941/pozemek-janovice-u-frydku-mistku-1788m2.php",
-      "portal": "bazos",
-      "added": "2026-06-10",
-      "updated": "2026-06-12",
-      "price_history": [
-        {
-          "date": "2026-06-10",
-          "price": 999999
-        },
-        {
-          "date": "2026-06-12",
-          "price": 999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219988879",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1 260 m², Kunčičky u Bašky",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1260,
-      "price": 3950,
-      "price_per_m2": 3,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219988879/prodej-stavebniho-pozemku-1-260-m-kuncicky-u-basky.php",
-      "portal": "bazos",
-      "added": "2026-06-10",
-      "updated": "2026-06-10",
-      "price_history": [
-        {
-          "date": "2026-06-10",
-          "price": 3950
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219982041",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební parcela Palkovice, 1550 m2, 135746",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1550,
-      "price": 5890000,
-      "price_per_m2": 3800,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219982041/stavebni-parcela-palkovice-1550-m2-135746.php",
-      "portal": "bazos",
-      "added": "2026-06-10",
-      "updated": "2026-06-10",
-      "price_history": [
-        {
-          "date": "2026-06-10",
-          "price": 5890000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219851919",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek 3813 m2 v Dolních Soběšovicích.",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 3813,
-      "price": 4766250,
-      "price_per_m2": 1250,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219851919/pozemek-3813-m2-v-dolnich-sobesovicich.php",
-      "portal": "bazos",
-      "added": "2026-06-07",
-      "updated": "2026-06-07",
-      "price_history": [
-        {
-          "date": "2026-06-07",
-          "price": 4766250
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219848103",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku 1145m2 v obci Pstruží",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1145,
-      "price": 3996000,
-      "price_per_m2": 3490,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219848103/prodej-pozemku-1145m2-v-obci-pstruzi.php",
-      "portal": "bazos",
-      "added": "2026-06-07",
-      "updated": "2026-06-07",
-      "price_history": [
-        {
-          "date": "2026-06-07",
-          "price": 3996000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219732985",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Dobrá Frýdek Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1044,
-      "price": 2290000,
-      "price_per_m2": 2193,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219732985/dobra-frydek-mistek.php",
-      "portal": "bazos",
-      "added": "2026-07-17",
-      "updated": "2026-07-17",
-      "price_history": [
-        {
-          "date": "2026-07-17",
-          "price": 2290000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219730229",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, Horní Líštná, 2544m2, 135693",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2544,
-      "price": 2550000,
-      "price_per_m2": 1002,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219730229/prodej-pozemku-k-bydleni-horni-listna-2544m2-135693.php",
-      "portal": "bazos",
-      "added": "2026-06-04",
-      "updated": "2026-06-04",
-      "price_history": [
-        {
-          "date": "2026-06-04",
-          "price": 2550000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219627611",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek pro výstavbu RD",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1019,
-      "price": 2752700,
-      "price_per_m2": 2701,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219627611/pozemek-pro-vystavbu-rd.php",
-      "portal": "bazos",
-      "added": "2026-06-02",
-      "updated": "2026-06-02",
-      "price_history": [
-        {
-          "date": "2026-06-02",
-          "price": 2752700
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219471632",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej investiční nemovitosti Frýdlant nad Ostravicí",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 6000000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219471632/prodej-investicni-nemovitosti-frydlant-nad-ostravici.php",
-      "portal": "bazos",
-      "added": "2026-05-29",
-      "updated": "2026-05-29",
-      "price_history": [
-        {
-          "date": "2026-05-29",
-          "price": 6000000
         }
       ],
       "removed_date": null
@@ -2165,6 +1397,262 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10161761",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek 1047 m v Nové Vsi u Frýdlantu nad Ostravicí",
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "coordinates": [
+        49.59,
+        18.36
+      ],
+      "area_m2": 1047,
+      "price": 4083300,
+      "price_per_m2": 3900,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/pozemek-1047-m-v-nove-vsi-u-frydlantu-nad-ostravici/detail/10161761/",
+      "portal": "eurobydleni",
+      "added": "2026-07-22",
+      "updated": "2026-07-22",
+      "price_history": [
+        {
+          "date": "2026-07-22",
+          "price": 4083300
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10161759",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek 1046 m v Nové Vsi u Frýdlantu nad Ostravicí",
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "coordinates": [
+        49.59,
+        18.36
+      ],
+      "area_m2": 1046,
+      "price": 4079400,
+      "price_per_m2": 3900,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/pozemek-1046-m-v-nove-vsi-u-frydlantu-nad-ostravici/detail/10161759/",
+      "portal": "eurobydleni",
+      "added": "2026-07-22",
+      "updated": "2026-07-22",
+      "price_history": [
+        {
+          "date": "2026-07-22",
+          "price": 4079400
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10151436",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek 1776 m2  Skalice u FrýdkuMístku",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1776,
+      "price": 2700000,
+      "price_per_m2": 1520,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-1776-m2skalice-u-frydkumistku/detail/10151436/",
+      "portal": "eurobydleni",
+      "added": "2026-07-01",
+      "updated": "2026-07-01",
+      "price_history": [
+        {
+          "date": "2026-07-01",
+          "price": 2700000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10140830",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek, bydlení, prodej, Palkovice, Frýdek-Místek",
+      "location": "Palkovice",
+      "location_id": "palkovice",
+      "coordinates": [
+        49.635,
+        18.32
+      ],
+      "area_m2": 1550,
+      "price": 5890000,
+      "price_per_m2": 3800,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/pozemek-bydleni-prodej-palkovice-frydek-mistek/detail/10140830/",
+      "portal": "eurobydleni",
+      "added": "2026-07-20",
+      "updated": "2026-07-20",
+      "price_history": [
+        {
+          "date": "2026-07-20",
+          "price": 5890000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10132671",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek, Baška",
+      "location": "Baška",
+      "location_id": "baska",
+      "coordinates": [
+        49.6422,
+        18.3553
+      ],
+      "area_m2": 1300,
+      "price": 3250000,
+      "price_per_m2": 2500,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-baska/detail/10132671/",
+      "portal": "eurobydleni",
+      "added": "2026-05-27",
+      "updated": "2026-05-27",
+      "price_history": [
+        {
+          "date": "2026-05-27",
+          "price": 3250000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10074997",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek s projektem a nádherným výhledem na Beskydy  Frýdlant nad Ostravicí",
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "coordinates": [
+        49.59,
+        18.36
+      ],
+      "area_m2": 1288,
+      "price": 5800000,
+      "price_per_m2": 4503,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-s-projektem-a-nadhernym-vyhledem-na-beskydyfrydlant-nad-ostravici/detail/10074997/",
+      "portal": "eurobydleni",
+      "added": "2026-04-11",
+      "updated": "2026-04-11",
+      "price_history": [
+        {
+          "date": "2026-04-11",
+          "price": 5800000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10106703",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": 1930,
+      "price": 2999000,
+      "price_per_m2": 1554,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste/detail/10106703/",
+      "portal": "eurobydleni",
+      "added": "2026-06-13",
+      "updated": "2026-06-13",
+      "price_history": [
+        {
+          "date": "2026-06-13",
+          "price": 2999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10050518",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemky Dobrá u Frýdku-Místku",
+      "location": "Dobrá",
+      "location_id": "dobra",
+      "coordinates": [
+        49.67,
+        18.41
+      ],
+      "area_m2": 8500,
+      "price": 2550000,
+      "price_per_m2": 300,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemky-dobra-u-frydku-mistku/detail/10050518/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-04-03",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2550000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10000121",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek o výměře 1071 m2 v obci Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 1071,
+      "price": 1999000,
+      "price_per_m2": 1866,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-1071-m2-v-obci-repiste/detail/10000121/",
+      "portal": "eurobydleni",
+      "added": "2026-04-03",
+      "updated": "2026-06-19",
+      "price_history": [
+        {
+          "date": "2026-04-03",
+          "price": 2499999
+        },
+        {
+          "date": "2026-06-19",
+          "price": 1999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10160670",
       "status": "active",
       "type": "pozemek",
@@ -2273,206 +1761,6 @@
       "added": "2026-04-04",
       "updated": "2026-04-04",
       "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10161761",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek 1047 m v Nové Vsi u Frýdlantu nad Ostravicí",
-      "location": "Frýdlant nad Ostravicí",
-      "location_id": "frydlant",
-      "coordinates": [
-        49.59,
-        18.36
-      ],
-      "area_m2": 1047,
-      "price": 4083300,
-      "price_per_m2": 3900,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/pozemek-1047-m-v-nove-vsi-u-frydlantu-nad-ostravici/detail/10161761/",
-      "portal": "eurobydleni",
-      "added": "2026-07-22",
-      "updated": "2026-07-22",
-      "price_history": [
-        {
-          "date": "2026-07-22",
-          "price": 4083300
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10161759",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Pozemek 1046 m v Nové Vsi u Frýdlantu nad Ostravicí",
-      "location": "Frýdlant nad Ostravicí",
-      "location_id": "frydlant",
-      "coordinates": [
-        49.59,
-        18.36
-      ],
-      "area_m2": 1046,
-      "price": 4079400,
-      "price_per_m2": 3900,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/pozemek-1046-m-v-nove-vsi-u-frydlantu-nad-ostravici/detail/10161759/",
-      "portal": "eurobydleni",
-      "added": "2026-07-22",
-      "updated": "2026-07-22",
-      "price_history": [
-        {
-          "date": "2026-07-22",
-          "price": 4079400
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10151436",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek 1776 m2  Skalice u FrýdkuMístku",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1776,
-      "price": 2700000,
-      "price_per_m2": 1520,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-1776-m2skalice-u-frydkumistku/detail/10151436/",
-      "portal": "eurobydleni",
-      "added": "2026-07-01",
-      "updated": "2026-07-01",
-      "price_history": [
-        {
-          "date": "2026-07-01",
-          "price": 2700000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10132671",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek, Baška",
-      "location": "Baška",
-      "location_id": "baska",
-      "coordinates": [
-        49.6422,
-        18.3553
-      ],
-      "area_m2": 1300,
-      "price": 3250000,
-      "price_per_m2": 2500,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-baska/detail/10132671/",
-      "portal": "eurobydleni",
-      "added": "2026-05-27",
-      "updated": "2026-05-27",
-      "price_history": [
-        {
-          "date": "2026-05-27",
-          "price": 3250000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10074997",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek s projektem a nádherným výhledem na Beskydy  Frýdlant nad Ostravicí",
-      "location": "Frýdlant nad Ostravicí",
-      "location_id": "frydlant",
-      "coordinates": [
-        49.59,
-        18.36
-      ],
-      "area_m2": 1288,
-      "price": 5800000,
-      "price_per_m2": 4503,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-s-projektem-a-nadhernym-vyhledem-na-beskydyfrydlant-nad-ostravici/detail/10074997/",
-      "portal": "eurobydleni",
-      "added": "2026-04-11",
-      "updated": "2026-04-11",
-      "price_history": [
-        {
-          "date": "2026-04-11",
-          "price": 5800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10037235",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek o výměře 6.986 m2 v obci Čeladná",
-      "location": "Čeladná",
-      "location_id": "celadna",
-      "coordinates": [
-        49.54,
-        18.34
-      ],
-      "area_m2": 6986,
-      "price": 8990000,
-      "price_per_m2": 1287,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-6986-m2-v-obci-celadna/detail/10037235/",
-      "portal": "eurobydleni",
-      "added": "2026-05-25",
-      "updated": "2026-05-25",
-      "price_history": [
-        {
-          "date": "2026-05-25",
-          "price": 8990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10000121",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek o výměře 1071 m2 v obci Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.72,
-        18.31
-      ],
-      "area_m2": 1071,
-      "price": 1999000,
-      "price_per_m2": 1866,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-1071-m2-v-obci-repiste/detail/10000121/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-06-19",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2499999
-        },
-        {
-          "date": "2026-06-19",
-          "price": 1999000
-        }
-      ],
       "removed_date": null
     },
     {
@@ -2662,6 +1950,34 @@
         {
           "date": "2026-04-03",
           "price": 4990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3800881",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 24 610 m² Janovice",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        49.61,
+        18.39
+      ],
+      "area_m2": 24610,
+      "price": 9950000,
+      "price_per_m2": 404,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/janovice/prodej-stavebni-parcely-24-610-m2-3800881.html",
+      "portal": "sousede",
+      "added": "2026-07-20",
+      "updated": "2026-07-20",
+      "price_history": [
+        {
+          "date": "2026-07-20",
+          "price": 9950000
         }
       ],
       "removed_date": null
@@ -12240,34 +11556,6 @@
       "removed_date": "2026-07-20"
     },
     {
-      "id": "eurobydleni_10140830",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Pozemek, bydlení, prodej, Palkovice, Frýdek-Místek",
-      "location": "Palkovice",
-      "location_id": "palkovice",
-      "coordinates": [
-        49.635,
-        18.32
-      ],
-      "area_m2": 1550,
-      "price": 5890000,
-      "price_per_m2": 3800,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/pozemek-bydleni-prodej-palkovice-frydek-mistek/detail/10140830/",
-      "portal": "eurobydleni",
-      "added": "2026-07-20",
-      "updated": "2026-07-20",
-      "price_history": [
-        {
-          "date": "2026-07-20",
-          "price": 5890000
-        }
-      ],
-      "removed_date": "2026-07-20"
-    },
-    {
       "id": "eurobydleni_10075496",
       "status": "removed",
       "type": "pozemek",
@@ -12291,90 +11579,6 @@
         {
           "date": "2026-07-20",
           "price": 4578000
-        }
-      ],
-      "removed_date": "2026-07-20"
-    },
-    {
-      "id": "sousede_3800881",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 24 610 m² Janovice",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        49.61,
-        18.39
-      ],
-      "area_m2": 24610,
-      "price": 9950000,
-      "price_per_m2": 404,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/janovice/prodej-stavebni-parcely-24-610-m2-3800881.html",
-      "portal": "sousede",
-      "added": "2026-07-20",
-      "updated": "2026-07-20",
-      "price_history": [
-        {
-          "date": "2026-07-20",
-          "price": 9950000
-        }
-      ],
-      "removed_date": "2026-07-20"
-    },
-    {
-      "id": "eurobydleni_10106703",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": 1930,
-      "price": 2999000,
-      "price_per_m2": 1554,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste/detail/10106703/",
-      "portal": "eurobydleni",
-      "added": "2026-06-13",
-      "updated": "2026-06-13",
-      "price_history": [
-        {
-          "date": "2026-06-13",
-          "price": 2999000
-        }
-      ],
-      "removed_date": "2026-07-20"
-    },
-    {
-      "id": "eurobydleni_10050518",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Stavební pozemky Dobrá u Frýdku-Místku",
-      "location": "Dobrá",
-      "location_id": "dobra",
-      "coordinates": [
-        49.67,
-        18.41
-      ],
-      "area_m2": 8500,
-      "price": 2550000,
-      "price_per_m2": 300,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemky-dobra-u-frydku-mistku/detail/10050518/",
-      "portal": "eurobydleni",
-      "added": "2026-04-03",
-      "updated": "2026-04-03",
-      "price_history": [
-        {
-          "date": "2026-04-03",
-          "price": 2550000
         }
       ],
       "removed_date": "2026-07-20"
@@ -13385,6 +12589,942 @@
         }
       ],
       "removed_date": "2026-07-28"
+    },
+    {
+      "id": "bazos_220249441",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 930,
+      "price": 2999000,
+      "price_per_m2": 3225,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220249441/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste.php",
+      "portal": "bazos",
+      "added": "2026-06-17",
+      "updated": "2026-06-17",
+      "price_history": [
+        {
+          "date": "2026-06-17",
+          "price": 2999000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_221317299",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku s dřevěnicí v obci Raškovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1626,
+      "price": 4500000,
+      "price_per_m2": 2768,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221317299/prodej-stavebniho-pozemku-s-drevenici-v-obci-raskovice.php",
+      "portal": "bazos",
+      "added": "2026-07-20",
+      "updated": "2026-07-20",
+      "price_history": [
+        {
+          "date": "2026-07-20",
+          "price": 4500000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_221229308",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku, 3955 m², Pstruží",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3955,
+      "price": 4400000,
+      "price_per_m2": 1113,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221229308/prodej-stavebniho-pozemku-3955-m-pstruzi.php",
+      "portal": "bazos",
+      "added": "2026-07-13",
+      "updated": "2026-07-13",
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 4400000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_221202620",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek 1934 m² na Ostravici",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1934,
+      "price": 5090000,
+      "price_per_m2": 2632,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221202620/stavebni-pozemek-1934-m-na-ostravici.php",
+      "portal": "bazos",
+      "added": "2026-07-12",
+      "updated": "2026-07-12",
+      "price_history": [
+        {
+          "date": "2026-07-12",
+          "price": 5090000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_221192672",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemky 9600 m², asfaltová cesta 5.000 m², , 133789",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 9598,
+      "price": 3200000,
+      "price_per_m2": 333,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221192672/stavebni-pozemky-9600-m-asfaltova-cesta-5000-m-133789.php",
+      "portal": "bazos",
+      "added": "2026-07-12",
+      "updated": "2026-07-12",
+      "price_history": [
+        {
+          "date": "2026-07-12",
+          "price": 3200000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_221141182",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku v Pržně",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3753,
+      "price": 490000,
+      "price_per_m2": 131,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221141182/prodej-pozemku-v-przne.php",
+      "portal": "bazos",
+      "added": "2026-07-10",
+      "updated": "2026-07-10",
+      "price_history": [
+        {
+          "date": "2026-07-10",
+          "price": 490000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_221138350",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 2 348 m, Frýdlant nad Ostravicí",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2348,
+      "price": 6299999,
+      "price_per_m2": 2683,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221138350/prodej-stavebniho-pozemku-2-348-m-frydlant-nad-ostravici.php",
+      "portal": "bazos",
+      "added": "2026-07-10",
+      "updated": "2026-07-10",
+      "price_history": [
+        {
+          "date": "2026-07-10",
+          "price": 6299999
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_221136016",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek 2 437 m2, jihozápadní mírný svah, voda, el.",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2437,
+      "price": 7980000,
+      "price_per_m2": 3275,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221136016/stavebni-pozemek-2-437-m2-jihozapadni-mirny-svah-voda-el.php",
+      "portal": "bazos",
+      "added": "2026-07-10",
+      "updated": "2026-07-10",
+      "price_history": [
+        {
+          "date": "2026-07-10",
+          "price": 7980000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_221051795",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "prodej pozemku 14087 m2 Baška",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 14087,
+      "price": 1760000,
+      "price_per_m2": 125,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221051795/prodej-pozemku-14087-m2-baska.php",
+      "portal": "bazos",
+      "added": "2026-07-08",
+      "updated": "2026-07-08",
+      "price_history": [
+        {
+          "date": "2026-07-08",
+          "price": 1760000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220932290",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1 182 m², Palkovice - Myslík",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1182,
+      "price": 3490000,
+      "price_per_m2": 2953,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220932290/prodej-stavebniho-pozemku-1-182-m-palkovice-myslik.php",
+      "portal": "bazos",
+      "added": "2026-07-05",
+      "updated": "2026-07-05",
+      "price_history": [
+        {
+          "date": "2026-07-05",
+          "price": 3490000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220809790",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku v Palkovicích",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1220,
+      "price": 4190000,
+      "price_per_m2": 3434,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220809790/prodej-stavebniho-pozemku-v-palkovicich.php",
+      "portal": "bazos",
+      "added": "2026-07-02",
+      "updated": "2026-07-02",
+      "price_history": [
+        {
+          "date": "2026-07-02",
+          "price": 4190000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220752603",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek 1 002 m² v Pazderné – klidné bydlen, 136000",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1002,
+      "price": 2200000,
+      "price_per_m2": 2196,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220752603/stavebni-pozemek-1-002-m-v-pazderne-klidne-bydlen-136000.php",
+      "portal": "bazos",
+      "added": "2026-06-30",
+      "updated": "2026-06-30",
+      "price_history": [
+        {
+          "date": "2026-06-30",
+          "price": 2200000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220751529",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 1297 m², Metylovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1297,
+      "price": 3900000,
+      "price_per_m2": 3007,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220751529/prodej-pozemku-k-bydleni-1297-m-metylovice.php",
+      "portal": "bazos",
+      "added": "2026-06-30",
+      "updated": "2026-06-30",
+      "price_history": [
+        {
+          "date": "2026-06-30",
+          "price": 3900000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220574322",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 3902 m², Ostravice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3528,
+      "price": 4900000,
+      "price_per_m2": 1389,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220574322/prodej-pozemku-k-bydleni-3902-m-ostravice.php",
+      "portal": "bazos",
+      "added": "2026-06-26",
+      "updated": "2026-06-26",
+      "price_history": [
+        {
+          "date": "2026-06-26",
+          "price": 4900000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220556714",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Spekulační - stát 4 956 m²",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 4956,
+      "price": 545160,
+      "price_per_m2": 110,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220556714/spekulacni-stat-4-956-m.php",
+      "portal": "bazos",
+      "added": "2026-06-25",
+      "updated": "2026-06-25",
+      "price_history": [
+        {
+          "date": "2026-06-25",
+          "price": 545160
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220556609",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Spekulační - rezidenční 5 892 m², Podíl 25 % o výměře 1 473",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 5892,
+      "price": 213585,
+      "price_per_m2": 36,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220556609/spekulacni-rezidencni-5-892-m-podil-25-o-vymere-1-473.php",
+      "portal": "bazos",
+      "added": "2026-06-25",
+      "updated": "2026-06-25",
+      "price_history": [
+        {
+          "date": "2026-06-25",
+          "price": 213585
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220556521",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební - bydlení 14 482 m², Podíl 25 % o výměře 3 621 m²",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3621,
+      "price": 590589,
+      "price_per_m2": 163,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220556521/stavebni-bydleni-14-752-m-podil-25-o-vymere-3-688-m.php",
+      "portal": "bazos",
+      "added": "2026-06-25",
+      "updated": "2026-07-22",
+      "price_history": [
+        {
+          "date": "2026-06-25",
+          "price": 674132
+        },
+        {
+          "date": "2026-07-12",
+          "price": 606718
+        },
+        {
+          "date": "2026-07-22",
+          "price": 590589
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220554974",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební - bydlení 1 336 m²",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1336,
+      "price": 206813,
+      "price_per_m2": 155,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220554974/stavebni-bydleni-1-336-m.php",
+      "portal": "bazos",
+      "added": "2026-06-25",
+      "updated": "2026-06-25",
+      "price_history": [
+        {
+          "date": "2026-06-25",
+          "price": 206813
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220519175",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Spekulační - rezidenční 11 858 m², Podíl 6 % o výměře 659 m²",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1460,
+      "price": 27273,
+      "price_per_m2": 19,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220519175/spekulacni-rezidencni-11-858-m-podil-6-o-vymere-659-m.php",
+      "portal": "bazos",
+      "added": "2026-06-24",
+      "updated": "2026-06-24",
+      "price_history": [
+        {
+          "date": "2026-06-24",
+          "price": 27273
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220352663",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 4352 m², Čeladná",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1501,
+      "price": 7550000,
+      "price_per_m2": 5030,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220352663/prodej-pozemku-k-bydleni-4352-m-celadna.php",
+      "portal": "bazos",
+      "added": "2026-06-23",
+      "updated": "2026-06-23",
+      "price_history": [
+        {
+          "date": "2026-06-23",
+          "price": 7550000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220228303",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej, stavební pozemek 1178 m2, Žabeň",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1178,
+      "price": 3800000,
+      "price_per_m2": 3226,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220228303/prodej-stavebni-pozemek-1178-m2-zaben.php",
+      "portal": "bazos",
+      "added": "2026-07-20",
+      "updated": "2026-07-20",
+      "price_history": [
+        {
+          "date": "2026-07-20",
+          "price": 3800000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220062464",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemků se stavbou, Janovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 24610,
+      "price": 9950000,
+      "price_per_m2": 404,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220062464/prodej-pozemku-se-stavbou-janovice.php",
+      "portal": "bazos",
+      "added": "2026-06-12",
+      "updated": "2026-06-12",
+      "price_history": [
+        {
+          "date": "2026-06-12",
+          "price": 9950000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_220017748",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 1185 m², Malenovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1185,
+      "price": 7725000,
+      "price_per_m2": 6519,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220017748/prodej-pozemku-k-bydleni-1185-m-malenovice.php",
+      "portal": "bazos",
+      "added": "2026-06-11",
+      "updated": "2026-06-11",
+      "price_history": [
+        {
+          "date": "2026-06-11",
+          "price": 7725000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_219989941",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Pozemek Janovice u Frýdku-Místku 1788m2",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1788,
+      "price": 999000,
+      "price_per_m2": 559,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219989941/pozemek-janovice-u-frydku-mistku-1788m2.php",
+      "portal": "bazos",
+      "added": "2026-06-10",
+      "updated": "2026-06-12",
+      "price_history": [
+        {
+          "date": "2026-06-10",
+          "price": 999999
+        },
+        {
+          "date": "2026-06-12",
+          "price": 999000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_219988879",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1 260 m², Kunčičky u Bašky",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1260,
+      "price": 3950,
+      "price_per_m2": 3,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219988879/prodej-stavebniho-pozemku-1-260-m-kuncicky-u-basky.php",
+      "portal": "bazos",
+      "added": "2026-06-10",
+      "updated": "2026-06-10",
+      "price_history": [
+        {
+          "date": "2026-06-10",
+          "price": 3950
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_219982041",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební parcela Palkovice, 1550 m2, 135746",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1550,
+      "price": 5890000,
+      "price_per_m2": 3800,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219982041/stavebni-parcela-palkovice-1550-m2-135746.php",
+      "portal": "bazos",
+      "added": "2026-06-10",
+      "updated": "2026-06-10",
+      "price_history": [
+        {
+          "date": "2026-06-10",
+          "price": 5890000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_219851919",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Pozemek 3813 m2 v Dolních Soběšovicích.",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3813,
+      "price": 4766250,
+      "price_per_m2": 1250,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219851919/pozemek-3813-m2-v-dolnich-sobesovicich.php",
+      "portal": "bazos",
+      "added": "2026-06-07",
+      "updated": "2026-06-07",
+      "price_history": [
+        {
+          "date": "2026-06-07",
+          "price": 4766250
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_219848103",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku 1145m2 v obci Pstruží",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1145,
+      "price": 3996000,
+      "price_per_m2": 3490,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219848103/prodej-pozemku-1145m2-v-obci-pstruzi.php",
+      "portal": "bazos",
+      "added": "2026-06-07",
+      "updated": "2026-06-07",
+      "price_history": [
+        {
+          "date": "2026-06-07",
+          "price": 3996000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_219732985",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Dobrá Frýdek Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1044,
+      "price": 2290000,
+      "price_per_m2": 2193,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219732985/dobra-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-07-17",
+      "updated": "2026-07-17",
+      "price_history": [
+        {
+          "date": "2026-07-17",
+          "price": 2290000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_219730229",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, Horní Líštná, 2544m2, 135693",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2544,
+      "price": 2550000,
+      "price_per_m2": 1002,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219730229/prodej-pozemku-k-bydleni-horni-listna-2544m2-135693.php",
+      "portal": "bazos",
+      "added": "2026-06-04",
+      "updated": "2026-06-04",
+      "price_history": [
+        {
+          "date": "2026-06-04",
+          "price": 2550000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_219627611",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Pozemek pro výstavbu RD",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1019,
+      "price": 2752700,
+      "price_per_m2": 2701,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219627611/pozemek-pro-vystavbu-rd.php",
+      "portal": "bazos",
+      "added": "2026-06-02",
+      "updated": "2026-06-02",
+      "price_history": [
+        {
+          "date": "2026-06-02",
+          "price": 2752700
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "bazos_219471632",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej investiční nemovitosti Frýdlant nad Ostravicí",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 6000000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219471632/prodej-investicni-nemovitosti-frydlant-nad-ostravici.php",
+      "portal": "bazos",
+      "added": "2026-05-29",
+      "updated": "2026-05-29",
+      "price_history": [
+        {
+          "date": "2026-05-29",
+          "price": 6000000
+        }
+      ],
+      "removed_date": "2026-07-29"
+    },
+    {
+      "id": "eurobydleni_10037235",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek o výměře 6.986 m2 v obci Čeladná",
+      "location": "Čeladná",
+      "location_id": "celadna",
+      "coordinates": [
+        49.54,
+        18.34
+      ],
+      "area_m2": 6986,
+      "price": 8990000,
+      "price_per_m2": 1287,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-6986-m2-v-obci-celadna/detail/10037235/",
+      "portal": "eurobydleni",
+      "added": "2026-05-25",
+      "updated": "2026-05-25",
+      "price_history": [
+        {
+          "date": "2026-05-25",
+          "price": 8990000
+        }
+      ],
+      "removed_date": "2026-07-29"
     }
   ]
 }
