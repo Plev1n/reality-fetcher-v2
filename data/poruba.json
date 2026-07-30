@@ -1,10 +1,42 @@
 {
-  "generated": "2026-07-29T17:27:04.003187+00:00",
+  "generated": "2026-07-30T07:48:02.855223+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_219994634",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 s lodžií, dr. vl., ul. Oty Synka, Os, 135876",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 52,
+      "price": 3490000,
+      "price_per_m2": 67115,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219994634/prodej-bytu-21-s-lodzii-dr-vl-ul-oty-synka-os-135876.php",
+      "portal": "bazos",
+      "added": "2026-06-28",
+      "updated": "2026-07-12",
+      "price_history": [
+        {
+          "date": "2026-06-28",
+          "price": 3590000
+        },
+        {
+          "date": "2026-07-12",
+          "price": 3490000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_220458954",
       "status": "active",
@@ -65,38 +97,6 @@
         {
           "date": "2026-07-22",
           "price": 3600000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219994634",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1 s lodžií, dr. vl., ul. Oty Synka, Os, 135876",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 52,
-      "price": 3490000,
-      "price_per_m2": 67115,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219994634/prodej-bytu-21-s-lodzii-dr-vl-ul-oty-synka-os-135876.php",
-      "portal": "bazos",
-      "added": "2026-06-28",
-      "updated": "2026-07-12",
-      "price_history": [
-        {
-          "date": "2026-06-28",
-          "price": 3590000
-        },
-        {
-          "date": "2026-07-12",
-          "price": 3490000
         }
       ],
       "removed_date": null
