@@ -1,38 +1,10 @@
 {
-  "generated": "2026-07-31T17:43:08.834909+00:00",
+  "generated": "2026-08-01T07:41:33.356175+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
-    {
-      "id": "bazos_221991722",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodám dr.2+1 OV-Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3250000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/221991722/prodam-dr21-ov-poruba.php",
-      "portal": "bazos",
-      "added": "2026-07-31",
-      "updated": "2026-07-31",
-      "price_history": [
-        {
-          "date": "2026-07-31",
-          "price": 3250000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_219994634",
       "status": "active",
@@ -93,6 +65,34 @@
         {
           "date": "2026-07-29",
           "price": 2745000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221991722",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodám dr.2+1 OV-Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3250000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221991722/prodam-dr21-ov-poruba.php",
+      "portal": "bazos",
+      "added": "2026-07-31",
+      "updated": "2026-07-31",
+      "price_history": [
+        {
+          "date": "2026-07-31",
+          "price": 3250000
         }
       ],
       "removed_date": null
