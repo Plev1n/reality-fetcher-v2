@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T07:47:54.986530+00:00",
+  "generated": "2026-08-02T17:13:25.773962+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -437,38 +437,6 @@
         {
           "date": "2026-06-27",
           "price": 3800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219732001",
-      "status": "active",
-      "type": "byt",
-      "title": "Družstevní byt 2+1 na Hlavní třídě v Ostravě-Porubě",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3350000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/219732001/druzstevni-byt-21-na-hlavni-tride-v-ostrave-porube.php",
-      "portal": "bazos",
-      "added": "2026-07-10",
-      "updated": "2026-07-14",
-      "price_history": [
-        {
-          "date": "2026-07-10",
-          "price": 3390000
-        },
-        {
-          "date": "2026-07-14",
-          "price": 3350000
         }
       ],
       "removed_date": null
@@ -3333,6 +3301,38 @@
         {
           "date": "2026-06-10",
           "price": 3590000
+        }
+      ],
+      "removed_date": "2026-08-02"
+    },
+    {
+      "id": "bazos_219732001",
+      "status": "removed",
+      "type": "byt",
+      "title": "Družstevní byt 2+1 na Hlavní třídě v Ostravě-Porubě",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3350000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/219732001/druzstevni-byt-21-na-hlavni-tride-v-ostrave-porube.php",
+      "portal": "bazos",
+      "added": "2026-07-10",
+      "updated": "2026-07-14",
+      "price_history": [
+        {
+          "date": "2026-07-10",
+          "price": 3390000
+        },
+        {
+          "date": "2026-07-14",
+          "price": 3350000
         }
       ],
       "removed_date": "2026-08-02"
