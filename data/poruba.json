@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T17:13:25.773962+00:00",
+  "generated": "2026-08-03T08:45:48.316932+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -65,6 +65,34 @@
         {
           "date": "2026-07-29",
           "price": 2745000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_219730532",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 51 m², Ostrava - Poruba, ul. Ľudovíta Štúra",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 51,
+      "price": 3740000,
+      "price_per_m2": 73333,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219730532/prodej-bytu-21-51-m-ostrava-poruba-ul-ludovita-stura.php",
+      "portal": "bazos",
+      "added": "2026-07-18",
+      "updated": "2026-07-18",
+      "price_history": [
+        {
+          "date": "2026-07-18",
+          "price": 3740000
         }
       ],
       "removed_date": null
@@ -325,34 +353,6 @@
         {
           "date": "2026-07-08",
           "price": 2680000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_219730532",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 51 m², Ostrava - Poruba, ul. Ľudovíta Štúra",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 51,
-      "price": 3740000,
-      "price_per_m2": 73333,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219730532/prodej-bytu-21-51-m-ostrava-poruba-ul-ludovita-stura.php",
-      "portal": "bazos",
-      "added": "2026-07-18",
-      "updated": "2026-07-18",
-      "price_history": [
-        {
-          "date": "2026-07-18",
-          "price": 3740000
         }
       ],
       "removed_date": null
