@@ -1,34 +1,62 @@
 {
-  "generated": "2026-08-04T08:00:17.531440+00:00",
+  "generated": "2026-08-04T18:11:00.046461+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_222133087",
+      "id": "bazos_222146772",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, Horní Líštná, 2544m2, 135693",
+      "title": "Dobrá Frýdek Místek",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": 2544,
-      "price": 2550000,
-      "price_per_m2": 1002,
+      "area_m2": 1044,
+      "price": 2150000,
+      "price_per_m2": 2059,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222133087/prodej-pozemku-k-bydleni-horni-listna-2544m2-135693.php",
+      "url": "https://reality.bazos.cz/inzerat/222146772/dobra-frydek-mistek.php",
       "portal": "bazos",
       "added": "2026-08-04",
       "updated": "2026-08-04",
       "price_history": [
         {
           "date": "2026-08-04",
-          "price": 2550000
+          "price": 2150000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222142296",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 993 m², Kozlovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 993,
+      "price": 3300000,
+      "price_per_m2": 3323,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222142296/prodej-pozemku-k-bydleni-993-m-kozlovice.php",
+      "portal": "bazos",
+      "added": "2026-08-04",
+      "updated": "2026-08-04",
+      "price_history": [
+        {
+          "date": "2026-08-04",
+          "price": 3300000
         }
       ],
       "removed_date": null
@@ -657,6 +685,34 @@
         {
           "date": "2026-07-21",
           "price": 5746780
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222133087",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, Horní Líštná, 2544m2, 135693",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2544,
+      "price": 2550000,
+      "price_per_m2": 1002,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222133087/prodej-pozemku-k-bydleni-horni-listna-2544m2-135693.php",
+      "portal": "bazos",
+      "added": "2026-08-04",
+      "updated": "2026-08-04",
+      "price_history": [
+        {
+          "date": "2026-08-04",
+          "price": 2550000
         }
       ],
       "removed_date": null
@@ -2221,6 +2277,57 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10124291",
+      "status": "active",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
+      "portal": "eurobydleni",
+      "added": "2026-05-15",
+      "updated": "2026-05-15",
+      "price_history": [
+        {
+          "date": "2026-05-15",
+          "price": 6999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10161761",
       "status": "active",
       "type": "pozemek",
@@ -2390,57 +2497,6 @@
           "price": 1999000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10124291",
-      "status": "active",
-      "type": "dum",
-      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
-      "portal": "eurobydleni",
-      "added": "2026-05-15",
-      "updated": "2026-05-15",
-      "price_history": [
-        {
-          "date": "2026-05-15",
-          "price": 6999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
