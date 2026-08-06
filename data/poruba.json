@@ -1,66 +1,10 @@
 {
-  "generated": "2026-08-05T17:49:23.951457+00:00",
+  "generated": "2026-08-06T07:57:22.235783+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
-    {
-      "id": "bazos_222185483",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 2+1, 54 m, náměstí Antonie Bejdové 1792/6, Ostra",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 34,
-      "price": 3430000,
-      "price_per_m2": 100882,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222185483/prodej-byt-21-54-m-namesti-antonie-bejdove-17926-ostra.php",
-      "portal": "bazos",
-      "added": "2026-08-05",
-      "updated": "2026-08-05",
-      "price_history": [
-        {
-          "date": "2026-08-05",
-          "price": 3430000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220902557",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 3+1, 65 m2, Ostrava-Poruba, ul. Na Robinsonce",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 25,
-      "price": 3690000,
-      "price_per_m2": 147600,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220902557/prodej-byt-31-65-m2-ostrava-poruba-ul-na-robinsonce.php",
-      "portal": "bazos",
-      "added": "2026-08-05",
-      "updated": "2026-08-05",
-      "price_history": [
-        {
-          "date": "2026-08-05",
-          "price": 3690000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_219976518",
       "status": "active",
@@ -89,6 +33,34 @@
         {
           "date": "2026-07-23",
           "price": 3890000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222185483",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 2+1, 54 m, náměstí Antonie Bejdové 1792/6, Ostra",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 34,
+      "price": 3430000,
+      "price_per_m2": 100882,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222185483/prodej-byt-21-54-m-namesti-antonie-bejdove-17926-ostra.php",
+      "portal": "bazos",
+      "added": "2026-08-05",
+      "updated": "2026-08-05",
+      "price_history": [
+        {
+          "date": "2026-08-05",
+          "price": 3430000
         }
       ],
       "removed_date": null
@@ -149,6 +121,34 @@
         {
           "date": "2026-07-23",
           "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220902557",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 3+1, 65 m2, Ostrava-Poruba, ul. Na Robinsonce",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 25,
+      "price": 3690000,
+      "price_per_m2": 147600,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220902557/prodej-byt-31-65-m2-ostrava-poruba-ul-na-robinsonce.php",
+      "portal": "bazos",
+      "added": "2026-08-05",
+      "updated": "2026-08-05",
+      "price_history": [
+        {
+          "date": "2026-08-05",
+          "price": 3690000
         }
       ],
       "removed_date": null
