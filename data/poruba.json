@@ -1,10 +1,38 @@
 {
-  "generated": "2026-08-06T07:57:22.235783+00:00",
+  "generated": "2026-08-07T06:23:18.171261+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_222251617",
+      "status": "active",
+      "type": "byt",
+      "title": "Světlý byt 2+1 se zasklenou lodžií v osobním vlastnictví, Os",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3790000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/222251617/svetly-byt-21-se-zasklenou-lodzii-v-osobnim-vlastnictvi-os.php",
+      "portal": "bazos",
+      "added": "2026-08-07",
+      "updated": "2026-08-07",
+      "price_history": [
+        {
+          "date": "2026-08-07",
+          "price": 3790000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_219976518",
       "status": "active",
