@@ -1,10 +1,33 @@
 {
-  "generated": "2026-08-08T16:47:20.499782+00:00",
+  "generated": "2026-08-09T06:04:32.922509+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "realingo_24622003",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Čeladná, 739 12",
+      "location": "Čeladná",
+      "location_id": "celadna",
+      "coordinates": [
+        49.533676,
+        18.325195
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-739-12/24622003",
+      "portal": "realingo",
+      "added": "2026-08-09",
+      "updated": "2026-08-09",
+      "price_history": [],
+      "removed_date": null
+    },
     {
       "id": "bazos_221728859",
       "status": "active",
@@ -458,29 +481,33 @@
       "removed_date": null
     },
     {
-      "id": "bazos_219982041",
+      "id": "bazos_220009227",
       "status": "active",
-      "type": "pozemek",
-      "title": "Stavební parcela Palkovice, 1550 m2, 135746",
+      "type": "dum",
+      "title": "Prodej rodinného domu po rekonstrukci, 102096",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": 1550,
-      "price": 5890000,
-      "price_per_m2": 3800,
+      "area_m2": null,
+      "price": 8200000,
+      "price_per_m2": null,
       "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/219982041/stavebni-parcela-palkovice-1550-m2-135746.php",
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220009227/prodej-rodinneho-domu-po-rekonstrukci-102096.php",
       "portal": "bazos",
-      "added": "2026-06-10",
-      "updated": "2026-06-10",
+      "added": "2026-06-11",
+      "updated": "2026-06-16",
       "price_history": [
         {
-          "date": "2026-06-10",
-          "price": 5890000
+          "date": "2026-06-11",
+          "price": 8290000
+        },
+        {
+          "date": "2026-06-16",
+          "price": 8200000
         }
       ],
       "removed_date": null
@@ -2110,6 +2137,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_219982041",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební parcela Palkovice, 1550 m2, 135746",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1550,
+      "price": 5890000,
+      "price_per_m2": 3800,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/219982041/stavebni-parcela-palkovice-1550-m2-135746.php",
+      "portal": "bazos",
+      "added": "2026-06-10",
+      "updated": "2026-06-10",
+      "price_history": [
+        {
+          "date": "2026-06-10",
+          "price": 5890000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "realingo_24598074",
       "status": "active",
       "type": "dum",
@@ -2212,6 +2267,34 @@
         {
           "date": "2026-04-29",
           "price": 9990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24484254",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Lubno, Frýdlant nad Ostravicí",
+      "location": "Frýdlant-Lubno",
+      "location_id": "frydlant_lubno",
+      "coordinates": [
+        49.593261781164,
+        18.395893210462
+      ],
+      "area_m2": 1553,
+      "price": 6300000,
+      "price_per_m2": 4057,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24484254",
+      "portal": "realingo",
+      "added": "2026-06-29",
+      "updated": "2026-06-29",
+      "price_history": [
+        {
+          "date": "2026-06-29",
+          "price": 6300000
         }
       ],
       "removed_date": null
@@ -10898,34 +10981,6 @@
       "removed_date": "2026-07-04"
     },
     {
-      "id": "realingo_24484254",
-      "status": "removed",
-      "type": "dum",
-      "title": "Rodinny dum, Lubno, Frýdlant nad Ostravicí",
-      "location": "Frýdlant-Lubno",
-      "location_id": "frydlant_lubno",
-      "coordinates": [
-        49.593261781164,
-        18.395893210462
-      ],
-      "area_m2": 1553,
-      "price": 6300000,
-      "price_per_m2": 4057,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24484254",
-      "portal": "realingo",
-      "added": "2026-06-29",
-      "updated": "2026-06-29",
-      "price_history": [
-        {
-          "date": "2026-06-29",
-          "price": 6300000
-        }
-      ],
-      "removed_date": "2026-07-04"
-    },
-    {
       "id": "realingo_24481027",
       "status": "removed",
       "type": "dum",
@@ -13897,38 +13952,6 @@
         }
       ],
       "removed_date": "2026-08-07"
-    },
-    {
-      "id": "bazos_220009227",
-      "status": "removed",
-      "type": "dum",
-      "title": "Prodej rodinného domu po rekonstrukci, 102096",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 8200000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/220009227/prodej-rodinneho-domu-po-rekonstrukci-102096.php",
-      "portal": "bazos",
-      "added": "2026-06-11",
-      "updated": "2026-06-16",
-      "price_history": [
-        {
-          "date": "2026-06-11",
-          "price": 8290000
-        },
-        {
-          "date": "2026-06-16",
-          "price": 8200000
-        }
-      ],
-      "removed_date": "2026-08-08"
     },
     {
       "id": "realingo_24559628",
