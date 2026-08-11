@@ -1,38 +1,10 @@
 {
-  "generated": "2026-08-11T06:05:08.571614+00:00",
+  "generated": "2026-08-11T17:11:09.478299+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "bazos_221101233",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu s variabilním využitím v Dobré, 136157",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 5250000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/221101233/prodej-rodinneho-domu-s-variabilnim-vyuzitim-v-dobre-136157.php",
-      "portal": "bazos",
-      "added": "2026-08-11",
-      "updated": "2026-08-11",
-      "price_history": [
-        {
-          "date": "2026-08-11",
-          "price": 5250000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_221728859",
       "status": "active",
@@ -57,6 +29,34 @@
         {
           "date": "2026-07-25",
           "price": 4600000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221101233",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu s variabilním využitím v Dobré, 136157",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 5250000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221101233/prodej-rodinneho-domu-s-variabilnim-vyuzitim-v-dobre-136157.php",
+      "portal": "bazos",
+      "added": "2026-08-11",
+      "updated": "2026-08-11",
+      "price_history": [
+        {
+          "date": "2026-08-11",
+          "price": 5250000
         }
       ],
       "removed_date": null
@@ -2352,6 +2352,74 @@
       "removed_date": null
     },
     {
+      "id": "realingo_24232330",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Čeladná",
+      "location": "Čeladná",
+      "location_id": "celadna",
+      "coordinates": [
+        49.5422764,
+        18.3335819
+      ],
+      "area_m2": 2133,
+      "price": 7400000,
+      "price_per_m2": 3469,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna/24232330",
+      "portal": "realingo",
+      "added": "2026-04-04",
+      "updated": "2026-07-14",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 8800000
+        },
+        {
+          "date": "2026-04-20",
+          "price": 8500000
+        },
+        {
+          "date": "2026-04-28",
+          "price": 8400000
+        },
+        {
+          "date": "2026-07-14",
+          "price": 7400000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10160670",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej rodinného domu 202 m, pozemek 1295 m",
+      "location": "Čeladná",
+      "location_id": "celadna",
+      "coordinates": [
+        49.54,
+        18.34
+      ],
+      "area_m2": 1295,
+      "price": 7490000,
+      "price_per_m2": 5784,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-202-m-pozemek-1295-m/detail/10160670/",
+      "portal": "eurobydleni",
+      "added": "2026-07-21",
+      "updated": "2026-07-21",
+      "price_history": [
+        {
+          "date": "2026-07-21",
+          "price": 7490000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10124291",
       "status": "active",
       "type": "dum",
@@ -2400,34 +2468,6 @@
       "added": "2026-04-04",
       "updated": "2026-04-04",
       "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10160670",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej rodinného domu 202 m, pozemek 1295 m",
-      "location": "Čeladná",
-      "location_id": "celadna",
-      "coordinates": [
-        49.54,
-        18.34
-      ],
-      "area_m2": 1295,
-      "price": 7490000,
-      "price_per_m2": 5784,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-202-m-pozemek-1295-m/detail/10160670/",
-      "portal": "eurobydleni",
-      "added": "2026-07-21",
-      "updated": "2026-07-21",
-      "price_history": [
-        {
-          "date": "2026-07-21",
-          "price": 7490000
-        }
-      ],
       "removed_date": null
     },
     {
@@ -2766,6 +2806,34 @@
         {
           "date": "2026-06-23",
           "price": 4990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3784441",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 300 m² Baška",
+      "location": "Baška",
+      "location_id": "baska",
+      "coordinates": [
+        49.6422,
+        18.3553
+      ],
+      "area_m2": 1300,
+      "price": 3250000,
+      "price_per_m2": 2500,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/baska/prodej-stavebni-parcely-1-300-m2-3784441.html",
+      "portal": "sousede",
+      "added": "2026-06-22",
+      "updated": "2026-06-22",
+      "price_history": [
+        {
+          "date": "2026-06-22",
+          "price": 3250000
         }
       ],
       "removed_date": null
@@ -9809,34 +9877,6 @@
       "removed_date": "2026-06-23"
     },
     {
-      "id": "sousede_3784441",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 300 m² Baška",
-      "location": "Baška",
-      "location_id": "baska",
-      "coordinates": [
-        49.6422,
-        18.3553
-      ],
-      "area_m2": 1300,
-      "price": 3250000,
-      "price_per_m2": 2500,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/baska/prodej-stavebni-parcely-1-300-m2-3784441.html",
-      "portal": "sousede",
-      "added": "2026-06-22",
-      "updated": "2026-06-22",
-      "price_history": [
-        {
-          "date": "2026-06-22",
-          "price": 3250000
-        }
-      ],
-      "removed_date": "2026-06-23"
-    },
-    {
       "id": "sousede_3689829",
       "status": "removed",
       "type": "pozemek",
@@ -13442,46 +13482,6 @@
         {
           "date": "2026-06-29",
           "price": 6249000
-        }
-      ],
-      "removed_date": "2026-07-31"
-    },
-    {
-      "id": "realingo_24232330",
-      "status": "removed",
-      "type": "dum",
-      "title": "Rodinny dum, Čeladná",
-      "location": "Čeladná",
-      "location_id": "celadna",
-      "coordinates": [
-        49.5422764,
-        18.3335819
-      ],
-      "area_m2": 2133,
-      "price": 7400000,
-      "price_per_m2": 3469,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna/24232330",
-      "portal": "realingo",
-      "added": "2026-04-04",
-      "updated": "2026-07-14",
-      "price_history": [
-        {
-          "date": "2026-04-04",
-          "price": 8800000
-        },
-        {
-          "date": "2026-04-20",
-          "price": 8500000
-        },
-        {
-          "date": "2026-04-28",
-          "price": 8400000
-        },
-        {
-          "date": "2026-07-14",
-          "price": 7400000
         }
       ],
       "removed_date": "2026-07-31"
