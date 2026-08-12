@@ -1,10 +1,66 @@
 {
-  "generated": "2026-08-11T17:11:09.478299+00:00",
+  "generated": "2026-08-12T06:28:06.121415+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "bazos_222450599",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemků se stavbou, Janovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 24610,
+      "price": 9950000,
+      "price_per_m2": 404,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222450599/prodej-pozemku-se-stavbou-janovice.php",
+      "portal": "bazos",
+      "added": "2026-08-12",
+      "updated": "2026-08-12",
+      "price_history": [
+        {
+          "date": "2026-08-12",
+          "price": 9950000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222378046",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek 3028 m² – Skalice u Frýdku-Místku",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3028,
+      "price": 6290000,
+      "price_per_m2": 2077,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222378046/stavebni-pozemek-3028-m-skalice-u-frydku-mistku.php",
+      "portal": "bazos",
+      "added": "2026-08-12",
+      "updated": "2026-08-12",
+      "price_history": [
+        {
+          "date": "2026-08-12",
+          "price": 6290000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_221728859",
       "status": "active",
@@ -253,34 +309,6 @@
         {
           "date": "2026-07-25",
           "price": 8590000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221701285",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu, 190 m², Čeladná",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 815,
-      "price": 9900000,
-      "price_per_m2": 12147,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221701285/prodej-rodinneho-domu-190-m-celadna.php",
-      "portal": "bazos",
-      "added": "2026-07-24",
-      "updated": "2026-07-24",
-      "price_history": [
-        {
-          "date": "2026-07-24",
-          "price": 9900000
         }
       ],
       "removed_date": null
@@ -662,34 +690,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_220070683",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej, rodinný dům, Janovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 7790000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/220070683/prodej-rodinny-dum-janovice.php",
-      "portal": "bazos",
-      "added": "2026-06-12",
-      "updated": "2026-06-12",
-      "price_history": [
-        {
-          "date": "2026-06-12",
-          "price": 7790000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_221585183",
       "status": "active",
       "type": "pozemek",
@@ -713,6 +713,34 @@
         {
           "date": "2026-07-21",
           "price": 5746780
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220249441",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 930,
+      "price": 2999000,
+      "price_per_m2": 3225,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220249441/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste.php",
+      "portal": "bazos",
+      "added": "2026-06-17",
+      "updated": "2026-06-17",
+      "price_history": [
+        {
+          "date": "2026-06-17",
+          "price": 2999000
         }
       ],
       "removed_date": null
@@ -881,34 +909,6 @@
         {
           "date": "2026-07-29",
           "price": 3640000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220249441",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 930,
-      "price": 2999000,
-      "price_per_m2": 3225,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220249441/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste.php",
-      "portal": "bazos",
-      "added": "2026-06-17",
-      "updated": "2026-06-17",
-      "price_history": [
-        {
-          "date": "2026-06-17",
-          "price": 2999000
         }
       ],
       "removed_date": null
@@ -2134,34 +2134,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_220062464",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemků se stavbou, Janovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 24610,
-      "price": 9950000,
-      "price_per_m2": 404,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220062464/prodej-pozemku-se-stavbou-janovice.php",
-      "portal": "bazos",
-      "added": "2026-06-12",
-      "updated": "2026-06-12",
-      "price_history": [
-        {
-          "date": "2026-06-12",
-          "price": 9950000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "realingo_24622003",
       "status": "active",
       "type": "dum",
@@ -2392,34 +2364,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10160670",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej rodinného domu 202 m, pozemek 1295 m",
-      "location": "Čeladná",
-      "location_id": "celadna",
-      "coordinates": [
-        49.54,
-        18.34
-      ],
-      "area_m2": 1295,
-      "price": 7490000,
-      "price_per_m2": 5784,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-202-m-pozemek-1295-m/detail/10160670/",
-      "portal": "eurobydleni",
-      "added": "2026-07-21",
-      "updated": "2026-07-21",
-      "price_history": [
-        {
-          "date": "2026-07-21",
-          "price": 7490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10124291",
       "status": "active",
       "type": "dum",
@@ -2468,6 +2412,62 @@
       "added": "2026-04-04",
       "updated": "2026-04-04",
       "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10160670",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej rodinného domu 202 m, pozemek 1295 m",
+      "location": "Čeladná",
+      "location_id": "celadna",
+      "coordinates": [
+        49.54,
+        18.34
+      ],
+      "area_m2": 1295,
+      "price": 7490000,
+      "price_per_m2": 5784,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-202-m-pozemek-1295-m/detail/10160670/",
+      "portal": "eurobydleni",
+      "added": "2026-07-21",
+      "updated": "2026-07-21",
+      "price_history": [
+        {
+          "date": "2026-07-21",
+          "price": 7490000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10139005",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinný dům s pozemkem 3 829 m",
+      "location": "Raškovice",
+      "location_id": "raskovice",
+      "coordinates": [
+        49.61,
+        18.47
+      ],
+      "area_m2": 3829,
+      "price": 9900000,
+      "price_per_m2": 2586,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/rodinny-dum-s-pozemkem-3-829-m/detail/10139005/",
+      "portal": "eurobydleni",
+      "added": "2026-07-17",
+      "updated": "2026-07-17",
+      "price_history": [
+        {
+          "date": "2026-07-17",
+          "price": 9900000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -12687,34 +12687,6 @@
       "removed_date": "2026-07-24"
     },
     {
-      "id": "eurobydleni_10139005",
-      "status": "removed",
-      "type": "dum",
-      "title": "Rodinný dům s pozemkem 3 829 m",
-      "location": "Raškovice",
-      "location_id": "raskovice",
-      "coordinates": [
-        49.61,
-        18.47
-      ],
-      "area_m2": 3829,
-      "price": 9900000,
-      "price_per_m2": 2586,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/rodinny-dum-s-pozemkem-3-829-m/detail/10139005/",
-      "portal": "eurobydleni",
-      "added": "2026-07-17",
-      "updated": "2026-07-17",
-      "price_history": [
-        {
-          "date": "2026-07-17",
-          "price": 9900000
-        }
-      ],
-      "removed_date": "2026-07-24"
-    },
-    {
       "id": "bazos_219298546",
       "status": "removed",
       "type": "pozemek",
@@ -14208,6 +14180,90 @@
         }
       ],
       "removed_date": "2026-08-11"
+    },
+    {
+      "id": "bazos_221701285",
+      "status": "removed",
+      "type": "dum",
+      "title": "Prodej rodinného domu, 190 m², Čeladná",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 815,
+      "price": 9900000,
+      "price_per_m2": 12147,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221701285/prodej-rodinneho-domu-190-m-celadna.php",
+      "portal": "bazos",
+      "added": "2026-07-24",
+      "updated": "2026-07-24",
+      "price_history": [
+        {
+          "date": "2026-07-24",
+          "price": 9900000
+        }
+      ],
+      "removed_date": "2026-08-12"
+    },
+    {
+      "id": "bazos_220070683",
+      "status": "removed",
+      "type": "dum",
+      "title": "Prodej, rodinný dům, Janovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 7790000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/220070683/prodej-rodinny-dum-janovice.php",
+      "portal": "bazos",
+      "added": "2026-06-12",
+      "updated": "2026-06-12",
+      "price_history": [
+        {
+          "date": "2026-06-12",
+          "price": 7790000
+        }
+      ],
+      "removed_date": "2026-08-12"
+    },
+    {
+      "id": "bazos_220062464",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemků se stavbou, Janovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 24610,
+      "price": 9950000,
+      "price_per_m2": 404,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220062464/prodej-pozemku-se-stavbou-janovice.php",
+      "portal": "bazos",
+      "added": "2026-06-12",
+      "updated": "2026-06-12",
+      "price_history": [
+        {
+          "date": "2026-06-12",
+          "price": 9950000
+        }
+      ],
+      "removed_date": "2026-08-12"
     }
   ]
 }
