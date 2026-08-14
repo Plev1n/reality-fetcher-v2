@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T17:18:43.148330+00:00",
+  "generated": "2026-08-14T06:36:44.029275+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -26,6 +26,34 @@
       "added": "2026-08-08",
       "updated": "2026-08-08",
       "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222428483",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 48 m², Ostrava, ul. Jana Šoupala",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 48,
+      "price": 3799000,
+      "price_per_m2": 79146,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222428483/prodej-bytu-21-48-m-ostrava-ul-jana-soupala.php",
+      "portal": "bazos",
+      "added": "2026-08-11",
+      "updated": "2026-08-11",
+      "price_history": [
+        {
+          "date": "2026-08-11",
+          "price": 3799000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -108,34 +136,6 @@
         {
           "date": "2026-08-11",
           "price": 2190000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222428483",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 48 m², Ostrava, ul. Jana Šoupala",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 48,
-      "price": 3799000,
-      "price_per_m2": 79146,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222428483/prodej-bytu-21-48-m-ostrava-ul-jana-soupala.php",
-      "portal": "bazos",
-      "added": "2026-08-11",
-      "updated": "2026-08-11",
-      "price_history": [
-        {
-          "date": "2026-08-11",
-          "price": 3799000
         }
       ],
       "removed_date": null
