@@ -1,10 +1,42 @@
 {
-  "generated": "2026-08-16T16:35:55.140153+00:00",
+  "generated": "2026-08-17T05:48:01.876962+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "eurobydleni_10074997",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek s projektem a nádherným výhledem na Beskydy  Frýdlant nad Ostravicí",
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "coordinates": [
+        49.59,
+        18.36
+      ],
+      "area_m2": 1288,
+      "price": 4990000,
+      "price_per_m2": 3874,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-s-projektem-a-nadhernym-vyhledem-na-beskydyfrydlant-nad-ostravici/detail/10074997/",
+      "portal": "eurobydleni",
+      "added": "2026-04-11",
+      "updated": "2026-08-17",
+      "price_history": [
+        {
+          "date": "2026-04-11",
+          "price": 5800000
+        },
+        {
+          "date": "2026-08-17",
+          "price": 4990000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_222485823",
       "status": "active",
@@ -886,10 +918,10 @@
       "removed_date": null
     },
     {
-      "id": "bazos_220249441",
+      "id": "bazos_222450449",
       "status": "active",
       "type": "pozemek",
-      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
+      "title": "Stavební pozemek 930 m², Bukovice u Dobratic, sítě na hranic",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
@@ -897,18 +929,18 @@
         18.3498
       ],
       "area_m2": 930,
-      "price": 2999000,
-      "price_per_m2": 3225,
+      "price": 2400000,
+      "price_per_m2": 2581,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220249441/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste.php",
+      "url": "https://reality.bazos.cz/inzerat/222450449/stavebni-pozemek-930-m-bukovice-u-dobratic-site-na-hranic.php",
       "portal": "bazos",
-      "added": "2026-06-17",
-      "updated": "2026-06-17",
+      "added": "2026-08-13",
+      "updated": "2026-08-13",
       "price_history": [
         {
-          "date": "2026-06-17",
-          "price": 2999000
+          "date": "2026-08-13",
+          "price": 2400000
         }
       ],
       "removed_date": null
@@ -2420,57 +2452,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10124291",
-      "status": "active",
-      "type": "dum",
-      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
-      "portal": "eurobydleni",
-      "added": "2026-05-15",
-      "updated": "2026-05-15",
-      "price_history": [
-        {
-          "date": "2026-05-15",
-          "price": 6999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10161761",
       "status": "active",
       "type": "pozemek",
@@ -2583,29 +2564,29 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10074997",
+      "id": "eurobydleni_10106703",
       "status": "active",
       "type": "pozemek",
-      "title": "Stavební pozemek s projektem a nádherným výhledem na Beskydy  Frýdlant nad Ostravicí",
-      "location": "Frýdlant nad Ostravicí",
-      "location_id": "frydlant",
+      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
+      "location": "Sedliště",
+      "location_id": "sedliste",
       "coordinates": [
-        49.59,
-        18.36
+        49.7097,
+        18.37
       ],
-      "area_m2": 1288,
-      "price": 5800000,
-      "price_per_m2": 4503,
+      "area_m2": 1930,
+      "price": 2999000,
+      "price_per_m2": 1554,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-s-projektem-a-nadhernym-vyhledem-na-beskydyfrydlant-nad-ostravici/detail/10074997/",
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste/detail/10106703/",
       "portal": "eurobydleni",
-      "added": "2026-04-11",
-      "updated": "2026-04-11",
+      "added": "2026-06-13",
+      "updated": "2026-06-13",
       "price_history": [
         {
-          "date": "2026-04-11",
-          "price": 5800000
+          "date": "2026-06-13",
+          "price": 2999000
         }
       ],
       "removed_date": null
@@ -2640,6 +2621,57 @@
           "price": 1999000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10124291",
+      "status": "active",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
+      "portal": "eurobydleni",
+      "added": "2026-05-15",
+      "updated": "2026-05-15",
+      "price_history": [
+        {
+          "date": "2026-05-15",
+          "price": 6999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -2778,34 +2810,6 @@
         {
           "date": "2026-07-22",
           "price": 5900000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sousede_3808981",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 000 m² Frýdek-Místek Frýdek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1000,
-      "price": 4990000,
-      "price_per_m2": 4990,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-000-m2-3808981.html",
-      "portal": "sousede",
-      "added": "2026-06-23",
-      "updated": "2026-06-23",
-      "price_history": [
-        {
-          "date": "2026-06-23",
-          "price": 4990000
         }
       ],
       "removed_date": null
@@ -14191,34 +14195,6 @@
       "removed_date": "2026-08-13"
     },
     {
-      "id": "bazos_222450449",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Stavební pozemek 930 m², Bukovice u Dobratic, sítě na hranic",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 930,
-      "price": 2400000,
-      "price_per_m2": 2581,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222450449/stavebni-pozemek-930-m-bukovice-u-dobratic-site-na-hranic.php",
-      "portal": "bazos",
-      "added": "2026-08-13",
-      "updated": "2026-08-13",
-      "price_history": [
-        {
-          "date": "2026-08-13",
-          "price": 2400000
-        }
-      ],
-      "removed_date": "2026-08-13"
-    },
-    {
       "id": "bazos_222133052",
       "status": "removed",
       "type": "dum",
@@ -14270,34 +14246,6 @@
         {
           "date": "2026-08-13",
           "price": 3200000
-        }
-      ],
-      "removed_date": "2026-08-13"
-    },
-    {
-      "id": "eurobydleni_10106703",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": 1930,
-      "price": 2999000,
-      "price_per_m2": 1554,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste/detail/10106703/",
-      "portal": "eurobydleni",
-      "added": "2026-06-13",
-      "updated": "2026-06-13",
-      "price_history": [
-        {
-          "date": "2026-06-13",
-          "price": 2999000
         }
       ],
       "removed_date": "2026-08-13"
@@ -14581,6 +14529,62 @@
         }
       ],
       "removed_date": "2026-08-16"
+    },
+    {
+      "id": "bazos_220249441",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek vč. sítí o výměře 1930 m2 v obci Sedliště",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 930,
+      "price": 2999000,
+      "price_per_m2": 3225,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220249441/stavebni-pozemek-vc-siti-o-vymere-1930-m2-v-obci-sedliste.php",
+      "portal": "bazos",
+      "added": "2026-06-17",
+      "updated": "2026-06-17",
+      "price_history": [
+        {
+          "date": "2026-06-17",
+          "price": 2999000
+        }
+      ],
+      "removed_date": "2026-08-17"
+    },
+    {
+      "id": "sousede_3808981",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 000 m² Frýdek-Místek Frýdek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1000,
+      "price": 4990000,
+      "price_per_m2": 4990,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-000-m2-3808981.html",
+      "portal": "sousede",
+      "added": "2026-06-23",
+      "updated": "2026-06-23",
+      "price_history": [
+        {
+          "date": "2026-06-23",
+          "price": 4990000
+        }
+      ],
+      "removed_date": "2026-08-17"
     }
   ]
 }
