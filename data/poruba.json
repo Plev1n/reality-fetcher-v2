@@ -1,12 +1,40 @@
 {
-  "generated": "2026-08-19T05:42:44.100698+00:00",
+  "generated": "2026-08-19T16:43:04.041221+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_222649415",
+      "id": "bazos_222752351",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 44 m², Ostrava, ul. Podroužkova",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 44,
+      "price": 3450000,
+      "price_per_m2": 78409,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222752351/prodej-bytu-21-44-m-ostrava-ul-podrouzkova.php",
+      "portal": "bazos",
+      "added": "2026-08-19",
+      "updated": "2026-08-19",
+      "price_history": [
+        {
+          "date": "2026-08-19",
+          "price": 3450000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222739926",
       "status": "active",
       "type": "byt",
       "title": "Prodej bytu 2+1 se zaskleným balkonem, Ostrava Poruba",
@@ -21,7 +49,7 @@
       "price_per_m2": null,
       "price_unknown": false,
       "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/222649415/prodej-bytu-21-se-zasklenym-balkonem-ostrava-poruba.php",
+      "url": "https://reality.bazos.cz/inzerat/222739926/prodej-bytu-21-se-zasklenym-balkonem-ostrava-poruba.php",
       "portal": "bazos",
       "added": "2026-08-19",
       "updated": "2026-08-19",
@@ -3859,6 +3887,34 @@
         {
           "date": "2026-08-17",
           "price": 3399000
+        }
+      ],
+      "removed_date": "2026-08-19"
+    },
+    {
+      "id": "bazos_222649415",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 se zaskleným balkonem, Ostrava Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3550000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/222649415/prodej-bytu-21-se-zasklenym-balkonem-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-08-19",
+      "updated": "2026-08-19",
+      "price_history": [
+        {
+          "date": "2026-08-19",
+          "price": 3550000
         }
       ],
       "removed_date": "2026-08-19"
