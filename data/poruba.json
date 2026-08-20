@@ -1,34 +1,42 @@
 {
-  "generated": "2026-08-20T05:45:10.176373+00:00",
+  "generated": "2026-08-20T16:45:08.590035+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_220857042",
+      "id": "bazos_220458954",
       "status": "active",
       "type": "byt",
-      "title": "Prodej, byt 2+1, 58 m2, Ostrava-Poruba, ul. Zednická",
+      "title": "Byt 1+1 Pustkovec v osobním vlastnictví",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 58,
-      "price": 3475000,
-      "price_per_m2": 59914,
+      "area_m2": 40,
+      "price": 2725000,
+      "price_per_m2": 68125,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220857042/prodej-byt-21-51-m2-ostrava-poruba-ul-zednicka.php",
+      "url": "https://reality.bazos.cz/inzerat/220458954/byt-11-pustkovec-v-osobnim-vlastnictvi.php",
       "portal": "bazos",
-      "added": "2026-08-20",
+      "added": "2026-06-26",
       "updated": "2026-08-20",
       "price_history": [
         {
+          "date": "2026-06-26",
+          "price": 2950000
+        },
+        {
+          "date": "2026-07-29",
+          "price": 2745000
+        },
+        {
           "date": "2026-08-20",
-          "price": 3475000
+          "price": 2725000
         }
       ],
       "removed_date": null
@@ -136,6 +144,34 @@
         {
           "date": "2026-07-23",
           "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220857042",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 2+1, 58 m2, Ostrava-Poruba, ul. Zednická",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 58,
+      "price": 3475000,
+      "price_per_m2": 59914,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220857042/prodej-byt-21-51-m2-ostrava-poruba-ul-zednicka.php",
+      "portal": "bazos",
+      "added": "2026-08-20",
+      "updated": "2026-08-20",
+      "price_history": [
+        {
+          "date": "2026-08-20",
+          "price": 3475000
         }
       ],
       "removed_date": null
@@ -304,38 +340,6 @@
         {
           "date": "2026-08-05",
           "price": 3430000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220458954",
-      "status": "active",
-      "type": "byt",
-      "title": "Byt 1+1 Pustkovec v osobním vlastnictví",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 40,
-      "price": 2745000,
-      "price_per_m2": 68625,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220458954/byt-11-pustkovec-v-osobnim-vlastnictvi.php",
-      "portal": "bazos",
-      "added": "2026-06-26",
-      "updated": "2026-07-29",
-      "price_history": [
-        {
-          "date": "2026-06-26",
-          "price": 2950000
-        },
-        {
-          "date": "2026-07-29",
-          "price": 2745000
         }
       ],
       "removed_date": null
