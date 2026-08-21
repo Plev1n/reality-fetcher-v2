@@ -1,46 +1,10 @@
 {
-  "generated": "2026-08-20T16:45:08.590035+00:00",
+  "generated": "2026-08-21T05:44:06.762766+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
-    {
-      "id": "bazos_220458954",
-      "status": "active",
-      "type": "byt",
-      "title": "Byt 1+1 Pustkovec v osobním vlastnictví",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 40,
-      "price": 2725000,
-      "price_per_m2": 68125,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220458954/byt-11-pustkovec-v-osobnim-vlastnictvi.php",
-      "portal": "bazos",
-      "added": "2026-06-26",
-      "updated": "2026-08-20",
-      "price_history": [
-        {
-          "date": "2026-06-26",
-          "price": 2950000
-        },
-        {
-          "date": "2026-07-29",
-          "price": 2745000
-        },
-        {
-          "date": "2026-08-20",
-          "price": 2725000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_222205699",
       "status": "active",
@@ -172,6 +136,42 @@
         {
           "date": "2026-08-20",
           "price": 3475000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220458954",
+      "status": "active",
+      "type": "byt",
+      "title": "Byt 1+1 Pustkovec v osobním vlastnictví",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 40,
+      "price": 2725000,
+      "price_per_m2": 68125,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220458954/byt-11-pustkovec-v-osobnim-vlastnictvi.php",
+      "portal": "bazos",
+      "added": "2026-06-26",
+      "updated": "2026-08-20",
+      "price_history": [
+        {
+          "date": "2026-06-26",
+          "price": 2950000
+        },
+        {
+          "date": "2026-07-29",
+          "price": 2745000
+        },
+        {
+          "date": "2026-08-20",
+          "price": 2725000
         }
       ],
       "removed_date": null
