@@ -1,38 +1,10 @@
 {
-  "generated": "2026-08-22T05:39:32.831474+00:00",
+  "generated": "2026-08-22T16:38:35.302226+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "bazos_222855914",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Trvalý travní porost",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 1250000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/222855914/trvaly-travni-porost.php",
-      "portal": "bazos",
-      "added": "2026-08-22",
-      "updated": "2026-08-22",
-      "price_history": [
-        {
-          "date": "2026-08-22",
-          "price": 1250000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_221710432",
       "status": "active",
@@ -57,6 +29,34 @@
         {
           "date": "2026-07-27",
           "price": 3500
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222855914",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Trvalý travní porost",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 1250000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/222855914/trvaly-travni-porost.php",
+      "portal": "bazos",
+      "added": "2026-08-22",
+      "updated": "2026-08-22",
+      "price_history": [
+        {
+          "date": "2026-08-22",
+          "price": 1250000
         }
       ],
       "removed_date": null
@@ -817,34 +817,6 @@
         {
           "date": "2026-07-20",
           "price": 4500000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221888212",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek s projektovou dokumentací domu 5KK o výměře",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2618,
-      "price": 6500000,
-      "price_per_m2": 2483,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221888212/stavebni-pozemek-s-projektovou-dokumentaci-domu-5kk-o-vymere.php",
-      "portal": "bazos",
-      "added": "2026-07-29",
-      "updated": "2026-07-29",
-      "price_history": [
-        {
-          "date": "2026-07-29",
-          "price": 6500000
         }
       ],
       "removed_date": null
@@ -2209,6 +2181,57 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10124291",
+      "status": "active",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
+      "portal": "eurobydleni",
+      "added": "2026-05-15",
+      "updated": "2026-05-15",
+      "price_history": [
+        {
+          "date": "2026-05-15",
+          "price": 6999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10161761",
       "status": "active",
       "type": "pozemek",
@@ -2381,82 +2404,31 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10160670",
+      "id": "sousede_3731844",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej rodinného domu 202 m, pozemek 1295 m",
-      "location": "Čeladná",
-      "location_id": "celadna",
+      "title": "Prodej stavební parcely 1 090 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.54,
-        18.34
+        49.6878,
+        18.3498
       ],
-      "area_m2": 1295,
-      "price": 7490000,
-      "price_per_m2": 5784,
+      "area_m2": 1090,
+      "price": 3368100,
+      "price_per_m2": 3090,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-202-m-pozemek-1295-m/detail/10160670/",
-      "portal": "eurobydleni",
-      "added": "2026-07-21",
-      "updated": "2026-07-21",
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-090-m2-3731844.html",
+      "portal": "sousede",
+      "added": "2026-04-09",
+      "updated": "2026-04-09",
       "price_history": [
         {
-          "date": "2026-07-21",
-          "price": 7490000
+          "date": "2026-04-09",
+          "price": 3368100
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10124291",
-      "status": "active",
-      "type": "dum",
-      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
-      "portal": "eurobydleni",
-      "added": "2026-05-15",
-      "updated": "2026-05-15",
-      "price_history": [
-        {
-          "date": "2026-05-15",
-          "price": 6999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -2483,34 +2455,6 @@
         {
           "date": "2026-05-05",
           "price": 3950100
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sousede_3731844",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 090 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1090,
-      "price": 3368100,
-      "price_per_m2": 3090,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-090-m2-3731844.html",
-      "portal": "sousede",
-      "added": "2026-04-09",
-      "updated": "2026-04-09",
-      "price_history": [
-        {
-          "date": "2026-04-09",
-          "price": 3368100
         }
       ],
       "removed_date": null
@@ -15006,6 +14950,62 @@
         {
           "date": "2026-07-22",
           "price": 9800000
+        }
+      ],
+      "removed_date": "2026-08-22"
+    },
+    {
+      "id": "bazos_221888212",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek s projektovou dokumentací domu 5KK o výměře",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2618,
+      "price": 6500000,
+      "price_per_m2": 2483,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221888212/stavebni-pozemek-s-projektovou-dokumentaci-domu-5kk-o-vymere.php",
+      "portal": "bazos",
+      "added": "2026-07-29",
+      "updated": "2026-07-29",
+      "price_history": [
+        {
+          "date": "2026-07-29",
+          "price": 6500000
+        }
+      ],
+      "removed_date": "2026-08-22"
+    },
+    {
+      "id": "eurobydleni_10160670",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej rodinného domu 202 m, pozemek 1295 m",
+      "location": "Čeladná",
+      "location_id": "celadna",
+      "coordinates": [
+        49.54,
+        18.34
+      ],
+      "area_m2": 1295,
+      "price": 7490000,
+      "price_per_m2": 5784,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-202-m-pozemek-1295-m/detail/10160670/",
+      "portal": "eurobydleni",
+      "added": "2026-07-21",
+      "updated": "2026-07-21",
+      "price_history": [
+        {
+          "date": "2026-07-21",
+          "price": 7490000
         }
       ],
       "removed_date": "2026-08-22"
