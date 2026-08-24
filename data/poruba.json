@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T05:49:34.620987+00:00",
+  "generated": "2026-08-24T16:50:54.292463+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -192,34 +192,6 @@
         {
           "date": "2026-08-19",
           "price": 3450000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222739926",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1 se zaskleným balkonem, Ostrava Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3550000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/222739926/prodej-bytu-21-se-zasklenym-balkonem-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-08-19",
-      "updated": "2026-08-19",
-      "price_history": [
-        {
-          "date": "2026-08-19",
-          "price": 3550000
         }
       ],
       "removed_date": null
@@ -3978,6 +3950,34 @@
         }
       ],
       "removed_date": "2026-08-22"
+    },
+    {
+      "id": "bazos_222739926",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 se zaskleným balkonem, Ostrava Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3550000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/222739926/prodej-bytu-21-se-zasklenym-balkonem-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-08-19",
+      "updated": "2026-08-19",
+      "price_history": [
+        {
+          "date": "2026-08-19",
+          "price": 3550000
+        }
+      ],
+      "removed_date": "2026-08-24"
     }
   ]
 }
