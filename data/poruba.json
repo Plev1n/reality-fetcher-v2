@@ -1,10 +1,38 @@
 {
-  "generated": "2026-08-25T05:43:16.121342+00:00",
+  "generated": "2026-08-25T16:47:47.993514+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_220789020",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+1, 28 m2, Ostrava",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 28,
+      "price": 2900000,
+      "price_per_m2": 103571,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220789020/prodej-bytu-11-28-m2-ostrava.php",
+      "portal": "bazos",
+      "added": "2026-07-03",
+      "updated": "2026-07-03",
+      "price_history": [
+        {
+          "date": "2026-07-03",
+          "price": 2900000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_222205699",
       "status": "active",
@@ -52,34 +80,6 @@
         {
           "date": "2026-08-11",
           "price": 2190000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220789020",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1, 28 m2, Ostrava",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 28,
-      "price": 2900000,
-      "price_per_m2": 103571,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220789020/prodej-bytu-11-28-m2-ostrava.php",
-      "portal": "bazos",
-      "added": "2026-07-03",
-      "updated": "2026-07-03",
-      "price_history": [
-        {
-          "date": "2026-07-03",
-          "price": 2900000
         }
       ],
       "removed_date": null
@@ -392,34 +392,6 @@
         {
           "date": "2026-07-16",
           "price": 3650000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221056103",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej kompletně zrekonstruovaného bytu 1+kk se zasklenou lo",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 2680000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/221056103/prodej-kompletne-zrekonstruovaneho-bytu-1kk-se-zasklenou-lo.php",
-      "portal": "bazos",
-      "added": "2026-07-08",
-      "updated": "2026-07-08",
-      "price_history": [
-        {
-          "date": "2026-07-08",
-          "price": 2680000
         }
       ],
       "removed_date": null
@@ -3978,6 +3950,34 @@
         }
       ],
       "removed_date": "2026-08-24"
+    },
+    {
+      "id": "bazos_221056103",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej kompletně zrekonstruovaného bytu 1+kk se zasklenou lo",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2680000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221056103/prodej-kompletne-zrekonstruovaneho-bytu-1kk-se-zasklenou-lo.php",
+      "portal": "bazos",
+      "added": "2026-07-08",
+      "updated": "2026-07-08",
+      "price_history": [
+        {
+          "date": "2026-07-08",
+          "price": 2680000
+        }
+      ],
+      "removed_date": "2026-08-25"
     }
   ]
 }
