@@ -1,114 +1,10 @@
 {
-  "generated": "2026-08-26T05:49:35.997157+00:00",
+  "generated": "2026-08-26T17:01:38.605397+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "bazos_223017711",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 4+kk, Čeladná",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 9800000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/223017711/prodej-rodinneho-domu-4kk-celadna.php",
-      "portal": "bazos",
-      "added": "2026-08-26",
-      "updated": "2026-08-26",
-      "price_history": [
-        {
-          "date": "2026-08-26",
-          "price": 9800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220901346",
-      "status": "active",
-      "type": "dum",
-      "title": "Dvougenerační dům s velkým potenciálem a možností rozšíření",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 867,
-      "price": 3890000,
-      "price_per_m2": 4487,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220901346/prodej-rodinneho-domu-v-ropicich-u-frydku-mistku.php",
-      "portal": "bazos",
-      "added": "2026-07-04",
-      "updated": "2026-08-26",
-      "price_history": [
-        {
-          "date": "2026-07-04",
-          "price": 4590000
-        },
-        {
-          "date": "2026-07-21",
-          "price": 4090000
-        },
-        {
-          "date": "2026-08-26",
-          "price": 3890000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10129685",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej rodinného domu 91 m, pozemek 812 m",
-      "location": "Metylovice",
-      "location_id": "metylovice",
-      "coordinates": [
-        49.6,
-        18.34
-      ],
-      "area_m2": 812,
-      "price": 9890000,
-      "price_per_m2": 12180,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-91-m-pozemek-812-m/detail/10129685/",
-      "portal": "eurobydleni",
-      "added": "2026-05-22",
-      "updated": "2026-08-26",
-      "price_history": [
-        {
-          "date": "2026-05-22",
-          "price": 6500000
-        },
-        {
-          "date": "2026-07-01",
-          "price": 6800000
-        },
-        {
-          "date": "2026-08-24",
-          "price": 9800000
-        },
-        {
-          "date": "2026-08-26",
-          "price": 9890000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_222485823",
       "status": "active",
@@ -189,6 +85,34 @@
         {
           "date": "2026-08-11",
           "price": 5250000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223017711",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 4+kk, Čeladná",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 9800000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223017711/prodej-rodinneho-domu-4kk-celadna.php",
+      "portal": "bazos",
+      "added": "2026-08-26",
+      "updated": "2026-08-26",
+      "price_history": [
+        {
+          "date": "2026-08-26",
+          "price": 9800000
         }
       ],
       "removed_date": null
@@ -669,6 +593,42 @@
         {
           "date": "2026-07-05",
           "price": 10000000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_220901346",
+      "status": "active",
+      "type": "dum",
+      "title": "Dvougenerační dům s velkým potenciálem a možností rozšíření",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 867,
+      "price": 3890000,
+      "price_per_m2": 4487,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220901346/prodej-rodinneho-domu-v-ropicich-u-frydku-mistku.php",
+      "portal": "bazos",
+      "added": "2026-07-04",
+      "updated": "2026-08-26",
+      "price_history": [
+        {
+          "date": "2026-07-04",
+          "price": 4590000
+        },
+        {
+          "date": "2026-07-21",
+          "price": 4090000
+        },
+        {
+          "date": "2026-08-26",
+          "price": 3890000
         }
       ],
       "removed_date": null
@@ -2050,34 +2010,6 @@
       "removed_date": null
     },
     {
-      "id": "realingo_24625070",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Dobrá, 739 51",
-      "location": "Dobrá",
-      "location_id": "dobra",
-      "coordinates": [
-        49.670961,
-        18.424072
-      ],
-      "area_m2": null,
-      "price": 4350000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-vysni-lhoty/24625070",
-      "portal": "realingo",
-      "added": "2026-08-24",
-      "updated": "2026-08-24",
-      "price_history": [
-        {
-          "date": "2026-08-24",
-          "price": 4350000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "realingo_24598074",
       "status": "active",
       "type": "dum",
@@ -2318,6 +2250,46 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10129685",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej rodinného domu 91 m, pozemek 812 m",
+      "location": "Metylovice",
+      "location_id": "metylovice",
+      "coordinates": [
+        49.6,
+        18.34
+      ],
+      "area_m2": 812,
+      "price": 9890000,
+      "price_per_m2": 12180,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-91-m-pozemek-812-m/detail/10129685/",
+      "portal": "eurobydleni",
+      "added": "2026-05-22",
+      "updated": "2026-08-26",
+      "price_history": [
+        {
+          "date": "2026-05-22",
+          "price": 6500000
+        },
+        {
+          "date": "2026-07-01",
+          "price": 6800000
+        },
+        {
+          "date": "2026-08-24",
+          "price": 9800000
+        },
+        {
+          "date": "2026-08-26",
+          "price": 9890000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10161761",
       "status": "active",
       "type": "pozemek",
@@ -2541,34 +2513,6 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3731844",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 090 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1090,
-      "price": 3368100,
-      "price_per_m2": 3090,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-090-m2-3731844.html",
-      "portal": "sousede",
-      "added": "2026-04-09",
-      "updated": "2026-04-09",
-      "price_history": [
-        {
-          "date": "2026-04-09",
-          "price": 3368100
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "sousede_3760296",
       "status": "active",
       "type": "pozemek",
@@ -2592,6 +2536,34 @@
         {
           "date": "2026-05-05",
           "price": 3950100
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3731844",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 090 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1090,
+      "price": 3368100,
+      "price_per_m2": 3090,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-090-m2-3731844.html",
+      "portal": "sousede",
+      "added": "2026-04-09",
+      "updated": "2026-04-09",
+      "price_history": [
+        {
+          "date": "2026-04-09",
+          "price": 3368100
         }
       ],
       "removed_date": null
@@ -15302,6 +15274,34 @@
         {
           "date": "2026-06-23",
           "price": 3290000
+        }
+      ],
+      "removed_date": "2026-08-26"
+    },
+    {
+      "id": "realingo_24625070",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Dobrá, 739 51",
+      "location": "Dobrá",
+      "location_id": "dobra",
+      "coordinates": [
+        49.670961,
+        18.424072
+      ],
+      "area_m2": null,
+      "price": 4350000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-vysni-lhoty/24625070",
+      "portal": "realingo",
+      "added": "2026-08-24",
+      "updated": "2026-08-24",
+      "price_history": [
+        {
+          "date": "2026-08-24",
+          "price": 4350000
         }
       ],
       "removed_date": "2026-08-26"
