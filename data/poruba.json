@@ -1,38 +1,10 @@
 {
-  "generated": "2026-08-26T17:01:38.832742+00:00",
+  "generated": "2026-08-27T16:21:23.483285+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
-    {
-      "id": "bazos_223035005",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1, 27 m², Ostrava, ul. Mongolská",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 27,
-      "price": 2790000,
-      "price_per_m2": 103333,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223035005/prodej-bytu-11-27-m-ostrava-ul-mongolska.php",
-      "portal": "bazos",
-      "added": "2026-08-26",
-      "updated": "2026-08-26",
-      "price_history": [
-        {
-          "date": "2026-08-26",
-          "price": 2790000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_220789020",
       "status": "active",
@@ -62,29 +34,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_222205699",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej 2+kk s terasou, Ostrava-Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/222205699/1kk-s-terasou-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-08-08",
-      "updated": "2026-08-08",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "bazos_222429721",
       "status": "active",
       "type": "byt",
@@ -108,6 +57,34 @@
         {
           "date": "2026-08-11",
           "price": 2190000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223035005",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+1, 27 m², Ostrava, ul. Mongolská",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 27,
+      "price": 2790000,
+      "price_per_m2": 103333,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223035005/prodej-bytu-11-27-m-ostrava-ul-mongolska.php",
+      "portal": "bazos",
+      "added": "2026-08-26",
+      "updated": "2026-08-26",
+      "price_history": [
+        {
+          "date": "2026-08-26",
+          "price": 2790000
         }
       ],
       "removed_date": null
@@ -4006,6 +3983,29 @@
         }
       ],
       "removed_date": "2026-08-26"
+    },
+    {
+      "id": "bazos_222205699",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej 2+kk s terasou, Ostrava-Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/222205699/1kk-s-terasou-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-08-08",
+      "updated": "2026-08-08",
+      "price_history": [],
+      "removed_date": "2026-08-27"
     }
   ]
 }
