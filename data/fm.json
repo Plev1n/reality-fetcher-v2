@@ -1,102 +1,10 @@
 {
-  "generated": "2026-08-27T16:21:23.258204+00:00",
+  "generated": "2026-08-28T00:57:29.950632+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "sousede_3873335",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 2 679 m² Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.72,
-        18.31
-      ],
-      "area_m2": 2679,
-      "price": 5900000,
-      "price_per_m2": 2202,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3873335.html",
-      "portal": "sousede",
-      "added": "2026-08-27",
-      "updated": "2026-08-27",
-      "price_history": [
-        {
-          "date": "2026-08-27",
-          "price": 5900000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222485823",
-      "status": "active",
-      "type": "dum",
-      "title": "Bydlení nebo rekreace bez kompromisů – zrekonstruovaný dům v",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 5928000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/222485823/bydleni-nebo-rekreace-bez-kompromisu-zrekonstruovany-dum-v.php",
-      "portal": "bazos",
-      "added": "2026-08-13",
-      "updated": "2026-08-27",
-      "price_history": [
-        {
-          "date": "2026-08-13",
-          "price": 6250000
-        },
-        {
-          "date": "2026-08-27",
-          "price": 5928000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222492272",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej, rodinný dům, Janovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 7500000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/222492272/prodej-rodinny-dum-janovice.php",
-      "portal": "bazos",
-      "added": "2026-08-13",
-      "updated": "2026-08-27",
-      "price_history": [
-        {
-          "date": "2026-08-13",
-          "price": 7790000
-        },
-        {
-          "date": "2026-08-27",
-          "price": 7500000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_222998216",
       "status": "active",
@@ -1590,6 +1498,38 @@
       "removed_date": null
     },
     {
+      "id": "bazos_222485823",
+      "status": "active",
+      "type": "dum",
+      "title": "Bydlení nebo rekreace bez kompromisů – zrekonstruovaný dům v",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 5928000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/222485823/bydleni-nebo-rekreace-bez-kompromisu-zrekonstruovany-dum-v.php",
+      "portal": "bazos",
+      "added": "2026-08-13",
+      "updated": "2026-08-27",
+      "price_history": [
+        {
+          "date": "2026-08-13",
+          "price": 6250000
+        },
+        {
+          "date": "2026-08-27",
+          "price": 5928000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_220882999",
       "status": "active",
       "type": "dum",
@@ -2286,57 +2226,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10124291",
-      "status": "active",
-      "type": "dum",
-      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
-      "portal": "eurobydleni",
-      "added": "2026-05-15",
-      "updated": "2026-05-15",
-      "price_history": [
-        {
-          "date": "2026-05-15",
-          "price": 6999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10161761",
       "status": "active",
       "type": "pozemek",
@@ -2577,6 +2466,57 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10124291",
+      "status": "active",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
+      "portal": "eurobydleni",
+      "added": "2026-05-15",
+      "updated": "2026-05-15",
+      "price_history": [
+        {
+          "date": "2026-05-15",
+          "price": 6999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "sousede_3824080",
       "status": "active",
       "type": "pozemek",
@@ -2605,29 +2545,29 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3731844",
+      "id": "sousede_3873335",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavební parcely 1 090 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
+      "title": "Prodej stavební parcely 2 679 m² Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
       "coordinates": [
-        49.6878,
-        18.3498
+        49.72,
+        18.31
       ],
-      "area_m2": 1090,
-      "price": 3368100,
-      "price_per_m2": 3090,
+      "area_m2": 2679,
+      "price": 5900000,
+      "price_per_m2": 2202,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-090-m2-3731844.html",
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3873335.html",
       "portal": "sousede",
-      "added": "2026-04-09",
-      "updated": "2026-04-09",
+      "added": "2026-08-27",
+      "updated": "2026-08-27",
       "price_history": [
         {
-          "date": "2026-04-09",
-          "price": 3368100
+          "date": "2026-08-27",
+          "price": 5900000
         }
       ],
       "removed_date": null
@@ -2656,6 +2596,34 @@
         {
           "date": "2026-05-05",
           "price": 3950100
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3731844",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 090 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1090,
+      "price": 3368100,
+      "price_per_m2": 3090,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-090-m2-3731844.html",
+      "portal": "sousede",
+      "added": "2026-04-09",
+      "updated": "2026-04-09",
+      "price_history": [
+        {
+          "date": "2026-04-09",
+          "price": 3368100
         }
       ],
       "removed_date": null
@@ -15341,6 +15309,38 @@
         }
       ],
       "removed_date": "2026-08-27"
+    },
+    {
+      "id": "bazos_222492272",
+      "status": "removed",
+      "type": "dum",
+      "title": "Prodej, rodinný dům, Janovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 7500000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/222492272/prodej-rodinny-dum-janovice.php",
+      "portal": "bazos",
+      "added": "2026-08-13",
+      "updated": "2026-08-27",
+      "price_history": [
+        {
+          "date": "2026-08-13",
+          "price": 7790000
+        },
+        {
+          "date": "2026-08-27",
+          "price": 7500000
+        }
+      ],
+      "removed_date": "2026-08-28"
     }
   ]
 }
