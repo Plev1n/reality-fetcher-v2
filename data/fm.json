@@ -1,66 +1,10 @@
 {
-  "generated": "2026-08-28T17:25:20.155245+00:00",
+  "generated": "2026-08-29T00:38:38.127466+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "bazos_223120167",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu typu bungalov 104 m², 4kk, pozemek 192",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1920,
-      "price": 9690000,
-      "price_per_m2": 5047,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223120167/prodej-rodinneho-domu-typu-bungalov-104-m-4kk-pozemek-192.php",
-      "portal": "bazos",
-      "added": "2026-08-28",
-      "updated": "2026-08-28",
-      "price_history": [
-        {
-          "date": "2026-08-28",
-          "price": 9690000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24632533",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Sviadnov, 739 25",
-      "location": "Sviadnov",
-      "location_id": "sviadnov",
-      "coordinates": [
-        49.698283,
-        18.31584
-      ],
-      "area_m2": null,
-      "price": 7490000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-sviadnov-739-25/24632533",
-      "portal": "realingo",
-      "added": "2026-08-28",
-      "updated": "2026-08-28",
-      "price_history": [
-        {
-          "date": "2026-08-28",
-          "price": 7490000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_222998216",
       "status": "active",
@@ -1558,6 +1502,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_223120167",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu typu bungalov 104 m², 4kk, pozemek 192",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1920,
+      "price": 9690000,
+      "price_per_m2": 5047,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223120167/prodej-rodinneho-domu-typu-bungalov-104-m-4kk-pozemek-192.php",
+      "portal": "bazos",
+      "added": "2026-08-28",
+      "updated": "2026-08-28",
+      "price_history": [
+        {
+          "date": "2026-08-28",
+          "price": 9690000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_220882999",
       "status": "active",
       "type": "dum",
@@ -2014,29 +1986,29 @@
       "removed_date": null
     },
     {
-      "id": "bazos_220712782",
+      "id": "realingo_24632533",
       "status": "active",
       "type": "dum",
-      "title": "dům v Neborech",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
+      "title": "Rodinny dum, Sviadnov, 739 25",
+      "location": "Sviadnov",
+      "location_id": "sviadnov",
       "coordinates": [
-        49.6878,
-        18.3498
+        49.698283,
+        18.31584
       ],
-      "area_m2": 4000,
-      "price": 7950000,
-      "price_per_m2": 1988,
+      "area_m2": null,
+      "price": 7490000,
+      "price_per_m2": null,
       "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220712782/dum-v-neborech.php",
-      "portal": "bazos",
-      "added": "2026-06-29",
-      "updated": "2026-06-29",
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-sviadnov-739-25/24632533",
+      "portal": "realingo",
+      "added": "2026-08-28",
+      "updated": "2026-08-28",
       "price_history": [
         {
-          "date": "2026-06-29",
-          "price": 7950000
+          "date": "2026-08-28",
+          "price": 7490000
         }
       ],
       "removed_date": null
@@ -2542,6 +2514,258 @@
       "added": "2026-04-04",
       "updated": "2026-04-04",
       "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3824080",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 317 m² Janovice",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        49.61,
+        18.39
+      ],
+      "area_m2": 1317,
+      "price": 2790000,
+      "price_per_m2": 2118,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/janovice/prodej-stavebni-parcely-1-317-m2-3824080.html",
+      "portal": "sousede",
+      "added": "2026-07-06",
+      "updated": "2026-07-06",
+      "price_history": [
+        {
+          "date": "2026-07-06",
+          "price": 2790000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3873335",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 2 679 m² Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 2679,
+      "price": 5900000,
+      "price_per_m2": 2202,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3873335.html",
+      "portal": "sousede",
+      "added": "2026-08-27",
+      "updated": "2026-08-27",
+      "price_history": [
+        {
+          "date": "2026-08-27",
+          "price": 5900000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3731844",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 090 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1090,
+      "price": 3368100,
+      "price_per_m2": 3090,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-090-m2-3731844.html",
+      "portal": "sousede",
+      "added": "2026-04-09",
+      "updated": "2026-04-09",
+      "price_history": [
+        {
+          "date": "2026-04-09",
+          "price": 3368100
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3760296",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 990 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 990,
+      "price": 3950100,
+      "price_per_m2": 3990,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-990-m2-3760296.html",
+      "portal": "sousede",
+      "added": "2026-05-05",
+      "updated": "2026-05-05",
+      "price_history": [
+        {
+          "date": "2026-05-05",
+          "price": 3950100
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3731871",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 742 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1742,
+      "price": 6079580,
+      "price_per_m2": 3490,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-742-m2-3731871.html",
+      "portal": "sousede",
+      "added": "2026-04-09",
+      "updated": "2026-04-09",
+      "price_history": [
+        {
+          "date": "2026-04-09",
+          "price": 6079580
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3866923",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 3 402 m² Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 3402,
+      "price": 7780000,
+      "price_per_m2": 2287,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-3-402-m2-3866923.html",
+      "portal": "sousede",
+      "added": "2026-08-19",
+      "updated": "2026-08-19",
+      "price_history": [
+        {
+          "date": "2026-08-19",
+          "price": 7780000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3810795",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 000 m² Palkovice Myslík",
+      "location": "Palkovice",
+      "location_id": "palkovice",
+      "coordinates": [
+        49.635,
+        18.32
+      ],
+      "area_m2": 1000,
+      "price": 3290000,
+      "price_per_m2": 3290,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/palkovice/prodej-stavebni-parcely-1-000-m2-3810795.html",
+      "portal": "sousede",
+      "added": "2026-06-23",
+      "updated": "2026-06-23",
+      "price_history": [
+        {
+          "date": "2026-06-23",
+          "price": 3290000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3784441",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 300 m² Baška",
+      "location": "Baška",
+      "location_id": "baska",
+      "coordinates": [
+        49.6422,
+        18.3553
+      ],
+      "area_m2": 1300,
+      "price": 3250000,
+      "price_per_m2": 2500,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/baska/prodej-stavebni-parcely-1-300-m2-3784441.html",
+      "portal": "sousede",
+      "added": "2026-06-22",
+      "updated": "2026-06-22",
+      "price_history": [
+        {
+          "date": "2026-06-22",
+          "price": 3250000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "moravskereality_3848730",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 500 m² Frýdlant nad Ostravicí Frýdlant, Frenštátská",
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "coordinates": [
+        49.59,
+        18.36
+      ],
+      "area_m2": 1500,
+      "price": 2450000,
+      "price_per_m2": 1633,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://severo.moravskereality.cz/prodej/pozemky/stavebni-parcely/frydlant-nad-ostravici/prodej-stavebni-parcely-1-500-m2-frenstatska-3848730.html",
+      "portal": "moravskereality",
+      "added": "2026-07-30",
+      "updated": "2026-07-30",
+      "price_history": [
+        {
+          "date": "2026-07-30",
+          "price": 2450000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -15147,256 +15371,32 @@
       "removed_date": "2026-08-28"
     },
     {
-      "id": "sousede_3824080",
+      "id": "bazos_220712782",
       "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 317 m² Janovice",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        49.61,
-        18.39
-      ],
-      "area_m2": 1317,
-      "price": 2790000,
-      "price_per_m2": 2118,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/janovice/prodej-stavebni-parcely-1-317-m2-3824080.html",
-      "portal": "sousede",
-      "added": "2026-07-06",
-      "updated": "2026-07-06",
-      "price_history": [
-        {
-          "date": "2026-07-06",
-          "price": 2790000
-        }
-      ],
-      "removed_date": "2026-08-28"
-    },
-    {
-      "id": "sousede_3873335",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 2 679 m² Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.72,
-        18.31
-      ],
-      "area_m2": 2679,
-      "price": 5900000,
-      "price_per_m2": 2202,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3873335.html",
-      "portal": "sousede",
-      "added": "2026-08-27",
-      "updated": "2026-08-27",
-      "price_history": [
-        {
-          "date": "2026-08-27",
-          "price": 5900000
-        }
-      ],
-      "removed_date": "2026-08-28"
-    },
-    {
-      "id": "sousede_3760296",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 990 m² Frýdek-Místek",
+      "type": "dum",
+      "title": "dům v Neborech",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": 990,
-      "price": 3950100,
-      "price_per_m2": 3990,
+      "area_m2": 4000,
+      "price": 7950000,
+      "price_per_m2": 1988,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-990-m2-3760296.html",
-      "portal": "sousede",
-      "added": "2026-05-05",
-      "updated": "2026-05-05",
+      "url": "https://reality.bazos.cz/inzerat/220712782/dum-v-neborech.php",
+      "portal": "bazos",
+      "added": "2026-06-29",
+      "updated": "2026-06-29",
       "price_history": [
         {
-          "date": "2026-05-05",
-          "price": 3950100
+          "date": "2026-06-29",
+          "price": 7950000
         }
       ],
-      "removed_date": "2026-08-28"
-    },
-    {
-      "id": "sousede_3731844",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 090 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1090,
-      "price": 3368100,
-      "price_per_m2": 3090,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-090-m2-3731844.html",
-      "portal": "sousede",
-      "added": "2026-04-09",
-      "updated": "2026-04-09",
-      "price_history": [
-        {
-          "date": "2026-04-09",
-          "price": 3368100
-        }
-      ],
-      "removed_date": "2026-08-28"
-    },
-    {
-      "id": "sousede_3731871",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 742 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1742,
-      "price": 6079580,
-      "price_per_m2": 3490,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-742-m2-3731871.html",
-      "portal": "sousede",
-      "added": "2026-04-09",
-      "updated": "2026-04-09",
-      "price_history": [
-        {
-          "date": "2026-04-09",
-          "price": 6079580
-        }
-      ],
-      "removed_date": "2026-08-28"
-    },
-    {
-      "id": "sousede_3866923",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 3 402 m² Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.72,
-        18.31
-      ],
-      "area_m2": 3402,
-      "price": 7780000,
-      "price_per_m2": 2287,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-3-402-m2-3866923.html",
-      "portal": "sousede",
-      "added": "2026-08-19",
-      "updated": "2026-08-19",
-      "price_history": [
-        {
-          "date": "2026-08-19",
-          "price": 7780000
-        }
-      ],
-      "removed_date": "2026-08-28"
-    },
-    {
-      "id": "sousede_3810795",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 000 m² Palkovice Myslík",
-      "location": "Palkovice",
-      "location_id": "palkovice",
-      "coordinates": [
-        49.635,
-        18.32
-      ],
-      "area_m2": 1000,
-      "price": 3290000,
-      "price_per_m2": 3290,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/palkovice/prodej-stavebni-parcely-1-000-m2-3810795.html",
-      "portal": "sousede",
-      "added": "2026-06-23",
-      "updated": "2026-06-23",
-      "price_history": [
-        {
-          "date": "2026-06-23",
-          "price": 3290000
-        }
-      ],
-      "removed_date": "2026-08-28"
-    },
-    {
-      "id": "sousede_3784441",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 300 m² Baška",
-      "location": "Baška",
-      "location_id": "baska",
-      "coordinates": [
-        49.6422,
-        18.3553
-      ],
-      "area_m2": 1300,
-      "price": 3250000,
-      "price_per_m2": 2500,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/baska/prodej-stavebni-parcely-1-300-m2-3784441.html",
-      "portal": "sousede",
-      "added": "2026-06-22",
-      "updated": "2026-06-22",
-      "price_history": [
-        {
-          "date": "2026-06-22",
-          "price": 3250000
-        }
-      ],
-      "removed_date": "2026-08-28"
-    },
-    {
-      "id": "moravskereality_3848730",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 500 m² Frýdlant nad Ostravicí Frýdlant, Frenštátská",
-      "location": "Frýdlant nad Ostravicí",
-      "location_id": "frydlant",
-      "coordinates": [
-        49.59,
-        18.36
-      ],
-      "area_m2": 1500,
-      "price": 2450000,
-      "price_per_m2": 1633,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://severo.moravskereality.cz/prodej/pozemky/stavebni-parcely/frydlant-nad-ostravici/prodej-stavebni-parcely-1-500-m2-frenstatska-3848730.html",
-      "portal": "moravskereality",
-      "added": "2026-07-30",
-      "updated": "2026-07-30",
-      "price_history": [
-        {
-          "date": "2026-07-30",
-          "price": 2450000
-        }
-      ],
-      "removed_date": "2026-08-28"
+      "removed_date": "2026-08-29"
     }
   ]
 }
