@@ -1,10 +1,38 @@
 {
-  "generated": "2026-08-29T11:46:08.215288+00:00",
+  "generated": "2026-08-29T19:29:28.758025+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "bazos_223161692",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinný dům 2+1 v Janovicích",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 2499000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223161692/rodinny-dum-21-v-janovicich.php",
+      "portal": "bazos",
+      "added": "2026-08-29",
+      "updated": "2026-08-29",
+      "price_history": [
+        {
+          "date": "2026-08-29",
+          "price": 2499000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_222485823",
       "status": "active",
@@ -2573,34 +2601,6 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3760296",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 990 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 990,
-      "price": 3950100,
-      "price_per_m2": 3990,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-990-m2-3760296.html",
-      "portal": "sousede",
-      "added": "2026-05-05",
-      "updated": "2026-05-05",
-      "price_history": [
-        {
-          "date": "2026-05-05",
-          "price": 3950100
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "sousede_3731844",
       "status": "active",
       "type": "pozemek",
@@ -2624,6 +2624,34 @@
         {
           "date": "2026-04-09",
           "price": 3368100
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3760296",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 990 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 990,
+      "price": 3950100,
+      "price_per_m2": 3990,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-990-m2-3760296.html",
+      "portal": "sousede",
+      "added": "2026-05-05",
+      "updated": "2026-05-05",
+      "price_history": [
+        {
+          "date": "2026-05-05",
+          "price": 3950100
         }
       ],
       "removed_date": null
