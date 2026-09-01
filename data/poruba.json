@@ -1,10 +1,38 @@
 {
-  "generated": "2026-08-31T21:32:26.651180+00:00",
+  "generated": "2026-09-01T09:59:03.368696+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_223264146",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+1, Jana Ziky, Ostrava Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 2800000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223264146/prodej-bytu-11-jana-ziky-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-09-01",
+      "updated": "2026-09-01",
+      "price_history": [
+        {
+          "date": "2026-09-01",
+          "price": 2800000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_220902557",
       "status": "active",
