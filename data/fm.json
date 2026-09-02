@@ -1,34 +1,54 @@
 {
-  "generated": "2026-09-02T09:34:07.100123+00:00",
+  "generated": "2026-09-02T19:26:34.152729+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "eurobydleni_10164071",
+      "id": "realingo_24232330",
       "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek  2685 m2, Čeladná",
+      "type": "dum",
+      "title": "Rodinny dum, Čeladná",
       "location": "Čeladná",
       "location_id": "celadna",
       "coordinates": [
-        49.54,
-        18.34
+        49.5422764,
+        18.3335819
       ],
-      "area_m2": 2685,
-      "price": 4980000,
-      "price_per_m2": 1855,
+      "area_m2": 2133,
+      "price": 7400000,
+      "price_per_m2": 3469,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek2685-m2-celadna/detail/10164071/",
-      "portal": "eurobydleni",
-      "added": "2026-09-02",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna/24232330",
+      "portal": "realingo",
+      "added": "2026-04-04",
       "updated": "2026-09-02",
       "price_history": [
         {
+          "date": "2026-04-04",
+          "price": 8800000
+        },
+        {
+          "date": "2026-04-20",
+          "price": 8500000
+        },
+        {
+          "date": "2026-04-28",
+          "price": 8400000
+        },
+        {
+          "date": "2026-07-14",
+          "price": 7400000
+        },
+        {
+          "date": "2026-08-12",
+          "price": 7300000
+        },
+        {
           "date": "2026-09-02",
-          "price": 4980000
+          "price": 7400000
         }
       ],
       "removed_date": null
@@ -85,6 +105,34 @@
         {
           "date": "2026-09-01",
           "price": 1700000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221001399",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1155m2 (včetně vybudovanýc, 135578",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1155,
+      "price": 2700000,
+      "price_per_m2": 2338,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221001399/prodej-stavebniho-pozemku-1155m2-vcetne-vybudovanyc-135578.php",
+      "portal": "bazos",
+      "added": "2026-09-01",
+      "updated": "2026-09-01",
+      "price_history": [
+        {
+          "date": "2026-09-01",
+          "price": 2700000
         }
       ],
       "removed_date": null
@@ -365,34 +413,6 @@
         {
           "date": "2026-08-24",
           "price": 3300000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221001399",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1155m2 (včetně vybudovanýc, 135578",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1155,
-      "price": 2700000,
-      "price_per_m2": 2338,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221001399/prodej-stavebniho-pozemku-1155m2-vcetne-vybudovanyc-135578.php",
-      "portal": "bazos",
-      "added": "2026-09-01",
-      "updated": "2026-09-01",
-      "price_history": [
-        {
-          "date": "2026-09-01",
-          "price": 2700000
         }
       ],
       "removed_date": null
@@ -1530,6 +1550,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_223017711",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 4+kk, Čeladná",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 9800000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223017711/prodej-rodinneho-domu-4kk-celadna.php",
+      "portal": "bazos",
+      "added": "2026-08-26",
+      "updated": "2026-08-26",
+      "price_history": [
+        {
+          "date": "2026-08-26",
+          "price": 9800000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_223212507",
       "status": "active",
       "type": "dum",
@@ -1665,34 +1713,6 @@
         {
           "date": "2026-08-11",
           "price": 5250000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223017711",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 4+kk, Čeladná",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 9800000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/223017711/prodej-rodinneho-domu-4kk-celadna.php",
-      "portal": "bazos",
-      "added": "2026-08-26",
-      "updated": "2026-08-26",
-      "price_history": [
-        {
-          "date": "2026-08-26",
-          "price": 9800000
         }
       ],
       "removed_date": null
@@ -2065,6 +2085,34 @@
       "removed_date": null
     },
     {
+      "id": "realingo_24528084",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Ostravice",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.5350970785275,
+        18.391640158392757
+      ],
+      "area_m2": 10918,
+      "price": 6249000,
+      "price_per_m2": 572,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice/24528084",
+      "portal": "realingo",
+      "added": "2026-04-04",
+      "updated": "2026-06-29",
+      "price_history": [
+        {
+          "date": "2026-06-29",
+          "price": 6249000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "realingo_24632533",
       "status": "active",
       "type": "dum",
@@ -2149,57 +2197,29 @@
       "removed_date": null
     },
     {
-      "id": "realingo_24528084",
+      "id": "realingo_24532692",
       "status": "active",
       "type": "dum",
-      "title": "Rodinny dum, Ostravice",
-      "location": "Ostravice",
-      "location_id": "ostravice",
+      "title": "Rodinny dum, Baška, 739 01",
+      "location": "Baška",
+      "location_id": "baska",
       "coordinates": [
-        49.5350970785275,
-        18.391640158392757
-      ],
-      "area_m2": 10918,
-      "price": 6249000,
-      "price_per_m2": 572,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice/24528084",
-      "portal": "realingo",
-      "added": "2026-04-04",
-      "updated": "2026-06-29",
-      "price_history": [
-        {
-          "date": "2026-06-29",
-          "price": 6249000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24548200",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Paskov, 739 21",
-      "location": "Paskov",
-      "location_id": "paskov",
-      "coordinates": [
-        49.73036,
-        18.2864
+        49.642734,
+        18.369656
       ],
       "area_m2": null,
-      "price": 6280000,
+      "price": 8320000,
       "price_per_m2": null,
       "price_unknown": false,
       "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-paskov-739-21/24548200",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-baska-739-01/24532692",
       "portal": "realingo",
       "added": "2026-04-14",
       "updated": "2026-04-14",
       "price_history": [
         {
           "date": "2026-04-14",
-          "price": 6280000
+          "price": 8320000
         }
       ],
       "removed_date": null
@@ -2284,98 +2304,31 @@
       "removed_date": null
     },
     {
-      "id": "realingo_24232330",
+      "id": "eurobydleni_10164071",
       "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Čeladná",
+      "type": "pozemek",
+      "title": "Stavební pozemek  2685 m2, Čeladná",
       "location": "Čeladná",
       "location_id": "celadna",
       "coordinates": [
-        49.5422764,
-        18.3335819
+        49.54,
+        18.34
       ],
-      "area_m2": 2133,
-      "price": 7300000,
-      "price_per_m2": 3422,
+      "area_m2": 2685,
+      "price": 4980000,
+      "price_per_m2": 1855,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna/24232330",
-      "portal": "realingo",
-      "added": "2026-04-04",
-      "updated": "2026-08-12",
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek2685-m2-celadna/detail/10164071/",
+      "portal": "eurobydleni",
+      "added": "2026-09-02",
+      "updated": "2026-09-02",
       "price_history": [
         {
-          "date": "2026-04-04",
-          "price": 8800000
-        },
-        {
-          "date": "2026-04-20",
-          "price": 8500000
-        },
-        {
-          "date": "2026-04-28",
-          "price": 8400000
-        },
-        {
-          "date": "2026-07-14",
-          "price": 7400000
-        },
-        {
-          "date": "2026-08-12",
-          "price": 7300000
+          "date": "2026-09-02",
+          "price": 4980000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10124291",
-      "status": "active",
-      "type": "dum",
-      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
-      "portal": "eurobydleni",
-      "added": "2026-05-15",
-      "updated": "2026-05-15",
-      "price_history": [
-        {
-          "date": "2026-05-15",
-          "price": 6999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -2591,6 +2544,57 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10124291",
+      "status": "active",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
+      "portal": "eurobydleni",
+      "added": "2026-05-15",
+      "updated": "2026-05-15",
+      "price_history": [
+        {
+          "date": "2026-05-15",
+          "price": 6999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "sousede_3824080",
       "status": "active",
       "type": "pozemek",
@@ -2647,34 +2651,6 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3731844",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 090 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1090,
-      "price": 3368100,
-      "price_per_m2": 3090,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-090-m2-3731844.html",
-      "portal": "sousede",
-      "added": "2026-04-09",
-      "updated": "2026-04-09",
-      "price_history": [
-        {
-          "date": "2026-04-09",
-          "price": 3368100
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "sousede_3760296",
       "status": "active",
       "type": "pozemek",
@@ -2698,6 +2674,34 @@
         {
           "date": "2026-05-05",
           "price": 3950100
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3731844",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 090 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1090,
+      "price": 3368100,
+      "price_per_m2": 3090,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-090-m2-3731844.html",
+      "portal": "sousede",
+      "added": "2026-04-09",
+      "updated": "2026-04-09",
+      "price_history": [
+        {
+          "date": "2026-04-09",
+          "price": 3368100
         }
       ],
       "removed_date": null
@@ -12928,34 +12932,6 @@
       "removed_date": "2026-07-29"
     },
     {
-      "id": "realingo_24532692",
-      "status": "removed",
-      "type": "dum",
-      "title": "Rodinny dum, Baška, 739 01",
-      "location": "Baška",
-      "location_id": "baska",
-      "coordinates": [
-        49.642734,
-        18.369656
-      ],
-      "area_m2": null,
-      "price": 8320000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-baska-739-01/24532692",
-      "portal": "realingo",
-      "added": "2026-04-14",
-      "updated": "2026-04-14",
-      "price_history": [
-        {
-          "date": "2026-04-14",
-          "price": 8320000
-        }
-      ],
-      "removed_date": "2026-07-30"
-    },
-    {
       "id": "sousede_3578826",
       "status": "removed",
       "type": "pozemek",
@@ -15725,6 +15701,34 @@
         {
           "date": "2026-07-10",
           "price": 7980000
+        }
+      ],
+      "removed_date": "2026-09-02"
+    },
+    {
+      "id": "realingo_24548200",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Paskov, 739 21",
+      "location": "Paskov",
+      "location_id": "paskov",
+      "coordinates": [
+        49.73036,
+        18.2864
+      ],
+      "area_m2": null,
+      "price": 6280000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-paskov-739-21/24548200",
+      "portal": "realingo",
+      "added": "2026-04-14",
+      "updated": "2026-04-14",
+      "price_history": [
+        {
+          "date": "2026-04-14",
+          "price": 6280000
         }
       ],
       "removed_date": "2026-09-02"

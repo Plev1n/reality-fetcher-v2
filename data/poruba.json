@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T09:34:07.369955+00:00",
+  "generated": "2026-09-02T19:26:34.394792+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -29,34 +29,6 @@
         {
           "date": "2026-09-02",
           "price": 3190000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223306852",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 2+1, 58 m2, Ostrava-Poruba, ul. Zednická",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 58,
-      "price": 3475000,
-      "price_per_m2": 59914,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223306852/prodej-byt-21-58-m2-ostrava-poruba-ul-zednicka.php",
-      "portal": "bazos",
-      "added": "2026-09-02",
-      "updated": "2026-09-02",
-      "price_history": [
-        {
-          "date": "2026-09-02",
-          "price": 3475000
         }
       ],
       "removed_date": null
@@ -113,6 +85,34 @@
         {
           "date": "2026-07-23",
           "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223306852",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 2+1, 58 m2, Ostrava-Poruba, ul. Zednická",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 58,
+      "price": 3475000,
+      "price_per_m2": 59914,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223306852/prodej-byt-21-58-m2-ostrava-poruba-ul-zednicka.php",
+      "portal": "bazos",
+      "added": "2026-09-02",
+      "updated": "2026-09-02",
+      "price_history": [
+        {
+          "date": "2026-09-02",
+          "price": 3475000
         }
       ],
       "removed_date": null
