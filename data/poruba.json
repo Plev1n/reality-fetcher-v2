@@ -1,34 +1,62 @@
 {
-  "generated": "2026-09-03T09:43:24.007778+00:00",
+  "generated": "2026-09-03T19:22:22.511720+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_223346718",
+      "id": "bazos_223360026",
       "status": "active",
       "type": "byt",
-      "title": "Prodej, byt 3+1, 65 m2, Ostrava-Poruba, ul. Na Robinsonce",
+      "title": "Prodej bytu 1+1, 38 m², Ostrava, ul. Čkalovova",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 25,
-      "price": 3690000,
-      "price_per_m2": 147600,
+      "area_m2": 38,
+      "price": 3200000,
+      "price_per_m2": 84211,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223346718/prodej-byt-31-65-m2-ostrava-poruba-ul-na-robinsonce.php",
+      "url": "https://reality.bazos.cz/inzerat/223360026/prodej-bytu-11-38-m-ostrava-ul-ckalovova.php",
       "portal": "bazos",
       "added": "2026-09-03",
       "updated": "2026-09-03",
       "price_history": [
         {
           "date": "2026-09-03",
-          "price": 3690000
+          "price": 3200000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223358957",
+      "status": "active",
+      "type": "byt",
+      "title": "Byt 1+kk O-Poruba os.vl.",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 30,
+      "price": 2499000,
+      "price_per_m2": 83300,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223358957/byt-1kk-o-poruba-osvl.php",
+      "portal": "bazos",
+      "added": "2026-09-03",
+      "updated": "2026-09-03",
+      "price_history": [
+        {
+          "date": "2026-09-03",
+          "price": 2499000
         }
       ],
       "removed_date": null
@@ -85,6 +113,34 @@
         {
           "date": "2026-07-23",
           "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223346718",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 3+1, 65 m2, Ostrava-Poruba, ul. Na Robinsonce",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 25,
+      "price": 3690000,
+      "price_per_m2": 147600,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223346718/prodej-byt-31-65-m2-ostrava-poruba-ul-na-robinsonce.php",
+      "portal": "bazos",
+      "added": "2026-09-03",
+      "updated": "2026-09-03",
+      "price_history": [
+        {
+          "date": "2026-09-03",
+          "price": 3690000
         }
       ],
       "removed_date": null
@@ -341,34 +397,6 @@
         {
           "date": "2026-08-18",
           "price": 3490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222701750",
-      "status": "active",
-      "type": "byt",
-      "title": "Byt 1+kk O-Poruba os.vl.",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 30,
-      "price": 2550000,
-      "price_per_m2": 85000,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222701750/byt-1kk-o-poruba-osvl.php",
-      "portal": "bazos",
-      "added": "2026-08-18",
-      "updated": "2026-08-18",
-      "price_history": [
-        {
-          "date": "2026-08-18",
-          "price": 2550000
         }
       ],
       "removed_date": null
@@ -4175,6 +4203,34 @@
         {
           "date": "2026-08-28",
           "price": 3200000
+        }
+      ],
+      "removed_date": "2026-09-03"
+    },
+    {
+      "id": "bazos_222701750",
+      "status": "removed",
+      "type": "byt",
+      "title": "Byt 1+kk O-Poruba os.vl.",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 30,
+      "price": 2550000,
+      "price_per_m2": 85000,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222701750/byt-1kk-o-poruba-osvl.php",
+      "portal": "bazos",
+      "added": "2026-08-18",
+      "updated": "2026-08-18",
+      "price_history": [
+        {
+          "date": "2026-08-18",
+          "price": 2550000
         }
       ],
       "removed_date": "2026-09-03"
