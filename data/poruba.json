@@ -1,10 +1,38 @@
 {
-  "generated": "2026-09-02T19:26:34.394792+00:00",
+  "generated": "2026-09-03T09:43:24.007778+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_223346718",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 3+1, 65 m2, Ostrava-Poruba, ul. Na Robinsonce",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 25,
+      "price": 3690000,
+      "price_per_m2": 147600,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223346718/prodej-byt-31-65-m2-ostrava-poruba-ul-na-robinsonce.php",
+      "portal": "bazos",
+      "added": "2026-09-03",
+      "updated": "2026-09-03",
+      "price_history": [
+        {
+          "date": "2026-09-03",
+          "price": 3690000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_223293910",
       "status": "active",
@@ -29,34 +57,6 @@
         {
           "date": "2026-09-02",
           "price": 3190000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_220902557",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 3+1, 65 m2, Ostrava-Poruba, ul. Na Robinsonce",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 25,
-      "price": 3690000,
-      "price_per_m2": 147600,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/220902557/prodej-byt-31-65-m2-ostrava-poruba-ul-na-robinsonce.php",
-      "portal": "bazos",
-      "added": "2026-08-05",
-      "updated": "2026-08-05",
-      "price_history": [
-        {
-          "date": "2026-08-05",
-          "price": 3690000
         }
       ],
       "removed_date": null
@@ -197,34 +197,6 @@
         {
           "date": "2026-08-28",
           "price": 3990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223120881",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1, 39 m², Ostrava, ul. Čkalovova",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 39,
-      "price": 3200000,
-      "price_per_m2": 82051,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223120881/prodej-bytu-11-39-m-ostrava-ul-ckalovova.php",
-      "portal": "bazos",
-      "added": "2026-08-28",
-      "updated": "2026-08-28",
-      "price_history": [
-        {
-          "date": "2026-08-28",
-          "price": 3200000
         }
       ],
       "removed_date": null
@@ -4150,6 +4122,62 @@
         }
       ],
       "removed_date": "2026-09-02"
+    },
+    {
+      "id": "bazos_220902557",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej, byt 3+1, 65 m2, Ostrava-Poruba, ul. Na Robinsonce",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 25,
+      "price": 3690000,
+      "price_per_m2": 147600,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/220902557/prodej-byt-31-65-m2-ostrava-poruba-ul-na-robinsonce.php",
+      "portal": "bazos",
+      "added": "2026-08-05",
+      "updated": "2026-08-05",
+      "price_history": [
+        {
+          "date": "2026-08-05",
+          "price": 3690000
+        }
+      ],
+      "removed_date": "2026-09-03"
+    },
+    {
+      "id": "bazos_223120881",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 1+1, 39 m², Ostrava, ul. Čkalovova",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 39,
+      "price": 3200000,
+      "price_per_m2": 82051,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223120881/prodej-bytu-11-39-m-ostrava-ul-ckalovova.php",
+      "portal": "bazos",
+      "added": "2026-08-28",
+      "updated": "2026-08-28",
+      "price_history": [
+        {
+          "date": "2026-08-28",
+          "price": 3200000
+        }
+      ],
+      "removed_date": "2026-09-03"
     }
   ]
 }
