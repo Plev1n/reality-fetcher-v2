@@ -1,34 +1,90 @@
 {
-  "generated": "2026-09-04T09:39:35.319870+00:00",
+  "generated": "2026-09-04T19:02:42.441556+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_223377726",
+      "id": "bazos_223393654",
       "status": "active",
-      "type": "dum",
-      "title": "Hledám dům s velkým pozemkem/loukou",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1741 m²",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": 10000,
-      "price": 10000000,
-      "price_per_m2": 1000,
+      "area_m2": 1741,
+      "price": 2942290,
+      "price_per_m2": 1690,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223377726/hledam-dum-s-velkym-pozemkemloukou.php",
+      "url": "https://reality.bazos.cz/inzerat/223393654/prodej-stavebniho-pozemku-1741-m.php",
       "portal": "bazos",
       "added": "2026-09-04",
       "updated": "2026-09-04",
       "price_history": [
         {
           "date": "2026-09-04",
-          "price": 10000000
+          "price": 2942290
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223393206",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 870 m²",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 870,
+      "price": 1470300,
+      "price_per_m2": 1690,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223393206/prodej-stavebniho-pozemku-870-m.php",
+      "portal": "bazos",
+      "added": "2026-09-04",
+      "updated": "2026-09-04",
+      "price_history": [
+        {
+          "date": "2026-09-04",
+          "price": 1470300
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10183267",
+      "status": "active",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10183267/",
+      "portal": "eurobydleni",
+      "added": "2026-09-04",
+      "updated": "2026-09-04",
+      "price_history": [
+        {
+          "date": "2026-09-04",
+          "price": 6999000
         }
       ],
       "removed_date": null
@@ -1502,6 +1558,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_223377726",
+      "status": "active",
+      "type": "dum",
+      "title": "Hledám dům s velkým pozemkem/loukou",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 10000,
+      "price": 10000000,
+      "price_per_m2": 1000,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223377726/hledam-dum-s-velkym-pozemkemloukou.php",
+      "portal": "bazos",
+      "added": "2026-09-04",
+      "updated": "2026-09-04",
+      "price_history": [
+        {
+          "date": "2026-09-04",
+          "price": 10000000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_223341114",
       "status": "active",
       "type": "dum",
@@ -2384,57 +2468,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10124291",
-      "status": "active",
-      "type": "dum",
-      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": null,
-      "price": 6999000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
-      "portal": "eurobydleni",
-      "added": "2026-05-15",
-      "updated": "2026-05-15",
-      "price_history": [
-        {
-          "date": "2026-05-15",
-          "price": 6999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10139005",
       "status": "active",
       "type": "dum",
@@ -2500,6 +2533,29 @@
           "price": 9890000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -15785,6 +15841,34 @@
         {
           "date": "2026-06-29",
           "price": 6300000
+        }
+      ],
+      "removed_date": "2026-09-04"
+    },
+    {
+      "id": "eurobydleni_10124291",
+      "status": "removed",
+      "type": "dum",
+      "title": "Stylové bydlení 3+kk se zahradou v srdci Beskyd  Ostravice, FOX ROX Living, parkování, sklad",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": null,
+      "price": 6999000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/stylove-bydleni-3kk-se-zahradou-v-srdci-beskydostravice-fox-rox-living-parkovani-sklad/detail/10124291/",
+      "portal": "eurobydleni",
+      "added": "2026-05-15",
+      "updated": "2026-05-15",
+      "price_history": [
+        {
+          "date": "2026-05-15",
+          "price": 6999000
         }
       ],
       "removed_date": "2026-09-04"
