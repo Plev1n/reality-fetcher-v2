@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T09:03:11.893238+00:00",
+  "generated": "2026-09-05T18:07:19.730571+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -57,6 +57,34 @@
         {
           "date": "2026-07-23",
           "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223234734",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+kk, 42 m², Ostrava, ul. Havlíčkovo náměstí",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 42,
+      "price": 3385000,
+      "price_per_m2": 80595,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223234734/prodej-bytu-2kk-42-m-ostrava-ul-havlickovo-namesti.php",
+      "portal": "bazos",
+      "added": "2026-09-04",
+      "updated": "2026-09-04",
+      "price_history": [
+        {
+          "date": "2026-09-04",
+          "price": 3385000
         }
       ],
       "removed_date": null
@@ -225,34 +253,6 @@
         {
           "date": "2026-09-01",
           "price": 2800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223234734",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+kk, 42 m², Ostrava, ul. Havlíčkovo náměstí",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 42,
-      "price": 3385000,
-      "price_per_m2": 80595,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223234734/prodej-bytu-2kk-42-m-ostrava-ul-havlickovo-namesti.php",
-      "portal": "bazos",
-      "added": "2026-09-04",
-      "updated": "2026-09-04",
-      "price_history": [
-        {
-          "date": "2026-09-04",
-          "price": 3385000
         }
       ],
       "removed_date": null
