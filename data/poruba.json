@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T18:07:19.730571+00:00",
+  "generated": "2026-09-06T09:24:21.432399+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -113,34 +113,6 @@
         {
           "date": "2026-09-03",
           "price": 3200000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223358957",
-      "status": "active",
-      "type": "byt",
-      "title": "Byt 1+kk O-Poruba os.vl.",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 30,
-      "price": 2499000,
-      "price_per_m2": 83300,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223358957/byt-1kk-o-poruba-osvl.php",
-      "portal": "bazos",
-      "added": "2026-09-03",
-      "updated": "2026-09-03",
-      "price_history": [
-        {
-          "date": "2026-09-03",
-          "price": 2499000
         }
       ],
       "removed_date": null
@@ -4262,6 +4234,34 @@
         }
       ],
       "removed_date": "2026-09-04"
+    },
+    {
+      "id": "bazos_223358957",
+      "status": "removed",
+      "type": "byt",
+      "title": "Byt 1+kk O-Poruba os.vl.",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 30,
+      "price": 2499000,
+      "price_per_m2": 83300,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223358957/byt-1kk-o-poruba-osvl.php",
+      "portal": "bazos",
+      "added": "2026-09-03",
+      "updated": "2026-09-03",
+      "price_history": [
+        {
+          "date": "2026-09-03",
+          "price": 2499000
+        }
+      ],
+      "removed_date": "2026-09-06"
     }
   ]
 }
