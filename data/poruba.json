@@ -1,15 +1,15 @@
 {
-  "generated": "2026-09-08T09:42:15.527822+00:00",
+  "generated": "2026-09-08T19:38:49.918556+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_223544698",
+      "id": "bazos_223559640",
       "status": "active",
       "type": "byt",
-      "title": "Prodej družstevního bytu 1+1 s lodžií po rekonstrukci, Ostra",
+      "title": "Byt 3+KK, OV–Poruba, po rekonstrukci",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
@@ -17,18 +17,18 @@
         18.1694
       ],
       "area_m2": null,
-      "price": 3250000,
+      "price": 1390000,
       "price_per_m2": null,
       "price_unknown": false,
       "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/223544698/prodej-druzstevniho-bytu-11-s-lodzii-po-rekonstrukci-ostra.php",
+      "url": "https://reality.bazos.cz/inzerat/223559640/byt-3kk-ovporuba-po-rekonstrukci.php",
       "portal": "bazos",
       "added": "2026-09-08",
       "updated": "2026-09-08",
       "price_history": [
         {
           "date": "2026-09-08",
-          "price": 3250000
+          "price": 1390000
         }
       ],
       "removed_date": null
@@ -85,6 +85,34 @@
         {
           "date": "2026-07-23",
           "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223544698",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej družstevního bytu 1+1 s lodžií po rekonstrukci, Ostra",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3250000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223544698/prodej-druzstevniho-bytu-11-s-lodzii-po-rekonstrukci-ostra.php",
+      "portal": "bazos",
+      "added": "2026-09-08",
+      "updated": "2026-09-08",
+      "price_history": [
+        {
+          "date": "2026-09-08",
+          "price": 3250000
         }
       ],
       "removed_date": null
