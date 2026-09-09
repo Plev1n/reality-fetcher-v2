@@ -1,34 +1,62 @@
 {
-  "generated": "2026-09-08T19:38:49.918556+00:00",
+  "generated": "2026-09-09T09:42:20.399197+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_223559640",
+      "id": "bazos_223080202",
       "status": "active",
       "type": "byt",
-      "title": "Byt 3+KK, OV–Poruba, po rekonstrukci",
+      "title": "Prodej bytu 1+1, ul. Bulharská, Ostrava Poruba",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": null,
-      "price": 1390000,
-      "price_per_m2": null,
+      "area_m2": 35,
+      "price": 2990000,
+      "price_per_m2": 85429,
       "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/223559640/byt-3kk-ovporuba-po-rekonstrukci.php",
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223080202/prodej-bytu-11-ul-bulharska-ostrava-poruba.php",
       "portal": "bazos",
-      "added": "2026-09-08",
-      "updated": "2026-09-08",
+      "added": "2026-09-09",
+      "updated": "2026-09-09",
       "price_history": [
         {
-          "date": "2026-09-08",
-          "price": 1390000
+          "date": "2026-09-09",
+          "price": 2990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222519777",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej 2+kk s prostornou lodžií a včetně vybavení, OV-Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 48,
+      "price": 3830000,
+      "price_per_m2": 79792,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222519777/prodej-2kk-s-prostornou-lodzii-a-vcetne-vybaveni-ov-poruba.php",
+      "portal": "bazos",
+      "added": "2026-09-09",
+      "updated": "2026-09-09",
+      "price_history": [
+        {
+          "date": "2026-09-09",
+          "price": 3830000
         }
       ],
       "removed_date": null
@@ -85,6 +113,62 @@
         {
           "date": "2026-07-23",
           "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222094000",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 51,
+      "price": 3999000,
+      "price_per_m2": 78412,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222094000/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
+      "portal": "bazos",
+      "added": "2026-08-05",
+      "updated": "2026-08-05",
+      "price_history": [
+        {
+          "date": "2026-08-05",
+          "price": 3999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223559640",
+      "status": "active",
+      "type": "byt",
+      "title": "Byt 3+KK, OV–Poruba, po rekonstrukci",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 1390000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223559640/byt-3kk-ovporuba-po-rekonstrukci.php",
+      "portal": "bazos",
+      "added": "2026-09-08",
+      "updated": "2026-09-08",
+      "price_history": [
+        {
+          "date": "2026-09-08",
+          "price": 1390000
         }
       ],
       "removed_date": null
@@ -225,34 +309,6 @@
         {
           "date": "2026-09-02",
           "price": 3475000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222094000",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 51,
-      "price": 3999000,
-      "price_per_m2": 78412,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222094000/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
-      "portal": "bazos",
-      "added": "2026-08-05",
-      "updated": "2026-08-05",
-      "price_history": [
-        {
-          "date": "2026-08-05",
-          "price": 3999000
         }
       ],
       "removed_date": null
@@ -425,34 +481,6 @@
         {
           "date": "2026-08-18",
           "price": 3490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222428483",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 48 m², Ostrava, ul. Jana Šoupala",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 48,
-      "price": 3799000,
-      "price_per_m2": 79146,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222428483/prodej-bytu-21-48-m-ostrava-ul-jana-soupala.php",
-      "portal": "bazos",
-      "added": "2026-08-11",
-      "updated": "2026-08-11",
-      "price_history": [
-        {
-          "date": "2026-08-11",
-          "price": 3799000
         }
       ],
       "removed_date": null
@@ -4318,6 +4346,34 @@
         }
       ],
       "removed_date": "2026-09-06"
+    },
+    {
+      "id": "bazos_222428483",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 48 m², Ostrava, ul. Jana Šoupala",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 48,
+      "price": 3799000,
+      "price_per_m2": 79146,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222428483/prodej-bytu-21-48-m-ostrava-ul-jana-soupala.php",
+      "portal": "bazos",
+      "added": "2026-08-11",
+      "updated": "2026-08-11",
+      "price_history": [
+        {
+          "date": "2026-08-11",
+          "price": 3799000
+        }
+      ],
+      "removed_date": "2026-09-09"
     }
   ]
 }
