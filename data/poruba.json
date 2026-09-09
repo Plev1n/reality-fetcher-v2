@@ -1,62 +1,34 @@
 {
-  "generated": "2026-09-09T09:42:20.399197+00:00",
+  "generated": "2026-09-09T19:23:27.018048+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_223080202",
+      "id": "bazos_223604078",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 1+1, ul. Bulharská, Ostrava Poruba",
+      "title": "Prodej bytu 1+kk s lodžii O-Poruba os.vl",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 35,
-      "price": 2990000,
-      "price_per_m2": 85429,
+      "area_m2": 30,
+      "price": 2499000,
+      "price_per_m2": 83300,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223080202/prodej-bytu-11-ul-bulharska-ostrava-poruba.php",
+      "url": "https://reality.bazos.cz/inzerat/223604078/prodej-bytu-1kk-s-lodzii-o-poruba-osvl.php",
       "portal": "bazos",
       "added": "2026-09-09",
       "updated": "2026-09-09",
       "price_history": [
         {
           "date": "2026-09-09",
-          "price": 2990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222519777",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej 2+kk s prostornou lodžií a včetně vybavení, OV-Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 48,
-      "price": 3830000,
-      "price_per_m2": 79792,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222519777/prodej-2kk-s-prostornou-lodzii-a-vcetne-vybaveni-ov-poruba.php",
-      "portal": "bazos",
-      "added": "2026-09-09",
-      "updated": "2026-09-09",
-      "price_history": [
-        {
-          "date": "2026-09-09",
-          "price": 3830000
+          "price": 2499000
         }
       ],
       "removed_date": null
@@ -113,6 +85,34 @@
         {
           "date": "2026-07-23",
           "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222109056",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 53 m², Ostrava - Poruba, Větrná, ev.č. 00269",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 53,
+      "price": 3490000,
+      "price_per_m2": 65849,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222109056/prodej-bytu-21-53-m-ostrava-poruba-vetrna-evc-00269.php",
+      "portal": "bazos",
+      "added": "2026-08-18",
+      "updated": "2026-08-18",
+      "price_history": [
+        {
+          "date": "2026-08-18",
+          "price": 3490000
         }
       ],
       "removed_date": null
@@ -202,29 +202,29 @@
       "removed_date": null
     },
     {
-      "id": "bazos_223234734",
+      "id": "bazos_223080202",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 2+kk, 42 m², Ostrava, ul. Havlíčkovo náměstí",
+      "title": "Prodej bytu 1+1, ul. Bulharská, Ostrava Poruba",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 42,
-      "price": 3385000,
-      "price_per_m2": 80595,
+      "area_m2": 35,
+      "price": 2990000,
+      "price_per_m2": 85429,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223234734/prodej-bytu-2kk-42-m-ostrava-ul-havlickovo-namesti.php",
+      "url": "https://reality.bazos.cz/inzerat/223080202/prodej-bytu-11-ul-bulharska-ostrava-poruba.php",
       "portal": "bazos",
-      "added": "2026-09-04",
-      "updated": "2026-09-04",
+      "added": "2026-09-09",
+      "updated": "2026-09-09",
       "price_history": [
         {
-          "date": "2026-09-04",
-          "price": 3385000
+          "date": "2026-09-09",
+          "price": 2990000
         }
       ],
       "removed_date": null
@@ -458,29 +458,29 @@
       "removed_date": null
     },
     {
-      "id": "bazos_222109056",
+      "id": "bazos_222519777",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 2+1 53 m², Ostrava - Poruba, Větrná, ev.č. 00269",
+      "title": "Prodej 2+kk s prostornou lodžií a včetně vybavení, OV-Poruba",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 53,
-      "price": 3490000,
-      "price_per_m2": 65849,
+      "area_m2": 48,
+      "price": 3830000,
+      "price_per_m2": 79792,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222109056/prodej-bytu-21-53-m-ostrava-poruba-vetrna-evc-00269.php",
+      "url": "https://reality.bazos.cz/inzerat/222519777/prodej-2kk-s-prostornou-lodzii-a-vcetne-vybaveni-ov-poruba.php",
       "portal": "bazos",
-      "added": "2026-08-18",
-      "updated": "2026-08-18",
+      "added": "2026-09-09",
+      "updated": "2026-09-09",
       "price_history": [
         {
-          "date": "2026-08-18",
-          "price": 3490000
+          "date": "2026-09-09",
+          "price": 3830000
         }
       ],
       "removed_date": null
@@ -4371,6 +4371,34 @@
         {
           "date": "2026-08-11",
           "price": 3799000
+        }
+      ],
+      "removed_date": "2026-09-09"
+    },
+    {
+      "id": "bazos_223234734",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 2+kk, 42 m², Ostrava, ul. Havlíčkovo náměstí",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 42,
+      "price": 3385000,
+      "price_per_m2": 80595,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223234734/prodej-bytu-2kk-42-m-ostrava-ul-havlickovo-namesti.php",
+      "portal": "bazos",
+      "added": "2026-09-04",
+      "updated": "2026-09-04",
+      "price_history": [
+        {
+          "date": "2026-09-04",
+          "price": 3385000
         }
       ],
       "removed_date": "2026-09-09"
