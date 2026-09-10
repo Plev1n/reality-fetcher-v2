@@ -1,31 +1,120 @@
 {
-  "generated": "2026-09-10T09:41:05.923061+00:00",
+  "generated": "2026-09-10T19:13:04.083582+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "sousede_3887796",
+      "id": "bazos_223648333",
       "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 820 m² Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
+      "type": "dum",
+      "title": "Prodej rodinného domu, Baška, Hodoňovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.72,
-        18.31
+        49.6878,
+        18.3498
       ],
-      "area_m2": 820,
-      "price": null,
+      "area_m2": null,
+      "price": 5760000,
       "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-820-m2-3887796.html",
-      "portal": "sousede",
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223648333/prodej-rodinneho-domu-baska-hodonovice.php",
+      "portal": "bazos",
       "added": "2026-09-10",
       "updated": "2026-09-10",
-      "price_history": [],
+      "price_history": [
+        {
+          "date": "2026-09-10",
+          "price": 5760000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221910967",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku pro stavbu rodinného domu",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1875,
+      "price": 3990000,
+      "price_per_m2": 2128,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221910967/prodej-pozemku-pro-stavbu-rodinneho-domu.php",
+      "portal": "bazos",
+      "added": "2026-09-10",
+      "updated": "2026-09-10",
+      "price_history": [
+        {
+          "date": "2026-09-10",
+          "price": 3990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223641977",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 2 348 m, Frýdlant nad Ostravicí",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2348,
+      "price": 6299999,
+      "price_per_m2": 2683,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223641977/prodej-stavebniho-pozemku-2-348-m-frydlant-nad-ostravici.php",
+      "portal": "bazos",
+      "added": "2026-09-10",
+      "updated": "2026-09-10",
+      "price_history": [
+        {
+          "date": "2026-09-10",
+          "price": 6299999
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24646123",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Sviadnovská, Staříč",
+      "location": "Sviadnov",
+      "location_id": "sviadnov",
+      "coordinates": [
+        49.68835061500229,
+        18.285134310003723
+      ],
+      "area_m2": 1194,
+      "price": 7190000,
+      "price_per_m2": 6022,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-sviadnovska-staric/24646123",
+      "portal": "realingo",
+      "added": "2026-09-10",
+      "updated": "2026-09-10",
+      "price_history": [
+        {
+          "date": "2026-09-10",
+          "price": 7190000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -280,34 +369,6 @@
         {
           "date": "2026-08-10",
           "price": 6800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222796397",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek, Frýdlant nad Ostravicí",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 3990000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/222796397/stavebni-pozemek-frydlant-nad-ostravici.php",
-      "portal": "bazos",
-      "added": "2026-08-20",
-      "updated": "2026-08-20",
-      "price_history": [
-        {
-          "date": "2026-08-20",
-          "price": 3990000
         }
       ],
       "removed_date": null
@@ -1725,34 +1786,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_221317299",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku s dřevěnicí v obci Raškovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1626,
-      "price": 4500000,
-      "price_per_m2": 2768,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221317299/prodej-stavebniho-pozemku-s-drevenici-v-obci-raskovice.php",
-      "portal": "bazos",
-      "added": "2026-07-20",
-      "updated": "2026-07-20",
-      "price_history": [
-        {
-          "date": "2026-07-20",
-          "price": 4500000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_221888210",
       "status": "active",
       "type": "pozemek",
@@ -1944,6 +1977,34 @@
         {
           "date": "2026-07-28",
           "price": 2950000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_221317299",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku s dřevěnicí v obci Raškovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1626,
+      "price": 4500000,
+      "price_per_m2": 2768,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221317299/prodej-stavebniho-pozemku-s-drevenici-v-obci-raskovice.php",
+      "portal": "bazos",
+      "added": "2026-07-20",
+      "updated": "2026-07-20",
+      "price_history": [
+        {
+          "date": "2026-07-20",
+          "price": 4500000
         }
       ],
       "removed_date": null
@@ -2295,29 +2356,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10185410",
       "status": "active",
       "type": "dum",
@@ -2578,6 +2616,52 @@
           "price": 1999000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3887796",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 820 m² Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 820,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-820-m2-3887796.html",
+      "portal": "sousede",
+      "added": "2026-09-10",
+      "updated": "2026-09-10",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -16372,6 +16456,34 @@
         {
           "date": "2026-09-04",
           "price": 6999000
+        }
+      ],
+      "removed_date": "2026-09-10"
+    },
+    {
+      "id": "bazos_222796397",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek, Frýdlant nad Ostravicí",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 3990000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/222796397/stavebni-pozemek-frydlant-nad-ostravici.php",
+      "portal": "bazos",
+      "added": "2026-08-20",
+      "updated": "2026-08-20",
+      "price_history": [
+        {
+          "date": "2026-08-20",
+          "price": 3990000
         }
       ],
       "removed_date": "2026-09-10"
