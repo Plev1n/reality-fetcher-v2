@@ -1,10 +1,38 @@
 {
-  "generated": "2026-09-10T19:13:04.368497+00:00",
+  "generated": "2026-09-11T09:41:17.557552+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_222094000",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 51,
+      "price": 3999000,
+      "price_per_m2": 78412,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222094000/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
+      "portal": "bazos",
+      "added": "2026-08-05",
+      "updated": "2026-08-05",
+      "price_history": [
+        {
+          "date": "2026-08-05",
+          "price": 3999000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_221944588",
       "status": "active",
@@ -38,29 +66,29 @@
       "removed_date": null
     },
     {
-      "id": "bazos_222094000",
+      "id": "bazos_222109056",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
+      "title": "Prodej bytu 2+1 53 m², Ostrava - Poruba, Větrná, ev.č. 00269",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 51,
-      "price": 3999000,
-      "price_per_m2": 78412,
+      "area_m2": 53,
+      "price": 3490000,
+      "price_per_m2": 65849,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222094000/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
+      "url": "https://reality.bazos.cz/inzerat/222109056/prodej-bytu-21-53-m-ostrava-poruba-vetrna-evc-00269.php",
       "portal": "bazos",
-      "added": "2026-08-05",
-      "updated": "2026-08-05",
+      "added": "2026-08-18",
+      "updated": "2026-08-18",
       "price_history": [
         {
-          "date": "2026-08-05",
-          "price": 3999000
+          "date": "2026-08-18",
+          "price": 3490000
         }
       ],
       "removed_date": null
@@ -117,34 +145,6 @@
         {
           "date": "2026-09-09",
           "price": 2499000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222109056",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1 53 m², Ostrava - Poruba, Větrná, ev.č. 00269",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 53,
-      "price": 3490000,
-      "price_per_m2": 65849,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222109056/prodej-bytu-21-53-m-ostrava-poruba-vetrna-evc-00269.php",
-      "portal": "bazos",
-      "added": "2026-08-18",
-      "updated": "2026-08-18",
-      "price_history": [
-        {
-          "date": "2026-08-18",
-          "price": 3490000
         }
       ],
       "removed_date": null
