@@ -1,38 +1,10 @@
 {
-  "generated": "2026-09-12T09:18:52.028832+00:00",
+  "generated": "2026-09-12T18:30:15.939171+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "bazos_223697551",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku, 3955 m², Pstruží",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 3955,
-      "price": 4400000,
-      "price_per_m2": 1113,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223697551/prodej-stavebniho-pozemku-3955-m-pstruzi.php",
-      "portal": "bazos",
-      "added": "2026-09-12",
-      "updated": "2026-09-12",
-      "price_history": [
-        {
-          "date": "2026-09-12",
-          "price": 4400000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_222756030",
       "status": "active",
@@ -85,6 +57,34 @@
         {
           "date": "2026-08-25",
           "price": 2639700
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223697551",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku, 3955 m², Pstruží",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3955,
+      "price": 4400000,
+      "price_per_m2": 1113,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223697551/prodej-stavebniho-pozemku-3955-m-pstruzi.php",
+      "portal": "bazos",
+      "added": "2026-09-12",
+      "updated": "2026-09-12",
+      "price_history": [
+        {
+          "date": "2026-09-12",
+          "price": 4400000
         }
       ],
       "removed_date": null
@@ -2333,29 +2333,6 @@
       "removed_date": null
     },
     {
-      "id": "realingo_24519584",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Pržno",
-      "location": "Pržno",
-      "location_id": "przno",
-      "coordinates": [
-        49.615192864193,
-        18.36492661124
-      ],
-      "area_m2": 989,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-przno/24519584",
-      "portal": "realingo",
-      "added": "2026-04-23",
-      "updated": "2026-04-23",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "realingo_24503174",
       "status": "active",
       "type": "dum",
@@ -2441,6 +2418,29 @@
           "price": 6300000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -2647,29 +2647,6 @@
       "portal": "eurobydleni",
       "added": "2026-04-27",
       "updated": "2026-04-27",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
       "price_history": [],
       "removed_date": null
     },
@@ -16658,6 +16635,29 @@
           "price": 7000000
         }
       ],
+      "removed_date": "2026-09-12"
+    },
+    {
+      "id": "realingo_24519584",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Pržno",
+      "location": "Pržno",
+      "location_id": "przno",
+      "coordinates": [
+        49.615192864193,
+        18.36492661124
+      ],
+      "area_m2": 989,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-przno/24519584",
+      "portal": "realingo",
+      "added": "2026-04-23",
+      "updated": "2026-04-23",
+      "price_history": [],
       "removed_date": "2026-09-12"
     }
   ]
