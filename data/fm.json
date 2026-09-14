@@ -1,15 +1,71 @@
 {
-  "generated": "2026-09-14T10:46:51.689259+00:00",
+  "generated": "2026-09-14T20:36:51.367214+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_221888779",
+      "id": "bazos_223811445",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 1025 m², Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1025,
+      "price": 3225000,
+      "price_per_m2": 3146,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223811445/prodej-pozemku-k-bydleni-1025-m-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-09-14",
+      "updated": "2026-09-14",
+      "price_history": [
+        {
+          "date": "2026-09-14",
+          "price": 3225000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223811000",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 1028 m², Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1028,
+      "price": 3235000,
+      "price_per_m2": 3147,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223811000/prodej-pozemku-k-bydleni-1028-m-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-09-14",
+      "updated": "2026-09-14",
+      "price_history": [
+        {
+          "date": "2026-09-14",
+          "price": 3235000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223805394",
       "status": "active",
       "type": "dum",
-      "title": "Prodej hrubé stavby moderního rodinného domu 4+kk v Palkovic",
+      "title": "Prodej domu 5+1 v Kunčicích pod Ondřejníkem",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
@@ -17,18 +73,46 @@
         18.3498
       ],
       "area_m2": null,
-      "price": 5500000,
+      "price": 3790000,
       "price_per_m2": null,
       "price_unknown": false,
       "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/221888779/prodej-hrube-stavby-moderniho-rodinneho-domu-4kk-v-palkovic.php",
+      "url": "https://reality.bazos.cz/inzerat/223805394/domecek-u-potoka.php",
       "portal": "bazos",
       "added": "2026-09-14",
       "updated": "2026-09-14",
       "price_history": [
         {
           "date": "2026-09-14",
-          "price": 5500000
+          "price": 3790000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3892495",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 811 m² Sedliště",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": 1811,
+      "price": 3121000,
+      "price_per_m2": 1723,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/sedliste/prodej-stavebni-parcely-1-811-m2-3892495.html",
+      "portal": "sousede",
+      "added": "2026-09-14",
+      "updated": "2026-09-14",
+      "price_history": [
+        {
+          "date": "2026-09-14",
+          "price": 3121000
         }
       ],
       "removed_date": null
@@ -1870,6 +1954,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_221888779",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej hrubé stavby moderního rodinného domu 4+kk v Palkovic",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 5500000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221888779/prodej-hrube-stavby-moderniho-rodinneho-domu-4kk-v-palkovic.php",
+      "portal": "bazos",
+      "added": "2026-09-14",
+      "updated": "2026-09-14",
+      "price_history": [
+        {
+          "date": "2026-09-14",
+          "price": 5500000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_221728816",
       "status": "active",
       "type": "dum",
@@ -2437,6 +2549,29 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10120891",
       "status": "active",
       "type": "pozemek",
@@ -2552,29 +2687,6 @@
       "portal": "eurobydleni",
       "added": "2026-04-27",
       "updated": "2026-04-27",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
       "price_history": [],
       "removed_date": null
     },
@@ -2793,34 +2905,6 @@
         {
           "date": "2026-09-08",
           "price": 3808310
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sousede_3885478",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 811 m² Sedliště",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": 1811,
-      "price": 3121000,
-      "price_per_m2": 1723,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/sedliste/prodej-stavebni-parcely-1-811-m2-3885478.html",
-      "portal": "sousede",
-      "added": "2026-09-08",
-      "updated": "2026-09-08",
-      "price_history": [
-        {
-          "date": "2026-09-08",
-          "price": 3121000
         }
       ],
       "removed_date": null
@@ -16744,6 +16828,34 @@
         {
           "date": "2026-06-29",
           "price": 6249000
+        }
+      ],
+      "removed_date": "2026-09-14"
+    },
+    {
+      "id": "sousede_3885478",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 811 m² Sedliště",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": 1811,
+      "price": 3121000,
+      "price_per_m2": 1723,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/sedliste/prodej-stavebni-parcely-1-811-m2-3885478.html",
+      "portal": "sousede",
+      "added": "2026-09-08",
+      "updated": "2026-09-08",
+      "price_history": [
+        {
+          "date": "2026-09-08",
+          "price": 3121000
         }
       ],
       "removed_date": "2026-09-14"

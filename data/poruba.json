@@ -1,15 +1,15 @@
 {
-  "generated": "2026-09-14T10:46:51.955803+00:00",
+  "generated": "2026-09-14T20:36:51.521939+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_223802107",
+      "id": "bazos_223815481",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 2+1 v Ostravě-Porubě. Klidné bydlení, sousedy má",
+      "title": "2+1 Poruba",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
@@ -17,74 +17,18 @@
         18.1694
       ],
       "area_m2": null,
-      "price": 3650000,
+      "price": 3100000,
       "price_per_m2": null,
       "price_unknown": false,
       "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/223802107/prodej-bytu-21-v-ostrave-porube-klidne-bydleni-sousedy-ma.php",
+      "url": "https://reality.bazos.cz/inzerat/223815481/21-poruba.php",
       "portal": "bazos",
       "added": "2026-09-14",
       "updated": "2026-09-14",
       "price_history": [
         {
           "date": "2026-09-14",
-          "price": 3650000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223800997",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 1+1, os.vl., 40 m2, ul. Pionýrů, Ostrava-Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 40,
-      "price": 3300000,
-      "price_per_m2": 82500,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223800997/prodej-byt-11-osvl-40-m2-ul-pionyru-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-09-14",
-      "updated": "2026-09-14",
-      "price_history": [
-        {
-          "date": "2026-09-14",
-          "price": 3300000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223438133",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+kk, 42 m², Ostrava, ul. U Oblouku",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 42,
-      "price": 3990000,
-      "price_per_m2": 95000,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223438133/prodej-bytu-2kk-42-m-ostrava-ul-u-oblouku.php",
-      "portal": "bazos",
-      "added": "2026-09-14",
-      "updated": "2026-09-14",
-      "price_history": [
-        {
-          "date": "2026-09-14",
-          "price": 3990000
+          "price": 3100000
         }
       ],
       "removed_date": null
@@ -169,6 +113,62 @@
         {
           "date": "2026-08-18",
           "price": 3490000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223802107",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 v Ostravě-Porubě. Klidné bydlení, sousedy má",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3650000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223802107/prodej-bytu-21-v-ostrave-porube-klidne-bydleni-sousedy-ma.php",
+      "portal": "bazos",
+      "added": "2026-09-14",
+      "updated": "2026-09-14",
+      "price_history": [
+        {
+          "date": "2026-09-14",
+          "price": 3650000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223800997",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 1+1, os.vl., 40 m2, ul. Pionýrů, Ostrava-Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 40,
+      "price": 3300000,
+      "price_per_m2": 82500,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223800997/prodej-byt-11-osvl-40-m2-ul-pionyru-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-09-14",
+      "updated": "2026-09-14",
+      "price_history": [
+        {
+          "date": "2026-09-14",
+          "price": 3300000
         }
       ],
       "removed_date": null
@@ -341,6 +341,34 @@
         {
           "date": "2026-09-09",
           "price": 2990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223438133",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+kk, 42 m², Ostrava, ul. U Oblouku",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 42,
+      "price": 3990000,
+      "price_per_m2": 95000,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223438133/prodej-bytu-2kk-42-m-ostrava-ul-u-oblouku.php",
+      "portal": "bazos",
+      "added": "2026-09-14",
+      "updated": "2026-09-14",
+      "price_history": [
+        {
+          "date": "2026-09-14",
+          "price": 3990000
         }
       ],
       "removed_date": null
