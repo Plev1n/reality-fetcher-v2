@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T10:16:02.340525+00:00",
+  "generated": "2026-09-15T19:56:14.805370+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -89,6 +89,34 @@
         {
           "date": "2026-09-10",
           "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223800997",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 1+1, os.vl., 40 m2, ul. Pionýrů, Ostrava-Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 40,
+      "price": 3300000,
+      "price_per_m2": 82500,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223800997/prodej-byt-11-osvl-40-m2-ul-pionyru-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-09-14",
+      "updated": "2026-09-14",
+      "price_history": [
+        {
+          "date": "2026-09-14",
+          "price": 3300000
         }
       ],
       "removed_date": null
@@ -201,34 +229,6 @@
         {
           "date": "2026-09-14",
           "price": 3650000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223800997",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 1+1, os.vl., 40 m2, ul. Pionýrů, Ostrava-Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 40,
-      "price": 3300000,
-      "price_per_m2": 82500,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223800997/prodej-byt-11-osvl-40-m2-ul-pionyru-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-09-14",
-      "updated": "2026-09-14",
-      "price_history": [
-        {
-          "date": "2026-09-14",
-          "price": 3300000
         }
       ],
       "removed_date": null
