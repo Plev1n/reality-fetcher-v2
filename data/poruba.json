@@ -1,34 +1,34 @@
 {
-  "generated": "2026-09-14T20:36:51.521939+00:00",
+  "generated": "2026-09-15T10:16:02.340525+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_223815481",
+      "id": "bazos_222094000",
       "status": "active",
       "type": "byt",
-      "title": "2+1 Poruba",
+      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": null,
-      "price": 3100000,
-      "price_per_m2": null,
+      "area_m2": 51,
+      "price": 3999000,
+      "price_per_m2": 78412,
       "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/223815481/21-poruba.php",
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222094000/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
       "portal": "bazos",
-      "added": "2026-09-14",
-      "updated": "2026-09-14",
+      "added": "2026-08-05",
+      "updated": "2026-08-05",
       "price_history": [
         {
-          "date": "2026-09-14",
-          "price": 3100000
+          "date": "2026-08-05",
+          "price": 3999000
         }
       ],
       "removed_date": null
@@ -62,29 +62,89 @@
       "removed_date": null
     },
     {
-      "id": "bazos_222094000",
+      "id": "bazos_221944588",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
+      "title": "Vytvořte si domov podle svých představ Slunný byt 3+1 v kli",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 51,
-      "price": 3999000,
-      "price_per_m2": 78412,
+      "area_m2": 37,
+      "price": 3590000,
+      "price_per_m2": 97027,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222094000/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
+      "url": "https://reality.bazos.cz/inzerat/221944588/vytvorte-si-domov-podle-svych-predstav-slunny-byt-31-v-kli.php",
       "portal": "bazos",
       "added": "2026-08-05",
-      "updated": "2026-08-05",
+      "updated": "2026-09-10",
       "price_history": [
         {
           "date": "2026-08-05",
-          "price": 3999000
+          "price": 3690000
+        },
+        {
+          "date": "2026-09-10",
+          "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223360026",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+1, 38 m², Ostrava, ul. Čkalovova",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 38,
+      "price": 3200000,
+      "price_per_m2": 84211,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223360026/prodej-bytu-11-38-m-ostrava-ul-ckalovova.php",
+      "portal": "bazos",
+      "added": "2026-09-03",
+      "updated": "2026-09-03",
+      "price_history": [
+        {
+          "date": "2026-09-03",
+          "price": 3200000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223815481",
+      "status": "active",
+      "type": "byt",
+      "title": "2+1 Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3100000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223815481/21-poruba.php",
+      "portal": "bazos",
+      "added": "2026-09-14",
+      "updated": "2026-09-14",
+      "price_history": [
+        {
+          "date": "2026-09-14",
+          "price": 3100000
         }
       ],
       "removed_date": null
@@ -197,66 +257,6 @@
         {
           "date": "2026-08-05",
           "price": 3600000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221944588",
-      "status": "active",
-      "type": "byt",
-      "title": "Vytvořte si domov podle svých představ Slunný byt 3+1 v kli",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 37,
-      "price": 3590000,
-      "price_per_m2": 97027,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221944588/vytvorte-si-domov-podle-svych-predstav-slunny-byt-31-v-kli.php",
-      "portal": "bazos",
-      "added": "2026-08-05",
-      "updated": "2026-09-10",
-      "price_history": [
-        {
-          "date": "2026-08-05",
-          "price": 3690000
-        },
-        {
-          "date": "2026-09-10",
-          "price": 3590000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223360026",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1, 38 m², Ostrava, ul. Čkalovova",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 38,
-      "price": 3200000,
-      "price_per_m2": 84211,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223360026/prodej-bytu-11-38-m-ostrava-ul-ckalovova.php",
-      "portal": "bazos",
-      "added": "2026-09-03",
-      "updated": "2026-09-03",
-      "price_history": [
-        {
-          "date": "2026-09-03",
-          "price": 3200000
         }
       ],
       "removed_date": null
