@@ -1,34 +1,34 @@
 {
-  "generated": "2026-09-16T10:10:15.348216+00:00",
+  "generated": "2026-09-16T19:48:35.752891+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "sousede_3876528",
+      "id": "bazos_223896695",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavební parcely 1 181 m² Palkovice Myslík",
-      "location": "Palkovice",
-      "location_id": "palkovice",
+      "title": "Prodej ostatní, 1812 m², Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.635,
-        18.32
+        49.6878,
+        18.3498
       ],
-      "area_m2": 1181,
-      "price": 3190000,
-      "price_per_m2": 2701,
+      "area_m2": 1812,
+      "price": 1450000,
+      "price_per_m2": 800,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/palkovice/prodej-stavebni-parcely-1-181-m2-3876528.html",
-      "portal": "sousede",
+      "url": "https://reality.bazos.cz/inzerat/223896695/prodej-ostatni-1812-m-frydek-mistek.php",
+      "portal": "bazos",
       "added": "2026-09-16",
       "updated": "2026-09-16",
       "price_history": [
         {
           "date": "2026-09-16",
-          "price": 3190000
+          "price": 1450000
         }
       ],
       "removed_date": null
@@ -1026,34 +1026,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_223472627",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej ostatní, 1812 m², Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1812,
-      "price": 1500000,
-      "price_per_m2": 828,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223472627/prodej-ostatni-1812-m-frydek-mistek.php",
-      "portal": "bazos",
-      "added": "2026-09-06",
-      "updated": "2026-09-06",
-      "price_history": [
-        {
-          "date": "2026-09-06",
-          "price": 1500000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_223451081",
       "status": "active",
       "type": "pozemek",
@@ -1105,34 +1077,6 @@
         {
           "date": "2026-08-07",
           "price": 3996000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223393654",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1741 m²",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1741,
-      "price": 2942290,
-      "price_per_m2": 1690,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223393654/prodej-stavebniho-pozemku-1741-m.php",
-      "portal": "bazos",
-      "added": "2026-09-04",
-      "updated": "2026-09-04",
-      "price_history": [
-        {
-          "date": "2026-09-04",
-          "price": 2942290
         }
       ],
       "removed_date": null
@@ -3040,6 +2984,34 @@
         {
           "date": "2026-09-07",
           "price": 4980000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3876528",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 181 m² Palkovice Myslík",
+      "location": "Palkovice",
+      "location_id": "palkovice",
+      "coordinates": [
+        49.635,
+        18.32
+      ],
+      "area_m2": 1181,
+      "price": 3190000,
+      "price_per_m2": 2701,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/palkovice/prodej-stavebni-parcely-1-181-m2-3876528.html",
+      "portal": "sousede",
+      "added": "2026-09-16",
+      "updated": "2026-09-16",
+      "price_history": [
+        {
+          "date": "2026-09-16",
+          "price": 3190000
         }
       ],
       "removed_date": null
@@ -16944,6 +16916,62 @@
         {
           "date": "2026-08-27",
           "price": 7500000
+        }
+      ],
+      "removed_date": "2026-09-16"
+    },
+    {
+      "id": "bazos_223472627",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej ostatní, 1812 m², Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1812,
+      "price": 1500000,
+      "price_per_m2": 828,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223472627/prodej-ostatni-1812-m-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-09-06",
+      "updated": "2026-09-06",
+      "price_history": [
+        {
+          "date": "2026-09-06",
+          "price": 1500000
+        }
+      ],
+      "removed_date": "2026-09-16"
+    },
+    {
+      "id": "bazos_223393654",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1741 m²",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1741,
+      "price": 2942290,
+      "price_per_m2": 1690,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223393654/prodej-stavebniho-pozemku-1741-m.php",
+      "portal": "bazos",
+      "added": "2026-09-04",
+      "updated": "2026-09-04",
+      "price_history": [
+        {
+          "date": "2026-09-04",
+          "price": 2942290
         }
       ],
       "removed_date": "2026-09-16"

@@ -1,10 +1,38 @@
 {
-  "generated": "2026-09-16T10:10:15.624661+00:00",
+  "generated": "2026-09-16T19:48:36.027193+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_223792074",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej dr. bytu 2+1 s balkonem, ul. Francouzská, Ostrava Por",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3600000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223792074/prodej-dr-bytu-21-s-balkonem-ul-francouzska-ostrava-por.php",
+      "portal": "bazos",
+      "added": "2026-09-16",
+      "updated": "2026-09-16",
+      "price_history": [
+        {
+          "date": "2026-09-16",
+          "price": 3600000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_223544698",
       "status": "active",
@@ -229,34 +257,6 @@
         {
           "date": "2026-09-14",
           "price": 3650000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221899220",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej družstevního bytu 2+1, Liptáňské náměstí",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3600000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/221899220/prodej-druzstevniho-bytu-21-liptanske-namesti.php",
-      "portal": "bazos",
-      "added": "2026-08-05",
-      "updated": "2026-08-05",
-      "price_history": [
-        {
-          "date": "2026-08-05",
-          "price": 3600000
         }
       ],
       "removed_date": null
@@ -4518,6 +4518,34 @@
         }
       ],
       "removed_date": "2026-09-14"
+    },
+    {
+      "id": "bazos_221899220",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej družstevního bytu 2+1, Liptáňské náměstí",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3600000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221899220/prodej-druzstevniho-bytu-21-liptanske-namesti.php",
+      "portal": "bazos",
+      "added": "2026-08-05",
+      "updated": "2026-08-05",
+      "price_history": [
+        {
+          "date": "2026-08-05",
+          "price": 3600000
+        }
+      ],
+      "removed_date": "2026-09-16"
     }
   ]
 }
