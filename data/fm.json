@@ -1,114 +1,94 @@
 {
-  "generated": "2026-09-17T10:16:04.344600+00:00",
+  "generated": "2026-09-17T19:57:36.893739+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_223911335",
+      "id": "bazos_223948992",
       "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu s krytým bazénem a výhledem na Žermani",
+      "type": "pozemek",
+      "title": "Stavební pozemek 1278 m2, Ostravice",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": null,
-      "price": 7890000,
-      "price_per_m2": null,
+      "area_m2": 1278,
+      "price": 3000000,
+      "price_per_m2": 2347,
       "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/223911335/prodej-rodinneho-domu-s-krytym-bazenem-a-vyhledem-na-zermani.php",
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223948992/stavebni-pozemek-1278-m2-ostravice.php",
       "portal": "bazos",
       "added": "2026-09-17",
       "updated": "2026-09-17",
       "price_history": [
         {
           "date": "2026-09-17",
-          "price": 7890000
+          "price": 3000000
         }
       ],
       "removed_date": null
     },
     {
-      "id": "sousede_3895364",
+      "id": "bazos_223935349",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavební parcely 1 811 m² Sedliště",
-      "location": "Sedliště",
-      "location_id": "sedliste",
+      "title": "Prodej pozemku k bydlení, 1297 m², Metylovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.7097,
-        18.37
+        49.6878,
+        18.3498
       ],
-      "area_m2": 1811,
-      "price": 3121000,
-      "price_per_m2": 1723,
+      "area_m2": 1297,
+      "price": 3900000,
+      "price_per_m2": 3007,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/sedliste/prodej-stavebni-parcely-1-811-m2-3895364.html",
-      "portal": "sousede",
+      "url": "https://reality.bazos.cz/inzerat/223935349/prodej-pozemku-k-bydleni-1297-m-metylovice.php",
+      "portal": "bazos",
       "added": "2026-09-17",
       "updated": "2026-09-17",
       "price_history": [
         {
           "date": "2026-09-17",
-          "price": 3121000
+          "price": 3900000
         }
       ],
       "removed_date": null
     },
     {
-      "id": "realingo_24232330",
+      "id": "bazos_223530211",
       "status": "active",
       "type": "dum",
-      "title": "Rodinny dum, Čeladná",
-      "location": "Čeladná",
-      "location_id": "celadna",
+      "title": "dům vse stavebním pozemkem, v Třinci Neborech",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.5422764,
-        18.3335819
+        49.6878,
+        18.3498
       ],
-      "area_m2": 2133,
-      "price": 7450000,
-      "price_per_m2": 3493,
+      "area_m2": 4154,
+      "price": 7560000,
+      "price_per_m2": 1820,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna/24232330",
-      "portal": "realingo",
-      "added": "2026-04-04",
+      "url": "https://reality.bazos.cz/inzerat/223530211/dum-v-neborech.php",
+      "portal": "bazos",
+      "added": "2026-09-07",
       "updated": "2026-09-17",
       "price_history": [
         {
-          "date": "2026-04-04",
-          "price": 8800000
-        },
-        {
-          "date": "2026-04-20",
-          "price": 8500000
-        },
-        {
-          "date": "2026-04-28",
-          "price": 8400000
-        },
-        {
-          "date": "2026-07-14",
-          "price": 7400000
-        },
-        {
-          "date": "2026-08-12",
-          "price": 7300000
-        },
-        {
-          "date": "2026-09-02",
-          "price": 7400000
+          "date": "2026-09-07",
+          "price": 7950000
         },
         {
           "date": "2026-09-17",
-          "price": 7450000
+          "price": 7560000
         }
       ],
       "removed_date": null
@@ -1606,6 +1586,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_223911335",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu s krytým bazénem a výhledem na Žermani",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 7890000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223911335/prodej-rodinneho-domu-s-krytym-bazenem-a-vyhledem-na-zermani.php",
+      "portal": "bazos",
+      "added": "2026-09-17",
+      "updated": "2026-09-17",
+      "price_history": [
+        {
+          "date": "2026-09-17",
+          "price": 7890000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_221888779",
       "status": "active",
       "type": "dum",
@@ -2220,6 +2228,58 @@
         {
           "date": "2026-08-28",
           "price": 7490000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24232330",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Čeladná",
+      "location": "Čeladná",
+      "location_id": "celadna",
+      "coordinates": [
+        49.5422764,
+        18.3335819
+      ],
+      "area_m2": 2133,
+      "price": 7450000,
+      "price_per_m2": 3493,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna/24232330",
+      "portal": "realingo",
+      "added": "2026-04-04",
+      "updated": "2026-09-17",
+      "price_history": [
+        {
+          "date": "2026-04-04",
+          "price": 8800000
+        },
+        {
+          "date": "2026-04-20",
+          "price": 8500000
+        },
+        {
+          "date": "2026-04-28",
+          "price": 8400000
+        },
+        {
+          "date": "2026-07-14",
+          "price": 7400000
+        },
+        {
+          "date": "2026-08-12",
+          "price": 7300000
+        },
+        {
+          "date": "2026-09-02",
+          "price": 7400000
+        },
+        {
+          "date": "2026-09-17",
+          "price": 7450000
         }
       ],
       "removed_date": null
@@ -2850,6 +2910,34 @@
       "added": "2026-09-10",
       "updated": "2026-09-10",
       "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3895364",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 811 m² Sedliště",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": 1811,
+      "price": 3121000,
+      "price_per_m2": 1723,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/sedliste/prodej-stavebni-parcely-1-811-m2-3895364.html",
+      "portal": "sousede",
+      "added": "2026-09-17",
+      "updated": "2026-09-17",
+      "price_history": [
+        {
+          "date": "2026-09-17",
+          "price": 3121000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -16299,34 +16387,6 @@
         }
       ],
       "removed_date": "2026-09-09"
-    },
-    {
-      "id": "bazos_223530211",
-      "status": "removed",
-      "type": "dum",
-      "title": "dům v Neborech",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 4154,
-      "price": 7950000,
-      "price_per_m2": 1914,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223530211/dum-v-neborech.php",
-      "portal": "bazos",
-      "added": "2026-09-07",
-      "updated": "2026-09-07",
-      "price_history": [
-        {
-          "date": "2026-09-07",
-          "price": 7950000
-        }
-      ],
-      "removed_date": "2026-09-10"
     },
     {
       "id": "bazos_221188297",
