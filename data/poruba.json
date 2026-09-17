@@ -1,38 +1,10 @@
 {
-  "generated": "2026-09-16T19:48:36.027193+00:00",
+  "generated": "2026-09-17T10:16:04.644633+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
-    {
-      "id": "bazos_223792074",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej dr. bytu 2+1 s balkonem, ul. Francouzská, Ostrava Por",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3600000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/223792074/prodej-dr-bytu-21-s-balkonem-ul-francouzska-ostrava-por.php",
-      "portal": "bazos",
-      "added": "2026-09-16",
-      "updated": "2026-09-16",
-      "price_history": [
-        {
-          "date": "2026-09-16",
-          "price": 3600000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_223544698",
       "status": "active",
@@ -57,34 +29,6 @@
         {
           "date": "2026-09-08",
           "price": 3250000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222094000",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 51,
-      "price": 3999000,
-      "price_per_m2": 78412,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222094000/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
-      "portal": "bazos",
-      "added": "2026-08-05",
-      "updated": "2026-08-05",
-      "price_history": [
-        {
-          "date": "2026-08-05",
-          "price": 3999000
         }
       ],
       "removed_date": null
@@ -122,29 +66,61 @@
       "removed_date": null
     },
     {
-      "id": "bazos_223800997",
+      "id": "bazos_222094000",
       "status": "active",
       "type": "byt",
-      "title": "Prodej, byt 1+1, os.vl., 40 m2, ul. Pionýrů, Ostrava-Poruba",
+      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 40,
-      "price": 3300000,
-      "price_per_m2": 82500,
+      "area_m2": 51,
+      "price": 3999000,
+      "price_per_m2": 78412,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223800997/prodej-byt-11-osvl-40-m2-ul-pionyru-ostrava-poruba.php",
+      "url": "https://reality.bazos.cz/inzerat/222094000/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
       "portal": "bazos",
-      "added": "2026-09-14",
-      "updated": "2026-09-14",
+      "added": "2026-08-05",
+      "updated": "2026-08-05",
       "price_history": [
         {
-          "date": "2026-09-14",
-          "price": 3300000
+          "date": "2026-08-05",
+          "price": 3999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222429721",
+      "status": "active",
+      "type": "byt",
+      "title": "Družstevní byt 1+kk, Ostrava - Poruba, ul. Resslova , 135404",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 22,
+      "price": 1990000,
+      "price_per_m2": 90455,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222429721/druzstevni-byt-1kk-ostrava-poruba-ul-resslova-135404.php",
+      "portal": "bazos",
+      "added": "2026-08-11",
+      "updated": "2026-09-01",
+      "price_history": [
+        {
+          "date": "2026-08-11",
+          "price": 2190000
+        },
+        {
+          "date": "2026-09-01",
+          "price": 1990000
         }
       ],
       "removed_date": null
@@ -173,6 +149,34 @@
         {
           "date": "2026-09-03",
           "price": 3200000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223800997",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 1+1, os.vl., 40 m2, ul. Pionýrů, Ostrava-Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 40,
+      "price": 3300000,
+      "price_per_m2": 82500,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223800997/prodej-byt-11-osvl-40-m2-ul-pionyru-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-09-14",
+      "updated": "2026-09-14",
+      "price_history": [
+        {
+          "date": "2026-09-14",
+          "price": 3300000
         }
       ],
       "removed_date": null
@@ -257,6 +261,34 @@
         {
           "date": "2026-09-14",
           "price": 3650000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223792074",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej dr. bytu 2+1 s balkonem, ul. Francouzská, Ostrava Por",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3600000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223792074/prodej-dr-bytu-21-s-balkonem-ul-francouzska-ostrava-por.php",
+      "portal": "bazos",
+      "added": "2026-09-16",
+      "updated": "2026-09-16",
+      "price_history": [
+        {
+          "date": "2026-09-16",
+          "price": 3600000
         }
       ],
       "removed_date": null
@@ -425,38 +457,6 @@
         {
           "date": "2026-09-01",
           "price": 2800000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222429721",
-      "status": "active",
-      "type": "byt",
-      "title": "Družstevní byt 1+kk, Ostrava - Poruba, ul. Resslova , 135404",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 22,
-      "price": 1990000,
-      "price_per_m2": 90455,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222429721/druzstevni-byt-1kk-ostrava-poruba-ul-resslova-135404.php",
-      "portal": "bazos",
-      "added": "2026-08-11",
-      "updated": "2026-09-01",
-      "price_history": [
-        {
-          "date": "2026-08-11",
-          "price": 2190000
-        },
-        {
-          "date": "2026-09-01",
-          "price": 1990000
         }
       ],
       "removed_date": null
