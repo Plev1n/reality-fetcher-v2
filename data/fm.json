@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T09:49:21.213219+00:00",
+  "generated": "2026-09-18T19:20:44.748026+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
@@ -2722,31 +2722,26 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3760296",
+      "id": "sousede_3887796",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavební parcely 990 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
+      "title": "Prodej stavební parcely 820 m² Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
       "coordinates": [
-        49.6878,
-        18.3498
+        49.72,
+        18.31
       ],
-      "area_m2": 990,
-      "price": 3950100,
-      "price_per_m2": 3990,
-      "price_unknown": false,
+      "area_m2": 820,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-990-m2-3760296.html",
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-820-m2-3887796.html",
       "portal": "sousede",
-      "added": "2026-05-05",
-      "updated": "2026-05-05",
-      "price_history": [
-        {
-          "date": "2026-05-05",
-          "price": 3950100
-        }
-      ],
+      "added": "2026-09-10",
+      "updated": "2026-09-10",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -2806,80 +2801,29 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3873335",
+      "id": "sousede_3760296",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavební parcely 2 679 m² Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
+      "title": "Prodej stavební parcely 990 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.72,
-        18.31
+        49.6878,
+        18.3498
       ],
-      "area_m2": 2679,
-      "price": 5900000,
-      "price_per_m2": 2202,
+      "area_m2": 990,
+      "price": 3950100,
+      "price_per_m2": 3990,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3873335.html",
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-990-m2-3760296.html",
       "portal": "sousede",
-      "added": "2026-08-27",
-      "updated": "2026-08-27",
+      "added": "2026-05-05",
+      "updated": "2026-05-05",
       "price_history": [
         {
-          "date": "2026-08-27",
-          "price": 5900000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sousede_3887796",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 820 m² Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.72,
-        18.31
-      ],
-      "area_m2": 820,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-820-m2-3887796.html",
-      "portal": "sousede",
-      "added": "2026-09-10",
-      "updated": "2026-09-10",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "sousede_3895364",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 811 m² Sedliště",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": 1811,
-      "price": 3121000,
-      "price_per_m2": 1723,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/sedliste/prodej-stavebni-parcely-1-811-m2-3895364.html",
-      "portal": "sousede",
-      "added": "2026-09-17",
-      "updated": "2026-09-17",
-      "price_history": [
-        {
-          "date": "2026-09-17",
-          "price": 3121000
+          "date": "2026-05-05",
+          "price": 3950100
         }
       ],
       "removed_date": null
@@ -2913,6 +2857,34 @@
       "removed_date": null
     },
     {
+      "id": "sousede_3885793",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 979 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 979,
+      "price": 3808310,
+      "price_per_m2": 3890,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-979-m2-3885793.html",
+      "portal": "sousede",
+      "added": "2026-09-08",
+      "updated": "2026-09-08",
+      "price_history": [
+        {
+          "date": "2026-09-08",
+          "price": 3808310
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "sousede_3885795",
       "status": "active",
       "type": "pozemek",
@@ -2941,29 +2913,57 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3885793",
+      "id": "sousede_3873335",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavební parcely 979 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
+      "title": "Prodej stavební parcely 2 679 m² Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
       "coordinates": [
-        49.6878,
-        18.3498
+        49.72,
+        18.31
       ],
-      "area_m2": 979,
-      "price": 3808310,
-      "price_per_m2": 3890,
+      "area_m2": 2679,
+      "price": 5900000,
+      "price_per_m2": 2202,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-979-m2-3885793.html",
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3873335.html",
       "portal": "sousede",
-      "added": "2026-09-08",
-      "updated": "2026-09-08",
+      "added": "2026-08-27",
+      "updated": "2026-08-27",
       "price_history": [
         {
-          "date": "2026-09-08",
-          "price": 3808310
+          "date": "2026-08-27",
+          "price": 5900000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3895364",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 811 m² Sedliště",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": 1811,
+      "price": 3121000,
+      "price_per_m2": 1723,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/sedliste/prodej-stavebni-parcely-1-811-m2-3895364.html",
+      "portal": "sousede",
+      "added": "2026-09-17",
+      "updated": "2026-09-17",
+      "price_history": [
+        {
+          "date": "2026-09-17",
+          "price": 3121000
         }
       ],
       "removed_date": null
