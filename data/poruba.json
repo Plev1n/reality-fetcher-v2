@@ -1,10 +1,38 @@
 {
-  "generated": "2026-09-19T09:35:35.495541+00:00",
+  "generated": "2026-09-19T18:48:13.616430+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_224011230",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byt 2+1, 53 m, náměstí Antonie Bejdové 1792/6, Ostra",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 34,
+      "price": 3330000,
+      "price_per_m2": 97941,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/224011230/prodej-byt-21-53-m-namesti-antonie-bejdove-17926-ostra.php",
+      "portal": "bazos",
+      "added": "2026-09-19",
+      "updated": "2026-09-19",
+      "price_history": [
+        {
+          "date": "2026-09-19",
+          "price": 3330000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_221944588",
       "status": "active",
