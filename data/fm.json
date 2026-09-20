@@ -1,34 +1,34 @@
 {
-  "generated": "2026-09-19T18:48:13.354515+00:00",
+  "generated": "2026-09-20T09:55:27.479906+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "realingo_24673720",
+      "id": "bazos_224031684",
       "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Staříč, okres Frýdek-Místek, Moravskoslezský kraj",
-      "location": "Staříč",
-      "location_id": "staric",
+      "type": "pozemek",
+      "title": "prodej stavebního pozemku o výměře 1922m2, Pstruží, , 136243",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.65534,
-        18.27979
+        49.6878,
+        18.3498
       ],
-      "area_m2": 4325,
-      "price": 1426667,
-      "price_per_m2": 330,
+      "area_m2": 1922,
+      "price": 5746780,
+      "price_per_m2": 2990,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-staric-okres-frydek-mistek-moravskoslezsky-kraj/24673720",
-      "portal": "realingo",
-      "added": "2026-09-19",
-      "updated": "2026-09-19",
+      "url": "https://reality.bazos.cz/inzerat/224031684/prodej-stavebniho-pozemku-o-vymere-1922m2-pstruzi-136243.php",
+      "portal": "bazos",
+      "added": "2026-09-20",
+      "updated": "2026-09-20",
       "price_history": [
         {
-          "date": "2026-09-19",
-          "price": 1426667
+          "date": "2026-09-20",
+          "price": 5746780
         }
       ],
       "removed_date": null
@@ -773,34 +773,6 @@
         {
           "date": "2026-09-19",
           "price": 3690000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221585183",
-      "status": "active",
-      "type": "pozemek",
-      "title": "prodej stavebního pozemku o výměře 1922m2, Pstruží, , 136243",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1922,
-      "price": 5746780,
-      "price_per_m2": 2990,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221585183/prodej-stavebniho-pozemku-o-vymere-1922m2-pstruzi-136243.php",
-      "portal": "bazos",
-      "added": "2026-07-21",
-      "updated": "2026-07-21",
-      "price_history": [
-        {
-          "date": "2026-07-21",
-          "price": 5746780
         }
       ],
       "removed_date": null
@@ -2014,57 +1986,29 @@
       "removed_date": null
     },
     {
-      "id": "bazos_221588574",
+      "id": "realingo_24673720",
       "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemky v klidné části obce Dolní Tošanovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
+      "type": "dum",
+      "title": "Rodinny dum, Staříč, okres Frýdek-Místek, Moravskoslezský kraj",
+      "location": "Staříč",
+      "location_id": "staric",
       "coordinates": [
-        49.6878,
-        18.3498
+        49.65534,
+        18.27979
       ],
-      "area_m2": 1483,
-      "price": 2000,
-      "price_per_m2": 1,
+      "area_m2": 4325,
+      "price": 1426667,
+      "price_per_m2": 330,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221588574/stavebni-pozemky-v-klidne-casti-obce-dolni-tosanovice.php",
-      "portal": "bazos",
-      "added": "2026-07-21",
-      "updated": "2026-07-21",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-staric-okres-frydek-mistek-moravskoslezsky-kraj/24673720",
+      "portal": "realingo",
+      "added": "2026-09-19",
+      "updated": "2026-09-19",
       "price_history": [
         {
-          "date": "2026-07-21",
-          "price": 2000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_221581265",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k výstavbě RD v Třinci,Nebory",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 1550,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/221581265/prodej-pozemku-k-vystavbe-rd-v-trincinebory.php",
-      "portal": "bazos",
-      "added": "2026-07-21",
-      "updated": "2026-07-21",
-      "price_history": [
-        {
-          "date": "2026-07-21",
-          "price": 1550
+          "date": "2026-09-19",
+          "price": 1426667
         }
       ],
       "removed_date": null
@@ -2583,6 +2527,29 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10161761",
       "status": "active",
       "type": "pozemek",
@@ -2696,29 +2663,6 @@
           "price": 1999000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -17179,6 +17123,90 @@
         }
       ],
       "removed_date": "2026-09-19"
+    },
+    {
+      "id": "bazos_221585183",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "prodej stavebního pozemku o výměře 1922m2, Pstruží, , 136243",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1922,
+      "price": 5746780,
+      "price_per_m2": 2990,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221585183/prodej-stavebniho-pozemku-o-vymere-1922m2-pstruzi-136243.php",
+      "portal": "bazos",
+      "added": "2026-07-21",
+      "updated": "2026-07-21",
+      "price_history": [
+        {
+          "date": "2026-07-21",
+          "price": 5746780
+        }
+      ],
+      "removed_date": "2026-09-20"
+    },
+    {
+      "id": "bazos_221588574",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemky v klidné části obce Dolní Tošanovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1483,
+      "price": 2000,
+      "price_per_m2": 1,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221588574/stavebni-pozemky-v-klidne-casti-obce-dolni-tosanovice.php",
+      "portal": "bazos",
+      "added": "2026-07-21",
+      "updated": "2026-07-21",
+      "price_history": [
+        {
+          "date": "2026-07-21",
+          "price": 2000
+        }
+      ],
+      "removed_date": "2026-09-20"
+    },
+    {
+      "id": "bazos_221581265",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku k výstavbě RD v Třinci,Nebory",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 1550,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/221581265/prodej-pozemku-k-vystavbe-rd-v-trincinebory.php",
+      "portal": "bazos",
+      "added": "2026-07-21",
+      "updated": "2026-07-21",
+      "price_history": [
+        {
+          "date": "2026-07-21",
+          "price": 1550
+        }
+      ],
+      "removed_date": "2026-09-20"
     }
   ]
 }
