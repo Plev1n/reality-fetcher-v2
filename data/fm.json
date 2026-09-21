@@ -1,10 +1,38 @@
 {
-  "generated": "2026-09-21T10:49:25.754755+00:00",
+  "generated": "2026-09-21T20:37:44.991563+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "bazos_222756030",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej, stavební pozemek 1178 m2, Žabeň",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1178,
+      "price": 3800000,
+      "price_per_m2": 3226,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222756030/prodej-stavebni-pozemek-1178-m2-zaben.php",
+      "portal": "bazos",
+      "added": "2026-08-19",
+      "updated": "2026-08-19",
+      "price_history": [
+        {
+          "date": "2026-08-19",
+          "price": 3800000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_224083056",
       "status": "active",
@@ -57,34 +85,6 @@
         {
           "date": "2026-09-21",
           "price": 2950000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222756030",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej, stavební pozemek 1178 m2, Žabeň",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1178,
-      "price": 3800000,
-      "price_per_m2": 3226,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222756030/prodej-stavebni-pozemek-1178-m2-zaben.php",
-      "portal": "bazos",
-      "added": "2026-08-19",
-      "updated": "2026-08-19",
-      "price_history": [
-        {
-          "date": "2026-08-19",
-          "price": 3800000
         }
       ],
       "removed_date": null
@@ -2226,29 +2226,6 @@
           "price": 8320000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24519584",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Pržno",
-      "location": "Pržno",
-      "location_id": "przno",
-      "coordinates": [
-        49.615192864193,
-        18.36492661124
-      ],
-      "area_m2": 989,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-przno/24519584",
-      "portal": "realingo",
-      "added": "2026-04-23",
-      "updated": "2026-04-23",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -17266,6 +17243,29 @@
           "price": 1426667
         }
       ],
+      "removed_date": "2026-09-21"
+    },
+    {
+      "id": "realingo_24519584",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Pržno",
+      "location": "Pržno",
+      "location_id": "przno",
+      "coordinates": [
+        49.615192864193,
+        18.36492661124
+      ],
+      "area_m2": 989,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-przno/24519584",
+      "portal": "realingo",
+      "added": "2026-04-23",
+      "updated": "2026-04-23",
+      "price_history": [],
       "removed_date": "2026-09-21"
     }
   ]
