@@ -1,38 +1,62 @@
 {
-  "generated": "2026-09-20T18:51:50.204343+00:00",
+  "generated": "2026-09-21T10:49:25.754755+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "eurobydleni_10120891",
+      "id": "bazos_224083056",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej rodinného domu 100 m, pozemek 1032 m, Metylovice",
-      "location": "Metylovice",
-      "location_id": "metylovice",
+      "title": "Prodej pozemku k bydlení, 1932 m², Frýdlant nad Ostravicí",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.6,
-        18.34
+        49.6878,
+        18.3498
       ],
-      "area_m2": 1032,
-      "price": 6999000,
-      "price_per_m2": 6782,
+      "area_m2": 932,
+      "price": 1990000,
+      "price_per_m2": 2135,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-100-m-pozemek-1032-m-metylovice/detail/10120891/",
-      "portal": "eurobydleni",
-      "added": "2026-09-13",
-      "updated": "2026-09-20",
+      "url": "https://reality.bazos.cz/inzerat/224083056/prodej-pozemku-k-bydleni-1932-m-frydlant-nad-ostravici.php",
+      "portal": "bazos",
+      "added": "2026-09-21",
+      "updated": "2026-09-21",
       "price_history": [
         {
-          "date": "2026-09-13",
-          "price": 7499000
-        },
+          "date": "2026-09-21",
+          "price": 1990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_224075291",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 4870,
+      "price": 2950000,
+      "price_per_m2": 606,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/224075291/stavebni-pozemek.php",
+      "portal": "bazos",
+      "added": "2026-09-21",
+      "updated": "2026-09-21",
+      "price_history": [
         {
-          "date": "2026-09-20",
-          "price": 6999000
+          "date": "2026-09-21",
+          "price": 2950000
         }
       ],
       "removed_date": null
@@ -657,34 +681,6 @@
         {
           "date": "2026-08-31",
           "price": 9500000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223242795",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, 1932 m², Frýdlant nad Ostravicí",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 932,
-      "price": 2500000,
-      "price_per_m2": 2682,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223242795/prodej-pozemku-k-bydleni-1932-m-frydlant-nad-ostravici.php",
-      "portal": "bazos",
-      "added": "2026-08-31",
-      "updated": "2026-08-31",
-      "price_history": [
-        {
-          "date": "2026-08-31",
-          "price": 2500000
         }
       ],
       "removed_date": null
@@ -1422,34 +1418,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_221604951",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek o výměře 3.886 m2 v obci Ostravice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 886,
-      "price": 4999000,
-      "price_per_m2": 5642,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/221604951/stavebni-pozemek-o-vymere-3886-m2-v-obci-ostravice.php",
-      "portal": "bazos",
-      "added": "2026-07-22",
-      "updated": "2026-07-22",
-      "price_history": [
-        {
-          "date": "2026-07-22",
-          "price": 4999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_223473482",
       "status": "active",
       "type": "dum",
@@ -2018,34 +1986,6 @@
       "removed_date": null
     },
     {
-      "id": "realingo_24673720",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Staříč, okres Frýdek-Místek, Moravskoslezský kraj",
-      "location": "Staříč",
-      "location_id": "staric",
-      "coordinates": [
-        49.65534,
-        18.27979
-      ],
-      "area_m2": 4325,
-      "price": 1426667,
-      "price_per_m2": 330,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-staric-okres-frydek-mistek-moravskoslezsky-kraj/24673720",
-      "portal": "realingo",
-      "added": "2026-09-19",
-      "updated": "2026-09-19",
-      "price_history": [
-        {
-          "date": "2026-09-19",
-          "price": 1426667
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "realingo_24646639",
       "status": "active",
       "type": "dum",
@@ -2440,29 +2380,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10161761",
       "status": "active",
       "type": "pozemek",
@@ -2514,6 +2431,34 @@
         {
           "date": "2026-05-27",
           "price": 3250000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10010871",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek o výměře 3.886 m2 v obci Ostravice",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53,
+        18.39
+      ],
+      "area_m2": 3886,
+      "price": 4999000,
+      "price_per_m2": 1286,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-3886-m2-v-obci-ostravice/detail/10010871/",
+      "portal": "eurobydleni",
+      "added": "2026-05-18",
+      "updated": "2026-05-18",
+      "price_history": [
+        {
+          "date": "2026-05-18",
+          "price": 4999000
         }
       ],
       "removed_date": null
@@ -2574,6 +2519,38 @@
         {
           "date": "2026-06-19",
           "price": 1999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10120891",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej rodinného domu 100 m, pozemek 1032 m, Metylovice",
+      "location": "Metylovice",
+      "location_id": "metylovice",
+      "coordinates": [
+        49.6,
+        18.34
+      ],
+      "area_m2": 1032,
+      "price": 6999000,
+      "price_per_m2": 6782,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/prodej-rodinneho-domu-100-m-pozemek-1032-m-metylovice/detail/10120891/",
+      "portal": "eurobydleni",
+      "added": "2026-09-13",
+      "updated": "2026-09-20",
+      "price_history": [
+        {
+          "date": "2026-09-13",
+          "price": 7499000
+        },
+        {
+          "date": "2026-09-20",
+          "price": 6999000
         }
       ],
       "removed_date": null
@@ -2670,6 +2647,29 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "sousede_3887796",
       "status": "active",
       "type": "pozemek",
@@ -2690,34 +2690,6 @@
       "added": "2026-09-10",
       "updated": "2026-09-10",
       "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "sousede_3731871",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 1 742 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1742,
-      "price": 6079580,
-      "price_per_m2": 3490,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-742-m2-3731871.html",
-      "portal": "sousede",
-      "added": "2026-04-09",
-      "updated": "2026-04-09",
-      "price_history": [
-        {
-          "date": "2026-04-09",
-          "price": 6079580
-        }
-      ],
       "removed_date": null
     },
     {
@@ -2744,6 +2716,34 @@
         {
           "date": "2026-04-09",
           "price": 3368100
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3731871",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 742 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1742,
+      "price": 6079580,
+      "price_per_m2": 3490,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-742-m2-3731871.html",
+      "portal": "sousede",
+      "added": "2026-04-09",
+      "updated": "2026-04-09",
+      "price_history": [
+        {
+          "date": "2026-04-09",
+          "price": 6079580
         }
       ],
       "removed_date": null
@@ -14122,34 +14122,6 @@
       "removed_date": "2026-08-13"
     },
     {
-      "id": "eurobydleni_10010871",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Stavební pozemek o výměře 3.886 m2 v obci Ostravice",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53,
-        18.39
-      ],
-      "area_m2": 3886,
-      "price": 4999000,
-      "price_per_m2": 1286,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-o-vymere-3886-m2-v-obci-ostravice/detail/10010871/",
-      "portal": "eurobydleni",
-      "added": "2026-05-18",
-      "updated": "2026-05-18",
-      "price_history": [
-        {
-          "date": "2026-05-18",
-          "price": 4999000
-        }
-      ],
-      "removed_date": "2026-08-13"
-    },
-    {
       "id": "sousede_3818653",
       "status": "removed",
       "type": "pozemek",
@@ -17211,6 +17183,90 @@
         }
       ],
       "removed_date": "2026-09-20"
+    },
+    {
+      "id": "bazos_223242795",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 1932 m², Frýdlant nad Ostravicí",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 932,
+      "price": 2500000,
+      "price_per_m2": 2682,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223242795/prodej-pozemku-k-bydleni-1932-m-frydlant-nad-ostravici.php",
+      "portal": "bazos",
+      "added": "2026-08-31",
+      "updated": "2026-08-31",
+      "price_history": [
+        {
+          "date": "2026-08-31",
+          "price": 2500000
+        }
+      ],
+      "removed_date": "2026-09-21"
+    },
+    {
+      "id": "bazos_221604951",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek o výměře 3.886 m2 v obci Ostravice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 886,
+      "price": 4999000,
+      "price_per_m2": 5642,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/221604951/stavebni-pozemek-o-vymere-3886-m2-v-obci-ostravice.php",
+      "portal": "bazos",
+      "added": "2026-07-22",
+      "updated": "2026-07-22",
+      "price_history": [
+        {
+          "date": "2026-07-22",
+          "price": 4999000
+        }
+      ],
+      "removed_date": "2026-09-21"
+    },
+    {
+      "id": "realingo_24673720",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Staříč, okres Frýdek-Místek, Moravskoslezský kraj",
+      "location": "Staříč",
+      "location_id": "staric",
+      "coordinates": [
+        49.65534,
+        18.27979
+      ],
+      "area_m2": 4325,
+      "price": 1426667,
+      "price_per_m2": 330,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-staric-okres-frydek-mistek-moravskoslezsky-kraj/24673720",
+      "portal": "realingo",
+      "added": "2026-09-19",
+      "updated": "2026-09-19",
+      "price_history": [
+        {
+          "date": "2026-09-19",
+          "price": 1426667
+        }
+      ],
+      "removed_date": "2026-09-21"
     }
   ]
 }

@@ -1,10 +1,42 @@
 {
-  "generated": "2026-09-20T18:51:50.480363+00:00",
+  "generated": "2026-09-21T10:49:26.014847+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_223802107",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 v Ostravě-Porubě. Klidné bydlení, sousedy má",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3550000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223802107/prodej-bytu-21-v-ostrave-porube-klidne-bydleni-sousedy-ma.php",
+      "portal": "bazos",
+      "added": "2026-09-14",
+      "updated": "2026-09-21",
+      "price_history": [
+        {
+          "date": "2026-09-14",
+          "price": 3650000
+        },
+        {
+          "date": "2026-09-21",
+          "price": 3550000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_221944588",
       "status": "active",
@@ -261,34 +293,6 @@
         {
           "date": "2026-09-14",
           "price": 3100000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223802107",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1 v Ostravě-Porubě. Klidné bydlení, sousedy má",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3650000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/223802107/prodej-bytu-21-v-ostrave-porube-klidne-bydleni-sousedy-ma.php",
-      "portal": "bazos",
-      "added": "2026-09-14",
-      "updated": "2026-09-14",
-      "price_history": [
-        {
-          "date": "2026-09-14",
-          "price": 3650000
         }
       ],
       "removed_date": null
