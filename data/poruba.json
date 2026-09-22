@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T10:01:44.269672+00:00",
+  "generated": "2026-09-22T19:58:40.791910+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -33,6 +33,34 @@
         {
           "date": "2026-09-10",
           "price": 3590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222109056",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 53 m², Ostrava - Poruba, Větrná, ev.č. 00269",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 53,
+      "price": 3490000,
+      "price_per_m2": 65849,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222109056/prodej-bytu-21-53-m-ostrava-poruba-vetrna-evc-00269.php",
+      "portal": "bazos",
+      "added": "2026-08-18",
+      "updated": "2026-08-18",
+      "price_history": [
+        {
+          "date": "2026-08-18",
+          "price": 3490000
         }
       ],
       "removed_date": null
@@ -121,34 +149,6 @@
         {
           "date": "2026-09-01",
           "price": 1990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222109056",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1 53 m², Ostrava - Poruba, Větrná, ev.č. 00269",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 53,
-      "price": 3490000,
-      "price_per_m2": 65849,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222109056/prodej-bytu-21-53-m-ostrava-poruba-vetrna-evc-00269.php",
-      "portal": "bazos",
-      "added": "2026-08-18",
-      "updated": "2026-08-18",
-      "price_history": [
-        {
-          "date": "2026-08-18",
-          "price": 3490000
         }
       ],
       "removed_date": null
