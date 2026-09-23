@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T19:58:40.791910+00:00",
+  "generated": "2026-09-23T10:12:07.689618+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -61,34 +61,6 @@
         {
           "date": "2026-08-18",
           "price": 3490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223544698",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej družstevního bytu 1+1 s lodžií po rekonstrukci, Ostra",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3250000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/223544698/prodej-druzstevniho-bytu-11-s-lodzii-po-rekonstrukci-ostra.php",
-      "portal": "bazos",
-      "added": "2026-09-08",
-      "updated": "2026-09-08",
-      "price_history": [
-        {
-          "date": "2026-09-08",
-          "price": 3250000
         }
       ],
       "removed_date": null
@@ -4578,6 +4550,34 @@
         }
       ],
       "removed_date": "2026-09-21"
+    },
+    {
+      "id": "bazos_223544698",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej družstevního bytu 1+1 s lodžií po rekonstrukci, Ostra",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": null,
+      "price": 3250000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/223544698/prodej-druzstevniho-bytu-11-s-lodzii-po-rekonstrukci-ostra.php",
+      "portal": "bazos",
+      "added": "2026-09-08",
+      "updated": "2026-09-08",
+      "price_history": [
+        {
+          "date": "2026-09-08",
+          "price": 3250000
+        }
+      ],
+      "removed_date": "2026-09-23"
     }
   ]
 }
