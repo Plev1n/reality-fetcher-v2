@@ -1,34 +1,34 @@
 {
-  "generated": "2026-09-23T19:49:01.097996+00:00",
+  "generated": "2026-09-24T10:06:01.669290+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "bazos_222109056",
+      "id": "bazos_222251617",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 2+1 53 m², Ostrava - Poruba, Větrná, ev.č. 00269",
+      "title": "Světlý byt 2+1 se zasklenou lodžií v osobním vlastnictví, Os",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 53,
-      "price": 3490000,
-      "price_per_m2": 65849,
+      "area_m2": null,
+      "price": 3790000,
+      "price_per_m2": null,
       "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222109056/prodej-bytu-21-53-m-ostrava-poruba-vetrna-evc-00269.php",
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/222251617/svetly-byt-21-se-zasklenou-lodzii-v-osobnim-vlastnictvi-os.php",
       "portal": "bazos",
-      "added": "2026-08-18",
-      "updated": "2026-08-18",
+      "added": "2026-08-07",
+      "updated": "2026-08-07",
       "price_history": [
         {
-          "date": "2026-08-18",
-          "price": 3490000
+          "date": "2026-08-07",
+          "price": 3790000
         }
       ],
       "removed_date": null
@@ -4356,34 +4356,6 @@
       "removed_date": "2026-09-14"
     },
     {
-      "id": "bazos_222251617",
-      "status": "removed",
-      "type": "byt",
-      "title": "Světlý byt 2+1 se zasklenou lodžií v osobním vlastnictví, Os",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": null,
-      "price": 3790000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/222251617/svetly-byt-21-se-zasklenou-lodzii-v-osobnim-vlastnictvi-os.php",
-      "portal": "bazos",
-      "added": "2026-08-07",
-      "updated": "2026-08-07",
-      "price_history": [
-        {
-          "date": "2026-08-07",
-          "price": 3790000
-        }
-      ],
-      "removed_date": "2026-09-14"
-    },
-    {
       "id": "bazos_222185483",
       "status": "removed",
       "type": "byt",
@@ -4578,6 +4550,34 @@
         }
       ],
       "removed_date": "2026-09-21"
+    },
+    {
+      "id": "bazos_222109056",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 53 m², Ostrava - Poruba, Větrná, ev.č. 00269",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 53,
+      "price": 3490000,
+      "price_per_m2": 65849,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222109056/prodej-bytu-21-53-m-ostrava-poruba-vetrna-evc-00269.php",
+      "portal": "bazos",
+      "added": "2026-08-18",
+      "updated": "2026-08-18",
+      "price_history": [
+        {
+          "date": "2026-08-18",
+          "price": 3490000
+        }
+      ],
+      "removed_date": "2026-09-24"
     }
   ]
 }
