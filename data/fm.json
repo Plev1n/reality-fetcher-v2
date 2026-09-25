@@ -1,42 +1,10 @@
 {
-  "generated": "2026-09-25T10:24:42.139943+00:00",
+  "generated": "2026-09-25T20:14:53.842907+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "bazos_222759919",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební - bydlení 14 482 m², Podíl 25 % o výměře 3 621 m²",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 3621,
-      "price": 531531,
-      "price_per_m2": 147,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222759919/stavebni-bydleni-14-482-m-podil-25-o-vymere-3-621-m.php",
-      "portal": "bazos",
-      "added": "2026-08-19",
-      "updated": "2026-09-25",
-      "price_history": [
-        {
-          "date": "2026-08-19",
-          "price": 590589
-        },
-        {
-          "date": "2026-09-25",
-          "price": 531531
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_222756030",
       "status": "active",
@@ -89,34 +57,6 @@
         {
           "date": "2026-09-06",
           "price": 2700000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_224246130",
-      "status": "active",
-      "type": "pozemek",
-      "title": "hledam  ke koupi stavebni pozemek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 3000000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/224246130/hledam-ke-koupi-stavebni-pozemek.php",
-      "portal": "bazos",
-      "added": "2026-09-24",
-      "updated": "2026-09-24",
-      "price_history": [
-        {
-          "date": "2026-09-24",
-          "price": 3000000
         }
       ],
       "removed_date": null
@@ -1049,6 +989,38 @@
         {
           "date": "2026-08-19",
           "price": 186132
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222759919",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební - bydlení 14 482 m², Podíl 25 % o výměře 3 621 m²",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 3621,
+      "price": 531531,
+      "price_per_m2": 147,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222759919/stavebni-bydleni-14-482-m-podil-25-o-vymere-3-621-m.php",
+      "portal": "bazos",
+      "added": "2026-08-19",
+      "updated": "2026-09-25",
+      "price_history": [
+        {
+          "date": "2026-08-19",
+          "price": 590589
+        },
+        {
+          "date": "2026-09-25",
+          "price": 531531
         }
       ],
       "removed_date": null
@@ -2385,29 +2357,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10192551",
       "status": "active",
       "type": "pozemek",
@@ -2703,6 +2652,29 @@
       "portal": "eurobydleni",
       "added": "2026-04-27",
       "updated": "2026-04-27",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
       "price_history": [],
       "removed_date": null
     },
@@ -17851,6 +17823,34 @@
         {
           "date": "2026-07-27",
           "price": 67
+        }
+      ],
+      "removed_date": "2026-09-25"
+    },
+    {
+      "id": "bazos_224246130",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "hledam  ke koupi stavebni pozemek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 3000000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/224246130/hledam-ke-koupi-stavebni-pozemek.php",
+      "portal": "bazos",
+      "added": "2026-09-24",
+      "updated": "2026-09-24",
+      "price_history": [
+        {
+          "date": "2026-09-24",
+          "price": 3000000
         }
       ],
       "removed_date": "2026-09-25"
