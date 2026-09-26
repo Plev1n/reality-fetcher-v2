@@ -1,10 +1,38 @@
 {
-  "generated": "2026-09-26T10:06:51.158985+00:00",
+  "generated": "2026-09-26T19:19:29.427892+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "bazos_224320106",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu Frýdlantská, Frýdek-Místek - Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 5499000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/224320106/prodej-rodinneho-domu-frydlantska-frydek-mistek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-09-26",
+      "updated": "2026-09-26",
+      "price_history": [
+        {
+          "date": "2026-09-26",
+          "price": 5499000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_222756030",
       "status": "active",
@@ -2533,29 +2561,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10120891",
       "status": "active",
       "type": "pozemek",
@@ -2675,6 +2680,29 @@
       "portal": "eurobydleni",
       "added": "2026-04-27",
       "updated": "2026-04-27",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
       "price_history": [],
       "removed_date": null
     },
