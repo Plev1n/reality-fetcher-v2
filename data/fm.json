@@ -1,38 +1,10 @@
 {
-  "generated": "2026-09-27T10:38:51.957842+00:00",
+  "generated": "2026-09-27T19:47:51.662136+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
-    {
-      "id": "bazos_224343067",
-      "status": "active",
-      "type": "dum",
-      "title": "Dům v podhůří Beskyd",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 2000,
-      "price": 6900000,
-      "price_per_m2": 3450,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/224343067/dum-v-podhuri-beskyd.php",
-      "portal": "bazos",
-      "added": "2026-09-27",
-      "updated": "2026-09-27",
-      "price_history": [
-        {
-          "date": "2026-09-27",
-          "price": 6900000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "bazos_223473482",
       "status": "active",
@@ -57,6 +29,34 @@
         {
           "date": "2026-09-06",
           "price": 5990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_224343067",
+      "status": "active",
+      "type": "dum",
+      "title": "Dům v podhůří Beskyd",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 2000,
+      "price": 6900000,
+      "price_per_m2": 3450,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/224343067/dum-v-podhuri-beskyd.php",
+      "portal": "bazos",
+      "added": "2026-09-27",
+      "updated": "2026-09-27",
+      "price_history": [
+        {
+          "date": "2026-09-27",
+          "price": 6900000
         }
       ],
       "removed_date": null
@@ -2452,29 +2452,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10192551",
       "status": "active",
       "type": "pozemek",
@@ -2676,6 +2653,29 @@
           "price": 1999000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
       "removed_date": null
     },
     {
