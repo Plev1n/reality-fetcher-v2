@@ -1,10 +1,38 @@
 {
-  "generated": "2026-09-28T11:46:09.938674+00:00",
+  "generated": "2026-09-28T21:55:28.812324+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "bazos_223303722",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej, byty/1+1, 54 m2, Zdeňka Štěpánka 1787/1, 70800 Ostra",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 54,
+      "price": 3890000,
+      "price_per_m2": 72037,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223303722/prodej-byty11-54-m2-zdenka-stepanka-17871-70800-ostra.php",
+      "portal": "bazos",
+      "added": "2026-09-28",
+      "updated": "2026-09-28",
+      "price_history": [
+        {
+          "date": "2026-09-28",
+          "price": 3890000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "bazos_222251617",
       "status": "active",
@@ -66,34 +94,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_223306852",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej, byt 2+1, 58 m2, Ostrava-Poruba, ul. Zednická",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 58,
-      "price": 3475000,
-      "price_per_m2": 59914,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223306852/prodej-byt-21-58-m2-ostrava-poruba-ul-zednicka.php",
-      "portal": "bazos",
-      "added": "2026-09-02",
-      "updated": "2026-09-02",
-      "price_history": [
-        {
-          "date": "2026-09-02",
-          "price": 3475000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_223544698",
       "status": "active",
       "type": "byt",
@@ -126,29 +126,29 @@
       "removed_date": null
     },
     {
-      "id": "bazos_222094000",
+      "id": "bazos_223306852",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
+      "title": "Prodej, byt 2+1, 58 m2, Ostrava-Poruba, ul. Zednická",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
         49.8361,
         18.1694
       ],
-      "area_m2": 51,
-      "price": 3999000,
-      "price_per_m2": 78412,
+      "area_m2": 58,
+      "price": 3475000,
+      "price_per_m2": 59914,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222094000/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
+      "url": "https://reality.bazos.cz/inzerat/223306852/prodej-byt-21-58-m2-ostrava-poruba-ul-zednicka.php",
       "portal": "bazos",
-      "added": "2026-08-05",
-      "updated": "2026-08-05",
+      "added": "2026-09-02",
+      "updated": "2026-09-02",
       "price_history": [
         {
-          "date": "2026-08-05",
-          "price": 3999000
+          "date": "2026-09-02",
+          "price": 3475000
         }
       ],
       "removed_date": null
@@ -181,6 +181,34 @@
         {
           "date": "2026-09-01",
           "price": 1990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_222094000",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1, 51 m², Ostrava, ul. Panelová",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 51,
+      "price": 3999000,
+      "price_per_m2": 78412,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222094000/prodej-bytu-21-51-m-ostrava-ul-panelova.php",
+      "portal": "bazos",
+      "added": "2026-08-05",
+      "updated": "2026-08-05",
+      "price_history": [
+        {
+          "date": "2026-08-05",
+          "price": 3999000
         }
       ],
       "removed_date": null
