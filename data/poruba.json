@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T11:17:45.095964+00:00",
+  "generated": "2026-09-30T20:57:24.790928+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -89,6 +89,34 @@
         {
           "date": "2026-09-24",
           "price": 2950000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_223604078",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+kk s lodžii O-Poruba os.vl",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 30,
+      "price": 2499000,
+      "price_per_m2": 83300,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223604078/prodej-bytu-1kk-s-lodzii-o-poruba-osvl.php",
+      "portal": "bazos",
+      "added": "2026-09-09",
+      "updated": "2026-09-09",
+      "price_history": [
+        {
+          "date": "2026-09-09",
+          "price": 2499000
         }
       ],
       "removed_date": null
@@ -349,34 +377,6 @@
         {
           "date": "2026-09-16",
           "price": 3600000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_223604078",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+kk s lodžii O-Poruba os.vl",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 30,
-      "price": 2499000,
-      "price_per_m2": 83300,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223604078/prodej-bytu-1kk-s-lodzii-o-poruba-osvl.php",
-      "portal": "bazos",
-      "added": "2026-09-09",
-      "updated": "2026-09-09",
-      "price_history": [
-        {
-          "date": "2026-09-09",
-          "price": 2499000
         }
       ],
       "removed_date": null
