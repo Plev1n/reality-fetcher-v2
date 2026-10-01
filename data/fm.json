@@ -1,62 +1,34 @@
 {
-  "generated": "2026-09-30T20:57:24.522490+00:00",
+  "generated": "2026-10-01T11:48:01.772941+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_224485250",
+      "id": "bazos_224517056",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1552 m2 Ostravice",
+      "title": "Pozemek 6876/3, LV 1, v obci Staré Město, okres Frýdek-Míste",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": 1552,
-      "price": 5690000,
-      "price_per_m2": 3666,
+      "area_m2": null,
+      "price": 4282600,
+      "price_per_m2": null,
       "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/224485250/prodej-stavebniho-pozemku-1552-m2-ostravice.php",
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/224517056/pozemek-68763-lv-1-v-obci-stare-mesto-okres-frydek-miste.php",
       "portal": "bazos",
-      "added": "2026-09-30",
-      "updated": "2026-09-30",
+      "added": "2026-10-01",
+      "updated": "2026-10-01",
       "price_history": [
         {
-          "date": "2026-09-30",
-          "price": 5690000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_224494790",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinný dům 5+kk s pozemkem 1 023 m², u Žermanické přehrady,",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1023,
-      "price": 8990000,
-      "price_per_m2": 8788,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/224494790/rodinny-dum-5kk-s-pozemkem-1-023-m-u-zermanicke-prehrady.php",
-      "portal": "bazos",
-      "added": "2026-09-30",
-      "updated": "2026-09-30",
-      "price_history": [
-        {
-          "date": "2026-09-30",
-          "price": 8990000
+          "date": "2026-10-01",
+          "price": 4282600
         }
       ],
       "removed_date": null
@@ -65,22 +37,22 @@
       "id": "realingo_24646639",
       "status": "active",
       "type": "dum",
-      "title": "Rodinny dum, Raškovice, okres Frýdek-Místek",
+      "title": "Rodinny dum, Raškovice",
       "location": "Raškovice",
       "location_id": "raskovice",
       "coordinates": [
-        49.61975040917712,
-        18.472871743545582
+        49.615482454104,
+        18.468061191779
       ],
       "area_m2": 901,
-      "price": 5290000,
-      "price_per_m2": 5871,
+      "price": 4390000,
+      "price_per_m2": 4872,
       "price_unknown": false,
       "area_unknown": false,
       "url": "https://www.realingo.cz/prodej/dum-rodinny-raskovice/24646639",
       "portal": "realingo",
       "added": "2026-09-11",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "price_history": [
         {
           "date": "2026-09-11",
@@ -93,6 +65,10 @@
         {
           "date": "2026-09-30",
           "price": 5290000
+        },
+        {
+          "date": "2026-10-01",
+          "price": 4390000
         }
       ],
       "removed_date": null
@@ -177,6 +153,34 @@
         {
           "date": "2026-09-23",
           "price": 4999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_224485250",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1552 m2 Ostravice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1552,
+      "price": 5690000,
+      "price_per_m2": 3666,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/224485250/prodej-stavebniho-pozemku-1552-m2-ostravice.php",
+      "portal": "bazos",
+      "added": "2026-09-30",
+      "updated": "2026-09-30",
+      "price_history": [
+        {
+          "date": "2026-09-30",
+          "price": 5690000
         }
       ],
       "removed_date": null
@@ -373,34 +377,6 @@
         {
           "date": "2026-09-20",
           "price": 5746780
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_224003357",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku 900m2, Palkovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 900,
-      "price": 3690000,
-      "price_per_m2": 4100,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/224003357/prodej-pozemku-900m2-palkovice.php",
-      "portal": "bazos",
-      "added": "2026-09-19",
-      "updated": "2026-09-19",
-      "price_history": [
-        {
-          "date": "2026-09-19",
-          "price": 3690000
         }
       ],
       "removed_date": null
@@ -1490,6 +1466,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_224494790",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinný dům 5+kk s pozemkem 1 023 m², u Žermanické přehrady,",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1023,
+      "price": 8990000,
+      "price_per_m2": 8788,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/224494790/rodinny-dum-5kk-s-pozemkem-1-023-m-u-zermanicke-prehrady.php",
+      "portal": "bazos",
+      "added": "2026-09-30",
+      "updated": "2026-09-30",
+      "price_history": [
+        {
+          "date": "2026-09-30",
+          "price": 8990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_223473482",
       "status": "active",
       "type": "dum",
@@ -1541,34 +1545,6 @@
         {
           "date": "2026-09-28",
           "price": 5500000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222801233",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinný dům 4+1 se zahradou, Frýdlant nad Ostravicí",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 920,
-      "price": 4899000,
-      "price_per_m2": 5325,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222801233/rodinny-dum-41-se-zahradou-frydlant-nad-ostravici.php",
-      "portal": "bazos",
-      "added": "2026-08-20",
-      "updated": "2026-08-20",
-      "price_history": [
-        {
-          "date": "2026-08-20",
-          "price": 4899000
         }
       ],
       "removed_date": null
@@ -1886,6 +1862,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_222801233",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinný dům 4+1 se zahradou, Frýdlant nad Ostravicí",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 920,
+      "price": 4899000,
+      "price_per_m2": 5325,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222801233/rodinny-dum-41-se-zahradou-frydlant-nad-ostravici.php",
+      "portal": "bazos",
+      "added": "2026-08-20",
+      "updated": "2026-08-20",
+      "price_history": [
+        {
+          "date": "2026-08-20",
+          "price": 4899000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_222696148",
       "status": "active",
       "type": "dum",
@@ -2030,6 +2034,34 @@
       "removed_date": null
     },
     {
+      "id": "realingo_24726747",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Raškovice, okres Frýdek-Místek",
+      "location": "Raškovice",
+      "location_id": "raskovice",
+      "coordinates": [
+        49.6197504092,
+        18.4728717435
+      ],
+      "area_m2": 3829,
+      "price": 9900000,
+      "price_per_m2": 2586,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-raskovice-okres-frydek-mistek/24726747",
+      "portal": "realingo",
+      "added": "2026-09-30",
+      "updated": "2026-09-30",
+      "price_history": [
+        {
+          "date": "2026-09-30",
+          "price": 9900000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "realingo_24726985",
       "status": "active",
       "type": "dum",
@@ -2134,6 +2166,29 @@
           "price": 9890000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24481027",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Frýdlant nad Ostravicí, 739 11",
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "coordinates": [
+        49.594912,
+        18.362274
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-739-12/24481027",
+      "portal": "realingo",
+      "added": "2026-07-04",
+      "updated": "2026-07-04",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -2420,29 +2475,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "eurobydleni_10192551",
       "status": "active",
       "type": "pozemek",
@@ -2612,6 +2644,29 @@
           "price": 1999000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -17937,29 +17992,6 @@
       "removed_date": "2026-09-29"
     },
     {
-      "id": "realingo_24481027",
-      "status": "removed",
-      "type": "dum",
-      "title": "Rodinny dum, Frýdlant nad Ostravicí, 739 11",
-      "location": "Frýdlant nad Ostravicí",
-      "location_id": "frydlant",
-      "coordinates": [
-        49.594912,
-        18.362274
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-739-12/24481027",
-      "portal": "realingo",
-      "added": "2026-07-04",
-      "updated": "2026-07-04",
-      "price_history": [],
-      "removed_date": "2026-09-29"
-    },
-    {
       "id": "bazos_222466556",
       "status": "removed",
       "type": "pozemek",
@@ -18084,34 +18116,6 @@
       "removed_date": "2026-09-30"
     },
     {
-      "id": "realingo_24726747",
-      "status": "removed",
-      "type": "dum",
-      "title": "Rodinny dum, Raškovice, okres Frýdek-Místek",
-      "location": "Raškovice",
-      "location_id": "raskovice",
-      "coordinates": [
-        49.6197504092,
-        18.4728717435
-      ],
-      "area_m2": 3829,
-      "price": 9900000,
-      "price_per_m2": 2586,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-raskovice-okres-frydek-mistek/24726747",
-      "portal": "realingo",
-      "added": "2026-09-30",
-      "updated": "2026-09-30",
-      "price_history": [
-        {
-          "date": "2026-09-30",
-          "price": 9900000
-        }
-      ],
-      "removed_date": "2026-09-30"
-    },
-    {
       "id": "bazos_224343067",
       "status": "removed",
       "type": "dum",
@@ -18170,6 +18174,34 @@
         }
       ],
       "removed_date": "2026-09-30"
+    },
+    {
+      "id": "bazos_224003357",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej pozemku 900m2, Palkovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 900,
+      "price": 3690000,
+      "price_per_m2": 4100,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/224003357/prodej-pozemku-900m2-palkovice.php",
+      "portal": "bazos",
+      "added": "2026-09-19",
+      "updated": "2026-09-19",
+      "price_history": [
+        {
+          "date": "2026-09-19",
+          "price": 3690000
+        }
+      ],
+      "removed_date": "2026-10-01"
     }
   ]
 }
