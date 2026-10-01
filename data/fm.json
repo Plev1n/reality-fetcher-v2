@@ -1,74 +1,62 @@
 {
-  "generated": "2026-10-01T11:48:01.772941+00:00",
+  "generated": "2026-10-01T21:12:17.144569+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_224517056",
+      "id": "bazos_224532069",
       "status": "active",
       "type": "pozemek",
-      "title": "Pozemek 6876/3, LV 1, v obci Staré Město, okres Frýdek-Míste",
+      "title": "Prodej stavebního pozemku 1155m2 (včetně vybudovanýc, 135578",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": null,
-      "price": 4282600,
-      "price_per_m2": null,
+      "area_m2": 1155,
+      "price": 2700000,
+      "price_per_m2": 2338,
       "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/224517056/pozemek-68763-lv-1-v-obci-stare-mesto-okres-frydek-miste.php",
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/224532069/prodej-stavebniho-pozemku-1155m2-vcetne-vybudovanyc-135578.php",
       "portal": "bazos",
       "added": "2026-10-01",
       "updated": "2026-10-01",
       "price_history": [
         {
           "date": "2026-10-01",
-          "price": 4282600
+          "price": 2700000
         }
       ],
       "removed_date": null
     },
     {
-      "id": "realingo_24646639",
+      "id": "bazos_224527783",
       "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Raškovice",
-      "location": "Raškovice",
-      "location_id": "raskovice",
+      "type": "pozemek",
+      "title": "Prodej pozemku 980 m2, Dobrá",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
       "coordinates": [
-        49.615482454104,
-        18.468061191779
+        49.6878,
+        18.3498
       ],
-      "area_m2": 901,
-      "price": 4390000,
-      "price_per_m2": 4872,
+      "area_m2": 980,
+      "price": 3383940,
+      "price_per_m2": 3453,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-raskovice/24646639",
-      "portal": "realingo",
-      "added": "2026-09-11",
+      "url": "https://reality.bazos.cz/inzerat/224527783/prodej-pozemku-980-m2-dobra.php",
+      "portal": "bazos",
+      "added": "2026-10-01",
       "updated": "2026-10-01",
       "price_history": [
         {
-          "date": "2026-09-11",
-          "price": 5290000
-        },
-        {
-          "date": "2026-09-30",
-          "price": 4300000
-        },
-        {
-          "date": "2026-09-30",
-          "price": 5290000
-        },
-        {
           "date": "2026-10-01",
-          "price": 4390000
+          "price": 3383940
         }
       ],
       "removed_date": null
@@ -125,6 +113,34 @@
         {
           "date": "2026-08-19",
           "price": 3800000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_224517056",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Pozemek 6876/3, LV 1, v obci Staré Město, okres Frýdek-Míste",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 4282600,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/224517056/pozemek-68763-lv-1-v-obci-stare-mesto-okres-frydek-miste.php",
+      "portal": "bazos",
+      "added": "2026-10-01",
+      "updated": "2026-10-01",
+      "price_history": [
+        {
+          "date": "2026-10-01",
+          "price": 4282600
         }
       ],
       "removed_date": null
@@ -2169,29 +2185,6 @@
       "removed_date": null
     },
     {
-      "id": "realingo_24481027",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Frýdlant nad Ostravicí, 739 11",
-      "location": "Frýdlant nad Ostravicí",
-      "location_id": "frydlant",
-      "coordinates": [
-        49.594912,
-        18.362274
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-739-12/24481027",
-      "portal": "realingo",
-      "added": "2026-07-04",
-      "updated": "2026-07-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "realingo_24695380",
       "status": "active",
       "type": "dum",
@@ -2240,6 +2233,46 @@
       "added": "2026-09-23",
       "updated": "2026-09-23",
       "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24646639",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Raškovice",
+      "location": "Raškovice",
+      "location_id": "raskovice",
+      "coordinates": [
+        49.615482454104,
+        18.468061191779
+      ],
+      "area_m2": 901,
+      "price": 4390000,
+      "price_per_m2": 4872,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-raskovice/24646639",
+      "portal": "realingo",
+      "added": "2026-09-11",
+      "updated": "2026-10-01",
+      "price_history": [
+        {
+          "date": "2026-09-11",
+          "price": 5290000
+        },
+        {
+          "date": "2026-09-30",
+          "price": 4300000
+        },
+        {
+          "date": "2026-09-30",
+          "price": 5290000
+        },
+        {
+          "date": "2026-10-01",
+          "price": 4390000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -2423,6 +2456,29 @@
       "removed_date": null
     },
     {
+      "id": "realingo_24481027",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Frýdlant nad Ostravicí, 739 11",
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "coordinates": [
+        49.594912,
+        18.362274
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-739-12/24481027",
+      "portal": "realingo",
+      "added": "2026-07-04",
+      "updated": "2026-07-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "realingo_24232330",
       "status": "active",
       "type": "dum",
@@ -2526,34 +2582,6 @@
         {
           "date": "2026-07-22",
           "price": 4083300
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10151436",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek 1776 m2  Skalice u FrýdkuMístku",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1776,
-      "price": 2700000,
-      "price_per_m2": 1520,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.eurobydleni.cz/stavebni-pozemek-1776-m2skalice-u-frydkumistku/detail/10151436/",
-      "portal": "eurobydleni",
-      "added": "2026-07-01",
-      "updated": "2026-07-01",
-      "price_history": [
-        {
-          "date": "2026-07-01",
-          "price": 2700000
         }
       ],
       "removed_date": null
@@ -2722,6 +2750,34 @@
       "added": "2026-04-27",
       "updated": "2026-04-27",
       "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3873335",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 2 679 m² Řepiště",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.72,
+        18.31
+      ],
+      "area_m2": 2679,
+      "price": 5900000,
+      "price_per_m2": 2202,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3873335.html",
+      "portal": "sousede",
+      "added": "2026-08-27",
+      "updated": "2026-08-27",
+      "price_history": [
+        {
+          "date": "2026-08-27",
+          "price": 5900000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -2913,34 +2969,6 @@
       "added": "2026-09-10",
       "updated": "2026-09-10",
       "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "sousede_3873335",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 2 679 m² Řepiště",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.72,
-        18.31
-      ],
-      "area_m2": 2679,
-      "price": 5900000,
-      "price_per_m2": 2202,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/repiste/prodej-stavebni-parcely-2-679-m2-3873335.html",
-      "portal": "sousede",
-      "added": "2026-08-27",
-      "updated": "2026-08-27",
-      "price_history": [
-        {
-          "date": "2026-08-27",
-          "price": 5900000
-        }
-      ],
       "removed_date": null
     },
     {
@@ -18199,6 +18227,34 @@
         {
           "date": "2026-09-19",
           "price": 3690000
+        }
+      ],
+      "removed_date": "2026-10-01"
+    },
+    {
+      "id": "eurobydleni_10151436",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek 1776 m2  Skalice u FrýdkuMístku",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1776,
+      "price": 2700000,
+      "price_per_m2": 1520,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.eurobydleni.cz/stavebni-pozemek-1776-m2skalice-u-frydkumistku/detail/10151436/",
+      "portal": "eurobydleni",
+      "added": "2026-07-01",
+      "updated": "2026-07-01",
+      "price_history": [
+        {
+          "date": "2026-07-01",
+          "price": 2700000
         }
       ],
       "removed_date": "2026-10-01"
