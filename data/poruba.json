@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T21:12:17.418396+00:00",
+  "generated": "2026-10-02T11:11:09.482763+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
@@ -117,34 +117,6 @@
         {
           "date": "2026-09-03",
           "price": 3200000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_222797365",
-      "status": "active",
-      "type": "byt",
-      "title": "Jsem Majitel, Byt 3+1, ul. Na Robinsonce, Ostrava - Poruba",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 65,
-      "price": 3290000,
-      "price_per_m2": 50615,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/222797365/jsem-majitel-byt-31-ul-na-robinsonce-ostrava-poruba.php",
-      "portal": "bazos",
-      "added": "2026-09-29",
-      "updated": "2026-09-29",
-      "price_history": [
-        {
-          "date": "2026-09-29",
-          "price": 3290000
         }
       ],
       "removed_date": null
@@ -4890,6 +4862,34 @@
         }
       ],
       "removed_date": "2026-09-30"
+    },
+    {
+      "id": "bazos_222797365",
+      "status": "removed",
+      "type": "byt",
+      "title": "Jsem Majitel, Byt 3+1, ul. Na Robinsonce, Ostrava - Poruba",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 65,
+      "price": 3290000,
+      "price_per_m2": 50615,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/222797365/jsem-majitel-byt-31-ul-na-robinsonce-ostrava-poruba.php",
+      "portal": "bazos",
+      "added": "2026-09-29",
+      "updated": "2026-09-29",
+      "price_history": [
+        {
+          "date": "2026-09-29",
+          "price": 3290000
+        }
+      ],
+      "removed_date": "2026-10-02"
     }
   ]
 }
