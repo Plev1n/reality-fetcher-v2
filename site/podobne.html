@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Podobné domy (vzor: Pržno, Kunčičky u Bašky) — Reality Monitor</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, sans-serif; margin: 0; background: #fafafa; color: #222; line-height: 1.5; }
+  .header { background: #1a1a2e; color: #fff; padding: 16px 24px; }
+  .header h1 { margin: 0 0 4px; font-size: 1.4em; }
+  .header .updated, .header details { font-size: .85em; opacity: .8; }
+  .header a { color: #cfd8ff; }
+  .filters { position: sticky; top: 0; background: #fff; border-bottom: 1px solid #ddd; padding: 12px 24px; display: flex; gap: 16px; align-items: center; z-index: 10; }
+  .filters label { font-size: .75em; font-weight: 600; color: #666; text-transform: uppercase; letter-spacing: .5px; }
+  .container { padding: 16px 24px 40px; display: grid; gap: 12px; max-width: 980px; }
+  .card { display: flex; gap: 16px; background: #fff; border-radius: 8px; padding: 14px 16px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+  .card.weak { opacity: .6; }
+  .score { flex: 0 0 56px; height: 56px; border-radius: 50%; display: grid; place-items: center; font-weight: 700; font-size: 1.2em; background: #e8f5e9; color: #1b5e20; }
+  .card.weak .score { background: #eee; color: #555; }
+  .body { flex: 1; min-width: 0; }
+  h2 { font-size: 1.05em; margin: 0; }
+  h2 a { color: #1a1a2e; text-decoration: none; }
+  h2 a:hover { text-decoration: underline; }
+  .badge { background: #e53935; color: #fff; font-size: .7em; padding: 2px 6px; border-radius: 4px; margin-right: 6px; vertical-align: middle; }
+  .meta, .reasons { font-size: .8em; color: #777; }
+  .price { font-weight: 700; margin: 4px 0; }
+  .old { font-weight: 400; color: #999; text-decoration: line-through; margin-left: 6px; }
+  .facts { font-size: .9em; }
+  .fav { margin-top: 8px; font: inherit; font-size: .8em; padding: 4px 10px; border: 1px solid #ccc; border-radius: 4px; background: #fff; cursor: pointer; }
+  .fav:hover { background: #f5f5f5; }
+  .hidden { display: none; }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Podobné domy (vzor: Pržno, Kunčičky u Bašky)</h1>
+  <div class="updated">Aktualizováno 2026-11-02 21:44 UTC · shod: 16 · nových: 0 · <a href="index.html">← zpět</a></div>
+  <details><summary>Vzorové inzeráty</summary><ul><li><a href="https://reality.idnes.cz/detail/prodej/dum/przno/6a0462f2ac3cc251a50f6853/" target="_blank" rel="noopener">https://reality.idnes.cz/detail/prodej/dum/przno/6a0462f2ac3cc251a50f6853/</a></li><li><a href="https://reality.idnes.cz/detail/prodej/dum/baska/6ad877b7046357d39609caed/" target="_blank" rel="noopener">https://reality.idnes.cz/detail/prodej/dum/baska/6ad877b7046357d39609caed/</a></li></ul></details>
+</div>
+<div class="filters">
+  <label for="min">Min. skóre</label>
+  <input id="min" type="range" min="0" max="100" step="5" value="60">
+  <span id="minv">60</span>
+</div>
+<main class="container">
+<article class="card" data-score="100">
+  <div class="score">100</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/przno/1654624332" target="_blank" rel="noopener">Prodej rodinného domu 135 m², pozemek 1375 m²</a></h2>
+    <div class="meta">Pržno · sreality · od 2026-11-02</div>
+    <div class="price">5 500 000 Kč</div>
+    <div class="facts">užitná <b>135 m²</b> · pozemek <b>1 375 m²</b> · rok 1960 · před rekonstrukcí · odpad: septik, jímka · PENB G</div>
+    <div class="reasons">cena 5,50 mil. ✓ · užitná 135 m² ✓ · pozemek 1 375 m² ✓ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/przno/1654624332">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="100">
+  <div class="score">100</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/staric/926474316" target="_blank" rel="noopener">Prodej rodinného domu 111 m², pozemek 1456 m²</a></h2>
+    <div class="meta">Staříč · sreality · od 2026-11-02</div>
+    <div class="price">5 990 000 Kč</div>
+    <div class="facts">užitná <b>111 m²</b> · pozemek <b>1 456 m²</b> · dobrý · odpad: veřejná kanalizace · plyn · PENB G</div>
+    <div class="reasons">cena 5,99 mil. ✓ · užitná 111 m² ✓ · pozemek 1 456 m² ✓ · 4 pokoje ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/staric/926474316">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="100">
+  <div class="score">100</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/baska/3488219212" target="_blank" rel="noopener">Prodej rodinného domu 110 m², pozemek 1198 m²</a></h2>
+    <div class="meta">Kunčičky u Bašky · sreality · od 2026-11-02</div>
+    <div class="price">5 990 000 Kč</div>
+    <div class="facts">užitná <b>110 m²</b> · pozemek <b>1 198 m²</b> · rok 1968 · velmi dobrý · odpad: veřejná kanalizace · plyn · PENB G</div>
+    <div class="reasons">cena 5,99 mil. ✓ · užitná 110 m² ✓ · pozemek 1 198 m² ✓ · 4 pokoje ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/baska/3488219212">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="100">
+  <div class="score">100</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/paskov/2906263628" target="_blank" rel="noopener">Prodej rodinného domu 137 m², pozemek 1194 m²</a></h2>
+    <div class="meta">Paskov · sreality · od 2026-11-02</div>
+    <div class="price">6 136 000 Kč</div>
+    <div class="facts">užitná <b>137 m²</b> · pozemek <b>1 194 m²</b> · dobrý · odpad: septik · plyn · PENB G</div>
+    <div class="reasons">cena 6,14 mil. ✓ · užitná 137 m² ✓ · pozemek 1 194 m² ✓ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/paskov/2906263628">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="99">
+  <div class="score">99</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/przno/4193932108" target="_blank" rel="noopener">Prodej rodinného domu 120 m², pozemek 989 m²</a></h2>
+    <div class="meta">Pržno · sreality · od 2026-11-02</div>
+    <div class="price">5 121 000 Kč</div>
+    <div class="facts">užitná <b>120 m²</b> · pozemek <b>989 m²</b> · před rekonstrukcí · plyn</div>
+    <div class="reasons">cena 5,12 mil. ✓ · užitná 120 m² ✓ · pozemek 989 m² ~ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/przno/4193932108">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="90">
+  <div class="score">90</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3701604428" target="_blank" rel="noopener">Prodej rodinného domu 106 m², pozemek 1024 m²</a></h2>
+    <div class="meta">Frýdek-Místek · sreality · od 2026-11-02</div>
+    <div class="price">5 200 000 Kč</div>
+    <div class="facts">užitná <b>106 m²</b> · pozemek <b>1 024 m²</b> · dobrý · odpad: veřejná kanalizace · plyn · PENB G</div>
+    <div class="reasons">cena 5,20 mil. ✓ · užitná 106 m² ✓ · pozemek 1 024 m² ✓ · 5 pokojů ✓ · město ~</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3701604428">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="90">
+  <div class="score">90</div>
+  <div class="body">
+    <h2><a href="https://reality.bazos.cz/inzerat/223871005/prodej-rodinneho-domu-przno.php" target="_blank" rel="noopener">Prodej rodinného domu, Pržno</a></h2>
+    <div class="meta">Frýdek-Místek · bazos · od 2026-09-28</div>
+    <div class="price">5 500 000 Kč</div>
+    <div class="facts">užitná <b>135 m²</b> · pozemek <b>1 375 m²</b> · 5+kk · před rekonstrukcí</div>
+    <div class="reasons">cena 5,50 mil. ✓ · užitná 135 m² ✓ · pozemek 1 375 m² ✓ · 5+kk ✓ · město ~</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://reality.bazos.cz/inzerat/223871005/prodej-rodinneho-domu-przno.php">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="86">
+  <div class="score">86</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/baska/3505721420" target="_blank" rel="noopener">Prodej rodinného domu 100 m², pozemek 1385 m²</a></h2>
+    <div class="meta">Baška · sreality · od 2026-11-02</div>
+    <div class="price">4 990 000 Kč</div>
+    <div class="facts">užitná <b>100 m²</b> · pozemek <b>1 385 m²</b> · rok 1945 · před rekonstrukcí · odpad: veřejná kanalizace · PENB G</div>
+    <div class="reasons">cena 4,99 mil. ~ · užitná 100 m² ~ · pozemek 1 385 m² ✓ · 3 pokoje ~ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/baska/3505721420">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="82">
+  <div class="score">82</div>
+  <div class="body">
+    <h2><a href="https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24484254" target="_blank" rel="noopener">Rodinny dum, Lubno, Frýdlant nad Ostravicí</a></h2>
+    <div class="meta">Frýdlant-Lubno · realingo · od 2026-06-29</div>
+    <div class="price">6 300 000 Kč</div>
+    <div class="facts">užitná <b>? m²</b> · pozemek <b>1 553 m²</b></div>
+    <div class="reasons">cena 6,30 mil. ✓ · užitná plocha neznámá · pozemek 1 553 m² ✓ · obec ✓ · čeká na detail inzerátu</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24484254">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="79">
+  <div class="score">79</div>
+  <div class="body">
+    <h2><a href="https://www.realingo.cz/prodej/dum-rodinny-celadna-739-12/24622003" target="_blank" rel="noopener">Rodinny dum, Čeladná, 739 12</a></h2>
+    <div class="meta">Čeladná · realingo · od 2026-08-09</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>100 m²</b> · pozemek <b>1 046 m²</b> · 4+kk · po rekonstrukci · odpad: veřejná kanalizace</div>
+    <div class="reasons">cena neuvedena · užitná 100 m² ~ · pozemek 1 046 m² ✓ · 4+kk ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.realingo.cz/prodej/dum-rodinny-celadna-739-12/24622003">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="77">
+  <div class="score">77</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/1956249676" target="_blank" rel="noopener">Prodej rodinného domu 150 m², pozemek 979 m²</a></h2>
+    <div class="meta">FM-Skalice · sreality · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>150 m²</b> · pozemek <b>979 m²</b> · novostavba · PENB G</div>
+    <div class="reasons">cena neuvedena · užitná 150 m² ~ · pozemek 979 m² ~ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/1956249676">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="72">
+  <div class="score">72</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/frydlant-nad-ostravici/73588812" target="_blank" rel="noopener">Prodej rodinného domu 170 m², pozemek 1781 m²</a></h2>
+    <div class="meta">Frýdlant-Lubno · sreality · od 2026-11-02</div>
+    <div class="price">5 300 000 Kč</div>
+    <div class="facts">užitná <b>170 m²</b> · pozemek <b>1 781 m²</b> · před rekonstrukcí · PENB G</div>
+    <div class="reasons">cena 5,30 mil. ✓ · užitná 170 m² ✗ · pozemek 1 781 m² ~ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/frydlant-nad-ostravici/73588812">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="71">
+  <div class="score">71</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/4063158348" target="_blank" rel="noopener">Prodej rodinného domu 130 m², pozemek 2500 m²</a></h2>
+    <div class="meta">Čeladná · sreality · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>130 m²</b> · pozemek <b>2 500 m²</b> · velmi dobrý · odpad: veřejná kanalizace · plyn · PENB B</div>
+    <div class="reasons">cena neuvedena · užitná 130 m² ✓ · pozemek 2 500 m² ~ · 4 pokoje ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/4063158348">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="70">
+  <div class="score">70</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/metylovice/760815692" target="_blank" rel="noopener">Prodej rodinného domu 176 m², pozemek 1379 m²</a></h2>
+    <div class="meta">Metylovice · sreality · od 2026-11-02</div>
+    <div class="price">5 500 000 Kč</div>
+    <div class="facts">užitná <b>176 m²</b> · pozemek <b>1 379 m²</b> · v rekonstrukci · odpad: veřejná kanalizace · PENB F</div>
+    <div class="reasons">cena 5,50 mil. ✓ · užitná 176 m² ✗ · pozemek 1 379 m² ✓ · 3 pokoje ~ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/metylovice/760815692">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="62">
+  <div class="score">62</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/88670284" target="_blank" rel="noopener">Prodej rodinného domu 240 m², pozemek 1239 m²</a></h2>
+    <div class="meta">Lysůvky · sreality · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>240 m²</b> · pozemek <b>1 239 m²</b> · velmi dobrý</div>
+    <div class="reasons">cena neuvedena · užitná 240 m² ✗ · pozemek 1 239 m² ✓ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/88670284">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="62">
+  <div class="score">62</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3114361676" target="_blank" rel="noopener">Prodej rodinného domu 300 m², pozemek 1035 m²</a></h2>
+    <div class="meta">Chlebovice · sreality · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>300 m²</b> · pozemek <b>1 035 m²</b> · velmi dobrý · odpad: veřejná kanalizace, septik · plyn · PENB G</div>
+    <div class="reasons">cena neuvedena · užitná 300 m² ✗ · pozemek 1 035 m² ✓ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3114361676">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card" data-score="62">
+  <div class="score">62</div>
+  <div class="body">
+    <h2><a href="https://www.realingo.cz/prodej/dum-rodinny-ostravice-okres-frydek-mistek/24726816" target="_blank" rel="noopener">Rodinny dum, Ostravice, okres Frýdek-Místek</a></h2>
+    <div class="meta">Ostravice · realingo · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>124 m²</b> · pozemek <b>11 246 m²</b> · 4+1 · odpad: septik / jímka · plyn</div>
+    <div class="reasons">cena neuvedena · užitná 124 m² ✓ · pozemek 11 246 m² ✗ · 4+1 ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.realingo.cz/prodej/dum-rodinny-ostravice-okres-frydek-mistek/24726816">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="60">
+  <div class="score">60</div>
+  <div class="body">
+    <h2><a href="https://reality.bazos.cz/inzerat/225121664/n428-tri-jednotky-centrum-mesta-jedna-adresa-desitky.php" target="_blank" rel="noopener">(N428) Tři jednotky - Centrum města - Jedna adresa - Desítky</a></h2>
+    <div class="meta">Frýdek-Místek · bazos · od 2026-11-02</div>
+    <div class="price">6 490 000 Kč</div>
+    <div class="facts">užitná <b>? m²</b> · pozemek <b>? m²</b> · po rekonstrukci</div>
+    <div class="reasons">cena 6,49 mil. ✓ · užitná plocha neznámá · pozemek neznámý · město ~ · čeká na detail inzerátu</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://reality.bazos.cz/inzerat/225121664/n428-tri-jednotky-centrum-mesta-jedna-adresa-desitky.php">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="60">
+  <div class="score">60</div>
+  <div class="body">
+    <h2><a href="https://reality.bazos.cz/inzerat/225299945/prodej-rodinneho-domu-ul-j-opletala-frydek-mistek.php" target="_blank" rel="noopener">Prodej rodinného domu, ul. J. Opletala, Frýdek - Místek</a></h2>
+    <div class="meta">Frýdek-Místek · bazos · od 2026-11-02</div>
+    <div class="price">6 600 000 Kč</div>
+    <div class="facts">užitná <b>? m²</b> · pozemek <b>? m²</b> · 5+1</div>
+    <div class="reasons">cena 6,60 mil. ~ · užitná plocha neznámá · pozemek neznámý · 5+1 ✓ · město ~ · čeká na detail inzerátu</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://reality.bazos.cz/inzerat/225299945/prodej-rodinneho-domu-ul-j-opletala-frydek-mistek.php">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="58">
+  <div class="score">58</div>
+  <div class="body">
+    <h2><a href="https://www.realingo.cz/prodej/dum-rodinny-metylovice-okres-frydek-mistek/24769974" target="_blank" rel="noopener">Rodinny dum, Metylovice</a></h2>
+    <div class="meta">Metylovice · realingo · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>? m²</b> · pozemek <b>? m²</b></div>
+    <div class="reasons">cena neuvedena · užitná plocha neznámá · pozemek neznámý · obec ✓ · čeká na detail inzerátu</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.realingo.cz/prodej/dum-rodinny-metylovice-okres-frydek-mistek/24769974">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="58">
+  <div class="score">58</div>
+  <div class="body">
+    <h2><a href="https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-skalice/24728549" target="_blank" rel="noopener">Rodinny dum, Frýdek-Místek - Skalice</a></h2>
+    <div class="meta">FM-Skalice · realingo · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>180 m²</b> · pozemek <b>1 000 m²</b> · 3+1 · odpad: veřejná kanalizace</div>
+    <div class="reasons">cena neuvedena · užitná 180 m² ✗ · pozemek 1 000 m² ✓ · 3+1 ~ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-skalice/24728549">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="58">
+  <div class="score">58</div>
+  <div class="body">
+    <h2><a href="https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/" target="_blank" rel="noopener">3+1 os. vl., zahrádka, cihlový dům</a></h2>
+    <div class="meta">Sedliště · eurobydleni · od 2026-04-04</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>? m²</b> · pozemek <b>? m²</b></div>
+    <div class="reasons">cena neuvedena · užitná plocha neznámá · pozemek neznámý · obec ✓ · čeká na detail inzerátu</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="57">
+  <div class="score">57</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/frydlant-nad-ostravici/1444679756" target="_blank" rel="noopener">Prodej rodinného domu 120 m², pozemek 2887 m²</a></h2>
+    <div class="meta">Frýdlant nad Ostravicí · sreality · od 2026-11-02</div>
+    <div class="price">6 900 000 Kč</div>
+    <div class="facts">užitná <b>120 m²</b> · pozemek <b>2 887 m²</b> · před rekonstrukcí · PENB G</div>
+    <div class="reasons">cena 6,90 mil. ~ · užitná 120 m² ✓ · pozemek 2 887 m² ~ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/frydlant-nad-ostravici/1444679756">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="56">
+  <div class="score">56</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/przno/2479546444" target="_blank" rel="noopener">Prodej rodinného domu 218 m², pozemek 951 m²</a></h2>
+    <div class="meta">Pržno · sreality · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>218 m²</b> · pozemek <b>951 m²</b> · rok 1997 · velmi dobrý · odpad: veřejná kanalizace, septik, jímka · plyn · PENB B</div>
+    <div class="reasons">cena neuvedena · užitná 218 m² ✗ · pozemek 951 m² ~ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/przno/2479546444">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="56">
+  <div class="score">56</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/frydlant-nad-ostravici/1719324748" target="_blank" rel="noopener">Prodej rodinného domu 80 m², pozemek 2662 m²</a></h2>
+    <div class="meta">Frýdlant-Lubno · sreality · od 2026-11-02</div>
+    <div class="price">4 990 000 Kč</div>
+    <div class="facts">užitná <b>80 m²</b> · pozemek <b>2 662 m²</b> · velmi dobrý · odpad: jímka · PENB G</div>
+    <div class="reasons">cena 4,99 mil. ~ · užitná 80 m² ✗ · pozemek 2 662 m² ~ · 4 pokoje ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/frydlant-nad-ostravici/1719324748">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="54">
+  <div class="score">54</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/1752183372" target="_blank" rel="noopener">Prodej rodinného domu 100 m², pozemek 9052 m²</a></h2>
+    <div class="meta">Čeladná · sreality · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>100 m²</b> · pozemek <b>9 052 m²</b> · dobrý · odpad: jímka · PENB G</div>
+    <div class="reasons">cena neuvedena · užitná 100 m² ~ · pozemek 9 052 m² ✗ · 4 pokoje ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/1752183372">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="53">
+  <div class="score">53</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/807473740" target="_blank" rel="noopener">Prodej rodinného domu 250 m², pozemek 2133 m²</a></h2>
+    <div class="meta">Čeladná · sreality · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>250 m²</b> · pozemek <b>2 133 m²</b> · před rekonstrukcí · plyn · PENB G</div>
+    <div class="reasons">cena neuvedena · užitná 250 m² ✗ · pozemek 2 133 m² ~ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/807473740">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="53">
+  <div class="score">53</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/566612044" target="_blank" rel="noopener">Prodej rodinného domu 128 m², pozemek 866 m²</a></h2>
+    <div class="meta">Frýdek-Místek · sreality · od 2026-11-02</div>
+    <div class="price">6 800 000 Kč</div>
+    <div class="facts">užitná <b>128 m²</b> · pozemek <b>866 m²</b> · před rekonstrukcí · odpad: veřejná kanalizace · plyn · PENB G</div>
+    <div class="reasons">cena 6,80 mil. ~ · užitná 128 m² ✓ · pozemek 866 m² ~ · 6 pokojů ~ · město ~</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/566612044">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="52">
+  <div class="score">52</div>
+  <div class="body">
+    <h2><a href="https://reality.bazos.cz/inzerat/225101794/bydleni-nebo-rekreace-bez-kompromisu-zrekonstruovany-dum-v.php" target="_blank" rel="noopener">Bydlení nebo rekreace bez kompromisů – zrekonstruovaný dům v</a></h2>
+    <div class="meta">Frýdek-Místek · bazos · od 2026-11-02</div>
+    <div class="price">5 928 000 Kč</div>
+    <div class="facts">užitná <b>100 m²</b> · pozemek <b>404 m²</b> · po rekonstrukci</div>
+    <div class="reasons">cena 5,93 mil. ✓ · užitná 100 m² ~ · pozemek 404 m² ✗ · město ~</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://reality.bazos.cz/inzerat/225101794/bydleni-nebo-rekreace-bez-kompromisu-zrekonstruovany-dum-v.php">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="52">
+  <div class="score">52</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/vicegeneracni-dum/frydlant-nad-ostravici/2637214284" target="_blank" rel="noopener">Prodej vícegeneračního domu 189 m², pozemek 1090 m²</a></h2>
+    <div class="meta">Frýdlant nad Ostravicí · sreality · od 2026-11-02</div>
+    <div class="price">6 950 000 Kč</div>
+    <div class="facts">užitná <b>189 m²</b> · pozemek <b>1 090 m²</b> · před rekonstrukcí · odpad: jímka · plyn · PENB G</div>
+    <div class="reasons">cena 6,95 mil. ~ · užitná 189 m² ✗ · pozemek 1 090 m² ✓ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/vicegeneracni-dum/frydlant-nad-ostravici/2637214284">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="50">
+  <div class="score">50</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/dobra/311550796" target="_blank" rel="noopener">Prodej rodinného domu 212 m², pozemek 1270 m²</a></h2>
+    <div class="meta">Dobrá · sreality · od 2026-11-02</div>
+    <div class="price">4 500 000 Kč</div>
+    <div class="facts">užitná <b>212 m²</b> · pozemek <b>1 270 m²</b> · dobrý · odpad: septik · plyn · PENB G</div>
+    <div class="reasons">cena 4,50 mil. ✗ · užitná 212 m² ✗ · pozemek 1 270 m² ✓ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/dobra/311550796">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="50">
+  <div class="score">50</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/ostravice/1116820300" target="_blank" rel="noopener">Prodej rodinného domu 200 m², pozemek 10918 m²</a></h2>
+    <div class="meta">Ostravice · sreality · od 2026-11-02</div>
+    <div class="price">5 990 000 Kč <span class="old">dříve 6 249 000 Kč</span></div>
+    <div class="facts">užitná <b>200 m²</b> · pozemek <b>10 918 m²</b> · před rekonstrukcí · odpad: jímka · PENB G</div>
+    <div class="reasons">cena 5,99 mil. ✓ · užitná 200 m² ✗ · pozemek 10 918 m² ✗ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/ostravice/1116820300">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="48">
+  <div class="score">48</div>
+  <div class="body">
+    <h2><a href="https://reality.bazos.cz/inzerat/224320106/prodej-rodinneho-domu-frydlantska-frydek-mistek-mistek.php" target="_blank" rel="noopener">Prodej rodinného domu Frýdlantská, Frýdek-Místek - Místek</a></h2>
+    <div class="meta">Frýdek-Místek · bazos · od 2026-09-26</div>
+    <div class="price">5 499 000 Kč</div>
+    <div class="facts">užitná <b>300 m²</b> · pozemek <b>? m²</b> · odpad: veřejná kanalizace · plyn</div>
+    <div class="reasons">cena 5,50 mil. ✓ · užitná 300 m² ✗ · pozemek neznámý · město ~</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://reality.bazos.cz/inzerat/224320106/prodej-rodinneho-domu-frydlantska-frydek-mistek-mistek.php">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="46">
+  <div class="score">46</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/baska/74461260" target="_blank" rel="noopener">Prodej rodinného domu 64 m², pozemek 910 m²</a></h2>
+    <div class="meta">Hodoňovice · sreality · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>64 m²</b> · pozemek <b>910 m²</b> · ve výstavbě · odpad: veřejná kanalizace · PENB G</div>
+    <div class="reasons">cena neuvedena · užitná 64 m² ✗ · pozemek 910 m² ~ · 3 pokoje ~ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/baska/74461260">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="46">
+  <div class="score">46</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/zaben/1508192332" target="_blank" rel="noopener">Prodej rodinného domu 92 m², pozemek 2612 m²</a></h2>
+    <div class="meta">Žabeň · sreality · od 2026-11-02</div>
+    <div class="price">6 790 000 Kč</div>
+    <div class="facts">užitná <b>92 m²</b> · pozemek <b>2 612 m²</b> · před rekonstrukcí · odpad: veřejná kanalizace · PENB G</div>
+    <div class="reasons">cena 6,79 mil. ~ · užitná 92 m² ~ · pozemek 2 612 m² ~ · 4 pokoje ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/zaben/1508192332">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="42">
+  <div class="score">42</div>
+  <div class="body">
+    <h2><a href="https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-738-01/24636574" target="_blank" rel="noopener">Rodinny dum, Frýdek-Místek, 738 01</a></h2>
+    <div class="meta">Frýdek-Místek · realingo · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>? m²</b> · pozemek <b>? m²</b> · 1+1</div>
+    <div class="reasons">cena neuvedena · užitná plocha neznámá · pozemek neznámý · 1+1 ✗ · město ~ · čeká na detail inzerátu</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-738-01/24636574">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="42">
+  <div class="score">42</div>
+  <div class="body">
+    <h2><a href="https://reality.bazos.cz/inzerat/223729497/prodej-dvougeneracniho-domu-v-trinci.php" target="_blank" rel="noopener">Prodej dvougeneračního domu v Třinci</a></h2>
+    <div class="meta">Frýdek-Místek · bazos · od 2026-09-13</div>
+    <div class="price">6 850 000 Kč</div>
+    <div class="facts">užitná <b>? m²</b> · pozemek <b>? m²</b> · 3+1 · odpad: veřejná kanalizace · plyn</div>
+    <div class="reasons">cena 6,85 mil. ~ · užitná plocha neznámá · pozemek neznámý · 3+1 ~ · město ~ · čeká na detail inzerátu</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://reality.bazos.cz/inzerat/223729497/prodej-dvougeneracniho-domu-v-trinci.php">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="40">
+  <div class="score">40</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/1776488524" target="_blank" rel="noopener">Prodej rodinného domu 189 m², pozemek 1168 m²</a></h2>
+    <div class="meta">Frýdek-Místek · sreality · od 2026-11-02</div>
+    <div class="price">6 990 000 Kč</div>
+    <div class="facts">užitná <b>189 m²</b> · pozemek <b>1 168 m²</b> · rok 1945 · před rekonstrukcí · odpad: veřejná kanalizace · plyn · PENB G</div>
+    <div class="reasons">cena 6,99 mil. ~ · užitná 189 m² ✗ · pozemek 1 168 m² ✓ · 5 pokojů ✓ · město ~</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/1776488524">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="39">
+  <div class="score">39</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/malenovice/3758346316" target="_blank" rel="noopener">Prodej rodinného domu 178 m², pozemek 2615 m²</a></h2>
+    <div class="meta">Malenovice · sreality · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>178 m²</b> · pozemek <b>2 615 m²</b> · velmi dobrý · PENB B</div>
+    <div class="reasons">cena neuvedena · užitná 178 m² ✗ · pozemek 2 615 m² ~ · 6 pokojů ~ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/malenovice/3758346316">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="38">
+  <div class="score">38</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/4222799948" target="_blank" rel="noopener">Prodej rodinného domu 501 m², pozemek 9033 m²</a></h2>
+    <div class="meta">Čeladná · sreality · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>501 m²</b> · pozemek <b>9 033 m²</b> · novostavba · PENB B</div>
+    <div class="reasons">cena neuvedena · užitná 501 m² ✗ · pozemek 9 033 m² ✗ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/4222799948">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="38">
+  <div class="score">38</div>
+  <div class="body">
+    <h2><a href="https://www.sreality.cz/detail/prodej/dum/vila/celadna/1589199436" target="_blank" rel="noopener">Prodej vily 241 m², pozemek 3528 m²</a></h2>
+    <div class="meta">Čeladná · sreality · od 2026-11-02</div>
+    <div class="price">Cena na vyžádání</div>
+    <div class="facts">užitná <b>241 m²</b> · pozemek <b>3 528 m²</b> · velmi dobrý · odpad: veřejná kanalizace, septik · plyn · PENB G</div>
+    <div class="reasons">cena neuvedena · užitná 241 m² ✗ · pozemek 3 528 m² ✗ · 5 pokojů ✓ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.sreality.cz/detail/prodej/dum/vila/celadna/1589199436">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+<article class="card weak" data-score="35">
+  <div class="score">35</div>
+  <div class="body">
+    <h2><a href="https://www.realingo.cz/prodej/dum-rodinny-dobra/24287267" target="_blank" rel="noopener">Rodinny dum, Dobrá</a></h2>
+    <div class="meta">Dobrá · realingo · od 2026-11-02</div>
+    <div class="price">4 800 000 Kč</div>
+    <div class="facts">užitná <b>200 m²</b> · pozemek <b>6 556 m²</b> · před rekonstrukcí</div>
+    <div class="reasons">cena 4,80 mil. ~ · užitná 200 m² ✗ · pozemek 6 556 m² ✗ · obec ✓</div>
+    <button class="fav" data-cmd="python -m src.dossier add https://www.realingo.cz/prodej/dum-rodinny-dobra/24287267">⭐ Kopírovat příkaz pro dossier</button>
+  </div>
+</article>
+</main>
+<script>
+  const min = document.getElementById('min'), minv = document.getElementById('minv');
+  function apply() {
+    minv.textContent = min.value;
+    document.querySelectorAll('.card').forEach(c => c.classList.toggle('hidden', +c.dataset.score < +min.value));
+  }
+  min.addEventListener('input', apply); apply();
+  document.querySelectorAll('.fav').forEach(b => b.addEventListener('click', () => {
+    navigator.clipboard.writeText(b.dataset.cmd).then(() => { b.textContent = '✓ Zkopírováno'; });
+  }));
+</script>
+</body>
+</html>
