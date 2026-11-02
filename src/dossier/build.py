@@ -128,6 +128,22 @@ def dossier_filename(fav: dict, details) -> str:
     return f"{loc}-{tail}.md"
 
 
+def _client() -> httpx.AsyncClient:
+    return httpx.AsyncClient(timeout=40.0, follow_redirects=True,
+                             headers={"User-Agent": random.choice(BaseScraper.USER_AGENTS)})
+
+
+async def build_one(fav: dict, out_dir: Path = DEFAULT_OUT) -> Path:
+    """Gather sources and write one favourite's dossier; returns its path."""
+    check_out_dir(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    async with _client() as client:
+        details, ctx = await gather(fav, client)
+    path = out_dir / dossier_filename(fav, details)
+    path.write_text(build_report(fav, details, ctx), encoding="utf-8")
+    return path
+
+
 async def build_all(out_dir: Path = DEFAULT_OUT, favorites: list[dict] | None = None,
                     only: int | None = None) -> list[Path]:
     check_out_dir(out_dir)

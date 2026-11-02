@@ -55,3 +55,29 @@ def add_favorite(url: str, note: str | None = None, path: Path = FAVORITES_PATH)
     favs.append(fav)
     save_favorites(favs, path)
     return fav
+
+
+_UNSET = object()
+
+
+def update_favorite(index: int, path: Path = FAVORITES_PATH, katastr=_UNSET, note=_UNSET, dossier=_UNSET) -> dict:
+    favs = load_favorites(path)
+    if not 0 <= index < len(favs):
+        raise ValueError(f"Oblíbený č. {index} neexistuje")
+    fav = favs[index]
+    if katastr is not _UNSET:
+        fav["katastr"] = katastr
+    if note is not _UNSET:
+        fav["note"] = note
+    if dossier is not _UNSET:
+        fav["dossier"] = dossier
+    save_favorites(favs, path)
+    return fav
+
+
+def remove_favorite(index: int, path: Path = FAVORITES_PATH) -> None:
+    favs = load_favorites(path)
+    if not 0 <= index < len(favs):
+        raise ValueError(f"Oblíbený č. {index} neexistuje")
+    favs.pop(index)
+    save_favorites(favs, path)

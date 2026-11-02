@@ -21,6 +21,9 @@ def main(argv: list[str] | None = None) -> int:
     p_build = sub.add_parser("build", help="vygenerovat dossiery")
     p_build.add_argument("--out", type=Path)
     p_build.add_argument("--only", type=int, help="jen oblíbený s tímto pořadím (od 0)")
+    p_serve = sub.add_parser("serve", help="spustit lokální aplikaci v prohlížeči")
+    p_serve.add_argument("--port", type=int, default=8765)
+    p_serve.add_argument("--no-browser", action="store_true")
     args = parser.parse_args(argv)
 
     try:
@@ -37,6 +40,9 @@ def main(argv: list[str] | None = None) -> int:
                 print(f"[{i}] {f['url']}  ({kat}{', ' + f['note'] if f.get('note') else ''})")
         elif args.cmd == "template":
             print(KATASTR_TEMPLATE)
+        elif args.cmd == "serve":
+            from src.dossier.app import serve
+            serve(args.port, open_browser=not args.no_browser)
         elif args.cmd == "build":
             from src.dossier.build import DEFAULT_OUT, build_all
             out = args.out or DEFAULT_OUT
