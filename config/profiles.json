@@ -1,0 +1,19 @@
+[
+  {
+    "slug": "podobne",
+    "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
+    "area": "fm",
+    "type": "dum",
+    "reference_urls": [
+      "https://reality.idnes.cz/detail/prodej/dum/przno/6a0462f2ac3cc251a50f6853/",
+      "https://reality.idnes.cz/detail/prodej/dum/baska/6ad877b7046357d39609caed/"
+    ],
+    "price": {"min": 4500000, "ideal_min": 5000000, "ideal_max": 6500000, "max": 7000000},
+    "usable_area": {"min": 90, "ideal_min": 105, "ideal_max": 140, "max": 170},
+    "plot_area": {"min": 800, "ideal_min": 1000, "ideal_max": 1600, "max": 3000},
+    "rooms": {"min": 4, "max": 5},
+    "city_location_ids": ["frydek_mistek"],
+    "threshold": 60,
+    "email_recipients": ["dav.plev@seznam.cz"]
+  }
+]

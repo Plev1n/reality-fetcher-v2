@@ -48,3 +48,19 @@ def save_area_data(slug: str, data: dict) -> None:
     (DATA_DIR / f"{slug}.json").write_text(
         json.dumps(data, indent=2, ensure_ascii=False) + "\n"
     )
+
+
+def load_profiles() -> list[dict]:
+    path = CONFIG_DIR / "profiles.json"
+    return json.loads(path.read_text()) if path.exists() else []
+
+
+def load_json_data(name: str, default):
+    path = DATA_DIR / f"{name}.json"
+    return json.loads(path.read_text()) if path.exists() else default
+
+
+def save_json_data(name: str, data) -> None:
+    (DATA_DIR / f"{name}.json").write_text(
+        json.dumps(data, indent=2, ensure_ascii=False) + "\n"
+    )

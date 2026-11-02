@@ -25,7 +25,7 @@ _TYPE_MAP: dict[str, str] = {
 
 _URL_TYPE_PATTERNS: list[tuple[str, str]] = [
     ("/pozemk", "pozemek"), ("/land", "pozemek"),
-    ("/dom", "dum"), ("/house", "dum"), ("/vil", "dum"), ("/rodinne-dom", "dum"),
+    ("/dum/", "dum"), ("/dom", "dum"), ("/house", "dum"), ("/vil", "dum"), ("/rodinne-dom", "dum"),
     ("/byt", "byt"), ("/apartment", "byt"), ("/flat", "byt"),
 ]
 

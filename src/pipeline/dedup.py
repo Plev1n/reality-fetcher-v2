@@ -74,33 +74,37 @@ def deduplicate(listings: list[NormalizedListing]) -> list[NormalizedListing]:
     # Build dedup groups: key -> list of listings
     groups: dict[str, list[NormalizedListing]] = defaultdict(list)
 
+    # Keys are scoped so that union-find can't chain unrelated properties together:
+    # always by type; generic titles also by price; weak single-value keys also by locality.
     for listing in listings:
         keys = set()
+        typ = listing.type
+        loc = listing.location_id
 
-        # Strategy 1: Exact normalized title
+        # Strategy 1: Exact normalized title (+ price: "Prodej rodinného domu" is not unique)
         title_key = _normalize_title(listing.title)
         if title_key:
-            keys.add(title_key)
+            keys.add(f"{typ}|{title_key}|{listing.price}")
 
         # Strategy 2: Numeric fingerprint
         num_key = _numeric_fingerprint(listing.title)
         if num_key:
-            keys.add(num_key)
+            keys.add(f"{typ}|{num_key}")
 
         # Strategy 3: Price + area
         pa_key = _price_area_key(listing.price, listing.area_m2)
         if pa_key:
-            keys.add(pa_key)
+            keys.add(f"{typ}|{pa_key}")
 
-        # Strategy 4: Price only
+        # Strategy 4: Price only (same locality)
         po_key = _price_only_key(listing.price)
         if po_key:
-            keys.add(po_key)
+            keys.add(f"{typ}|{loc}|{po_key}")
 
-        # Strategy 5: Area only
+        # Strategy 5: Area only (same locality)
         ao_key = _area_only_key(listing.area_m2)
         if ao_key:
-            keys.add(ao_key)
+            keys.add(f"{typ}|{loc}|{ao_key}")
 
         for key in keys:
             groups[key].append(listing)

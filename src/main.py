@@ -140,6 +140,15 @@ def main():
             )
 
     save_portal_health(portal_health)
+
+    # Similar-listing profiles (must never break the main run)
+    print("\nSimilar listings:")
+    try:
+        from src.similar.run import run_profiles
+        run_profiles()
+    except Exception as e:
+        print(f"  similar: ERROR - {e}")
+
     print("\nDone!")
 
 

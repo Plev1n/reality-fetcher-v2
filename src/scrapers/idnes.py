@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import re
 
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser as HTMLParser
 
 from src.scrapers import register
 from src.scrapers.base import BaseScraper
@@ -43,6 +43,7 @@ class IdnesScraper(BaseScraper):
             return []
 
         results: list[RawListing] = []
+        seen: set[str] = set()
         async with self._get_client() as client:
             for page in range(MAX_PAGES):
                 url = BASE_URL + config["path"]
@@ -61,12 +62,16 @@ class IdnesScraper(BaseScraper):
                 if not cards:
                     break
 
+                added = 0
                 for card in cards:
                     raw = _parse_card(card, listing_type)
-                    if raw is not None:
+                    if raw is not None and raw.portal_id not in seen:
+                        seen.add(raw.portal_id)
                         results.append(raw)
+                        added += 1
 
-                if len(cards) < PER_PAGE:
+                # iDNES repeats the last page for out-of-range page numbers
+                if added == 0 or len(cards) < PER_PAGE:
                     break
                 await self._delay()
 
@@ -76,7 +81,7 @@ class IdnesScraper(BaseScraper):
 def _parse_card(card, listing_type: str) -> RawListing | None:
     """Parse a single iDNES listing card."""
     title_node = card.css_first("h2.c-products__title")
-    title = title_node.text(strip=True) if title_node else ""
+    title = " ".join(title_node.text(separator=" ").split()) if title_node else ""
     if not title:
         return None
 

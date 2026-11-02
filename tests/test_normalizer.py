@@ -117,3 +117,9 @@ def test_strip_diacritics():
     assert strip_diacritics("Frýdek-Místek") == "Frydek-Mistek"
     assert strip_diacritics("Třinec") == "Trinec"
     assert strip_diacritics("Čeladná") == "Celadna"
+
+
+def test_normalize_type_idnes_dum_url():
+    from src.pipeline.normalizer import normalize_type
+    url = "https://reality.idnes.cz/detail/prodej/dum/przno/6a0462f2ac3cc251a50f6853/"
+    assert normalize_type("prodejdomu 135 m² s pozemkem 1 375 m²", url) == "dum"

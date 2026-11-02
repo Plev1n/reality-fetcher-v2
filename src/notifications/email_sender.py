@@ -113,3 +113,47 @@ def _build_plain(area: str, new: list, changed: list, removed: list, url: str) -
         for l in removed:
             lines.append(f"  • {l['title']}")
     return "\n".join(lines)
+
+
+def build_similar_email(profile_name: str, matches: list[dict], dashboard_url: str) -> tuple[str, str, str]:
+    """(subject, plain, html) for newly found similar listings. Listing data only."""
+    from html import escape
+
+    subject = f"[Reality Monitor] {profile_name}: {len(matches)} nové podobné"
+    lines = [f"{profile_name} — nové podobné inzeráty", dashboard_url, ""]
+    rows = []
+    for m in matches:
+        d = m.get("details") or {}
+        facts = f"užitná {d.get('usable_area') or '?'} m², pozemek {d.get('plot_area') or m.get('area_m2') or '?'} m²"
+        lines += [f"[{m['score']}] {m.get('title')} — {m.get('location')}",
+                  f"    {_format_price(m.get('price'))}, {facts}", f"    {m['url']}", ""]
+        rows.append(
+            f"<li><b>{m['score']}</b> — <a href=\"{escape(m['url'], quote=True)}\">{escape(m.get('title') or '')}</a>"
+            f" ({escape(m.get('location') or '')})<br>{_format_price(m.get('price'))}, {escape(facts)}</li>"
+        )
+    html = (f"<h2>{escape(profile_name)}</h2><p><a href=\"{escape(dashboard_url, quote=True)}\">Otevřít přehled</a></p>"
+            f"<ul>{''.join(rows)}</ul>")
+    return subject, "\n".join(lines), html
+
+
+def send_similar_email(profile_name: str, recipients: list[str], matches: list[dict], dashboard_url: str) -> bool:
+    """Returns True when the email was actually sent."""
+    gmail_user = os.environ.get("GMAIL_USER", "")
+    gmail_pass = os.environ.get("GMAIL_APP_PASSWORD", "")
+    if not gmail_user or not gmail_pass or not matches:
+        if matches:
+            print("GMAIL_USER or GMAIL_APP_PASSWORD not set, skipping similar email")
+        return False
+    subject, plain, html = build_similar_email(profile_name, matches, dashboard_url)
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = subject
+    msg["From"] = gmail_user
+    msg["To"] = ", ".join(recipients)
+    msg.attach(MIMEText(plain, "plain", "utf-8"))
+    msg.attach(MIMEText(html, "html", "utf-8"))
+    with smtplib.SMTP("smtp.gmail.com", 587) as server:
+        server.starttls()
+        server.login(gmail_user, gmail_pass)
+        server.sendmail(gmail_user, recipients, msg.as_string())
+    print(f"Similar email sent to {recipients}")
+    return True
