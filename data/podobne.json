@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T13:04:20.945818+00:00",
+  "generated": "2026-11-04T22:11:51.339378+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -983,6 +983,66 @@
       }
     },
     {
+      "id": "sreality_1508192332",
+      "title": "Prodej rodinného domu 92 m², pozemek 2612 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/zaben/1508192332",
+      "portal": "sreality",
+      "price": 6490000,
+      "location": "Žabeň",
+      "location_id": "zaben",
+      "added": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 6790000
+        },
+        {
+          "date": "2026-11-04",
+          "price": 6490000
+        }
+      ],
+      "area_m2": 2612,
+      "coordinates": [
+        49.708779900753,
+        18.304210029374
+      ],
+      "score": 60,
+      "reasons": [
+        "cena 6,49 mil. ✓",
+        "užitná 92 m² ~",
+        "pozemek 2 612 m² ~",
+        "4 pokoje ✓",
+        "obec ✓"
+      ],
+      "match": true,
+      "new": false,
+      "details": {
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/zaben/1508192332",
+        "fetched": "2026-11-02",
+        "ok": true,
+        "title": "Prodej rodinného domu 92 m², pozemek 2612 m²",
+        "price": 6790000,
+        "location": "Žabeň",
+        "usable_area": 92,
+        "plot_area": 2612,
+        "built_area": null,
+        "rooms": 4,
+        "disposition": null,
+        "year_built": null,
+        "condition": "před rekonstrukcí",
+        "construction": "cihlová",
+        "heating": "kotel na tuhá paliva",
+        "sewer": "veřejná kanalizace",
+        "gas": false,
+        "penb": "G",
+        "agency": null,
+        "ref_number": "00089",
+        "listed_since": "2026-09-14",
+        "old_price": null,
+        "description": "ROYAL VISION Reality exkluzivně nabízí k prodeji rodinný dům v obci Žabeň s velkorysým pozemkem o celkové výměře 2 612 m².\r\n\r\nRozlehlý pozemek nabízí nejen prostor pro vlastní bydlení a zahradu, ale také potenciál získat část kupní ceny zpět. Dle územního plánu je zařazen do ploch smíšených obytných všeobecných, a proto stojí za prověření možnost oddělení a následného prodeje jeho části – například pro financování rekonstrukce domu. Konkrétní možnosti rozdělení a dalšího využití pozemku bude potřeba konzultovat s projektantem a příslušnými úřady.\r\n\r\nDům má užitnou plochu přibližně 92 m² nabízí kuchyni, tři pokoje, koupelnu s WC, verandu, kotelnu a půdní prostor. Jeho atmosféru dotvářejí klenbové stropy. Na pozemku se nachází také hospodářská budova, která v budoucnu může sloužit jako dílna, sklad nebo klidně místo pro relaxaci.\r\n\r\nDům i vedlejší stavba jsou určeny k celkové rekonstrukci, díky čemuž si nový majitel může nemovitost upravit podle vlastních představ. V roce 2011 byla vyměněna okna za plastová a v následujících letech došlo k modernizaci části technického vybavení domu včetně elektřiny, radiátorů a kotle.\r\n\r\nVelkou předností je rovinatý a oplocený pozemek, který nabízí dostatek prostoru pro zahradu, odpočinek i další využití. Dům je napojen na elektřinu, vodovod a kanalizaci, k dispozici je také studna na užitkovou vodu.\r\n\r\nŽabeň nabízí klidné venkovské bydlení s dobrou dostupností do Frýdku-Místku a Ostravy. Přímo v obci se nachází mateřská a základní škola, sportovní hala, kulturní dům, knihovna a restaurace.\r\n\r\nNemovitost je vhodná pro zájemce, kteří hledají dům s velkým pozemkem a potenciálem vytvořit si bydlení podle vlastních představ. Pro více informací nebo sjednání prohlídky mě neváhejte kontaktovat.\r\n\r\nPoužité vizualizace znázorňují, jak může nemovitost vypadat po rekonstrukci. Půdorys i uvedené rozměry jsou orientační. Průkaz energetické náročnosti budovy se připravuje, proto je nemovitost prozatím inzerována v energetické třídě G."
+      }
+    },
+    {
       "id": "bazos_225121664",
       "title": "(N428) Tři jednotky - Centrum města - Jedna adresa - Desítky",
       "url": "https://reality.bazos.cz/inzerat/225121664/n428-tri-jednotky-centrum-mesta-jedna-adresa-desitky.php",
@@ -1093,6 +1153,57 @@
         "listed_since": null,
         "old_price": null,
         "description": "Dovolujeme si Vám nabídnout celopodsklepený rodinný dům 5+1 s garáží na ul. J. Opletala v Místku, nedaleko centra města. Dům má velmi dobré dispoziční řešení, v přízemí se nachází kuchyň, 2 místnosti, které jsou nyní spojeny v jednu, WC, ve 2. NP se nachází 3 pokoje, koupelna a WC. V suterénu domu jsou velké prostory, které lze využít jako dílny, úložné prostory nebo obytné místnosti. Součástí domu je garáž s kanálem. Dům je připraven k rekonstrukci dle představ nového majitele. U domu je dostatek prostoru pro parkování aut, v zadní části za domem zahrada. Dům má skvělou polohu, do centra Místku cca 10 min. pěšky, kde je veškerá občanská vybavenost. Díky své poloze je také vhodný jako sídlo firmy, nebo služby např. lékaři apod. Lokalita: J. Opletala, Místek Evidenční číslo: 955767 Energetická náročnost : Třída G - Mimořádně nehospodárná"
+      }
+    },
+    {
+      "id": "realingo_24774279",
+      "title": "Rodinny dum, Ostravice",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice/24774279",
+      "portal": "realingo",
+      "price": null,
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "added": "2026-11-04",
+      "price_history": [],
+      "area_m2": null,
+      "coordinates": [
+        49.54,
+        18.39
+      ],
+      "score": 58,
+      "reasons": [
+        "cena neuvedena",
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "obec ✓",
+        "čeká na detail inzerátu"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice/24774279",
+        "fetched": "2026-11-04",
+        "ok": true,
+        "title": null,
+        "price": null,
+        "location": null,
+        "usable_area": null,
+        "plot_area": null,
+        "built_area": null,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": null,
+        "sewer": null,
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": null
       }
     },
     {
@@ -1867,62 +1978,6 @@
         "listed_since": "2026-09-10",
         "old_price": null,
         "description": "Unavuje Vás dělat kompromisy v cizích rekonstrukcích? Tady dostáváte neopakovatelnou šanci! Všechny náročné vnější práce jsou již hotové a vnitřní prostory si dokončíte přesně podle svých snů a standardů – bez skrytých vad, bez cizího vkusu a bez ústupků.<br />\r\n<br />\r\nDům o zastavěné ploše 64 m² stojí na pozemku se zahradou 846 m². Součástí je venkovní pergola, menší plechová garáž a sklep.<br />\r\n<br />\r\nStřecha je valbová, krytina speciální IPA. Zvenčí má dům nové zateplení, dřevěné obložení a nová plastová okna. Vnitřek je připraven k dokončení dle představ kupujícího (fotografie obsahují AI návrhy možného vzhledu). Konstrukce domu je smíšená – více info po telefonu.<br />\r\n<br />\r\nInženýrské sítě:<br />\r\nPřívod nové elektřiny v zemi, obecní voda přivedena, odpady napojeny na kanalizaci, možnost napojení na plyn, který je na hranici pozemku.<br />\r\n<br />\r\nHodoňovice nabízí skvělou atmosféru i bohatý společenský život – pořádají se zde tradiční akce jako pálení čarodějnic, stavění i kácení máje nebo letní kino. <br />\r\n<br />\r\nNeváhejte a zavolejte!"
-      }
-    },
-    {
-      "id": "sreality_1508192332",
-      "title": "Prodej rodinného domu 92 m², pozemek 2612 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/zaben/1508192332",
-      "portal": "sreality",
-      "price": 6790000,
-      "location": "Žabeň",
-      "location_id": "zaben",
-      "added": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 6790000
-        }
-      ],
-      "area_m2": 2612,
-      "coordinates": [
-        49.708779900753,
-        18.304210029374
-      ],
-      "score": 46,
-      "reasons": [
-        "cena 6,79 mil. ~",
-        "užitná 92 m² ~",
-        "pozemek 2 612 m² ~",
-        "4 pokoje ✓",
-        "obec ✓"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/zaben/1508192332",
-        "fetched": "2026-11-02",
-        "ok": true,
-        "title": "Prodej rodinného domu 92 m², pozemek 2612 m²",
-        "price": 6790000,
-        "location": "Žabeň",
-        "usable_area": 92,
-        "plot_area": 2612,
-        "built_area": null,
-        "rooms": 4,
-        "disposition": null,
-        "year_built": null,
-        "condition": "před rekonstrukcí",
-        "construction": "cihlová",
-        "heating": "kotel na tuhá paliva",
-        "sewer": "veřejná kanalizace",
-        "gas": false,
-        "penb": "G",
-        "agency": null,
-        "ref_number": "00089",
-        "listed_since": "2026-09-14",
-        "old_price": null,
-        "description": "ROYAL VISION Reality exkluzivně nabízí k prodeji rodinný dům v obci Žabeň s velkorysým pozemkem o celkové výměře 2 612 m².\r\n\r\nRozlehlý pozemek nabízí nejen prostor pro vlastní bydlení a zahradu, ale také potenciál získat část kupní ceny zpět. Dle územního plánu je zařazen do ploch smíšených obytných všeobecných, a proto stojí za prověření možnost oddělení a následného prodeje jeho části – například pro financování rekonstrukce domu. Konkrétní možnosti rozdělení a dalšího využití pozemku bude potřeba konzultovat s projektantem a příslušnými úřady.\r\n\r\nDům má užitnou plochu přibližně 92 m² nabízí kuchyni, tři pokoje, koupelnu s WC, verandu, kotelnu a půdní prostor. Jeho atmosféru dotvářejí klenbové stropy. Na pozemku se nachází také hospodářská budova, která v budoucnu může sloužit jako dílna, sklad nebo klidně místo pro relaxaci.\r\n\r\nDům i vedlejší stavba jsou určeny k celkové rekonstrukci, díky čemuž si nový majitel může nemovitost upravit podle vlastních představ. V roce 2011 byla vyměněna okna za plastová a v následujících letech došlo k modernizaci části technického vybavení domu včetně elektřiny, radiátorů a kotle.\r\n\r\nVelkou předností je rovinatý a oplocený pozemek, který nabízí dostatek prostoru pro zahradu, odpočinek i další využití. Dům je napojen na elektřinu, vodovod a kanalizaci, k dispozici je také studna na užitkovou vodu.\r\n\r\nŽabeň nabízí klidné venkovské bydlení s dobrou dostupností do Frýdku-Místku a Ostravy. Přímo v obci se nachází mateřská a základní škola, sportovní hala, kulturní dům, knihovna a restaurace.\r\n\r\nNemovitost je vhodná pro zájemce, kteří hledají dům s velkým pozemkem a potenciálem vytvořit si bydlení podle vlastních představ. Pro více informací nebo sjednání prohlídky mě neváhejte kontaktovat.\r\n\r\nPoužité vizualizace znázorňují, jak může nemovitost vypadat po rekonstrukci. Půdorys i uvedené rozměry jsou orientační. Průkaz energetické náročnosti budovy se připravuje, proto je nemovitost prozatím inzerována v energetické třídě G."
       }
     },
     {
