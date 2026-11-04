@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T21:54:45.900443+00:00",
+  "generated": "2026-11-04T13:04:20.945818+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -667,6 +667,62 @@
       }
     },
     {
+      "id": "sreality_1806041164",
+      "title": "Prodej rodinného domu 176 m², pozemek 1005 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/raskovice/1806041164",
+      "portal": "sreality",
+      "price": 5999000,
+      "location": "Raškovice",
+      "location_id": "raskovice",
+      "added": "2026-11-04",
+      "price_history": [
+        {
+          "date": "2026-11-04",
+          "price": 5999000
+        }
+      ],
+      "area_m2": 1005,
+      "coordinates": [
+        49.6197492405654,
+        18.4728680616386
+      ],
+      "score": 75,
+      "reasons": [
+        "cena 6,00 mil. ✓",
+        "užitná 176 m² ✗",
+        "pozemek 1 005 m² ✓",
+        "5 pokojů ✓",
+        "obec ✓"
+      ],
+      "match": true,
+      "new": true,
+      "details": {
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/raskovice/1806041164",
+        "fetched": "2026-11-04",
+        "ok": true,
+        "title": "Prodej rodinného domu 176 m², pozemek 1005 m²",
+        "price": 5999000,
+        "location": "Raškovice",
+        "usable_area": 176,
+        "plot_area": 1005,
+        "built_area": 104,
+        "rooms": 5,
+        "disposition": null,
+        "year_built": 1970,
+        "condition": "dobrý",
+        "construction": "cihlová",
+        "heating": null,
+        "sewer": "veřejná kanalizace",
+        "gas": true,
+        "penb": "G",
+        "agency": null,
+        "ref_number": "1612",
+        "listed_since": "2026-11-04",
+        "old_price": null,
+        "description": "Nabízíme k prodeji podsklepený rodinný dům v centru Raškovic, který díky dvěma obytným podlažím a samostatnému zázemí nabízí zajímavou možnost vícegeneračního bydlení nebo kombinaci vlastního bydlení a pronájmu. Každé podlaží disponuje vlastní kuchyní i koupelnou, a může tak sloužit jako samostatná bytová jednotka.\r\n\r\nV přízemí se nachází vstupní chodba, menší kuchyně, samostatná jídelna, obývací pokoj, ložnice a další obytný pokoj. Horní patro nabízí obdobné dispoziční řešení, navíc s pracovnou. K dispozici je zde také prostor, který lze využít k vybudování dalšího pokoje. V přízemí je koupelna se sprchovým koutem, v horním patře koupelna s vanou.\r\n\r\nDům je kompletně podsklepený a má převážně plastová okna s dvojskly. Vytápění zajišťuje kotel na pelety či uhlí z roku 2019 s rozvodem tepla do radiátorů. Nemovitost nabízí také možnost napojení plynového kotle.\r\n\r\nDům je určen k rekonstrukci, což novým majitelům umožňuje upravit si jednotlivé prostory a celkové provedení bydlení podle vlastních představ a potřeb.\r\n\r\nVelkou výhodou je poloha přímo v centru obce, s dobrou dostupností každodenních služeb. V pěší vzdálenosti se nachází škola, mateřská škola, autobusová zastávka i další občanská vybavenost. V blízkém okolí najdete také hospůdku U Bobra a fotbalové hřiště.\r\n\r\nNemovitost stojí na pozemku o celkové výměře 1 005 m² a díky svému dispozičnímu řešení, velikosti pozemku a umístění nabízí zajímavý potenciál jak pro rodinné bydlení, tak pro investiční využití.\r\n\r\nV případě zájmu o bližší informace nebo sjednání prohlídky mě neváhejte kontaktovat. Samozřejmostí je také možnost zajištění kompletního servisu spojeného s financováním nemovitosti prostřednictvím našeho hypotečního specialisty."
+      }
+    },
+    {
       "id": "sreality_73588812",
       "title": "Prodej rodinného domu 170 m², pozemek 1781 m²",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydlant-nad-ostravici/73588812",
@@ -1040,6 +1096,57 @@
       }
     },
     {
+      "id": "realingo_24773850",
+      "title": "Rodinny dum, Malenovice",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
+      "portal": "realingo",
+      "price": null,
+      "location": "Malenovice",
+      "location_id": "malenovice",
+      "added": "2026-11-04",
+      "price_history": [],
+      "area_m2": null,
+      "coordinates": [
+        49.58,
+        18.41
+      ],
+      "score": 58,
+      "reasons": [
+        "cena neuvedena",
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "obec ✓",
+        "čeká na detail inzerátu"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
+        "fetched": "2026-11-04",
+        "ok": true,
+        "title": null,
+        "price": null,
+        "location": null,
+        "usable_area": null,
+        "plot_area": null,
+        "built_area": null,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": null,
+        "sewer": null,
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": null
+      }
+    },
+    {
       "id": "realingo_24728549",
       "title": "Rodinny dum, Frýdek-Místek - Skalice",
       "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-skalice/24728549",
@@ -1225,59 +1332,54 @@
       }
     },
     {
-      "id": "sreality_1719324748",
-      "title": "Prodej rodinného domu 80 m², pozemek 2662 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydlant-nad-ostravici/1719324748",
+      "id": "sreality_4068868172",
+      "title": "Prodej rodinného domu 330 m², pozemek 2100 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/malenovice/4068868172",
       "portal": "sreality",
-      "price": 4990000,
-      "location": "Frýdlant-Lubno",
-      "location_id": "frydlant_lubno",
-      "added": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 4990000
-        }
-      ],
-      "area_m2": 2662,
+      "price": null,
+      "location": "Malenovice",
+      "location_id": "malenovice",
+      "added": "2026-11-04",
+      "price_history": [],
+      "area_m2": 2100,
       "coordinates": [
-        49.601960482773684,
-        18.366354581912056
+        49.579585,
+        18.4103057
       ],
-      "score": 56,
+      "score": 54,
       "reasons": [
-        "cena 4,99 mil. ~",
-        "užitná 80 m² ✗",
-        "pozemek 2 662 m² ~",
-        "4 pokoje ✓",
+        "cena neuvedena",
+        "užitná 330 m² ✗",
+        "pozemek 2 100 m² ~",
+        "5 pokojů ✓",
         "obec ✓"
       ],
       "match": false,
       "new": false,
       "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydlant-nad-ostravici/1719324748",
-        "fetched": "2026-11-02",
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/malenovice/4068868172",
+        "fetched": "2026-11-04",
         "ok": true,
-        "title": "Prodej rodinného domu 80 m², pozemek 2662 m²",
-        "price": 4990000,
-        "location": "Frýdlant nad Ostravicí - Lubno",
-        "usable_area": 80,
-        "plot_area": 2662,
+        "title": "Prodej rodinného domu 330 m², pozemek 2100 m²",
+        "price": null,
+        "location": "Malenovice",
+        "usable_area": 330,
+        "plot_area": 2100,
         "built_area": null,
-        "rooms": 4,
+        "rooms": 5,
         "disposition": null,
         "year_built": null,
         "condition": "velmi dobrý",
-        "construction": "cihlová",
-        "heating": "kotel na tuhá paliva",
-        "sewer": "jímka",
+        "construction": "dřevostavba",
+        "heating": null,
+        "sewer": "čov pro celý objekt",
         "gas": false,
-        "penb": "G",
+        "penb": "D",
         "agency": null,
-        "ref_number": null,
-        "listed_since": "2026-07-23",
+        "ref_number": "00143",
+        "listed_since": "2026-11-04",
         "old_price": null,
-        "description": "!!! Dvě stavební parcely pod Lysou horou - rodinný dům + samostatný stavební pozemek !!!\n\nVětšina zájemců zde uvidí starší rodinný dům. Ten, kdo přemýšlí strategicky, uvidí jedinečnou příležitost. \n\nNabízíme nemovitost o celkové výměře 2 662 m², jejíž součástí je rodinný dům s pozemkem o rozloze 1541 m2 a také samostatná stavební parcela o výměře 815 m² s vlastní příjezdovou cestou (geometrický plán rozdělení je zpracován a schválen katastrálním úřadem). \n\nTato výjimečná kombinace nabízí možnost postavit druhý rodinný dům pro vlastní bydlení, vytvořit zázemí pro vícegenerační rodinu nebo si ponechat stavební parcelu jako dlouhodobou investici či ji v budoucnu samostatně prodat – to vše v atraktivní lokalitě pod Lysou horou.\n\n•⁠  ⁠Příjezdová cesta má 306 m2\n•⁠  ⁠Přední část s domem 1541 m2\n•⁠  ⁠Zadní část 815 m2\n\nKonkrétní možnosti využití:\n\n•⁠  ⁠druhý rodinný dům\n•⁠  ⁠bydlení pro rodiče a děti\n•⁠  ⁠investice do budoucna\n•⁠  ⁠pozdější prodej druhé parcely\n•⁠  ⁠rekonstrukce stávajícího domu + novostavba\n\nPozemek s domem se nachází jen 10 km od horního parkoviště u hotelu Petra Bezruče pod Lysou horou, takže na procházky do hor můžete vyrážet rovnou z domu.\n\nNa zahradě se rozkládá ovocný sad. Odpadní vody jsou svedeny do vlastní jímky, k dispozici je studna s pitnou vodou. Aktuální vytápění kotlem na tuhá paliva.  Dům je napojen na elektřinu. \n\nDům je patrový s dispozicí 4+1, částečně podsklepený a nabízí i půdu. V přízemí se nachází WC, vstup do sklepa, komora, koupelna, pokoj, ze kterého se vstupuje do ložnice, a kuchyně. V patře pak najdete dva samostatné pokoje, dvě komory a menší balkon.\n\nPři financování hypotékou vás celým procesem provede Martin Žák, EFA, hypoteční specialista. Energetický štítek je ve zpracování, proto je prozatím dle zákona uvedena třída G.\n\nDům je ihned k dispozici. Centrum Frýdlantu nad Ostravicí a supermarket Albert jsou vzdálené pouhé 2 km. Restaurace Imrvére, gymnázium i bazén se saunou a posilovnou se nacházejí přibližně 2,5 km od domu. Pošta a základní škola jsou vzdálené 3 km a oblíbená kavárna Libuška 3,5 km.\n\nVýborná je také dostupnost do okolních měst a oblíbených beskydských lokalit. Čeladná je vzdálená 8 km, Ostravice 11 km, Frýdek-Místek 14 km a Ostrava přibližně 30 km.\n\nPro více informací nebo sjednání prohlídky mě neváhejte kontaktovat. Na mém webu v sekci \"NA PRODEJ\" naleznete kompletní informace, fotografie i další podklady k této nemovitosti. Ráda vám ji osobně představím a zodpovím všechny vaše dotazy."
+        "description": "Nabízíme k prodeji tuto jedinečnou nemovitost uprostřed slunné paseky pod horami v Beskydech. Pokud hledáte soukromí, klid a pohodu, tak tady jste správně.\r\n\t‌\r\nObec Malenovice je vzdálena 3 km od města Frýdlant nad Ostravicí.Leží na úpatí Lysé hory a je známá jako obec s velkými pozemky a klidným bydlením v souladu s přírodou.\r\n\t‌\r\nNámi nabízená nemovitost se skládá ze tří srubových staveb, velkého pozemku v sousedství lesa a potoka a přírody.\r\n\t‌\r\nPrvní stavbou je srub na betonovém základu s terasou, garáží, dvěmi pokoji, koupelnou a WC a kuchyní. Vše ve stylu dřeva, jednoduchá dispozice jednopatrového domu. V horním patře z balkonu nádherný výhled na hory a zeleň. \r\n\t‌\r\nDruhou stavbou je velmi podobný dům, jen s tím rozdílem, že v přízemí je velká garáž s dílnou a v podkroví dva pokoje.\r\n\t‌\r\nTřetí stavba je obdobná. Jen místo garáže je stáj pro dva koně a v horním patře je nyní uloženo seno a krmení.\r\n\t‌\r\nVšechny rři domy jsou od sebe vzdáleny, takže se vzájemně neruší a nabízí se možnost bydlení tří generací. Nebo je zde možnost úpravy a pronájmu samostatně. Domy jsou koncipovány tak, že za domem je terasa, takže se obyvatelé navzájem neruší. \r\n\t‌\r\nNa pozemku je elektřina a voda. Studna je součástí pozemku jako zásobárna užitkové vody. Odpadní vody a jejich čištění zajistí ČOV. Pozemek je oplocen a vjezd na něj je zajištěn z komunikace Lesy Čr nebo věcným břemenem ze sousední parcely. Příjezdová komunikace Lesů Čr je celoročně udržovaná.\r\n\t‌\r\nV blízkosti najdete nejen vysoké kopce, ale také relax Hotelu Bezruč, restauraci, dvě golfová hřiště, koupaliště ve Frýdlantu nad Ostravicí a multifunkční hřiště obce Malenovice.\r\n\t‌\r\nFinancování rádi zajistíme prostřednictvím hypotečního centra naší kanceláře a to nejvýhodnější nabídkou s porovnáním všech bank a peněžních ústavů. Právní servis včetně advokátní úschovy finančních prostředků zajištěn zdarma.\r\n\t‌\r\nV případě zájmu o prohlídku nebo bližší informace nás kontaktujte!\r\n\t‌\r\n"
       }
     },
     {
@@ -2091,57 +2193,6 @@
       }
     },
     {
-      "id": "sreality_3927462476",
-      "title": "Prodej rodinného domu 200 m², pozemek 6556 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/dobra/3927462476",
-      "portal": "sreality",
-      "price": null,
-      "location": "Dobrá",
-      "location_id": "dobra",
-      "added": "2026-11-03",
-      "price_history": [],
-      "area_m2": 6556,
-      "coordinates": [
-        49.6738314343408,
-        18.4139307614521
-      ],
-      "score": 38,
-      "reasons": [
-        "cena neuvedena",
-        "užitná 200 m² ✗",
-        "pozemek 6 556 m² ✗",
-        "5 pokojů ✓",
-        "obec ✓"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/dobra/3927462476",
-        "fetched": "2026-11-03",
-        "ok": true,
-        "title": "Prodej rodinného domu 200 m², pozemek 6556 m²",
-        "price": null,
-        "location": "Dobrá",
-        "usable_area": 200,
-        "plot_area": 6556,
-        "built_area": 251,
-        "rooms": 5,
-        "disposition": null,
-        "year_built": null,
-        "condition": "před rekonstrukcí",
-        "construction": "smíšená",
-        "heating": null,
-        "sewer": "septik",
-        "gas": true,
-        "penb": "G",
-        "agency": null,
-        "ref_number": "25007",
-        "listed_since": "2025-04-23",
-        "old_price": null,
-        "description": "Hledáte klidné místo k životu? V malebné obci Dobrá Vám nabízíme dům s obrovským potenciálem ! Nachází se v krásné a klidné lokalitě, ideální pro rodinné bydlení nebo rekreační účely.\r\nNemovitost je určena spíše k rekonstrukci, ale velkou výhodou je, že vše podstatné už je vyřešeno - máme k dispozici architektonické studie s vizualizacemi a platné stavební povolení včetně razítka ! Stačí tedy jen začít s přestavbou podle vlastních představ.\r\nHlavní přednosti:\r\n- Celková výměra pozemků 6.556m2\r\n- Z toho 251m2 zastavěná plocha\r\n- Klidná lokalita se skvělou dostupností\r\n- Veškerá dokumentace a stavební povolení k dispozici\r\n- Výborná dostupnost do Frýdku - Místku i Ostravy\r\nNemovitost nabízí ideální kombinaci soukromí, prostoru a budoucího potenciálu. Ať už hledáte místo pro své vysněné bydlení nebo investiční záměr - tohle je příležitost, která se často nenaskytne.\r\nPro více informací nás neváhejte kontaktovat, rádi Vám poskytneme vizualizace i osobní prohlídku."
-      }
-    },
-    {
       "id": "sreality_1589199436",
       "title": "Prodej vily 241 m², pozemek 3528 m²",
       "url": "https://www.sreality.cz/detail/prodej/dum/vila/celadna/1589199436",
@@ -2194,7 +2245,8 @@
     }
   ],
   "new_ids": [
-    "sreality_3347513420"
+    "sreality_3347513420",
+    "sreality_1806041164"
   ],
   "notified_ids": [
     "bazos_223729497",
