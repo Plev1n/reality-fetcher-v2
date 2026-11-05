@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T22:11:51.339378+00:00",
+  "generated": "2026-11-05T13:11:38.972027+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -616,57 +616,6 @@
       }
     },
     {
-      "id": "sreality_1956249676",
-      "title": "Prodej rodinného domu 150 m², pozemek 979 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/1956249676",
-      "portal": "sreality",
-      "price": null,
-      "location": "FM-Skalice",
-      "location_id": "fm_skalice",
-      "added": "2026-11-02",
-      "price_history": [],
-      "area_m2": 979,
-      "coordinates": [
-        49.662771996,
-        18.39513019
-      ],
-      "score": 77,
-      "reasons": [
-        "cena neuvedena",
-        "užitná 150 m² ~",
-        "pozemek 979 m² ~",
-        "5 pokojů ✓",
-        "obec ✓"
-      ],
-      "match": true,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/1956249676",
-        "fetched": "2026-11-02",
-        "ok": true,
-        "title": "Prodej rodinného domu 150 m², pozemek 979 m²",
-        "price": null,
-        "location": "Frýdek-Místek - Skalice",
-        "usable_area": 150,
-        "plot_area": 979,
-        "built_area": null,
-        "rooms": 5,
-        "disposition": null,
-        "year_built": null,
-        "condition": "novostavba",
-        "construction": "cihlová",
-        "heating": null,
-        "sewer": null,
-        "gas": false,
-        "penb": "G",
-        "agency": null,
-        "ref_number": "958028",
-        "listed_since": "2026-10-21",
-        "old_price": null,
-        "description": "Klid, soukromí a příroda za okny, přitom město jen pár minut od domova. Rodinný dům ve Skalici s plánovaným dokončením v červnu 2027 nabídne dispozici 5+kk, prostorný obývací pokoj s kuchyní, tři koupelny a dostatek místa pro pohodlný rodinný život.<br />\r\n<br />\r\nKonstrukční systém Durisol, zateplení, hliníková okna Aluprof a podlahové vytápění tvoří základ moderního a komfortního bydlení. Po dohodě je možné dům rozšířit o dvougaráž.<br />\r\n<br />\r\nPozemek navazuje na les a nabízí soukromí i přírodu na dosah. Je přístupný z obecní komunikace a napojený na veřejný vodovod a splaškovou kanalizaci. K dispozici je také přípojka dešťové kanalizace a možnost připojení k optickému internetu.<br />\r\n<br />\r\nPodrobnosti Vám ráda představím při osobní prohlídce. Zodpovím Vaše dotazy a společně probereme možnosti dokončení domu podle Vašich představ. Těším se na osobní setkání."
-      }
-    },
-    {
       "id": "sreality_1806041164",
       "title": "Prodej rodinného domu 176 m², pozemek 1005 m²",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/raskovice/1806041164",
@@ -827,6 +776,58 @@
         "listed_since": "2026-07-08",
         "old_price": null,
         "description": "Nabízíme k prodeji atraktivní bungalov 3+kk s technickou místností, letní kuchyní, saunou a garáží se samostatným malým apartmánem v lukrativní části obce Čeladná. \nJednou z hlavních výhod této nemovitosti je slunný pozemek o výměře 2500 m², který nabízí překrásné výhledy na lesy a okolní hory. \nNa pozemku se nachází relaxační zóna se saunou, houpačkou, potokem s vodopádem s cirkulující vodou, letní dny plné pohody zajistí prostorná pergola s letní kuchyní s grilem a posezením.\nK zahradě patří skleník s několika vyvýšenými záhony a napojením na rozvod vody z vrtané studny.\nDům se nachází nedaleko splavů řeky Čeladenky, což budoucí majitelé zajisté ocení zejména v letních měsících.\n\n\nGaráž pro bezpečné parkování nejen vašeho vozu, ale i elektrokol. Nad garáží se v patře nachází velký vytápěný prostor, který může sloužit jak k uskladnění dalšího sportovního vybavení, tak i jako pokoj pro hosty.\n\nDům je napojen na veškeré IS: obecní vodovod, kanalizaci a plyn. Ke komfortu bydlení patří i podlahové vytápění. Na pozemku je vrtaná studna s rozvody vody do různých částí zahrady.\n\n\nEnergetická třída náročnosti budovy je B, což znamená, že dům je energeticky úsporný. \nBungalov disponuje fotovoltaickými panely, což snižuje provozní náklady na energie.\n\nDům je nedaleko MHD, což umožňuje snadné spojení např. dětí do místní ZŠ a centra obce. \nPředpokládané datum nastěhování je od 1. září 2026, což poskytuje dostatek času na plánování a přípravy.\n\nPokud Vás dům zaujal, neváhejte nám napsat nebo zavolat a rádi Vám vše ukážeme osobně."
+      }
+    },
+    {
+      "id": "sreality_1527742540",
+      "title": "Prodej rodinného domu 0 m², pozemek 0 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/sedliste/1527742540",
+      "portal": "sreality",
+      "price": null,
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "added": "2026-11-05",
+      "price_history": [],
+      "area_m2": null,
+      "coordinates": [
+        49.71836511592695,
+        18.368690478191663
+      ],
+      "score": 62,
+      "reasons": [
+        "cena neuvedena",
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "4 pokoje ✓",
+        "obec ✓",
+        "čeká na detail inzerátu"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/sedliste/1527742540",
+        "fetched": "2026-11-05",
+        "ok": true,
+        "title": "Prodej rodinného domu 0 m², pozemek 0 m²",
+        "price": null,
+        "location": "Sedliště",
+        "usable_area": null,
+        "plot_area": 0,
+        "built_area": null,
+        "rooms": 4,
+        "disposition": null,
+        "year_built": null,
+        "condition": "novostavba",
+        "construction": "cihlová",
+        "heating": null,
+        "sewer": null,
+        "gas": false,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": "2026-05-31",
+        "old_price": null,
+        "description": "Prodej novostavby rodinného domu – Sedliště u Frýdku-Místku\n\nNabízíme k prodeji moderní novostavbu rodinného domu v atraktivní a klidné lokalitě Sedliště, pouhé 3 km od Frýdek-Místek.\n\nDům stojí na prostorném pozemku o výměře 1 700 m², který poskytuje dostatek soukromí i prostoru pro relaxaci, zahradu či rodinné aktivity.\n\nHlavní přednosti nemovitosti\n\n* moderní novostavba v klidné lokalitě v blízkosti města\n* pozemek 1 700 m² s velkorysým prostorem\n* fotovoltaická elektrárna 7,7 kWp (střídač GoodWe 8 kW, panely 550 Wp)\n* kvalitní okna s izolačními trojskly\n* 4 parkovací stání přímo u domu\n* výborná dostupnost do Frýdku-Místku a kompletní občanská vybavenost v dosahu\n\nVelkou výhodou je kombinace klidného bydlení v přírodě s rychlou dostupností do města.\n¨\nZkolaudováno 12.10 2026 \n\nZastavěná plocha : 142 m2\nUžitková plocha : 115 m2\n\n\n\n\nNa vedlejší parcele nabízíme k prodeji hrubou stavbu totožného projektu za cenu 7 800 000 Kč. Jedná se o stejný dům se stejnou dispozicí a architektonickým řešením, který si nový majitel může dokončit podle vlastních představ"
       }
     },
     {
@@ -1043,62 +1044,6 @@
       }
     },
     {
-      "id": "bazos_225121664",
-      "title": "(N428) Tři jednotky - Centrum města - Jedna adresa - Desítky",
-      "url": "https://reality.bazos.cz/inzerat/225121664/n428-tri-jednotky-centrum-mesta-jedna-adresa-desitky.php",
-      "portal": "bazos",
-      "price": 6490000,
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "added": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 6490000
-        }
-      ],
-      "area_m2": null,
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "score": 60,
-      "reasons": [
-        "cena 6,49 mil. ✓",
-        "užitná plocha neznámá",
-        "pozemek neznámý",
-        "město ~",
-        "čeká na detail inzerátu"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://reality.bazos.cz/inzerat/225121664/n428-tri-jednotky-centrum-mesta-jedna-adresa-desitky.php",
-        "fetched": "2026-11-02",
-        "ok": true,
-        "title": "(N428) Tři jednotky - Centrum města - Jedna adresa - Desítky",
-        "price": null,
-        "location": null,
-        "usable_area": null,
-        "plot_area": null,
-        "built_area": null,
-        "rooms": null,
-        "disposition": null,
-        "year_built": null,
-        "condition": "po rekonstrukci",
-        "construction": null,
-        "heating": null,
-        "sewer": null,
-        "gas": null,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": "Připravujeme.... (N428) Hledáte bydlení pro více generací, investici na pronájem nebo prostor pro podnikání? V centru Brušperku nabízíme cihlový dům se třemi samostatnými jednotkami. Jeden byt je již kompletně zrekonstruovaný a připravený k okamžitému nastěhování, další prostory čekají na dokončení podle vašich představ. Součástí jsou také sklepy, sklad, terasa a uzavřený dvorek. _ centrum Brušperku _ 3 samostatné bytové jednotky _ jedna jednotka po rekonstrukci _ možnost vlastního dokončení a zhodnocení investice _ vhodné pro bydlení, pronájem i podnikání Pro více informací a další fotky nás neváhejte kontaktovat."
-      }
-    },
-    {
       "id": "bazos_225299945",
       "title": "Prodej rodinného domu, ul. J. Opletala, Frýdek - Místek",
       "url": "https://reality.bazos.cz/inzerat/225299945/prodej-rodinneho-domu-ul-j-opletala-frydek-mistek.php",
@@ -1153,6 +1098,57 @@
         "listed_since": null,
         "old_price": null,
         "description": "Dovolujeme si Vám nabídnout celopodsklepený rodinný dům 5+1 s garáží na ul. J. Opletala v Místku, nedaleko centra města. Dům má velmi dobré dispoziční řešení, v přízemí se nachází kuchyň, 2 místnosti, které jsou nyní spojeny v jednu, WC, ve 2. NP se nachází 3 pokoje, koupelna a WC. V suterénu domu jsou velké prostory, které lze využít jako dílny, úložné prostory nebo obytné místnosti. Součástí domu je garáž s kanálem. Dům je připraven k rekonstrukci dle představ nového majitele. U domu je dostatek prostoru pro parkování aut, v zadní části za domem zahrada. Dům má skvělou polohu, do centra Místku cca 10 min. pěšky, kde je veškerá občanská vybavenost. Díky své poloze je také vhodný jako sídlo firmy, nebo služby např. lékaři apod. Lokalita: J. Opletala, Místek Evidenční číslo: 955767 Energetická náročnost : Třída G - Mimořádně nehospodárná"
+      }
+    },
+    {
+      "id": "realingo_24775537",
+      "title": "Rodinny dum, Sviadnov",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-k-ostravici-sviadnov-okres-frydek-mistek/24775537",
+      "portal": "realingo",
+      "price": null,
+      "location": "Sviadnov",
+      "location_id": "sviadnov",
+      "added": "2026-11-05",
+      "price_history": [],
+      "area_m2": null,
+      "coordinates": [
+        49.69,
+        18.33
+      ],
+      "score": 58,
+      "reasons": [
+        "cena neuvedena",
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "obec ✓",
+        "čeká na detail inzerátu"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-k-ostravici-sviadnov-okres-frydek-mistek/24775537",
+        "fetched": "2026-11-05",
+        "ok": true,
+        "title": null,
+        "price": null,
+        "location": null,
+        "usable_area": null,
+        "plot_area": null,
+        "built_area": null,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": null,
+        "sewer": null,
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": null
       }
     },
     {
