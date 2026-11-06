@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T13:03:40.311694+00:00",
+  "generated": "2026-11-06T21:44:20.453653+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -1101,19 +1101,19 @@
       }
     },
     {
-      "id": "realingo_24775151",
-      "title": "Rodinny dum, Čeladná",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-okres-frydek-mistek/24775151",
+      "id": "realingo_24777369",
+      "title": "Rodinny dum, Raškovice",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-raskovice-okres-frydek-mistek/24777369",
       "portal": "realingo",
       "price": null,
-      "location": "Čeladná",
-      "location_id": "celadna",
+      "location": "Raškovice",
+      "location_id": "raskovice",
       "added": "2026-11-06",
       "price_history": [],
       "area_m2": null,
       "coordinates": [
-        49.55,
-        18.34
+        49.61,
+        18.48
       ],
       "score": 58,
       "reasons": [
@@ -1126,7 +1126,7 @@
       "match": false,
       "new": false,
       "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-okres-frydek-mistek/24775151",
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-raskovice-okres-frydek-mistek/24777369",
         "fetched": "2026-11-06",
         "ok": true,
         "title": null,
@@ -1254,19 +1254,19 @@
       }
     },
     {
-      "id": "realingo_24774279",
-      "title": "Rodinny dum, Ostravice",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice/24774279",
+      "id": "realingo_24775151",
+      "title": "Rodinny dum, Čeladná",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-okres-frydek-mistek/24775151",
       "portal": "realingo",
       "price": null,
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "added": "2026-11-04",
+      "location": "Čeladná",
+      "location_id": "celadna",
+      "added": "2026-11-06",
       "price_history": [],
       "area_m2": null,
       "coordinates": [
-        49.54,
-        18.39
+        49.55,
+        18.34
       ],
       "score": 58,
       "reasons": [
@@ -1279,8 +1279,8 @@
       "match": false,
       "new": false,
       "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice/24774279",
-        "fetched": "2026-11-04",
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-okres-frydek-mistek/24775151",
+        "fetched": "2026-11-06",
         "ok": true,
         "title": null,
         "price": null,
