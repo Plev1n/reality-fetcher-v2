@@ -1,10 +1,122 @@
 {
-  "generated": "2026-11-07T20:22:59.907626+00:00",
+  "generated": "2026-11-08T12:01:36.662601+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "sreality_2309685324",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 2004 m²",
+      "location": "Chlebovice",
+      "location_id": "chlebovice",
+      "coordinates": [
+        49.6557453974167,
+        18.2836099364547
+      ],
+      "area_m2": 2004,
+      "price": 6212400,
+      "price_per_m2": 3100,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/frydek-mistek/2309685324",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 6212400
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_3289055308",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1386 m²",
+      "location": "Chlebovice",
+      "location_id": "chlebovice",
+      "coordinates": [
+        49.6557453974167,
+        18.2836099364547
+      ],
+      "area_m2": 1386,
+      "price": 4712400,
+      "price_per_m2": 3400,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/frydek-mistek/3289055308",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 4712400
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_708509772",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 999 m²",
+      "location": "Chlebovice",
+      "location_id": "chlebovice",
+      "coordinates": [
+        49.6557453974167,
+        18.2836099364547
+      ],
+      "area_m2": 999,
+      "price": 3396600,
+      "price_per_m2": 3400,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/frydek-mistek/708509772",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 3396600
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_3929735244",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1005 m²",
+      "location": "Chlebovice",
+      "location_id": "chlebovice",
+      "coordinates": [
+        49.6557453974167,
+        18.2836099364547
+      ],
+      "area_m2": 1005,
+      "price": 3014000,
+      "price_per_m2": 2999,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/frydek-mistek/3929735244",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 3014000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "sreality_1306071116",
       "status": "active",
@@ -212,118 +324,6 @@
       "added": "2026-11-02",
       "updated": "2026-11-02",
       "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_2309685324",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 2004 m²",
-      "location": "Chlebovice",
-      "location_id": "chlebovice",
-      "coordinates": [
-        49.6557453974167,
-        18.2836099364547
-      ],
-      "area_m2": 2004,
-      "price": 6212400,
-      "price_per_m2": 3100,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/frydek-mistek/2309685324",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 6212400
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_3289055308",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1386 m²",
-      "location": "Chlebovice",
-      "location_id": "chlebovice",
-      "coordinates": [
-        49.6557453974167,
-        18.2836099364547
-      ],
-      "area_m2": 1386,
-      "price": 4712400,
-      "price_per_m2": 3400,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/frydek-mistek/3289055308",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 4712400
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_708509772",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 999 m²",
-      "location": "Chlebovice",
-      "location_id": "chlebovice",
-      "coordinates": [
-        49.6557453974167,
-        18.2836099364547
-      ],
-      "area_m2": 999,
-      "price": 3396600,
-      "price_per_m2": 3400,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/frydek-mistek/708509772",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 3396600
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_3929735244",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1005 m²",
-      "location": "Chlebovice",
-      "location_id": "chlebovice",
-      "coordinates": [
-        49.6557453974167,
-        18.2836099364547
-      ],
-      "area_m2": 1005,
-      "price": 3014000,
-      "price_per_m2": 2999,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/frydek-mistek/3929735244",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 3014000
-        }
-      ],
       "removed_date": null
     },
     {
