@@ -1,10 +1,150 @@
 {
-  "generated": "2026-11-08T12:01:36.662601+00:00",
+  "generated": "2026-11-08T20:35:18.995373+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
+    {
+      "id": "bazos_226170033",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 1570 m², Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1570,
+      "price": 4021550,
+      "price_per_m2": 2561,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/226170033/prodej-pozemku-k-bydleni-1570-m-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-11-08",
+      "updated": "2026-11-08",
+      "price_history": [
+        {
+          "date": "2026-11-08",
+          "price": 4021550
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_3114361676",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 300 m², pozemek 1035 m²",
+      "location": "Chlebovice",
+      "location_id": "chlebovice",
+      "coordinates": [
+        49.6545444315976,
+        18.2795110866086
+      ],
+      "area_m2": 1035,
+      "price": 5800000,
+      "price_per_m2": 5604,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3114361676",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-08",
+      "price_history": [
+        {
+          "date": "2026-11-08",
+          "price": 5800000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_1244364876",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1875 m²",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        49.62335,
+        18.390603
+      ],
+      "area_m2": 1875,
+      "price": 3990000,
+      "price_per_m2": 2128,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/janovice/1244364876",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 3990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_4264955980",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 3667 m²",
+      "location": "Bruzovice",
+      "location_id": "bruzovice",
+      "coordinates": [
+        49.7169968062336,
+        18.4096427791006
+      ],
+      "area_m2": 3667,
+      "price": 3500000,
+      "price_per_m2": 954,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/bruzovice/4264955980",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 3500000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_290332748",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1811 m²",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7206124782539,
+        18.3701711785476
+      ],
+      "area_m2": 1811,
+      "price": 3121000,
+      "price_per_m2": 1723,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/sedliste/290332748",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 3121000
+        }
+      ],
+      "removed_date": null
+    },
     {
       "id": "sreality_2309685324",
       "status": "active",
@@ -164,34 +304,6 @@
         {
           "date": "2026-11-02",
           "price": 3000000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_1244364876",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1875 m²",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        49.62335,
-        18.390603
-      ],
-      "area_m2": 1875,
-      "price": 3990000,
-      "price_per_m2": 2128,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/janovice/1244364876",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 3990000
         }
       ],
       "removed_date": null
@@ -403,34 +515,6 @@
       "added": "2026-11-02",
       "updated": "2026-11-02",
       "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_290332748",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1811 m²",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7206124782539,
-        18.3701711785476
-      ],
-      "area_m2": 1811,
-      "price": 3121000,
-      "price_per_m2": 1723,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/sedliste/290332748",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 3121000
-        }
-      ],
       "removed_date": null
     },
     {
@@ -1371,34 +1455,6 @@
         {
           "date": "2026-11-02",
           "price": 3996000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_4264955980",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 3667 m²",
-      "location": "Bruzovice",
-      "location_id": "bruzovice",
-      "coordinates": [
-        49.7169968062336,
-        18.4096427791006
-      ],
-      "area_m2": 3667,
-      "price": 3500000,
-      "price_per_m2": 954,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/bruzovice/4264955980",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 3500000
         }
       ],
       "removed_date": null
@@ -4557,29 +4613,6 @@
       "removed_date": null
     },
     {
-      "id": "sreality_3114361676",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 300 m², pozemek 1035 m²",
-      "location": "Chlebovice",
-      "location_id": "chlebovice",
-      "coordinates": [
-        49.6545444315976,
-        18.2795110866086
-      ],
-      "area_m2": 1035,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3114361676",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "sreality_1589199436",
       "status": "active",
       "type": "dum",
@@ -6310,6 +6343,29 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10204793",
       "status": "active",
       "type": "pozemek",
@@ -6375,29 +6431,6 @@
           "price": 9890000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {

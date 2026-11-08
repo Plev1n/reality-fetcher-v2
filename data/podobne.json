@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T12:01:38.009015+00:00",
+  "generated": "2026-11-08T20:35:19.278702+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -560,6 +560,62 @@
       }
     },
     {
+      "id": "sreality_3114361676",
+      "title": "Prodej rodinného domu 300 m², pozemek 1035 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3114361676",
+      "portal": "sreality",
+      "price": 5800000,
+      "location": "Chlebovice",
+      "location_id": "chlebovice",
+      "added": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-08",
+          "price": 5800000
+        }
+      ],
+      "area_m2": 1035,
+      "coordinates": [
+        49.6545444315976,
+        18.2795110866086
+      ],
+      "score": 75,
+      "reasons": [
+        "cena 5,80 mil. ✓",
+        "užitná 300 m² ✗",
+        "pozemek 1 035 m² ✓",
+        "5 pokojů ✓",
+        "obec ✓"
+      ],
+      "match": true,
+      "new": false,
+      "details": {
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3114361676",
+        "fetched": "2026-11-02",
+        "ok": true,
+        "title": "Prodej rodinného domu 300 m², pozemek 1035 m²",
+        "price": null,
+        "location": "Frýdek-Místek - Chlebovice",
+        "usable_area": 300,
+        "plot_area": 1035,
+        "built_area": 211,
+        "rooms": 5,
+        "disposition": null,
+        "year_built": null,
+        "condition": "velmi dobrý",
+        "construction": "cihlová",
+        "heating": "kotel na tuhá paliva, kamna, jiné",
+        "sewer": "veřejná kanalizace, septik",
+        "gas": true,
+        "penb": "G",
+        "agency": null,
+        "ref_number": "10202",
+        "listed_since": "2026-02-23",
+        "old_price": null,
+        "description": "Nově Vám ve výhradním zastoupení majitelů nabízíme k prodeji \"dvougenerační\" celopodsklepený rodinný dům o dispozicích 3+1 a 2+1  v klidné místní části Frýdku Místku - Chlebovicích. Mimo tyto \"bytové jednotky\" jsou zde navíc dva pokoje v podkroví a velká půda. Dům  od jeho výstavby v roce 1960 prošel mnoha úpravami a v roce 1980 byla postavena přístavba. Díky tomu jsou bytové jednotky plnohodnotné a každá má svou vlastní kuchyni i koupelnu. V suterénu domu pak najdeme garáž, vinný sklípek s krbem, sklad a zázemí pro kotel a tuhá paliva. Vytápění domu je kombinované a to plynem, jehož kotel má cca 5 let a zmíněnými tuhými palivy. Na domě měněna krytina z části za plechovou, ale převážně za pálenou tašku před 10ti lety. Pod zaizolovanou střechou je v levé části domu půda, která nabízí možnost vybudování velkého pokoje. Na zahradě, která obepíná dům ze tří stran najdeme mimo jiné ovocné stromy, skleník na pěstování různých plodin a místo zde najde i bazén. K domu je možné přikoupit i cihlovou podsklepenou stodolu, kterou lze využít jako sklad v současném stavu, nebo přebudovat na dvojgaráž, případně i domek na patro. Stodola je součástí pozemku o výměře 129 m2 na které lze před stavbou zaparkovat i dvě auta... V rekonstrukci této nemovitosti Vám může výrazně pomoci dotace z dotačního titulu \"DŮM PO BABIČCE\", kde lze načerpat více jak 50% PROINVESTOVANÝCH NÁKLADŮ na opravy. S vyřízením dotace UMÍME POMOCI. Více informací u makléře."
+      }
+    },
+    {
       "id": "sreality_1806041164",
       "title": "Prodej rodinného domu 176 m², pozemek 1005 m²",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/raskovice/1806041164",
@@ -823,57 +879,6 @@
         "listed_since": "2026-05-31",
         "old_price": null,
         "description": "Prodej novostavby rodinného domu – Sedliště u Frýdku-Místku\n\nNabízíme k prodeji moderní novostavbu rodinného domu v atraktivní a klidné lokalitě Sedliště, pouhé 3 km od Frýdek-Místek.\n\nDům stojí na prostorném pozemku o výměře 1 700 m², který poskytuje dostatek soukromí i prostoru pro relaxaci, zahradu či rodinné aktivity.\n\nHlavní přednosti nemovitosti\n\n* moderní novostavba v klidné lokalitě v blízkosti města\n* pozemek 1 700 m² s velkorysým prostorem\n* fotovoltaická elektrárna 7,7 kWp (střídač GoodWe 8 kW, panely 550 Wp)\n* kvalitní okna s izolačními trojskly\n* 4 parkovací stání přímo u domu\n* výborná dostupnost do Frýdku-Místku a kompletní občanská vybavenost v dosahu\n\nVelkou výhodou je kombinace klidného bydlení v přírodě s rychlou dostupností do města.\n¨\nZkolaudováno 12.10 2026 \n\nZastavěná plocha : 142 m2\nUžitková plocha : 115 m2\n\n\n\n\nNa vedlejší parcele nabízíme k prodeji hrubou stavbu totožného projektu za cenu 7 800 000 Kč. Jedná se o stejný dům se stejnou dispozicí a architektonickým řešením, který si nový majitel může dokončit podle vlastních představ"
-      }
-    },
-    {
-      "id": "sreality_3114361676",
-      "title": "Prodej rodinného domu 300 m², pozemek 1035 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3114361676",
-      "portal": "sreality",
-      "price": null,
-      "location": "Chlebovice",
-      "location_id": "chlebovice",
-      "added": "2026-11-02",
-      "price_history": [],
-      "area_m2": 1035,
-      "coordinates": [
-        49.6545444315976,
-        18.2795110866086
-      ],
-      "score": 62,
-      "reasons": [
-        "cena neuvedena",
-        "užitná 300 m² ✗",
-        "pozemek 1 035 m² ✓",
-        "5 pokojů ✓",
-        "obec ✓"
-      ],
-      "match": true,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3114361676",
-        "fetched": "2026-11-02",
-        "ok": true,
-        "title": "Prodej rodinného domu 300 m², pozemek 1035 m²",
-        "price": null,
-        "location": "Frýdek-Místek - Chlebovice",
-        "usable_area": 300,
-        "plot_area": 1035,
-        "built_area": 211,
-        "rooms": 5,
-        "disposition": null,
-        "year_built": null,
-        "condition": "velmi dobrý",
-        "construction": "cihlová",
-        "heating": "kotel na tuhá paliva, kamna, jiné",
-        "sewer": "veřejná kanalizace, septik",
-        "gas": true,
-        "penb": "G",
-        "agency": null,
-        "ref_number": "10202",
-        "listed_since": "2026-02-23",
-        "old_price": null,
-        "description": "Nově Vám ve výhradním zastoupení majitelů nabízíme k prodeji \"dvougenerační\" celopodsklepený rodinný dům o dispozicích 3+1 a 2+1  v klidné místní části Frýdku Místku - Chlebovicích. Mimo tyto \"bytové jednotky\" jsou zde navíc dva pokoje v podkroví a velká půda. Dům  od jeho výstavby v roce 1960 prošel mnoha úpravami a v roce 1980 byla postavena přístavba. Díky tomu jsou bytové jednotky plnohodnotné a každá má svou vlastní kuchyni i koupelnu. V suterénu domu pak najdeme garáž, vinný sklípek s krbem, sklad a zázemí pro kotel a tuhá paliva. Vytápění domu je kombinované a to plynem, jehož kotel má cca 5 let a zmíněnými tuhými palivy. Na domě měněna krytina z části za plechovou, ale převážně za pálenou tašku před 10ti lety. Pod zaizolovanou střechou je v levé části domu půda, která nabízí možnost vybudování velkého pokoje. Na zahradě, která obepíná dům ze tří stran najdeme mimo jiné ovocné stromy, skleník na pěstování různých plodin a místo zde najde i bazén. K domu je možné přikoupit i cihlovou podsklepenou stodolu, kterou lze využít jako sklad v současném stavu, nebo přebudovat na dvojgaráž, případně i domek na patro. Stodola je součástí pozemku o výměře 129 m2 na které lze před stavbou zaparkovat i dvě auta... V rekonstrukci této nemovitosti Vám může výrazně pomoci dotace z dotačního titulu \"DŮM PO BABIČCE\", kde lze načerpat více jak 50% PROINVESTOVANÝCH NÁKLADŮ na opravy. S vyřízením dotace UMÍME POMOCI. Více informací u makléře."
       }
     },
     {
