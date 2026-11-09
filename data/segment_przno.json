@@ -1,0 +1,51 @@
+{
+  "segment": {
+    "slug": "segment_przno",
+    "name": "Domy jako Pržno 144: 100–160 m² užitné, pozemek ≥ 900 m², 4–7 mil. Kč (monitorovaná oblast FM)",
+    "area": "fm",
+    "type": "dum",
+    "price": {
+      "min": 4000000,
+      "max": 7000000
+    },
+    "usable_area": {
+      "min": 100,
+      "max": 160
+    },
+    "plot_min": 900,
+    "watch_ids": [
+      "sreality_1654624332",
+      "sreality_3488219212"
+    ]
+  },
+  "snapshots": [
+    {
+      "date": "2026-11-09",
+      "count": 10,
+      "count_with_area": 10,
+      "median_price": 5350000,
+      "median_ppm": 43732,
+      "p25_ppm": 39826,
+      "p75_ppm": 51039,
+      "median_ppm_before_renovation": 42675,
+      "price_cuts": 0,
+      "new_30d": 9,
+      "watch": {
+        "sreality_1654624332": 5500000,
+        "sreality_3488219212": 5990000
+      },
+      "listings": {
+        "sreality_4193932108": 5121000,
+        "sreality_2906263628": 6136000,
+        "sreality_3701604428": 5200000,
+        "sreality_1654624332": 5500000,
+        "sreality_3488219212": 5990000,
+        "sreality_3505721420": 4990000,
+        "sreality_1444679756": 6900000,
+        "sreality_2188382284": 4450000,
+        "sreality_3294769228": 4390000,
+        "realingo_24484254": 6300000
+      }
+    }
+  ]
+}

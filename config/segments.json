@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "segment_przno",
+    "name": "Domy jako Pržno 144: 100–160 m² užitné, pozemek ≥ 900 m², 4–7 mil. Kč (monitorovaná oblast FM)",
+    "area": "fm",
+    "type": "dum",
+    "price": {
+      "min": 4000000,
+      "max": 7000000
+    },
+    "usable_area": {
+      "min": 100,
+      "max": 160
+    },
+    "plot_min": 900,
+    "watch_ids": [
+      "sreality_1654624332",
+      "sreality_3488219212"
+    ]
+  },
+  {
+    "slug": "segment_przno_okres",
+    "name": "Domy jako Pržno 144: 100–160 m² užitné, pozemek ≥ 900 m², 4–7 mil. Kč (celý okres FM, Sreality)",
+    "area": "fm",
+    "type": "dum",
+    "price": {
+      "min": 4000000,
+      "max": 7000000
+    },
+    "usable_area": {
+      "min": 100,
+      "max": 160
+    },
+    "plot_min": 900,
+    "watch_ids": [
+      "sreality_1654624332",
+      "sreality_3488219212"
+    ],
+    "source": "sreality_district"
+  }
+]

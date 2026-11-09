@@ -149,6 +149,14 @@ def main():
     except Exception as e:
         print(f"  similar: ERROR - {e}")
 
+    # Market-segment time series (runs after similar so the details cache is fresh)
+    print("\nMarket segments:")
+    try:
+        from src.market.segment import run_segments
+        run_segments()
+    except Exception as e:
+        print(f"  segments: ERROR - {e}")
+
     print("\nDone!")
 
 
