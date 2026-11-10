@@ -1,62 +1,62 @@
 {
-  "generated": "2026-11-09T13:55:28.399926+00:00",
+  "generated": "2026-11-10T00:19:32.512906+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "sreality_1298206796",
+      "id": "sreality_2312908876",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 3+1 66 m²",
+      "title": "Prodej bytu 1+1 32 m²",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
-        49.832588928866,
-        18.16966187999
+        49.843816,
+        18.16446
       ],
-      "area_m2": 166,
-      "price": 3899000,
-      "price_per_m2": 23488,
+      "area_m2": 132,
+      "price": 2750000,
+      "price_per_m2": 20833,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1298206796",
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/2312908876",
       "portal": "sreality",
-      "added": "2026-11-09",
-      "updated": "2026-11-09",
+      "added": "2026-11-10",
+      "updated": "2026-11-10",
       "price_history": [
         {
-          "date": "2026-11-09",
-          "price": 3899000
+          "date": "2026-11-10",
+          "price": 2750000
         }
       ],
       "removed_date": null
     },
     {
-      "id": "bazos_224522146",
+      "id": "sreality_384434252",
       "status": "active",
       "type": "byt",
-      "title": "Prodej družstevního bytu 2+1, Matěje Kopeckého",
+      "title": "Prodej bytu 1+kk 28 m²",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
-        49.8361,
-        18.1694
+        49.835428,
+        18.180228
       ],
-      "area_m2": 55,
-      "price": 3090000,
-      "price_per_m2": 56182,
+      "area_m2": 28,
+      "price": 1899000,
+      "price_per_m2": 67821,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/224522146/prodej-druzstevniho-bytu-21-mateje-kopeckeho.php",
-      "portal": "bazos",
-      "added": "2026-11-09",
-      "updated": "2026-11-09",
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/384434252",
+      "portal": "sreality",
+      "added": "2026-11-10",
+      "updated": "2026-11-10",
       "price_history": [
         {
-          "date": "2026-11-09",
-          "price": 3090000
+          "date": "2026-11-10",
+          "price": 1899000
         }
       ],
       "removed_date": null
@@ -90,29 +90,29 @@
       "removed_date": null
     },
     {
-      "id": "sreality_1307181132",
+      "id": "sreality_1298206796",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 1+kk 28 m²",
+      "title": "Prodej bytu 3+1 66 m²",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
-        49.833963,
-        18.177005
+        49.832588928866,
+        18.16966187999
       ],
-      "area_m2": 28,
-      "price": 2550000,
-      "price_per_m2": 91071,
+      "area_m2": 166,
+      "price": 3899000,
+      "price_per_m2": 23488,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1307181132",
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1298206796",
       "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
+      "added": "2026-11-09",
+      "updated": "2026-11-09",
       "price_history": [
         {
-          "date": "2026-11-02",
-          "price": 2550000
+          "date": "2026-11-09",
+          "price": 3899000
         }
       ],
       "removed_date": null
@@ -691,6 +691,34 @@
         {
           "date": "2026-11-02",
           "price": 3490000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_224522146",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej družstevního bytu 2+1, Matěje Kopeckého",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 55,
+      "price": 3090000,
+      "price_per_m2": 56182,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/224522146/prodej-druzstevniho-bytu-21-mateje-kopeckeho.php",
+      "portal": "bazos",
+      "added": "2026-11-09",
+      "updated": "2026-11-09",
+      "price_history": [
+        {
+          "date": "2026-11-09",
+          "price": 3090000
         }
       ],
       "removed_date": null
@@ -5962,6 +5990,34 @@
         }
       ],
       "removed_date": "2026-11-08"
+    },
+    {
+      "id": "sreality_1307181132",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 1+kk 28 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.833963,
+        18.177005
+      ],
+      "area_m2": 28,
+      "price": 2550000,
+      "price_per_m2": 91071,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1307181132",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 2550000
+        }
+      ],
+      "removed_date": "2026-11-10"
     }
   ]
 }
