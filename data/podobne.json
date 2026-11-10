@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T00:19:33.837568+00:00",
+  "generated": "2026-11-10T13:30:31.479852+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -506,6 +506,62 @@
         "listed_since": "2026-10-19",
         "old_price": null,
         "description": "Ve výhradním zastoupení majitele nabízíme k prodeji rodinný dům se zahradou v centru obce Baška u Frýdku-Místku, situovaný na rovinatém pozemku o celkové výměře 1 385 m².\r\nPředností této nabídky je spojení velkého pozemku, přímo v centru obce a současně dobré dostupnosti do okolních měst i nedalekých Beskyd.\r\n\r\nPozemek tvoří 416 m² zastavěné plochy a nádvoří a 969 m² zahrady, celkem tedy 1 385 m².\r\nSoučástí pozemku je rodinný dům a navazující vedlejší stavby (garáž, dílna). Dům se nachází ve slepé, neprůjezdné ulici, přitom v dosahu běžné občanské vybavenosti.\r\n\r\nStávající rodinný dům je určen ke kompletní rekonstrukci. Je potřeba počítat s celkovou obnovou technického stavu, zejména rozvodů a napojení elektřiny, vody a kanalizace, dále s výměnou oken, dveří, s opravou a zateplením střechy, a s dalšími stavebními zásahy. Na hranici pozemku je přiveden plyn, takže lze vybudovat do domu přípojku.\r\nSoučástí domu je také půdní prostor, který dnes slouží pouze jako sklad. Při kompletní rekonstrukci se nabízí možnost její přestavby a tím rozšíření obytné části domu o další místnosti. Konkrétní rozsah využití podkroví bude záviset na stavebně-technickém posouzení konstrukcí, dispozičním řešení a splnění příslušných stavebních požadavků.\r\n\r\nPrávě tento stav nemovitosti (ke kompletní rekonstrukci) však dává možnost pojmout budoucí bydlení skutečně od základu podle vlastních představ – bez nutnosti přizpůsobovat se stávající dispozici domu a z toho plynoucích kompromisů.\r\nTakže alternativou k rekonstrukci, může být i rozhodnutí o odstranění stávajícího domu a realizaci nového rodinného domu. Nemovitost se podle aktuálního Územního plánu nachází v ploše SV – smíšené obytné venkovské, kde jsou rodinné domy hlavním způsobem využití. Konkrétní nový stavební záměr by však podléhal příslušnému povolovacímu procesu a posouzení místních regulativů a ochranných pásem.\r\n\r\nVýhodou nabízené nemovitosti je samotná poloha v centru obce. V obci je dostupná obvyklá občanská vybavenost – obecní úřad, základní škola, mateřská škola, knihovna, obchod, praktický lékař a další běžné služby.\r\nObec Baška zároveň nabízí velmi dobrou polohu mezi Frýdkem-Místkem a Beskydami. Rychle dostupný je nejen Frýdek-Místek, ale také Frýdlant nad Ostravicí, nebo další oblíbené podhorské lokality, Čeladná a Ostravice.\r\nNedaleko pozemku se nachází oblíbená rekreační oblast - vodní nádrž Baška, vhodná ke koupání a vodním sportům. Procházky, nebo cykloturistika v okolí řeky Ostravice, která protéká obcí je dalším bonusem této lokality a během několika minut jízdy se dostanete přímo do Beskyd.\r\n\r\nTato nemovitost proto dává smysl především tomu, kdo nehledá hotový dům, ale zajímavé místo a dostatek prostoru, kde bude mít možnost vytvořit si budoucí bydlení přesně podle vlastních představ."
+      }
+    },
+    {
+      "id": "sreality_546926668",
+      "title": "Prodej rodinného domu 94 m², pozemek 1126 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydlant-nad-ostravici/546926668",
+      "portal": "sreality",
+      "price": 6499000,
+      "location": "Frýdlant-Nová Ves",
+      "location_id": "frydlant_nova_ves",
+      "added": "2026-11-10",
+      "price_history": [
+        {
+          "date": "2026-11-10",
+          "price": 6499000
+        }
+      ],
+      "area_m2": 1126,
+      "coordinates": [
+        49.5775875243196,
+        18.3720613796926
+      ],
+      "score": 82,
+      "reasons": [
+        "cena 6,50 mil. ✓",
+        "užitná 94 m² ~",
+        "pozemek 1 126 m² ✓",
+        "4 pokoje ✓",
+        "obec ✓"
+      ],
+      "match": true,
+      "new": true,
+      "details": {
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydlant-nad-ostravici/546926668",
+        "fetched": "2026-11-10",
+        "ok": true,
+        "title": "Prodej rodinného domu 94 m², pozemek 1126 m²",
+        "price": 6499000,
+        "location": "Frýdlant nad Ostravicí - Nová Ves",
+        "usable_area": 94,
+        "plot_area": 1126,
+        "built_area": 121,
+        "rooms": 4,
+        "disposition": null,
+        "year_built": null,
+        "condition": "ve výstavbě",
+        "construction": "cihlová",
+        "heating": "tepelné čerpadlo",
+        "sewer": "jímka",
+        "gas": false,
+        "penb": "G",
+        "agency": null,
+        "ref_number": "1599",
+        "listed_since": "2026-11-10",
+        "old_price": null,
+        "description": "Nabízíme k prodeji rozestavěný rodinný dům typu bungalov o dispozici 4+kk a užitné ploše 94,65 m², který se nachází v klidné části Nové Vsi u Frýdlantu nad Ostravicí. Dům stojí na pozemku o výměře 1 126 m² a nabízí příjemné zázemí pro rodinné bydlení v blízkosti přírody.\r\n\r\nProjekt počítá s praktickým uspořádáním, které tvoří obývací pokoj propojený s kuchyní, tři samostatné ložnice, koupelna s WC, samostatná toaleta, šatna a technická místnost. Na obytnou část navazuje plánovaná terasa, která nabídne prostor pro venkovní posezení.\r\n\r\nV současné době je dokončena základová deska, obvodové zdivo, střecha s antracitovou plechovou krytinou a osazena jsou plastová okna s trojskly a vstupní dveře. Dům je připraven na další fázi výstavby a dokončení podle představ nového majitele.\r\n\r\nProjekt počítá s tepelným čerpadlem, teplovodním podlahovým vytápěním a rekuperací. Zásobování vodou je plánováno z vrtané studny, na jejíž realizaci je vydáno povolení. Odpadní vody budou řešeny jímkou. Na pozemku se nachází elektrosloupek.\r\n\r\nK dispozici je projektová dokumentace a stavební povolení. Dokončení domu si nový majitel zajistí ve vlastní režii.\r\n\r\nPředností nemovitosti je klidné umístění v přírodním prostředí, dostatečně velký pozemek a možnost vytvořit si vlastní rodinné bydlení podle svých představ.\r\n\r\nV případě zájmu o bližší informace nebo prohlídku mě neváhejte kontaktovat. Rádi vám také zdarma zajistíme financování prostřednictvím našeho hypotečního specialisty."
       }
     },
     {
@@ -1047,6 +1103,57 @@
         "listed_since": null,
         "old_price": null,
         "description": "Dovolujeme si Vám nabídnout celopodsklepený rodinný dům 5+1 s garáží na ul. J. Opletala v Místku, nedaleko centra města. Dům má velmi dobré dispoziční řešení, v přízemí se nachází kuchyň, 2 místnosti, které jsou nyní spojeny v jednu, WC, ve 2. NP se nachází 3 pokoje, koupelna a WC. V suterénu domu jsou velké prostory, které lze využít jako dílny, úložné prostory nebo obytné místnosti. Součástí domu je garáž s kanálem. Dům je připraven k rekonstrukci dle představ nového majitele. U domu je dostatek prostoru pro parkování aut, v zadní části za domem zahrada. Dům má skvělou polohu, do centra Místku cca 10 min. pěšky, kde je veškerá občanská vybavenost. Díky své poloze je také vhodný jako sídlo firmy, nebo služby např. lékaři apod. Lokalita: J. Opletala, Místek Evidenční číslo: 955767 Energetická náročnost : Třída G - Mimořádně nehospodárná"
+      }
+    },
+    {
+      "id": "realingo_24781570",
+      "title": "Rodinny dum, Frýdlant nad Ostravicí",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-frydlant-nad-ostravici-okres-frydek-mistek/24781570",
+      "portal": "realingo",
+      "price": null,
+      "location": "Frýdlant nad Ostravicí",
+      "location_id": "frydlant",
+      "added": "2026-11-10",
+      "price_history": [],
+      "area_m2": null,
+      "coordinates": [
+        49.58,
+        18.36
+      ],
+      "score": 58,
+      "reasons": [
+        "cena neuvedena",
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "obec ✓",
+        "čeká na detail inzerátu"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-frydlant-nad-ostravici-okres-frydek-mistek/24781570",
+        "fetched": "2026-11-10",
+        "ok": true,
+        "title": null,
+        "price": null,
+        "location": null,
+        "usable_area": null,
+        "plot_area": null,
+        "built_area": null,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": null,
+        "sewer": null,
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": null
       }
     },
     {
@@ -2195,6 +2302,7 @@
   ],
   "new_ids": [
     "sreality_3347513420",
+    "sreality_546926668",
     "sreality_1806041164"
   ],
   "notified_ids": [
