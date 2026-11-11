@@ -1423,5 +1423,30 @@
     "listed_since": null,
     "old_price": null,
     "description": null
+  },
+  "realingo_24784498": {
+    "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-738-01/24784498",
+    "fetched": "2026-11-11",
+    "ok": true,
+    "title": null,
+    "price": null,
+    "location": null,
+    "usable_area": null,
+    "plot_area": null,
+    "built_area": null,
+    "rooms": null,
+    "disposition": null,
+    "year_built": null,
+    "condition": null,
+    "construction": null,
+    "heating": null,
+    "sewer": null,
+    "gas": null,
+    "penb": null,
+    "agency": null,
+    "ref_number": null,
+    "listed_since": null,
+    "old_price": null,
+    "description": null
   }
 }

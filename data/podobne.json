@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T12:42:44.915362+00:00",
+  "generated": "2026-11-11T22:53:37.513065+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -1003,18 +1003,18 @@
       }
     },
     {
-      "id": "realingo_24781042",
-      "title": "Rodinny dum, Dobrá",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-dobra-okres-frydek-mistek/24781042",
+      "id": "realingo_24773850",
+      "title": "Rodinny dum, Malenovice",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
       "portal": "realingo",
       "price": null,
-      "location": "Dobrá",
-      "location_id": "dobra",
-      "added": "2026-11-11",
+      "location": "Malenovice",
+      "location_id": "malenovice",
+      "added": "2026-11-04",
       "price_history": [],
       "area_m2": null,
       "coordinates": [
-        49.68,
+        49.58,
         18.41
       ],
       "score": 58,
@@ -1028,8 +1028,8 @@
       "match": false,
       "new": false,
       "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-dobra-okres-frydek-mistek/24781042",
-        "fetched": "2026-11-11",
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
+        "fetched": "2026-11-04",
         "ok": true,
         "title": null,
         "price": null,
@@ -1081,57 +1081,6 @@
       "details": {
         "url": "https://www.realingo.cz/prodej/dum-rodinny-frydlant-nad-ostravici-okres-frydek-mistek/24781570",
         "fetched": "2026-11-10",
-        "ok": true,
-        "title": null,
-        "price": null,
-        "location": null,
-        "usable_area": null,
-        "plot_area": null,
-        "built_area": null,
-        "rooms": null,
-        "disposition": null,
-        "year_built": null,
-        "condition": null,
-        "construction": null,
-        "heating": null,
-        "sewer": null,
-        "gas": null,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": null
-      }
-    },
-    {
-      "id": "realingo_24773850",
-      "title": "Rodinny dum, Malenovice",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
-      "portal": "realingo",
-      "price": null,
-      "location": "Malenovice",
-      "location_id": "malenovice",
-      "added": "2026-11-04",
-      "price_history": [],
-      "area_m2": null,
-      "coordinates": [
-        49.58,
-        18.41
-      ],
-      "score": 58,
-      "reasons": [
-        "cena neuvedena",
-        "užitná plocha neznámá",
-        "pozemek neznámý",
-        "obec ✓",
-        "čeká na detail inzerátu"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
-        "fetched": "2026-11-04",
         "ok": true,
         "title": null,
         "price": null,
@@ -1722,6 +1671,57 @@
       }
     },
     {
+      "id": "realingo_24784498",
+      "title": "Rodinny dum, Místek, Frýdek-Místek",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-738-01/24784498",
+      "portal": "realingo",
+      "price": null,
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "added": "2026-11-11",
+      "price_history": [],
+      "area_m2": null,
+      "coordinates": [
+        49.68,
+        18.34
+      ],
+      "score": 48,
+      "reasons": [
+        "cena neuvedena",
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "město ~",
+        "čeká na detail inzerátu"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-738-01/24784498",
+        "fetched": "2026-11-11",
+        "ok": true,
+        "title": null,
+        "price": null,
+        "location": null,
+        "usable_area": null,
+        "plot_area": null,
+        "built_area": null,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": null,
+        "sewer": null,
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": null
+      }
+    },
+    {
       "id": "bazos_224320106",
       "title": "Prodej rodinného domu Frýdlantská, Frýdek-Místek - Místek",
       "url": "https://reality.bazos.cz/inzerat/224320106/prodej-rodinneho-domu-frydlantska-frydek-mistek-mistek.php",
@@ -2092,57 +2092,6 @@
         "listed_since": "2026-08-04",
         "old_price": null,
         "description": "Špičkově vybavená novostavba rodinného domu z roku 2025 situovaná na téměř hektarovém pozemku v klidné části Čeladné. Architektonický koncept využívá kvalitních přírodních materiálů a díky unikátnímu krajinnému řešení nabízí dokonalé soukromí a úchvatné výhledy na zalesněné vrcholy Beskyd.\r\n\r\nProstorný dům s obytným podkrovím a suterénem je dispozičně rozdělen na několik funkčních zón. Společenský prostor v přízemí tvoří obývací pokoj s krbem a otevřeným stropem do krovu, na který navazuje jídelní část a kompletně vybavená kuchyně s ostrůvkem z masivního dubu a obkladem ze štípaného kamene. Celou místnost lemují velkoformátová hliníková okna s přímým vstupem na hlavní terasu. Z chodby je přístupná pracovna, opticky oddělená designovými skleněnými průhledy. Rodičovské apartmá disponuje walk-in šatnou na míru, koupelnou, toaletou a vstupem na privátní terasu. Dětské/hostinské křídlo nabízí 2 ložnice s přímým vstupem na zahradu, sdílenou koupelnu a prádelnu. V horním patře se nachází otevřená galerie s výhledem do obývacího pokoje a multifunkční pokoj prosvětlený střešními světlíky a štítovým oknem. Dále je zde samostatná koupelna s toaletou a vstup do podkroví. Soukromá wellness zóna s finskou a parní saunou, sprchou a odpočívárnou je umístěna v suterénu.\r\n\r\nVenkovní terasy jsou tvořeny velkoformátovou dlažbou, nechybí letní kuchyně, toaleta přístupná ze zahrady a příprava pro instalaci krytého vířivého bazénu (swim spa). Součástí domu je integrovaná garáž pro 2 auta. Na pozemku dále stojí patrová hospodářská budova se zasíťovanou dílnou, skladem zahradní techniky a úložným prostorem v patře. Rozlehlou zahradou protéká horský potok ústící do říčky a lemuje ji 2 metry vysoký hliněný val zarostlý zelení, který vytváří dokonalou optickou i hlukovou clonu. Travnatá plocha je připravena pro provoz GPS robotické sekačky.\r\n\r\nStavba kolaudovaná v roce 2025 splňuje nejvyšší nároky na energetickou efektivitu a technologické vybavení. Kompletní správa domu, osvětlení a všech technologií včetně optimalizace spotřeby je zajištěna smart home systémem Loxone s možností vzdáleného ovládání. Centrální rekuperace podporuje neustálý přísun čerstvého vzduchu, k tepelné pohodě přispívá podlahové vytápění rozvedené v celém objektu a individuálně regulovatelné klimatizační jednotky. Energeticky úsporné řešení představují tepelná čerpadla (vzduch-voda), FVE s výkonem 30 kWp a bateriovým úložištěm, vlastní studna a retenční nádrž na dešťovou vodu. Ekologická likvidace odpadních vod je vyřešena moderní čistírnou (ČOV). \r\n\r\nNemovitost se rozkládá na absolutně tichém místě na okraji obce obklopené čistou přírodou, zároveň s výbornou a rychlou dopravní dostupností do Ostravy a okolních měst. Čeladná je dlouhodobě považována za nejprestižnější adresu Beskyd, kterou proslavil prvotřídní golfový resort. Dnes obec nabízí také moderní centrum s novou radnicí a obchody, MŠ i ZŠ, prvotřídní restaurace a hotelové služby, pochlubit se může také vlastním rehabilitačním centrem. \r\n\r\nCelková plocha 925,27 m2 (z toho interiér 501.92 m2, terasy 337.85 m2, garáž 47.16 m2, zimní zahrada 38,34 m2), zahrada 8016 m2 a pozemek 9033 m2."
-      }
-    },
-    {
-      "id": "sreality_1589199436",
-      "title": "Prodej vily 241 m², pozemek 3528 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/vila/celadna/1589199436",
-      "portal": "sreality",
-      "price": null,
-      "location": "Čeladná",
-      "location_id": "celadna",
-      "added": "2026-11-02",
-      "price_history": [],
-      "area_m2": 3528,
-      "coordinates": [
-        49.5487309952681,
-        18.3375918140113
-      ],
-      "score": 38,
-      "reasons": [
-        "cena neuvedena",
-        "užitná 241 m² ✗",
-        "pozemek 3 528 m² ✗",
-        "5 pokojů ✓",
-        "obec ✓"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/vila/celadna/1589199436",
-        "fetched": "2026-11-02",
-        "ok": true,
-        "title": "Prodej vily 241 m², pozemek 3528 m²",
-        "price": null,
-        "location": "Čeladná",
-        "usable_area": 241,
-        "plot_area": 3528,
-        "built_area": 160,
-        "rooms": 5,
-        "disposition": null,
-        "year_built": null,
-        "condition": "velmi dobrý",
-        "construction": "cihlová",
-        "heating": null,
-        "sewer": "veřejná kanalizace, septik",
-        "gas": true,
-        "penb": "G",
-        "agency": null,
-        "ref_number": "202518232",
-        "listed_since": "2025-05-12",
-        "old_price": null,
-        "description": "Hledáte skutečně exkluzivní místo k bydlení pro vás a vaše nejbližší?\r\nBydlení, které zajistí komfort pro všechny,  nabízí spoustu dalších možností a zároveň budete obklopeni přírodou?\r\n\r\nRádi bychom vám nabídli ke koupi krásnou vilu nacházející se ve vyhledávané a rekreační oblasti podhůří Beskyd, v srdci a části obce Čeladná II.  \r\nČistý vzduch, kouzlo místní přírody, výhodná poloha a ke všemu dobrá dostupnost do okolních měst jako je Frýdek - Místek či Ostrava. Turistické vyžití, cyklostezky, lázeňské služby, golfová hřiště...to vše budete mít skutečně na dosah. \r\n\r\nPřízemí vily prošlo rozsáhlou rekonstrukcí, kdy vznikla prostorná bytová jednotka o dispozici 3+kk s jídelnou, vlastní koupelnou, toaletou a úžasnou terasou a lodžií s výhledem na celý pozemek.\r\nV přízemí se dále nachází prostor s vlastním vstupem, který v minulosti sloužil ke komerčním účelům ( 27 m² ), ale je ideální pro vybudovaní např. samostatné a vzdušné garsoniéry s vlastním sociálním zázemím. \r\nV druhém podlaží se dále nachází byt. jednotka o dispozici 2+1 a dva hostinské pokoje. Vše v původním a velmi udržovaném stavu. \r\nBonusem jsou zachovalé a využitelné půdní prostory, které nabízejí možnost rozšíření druhého podlaží. \r\nVe sklepní části je vám k dispozici vstup do jedné ze dvou garáží, technické zázemí domu, dostatek úložného prostoru a také společenská místnost, která láká k vybudování domácí vinotéky s posezením. \r\n\r\nOkrasná zahrada s ovocnými stromy a keři nabízí dostatek prostoru, soukromí, je zde také venkovní posezení pod pergolou se zděným grilem, osvětlením a oceníte zapuštěný, kruhový bazén.  Dále skleník a hospodářská budova. Za zahradou je vstup na další pozemek, který také k domu patří (viz. fotografie) a již v minulosti existoval záměr tento pozemek oddělit a využít jako samostatnou, stavební parcelu!\r\n\r\n Technické údaje:\r\n- zdrojem vytápění je plynový kotel\r\n- dům je napojen na obecní vodovod \r\n- odpad je aktuálně řešen septikem + trativod, avšak je možnost napojení na obecní kanalizaci (cca 5 m)\r\n- elektřina 220/380 V\r\n- svody a okapy v nerezu - ve velmi dobrém a udržovaném stavu\r\n- proběhla revitalizace celé fasády + plastová okna\r\n- celý dům je podsklepen a izolován nopovou fólií\r\n- na pozemku se nachází studna o hloubce cca 8m (skruže), využívána na napuštění bazénu\r\n- vyvložkované komíny\r\n- celý pozemek je oplocen\r\n- dvě zděné garáže a parkovací stání pod přístřeškem \r\n\r\nCo se týče občanské vybavenosti a infrastruktury tak vám nebude nic scházet.  \r\nMHD a železniční spojení fungují na výbornou, bezproblémové napojení na dálnici směr Frýdek-Místek a Ostrava, základní a mateřská škola se nacházejí přímo v obci, dále obchody, restaurace, kavárny, pošta a turistické atrakce.\r\n\r\nA hlavně wellness a rehabilitační centrum Lara spa pár kroků od domu!!!\r\nBudu se na vás těšit na osobní prohlídce, kde si tuto nemovitost určitě zamilujete!"
       }
     }
   ],
