@@ -1,94 +1,62 @@
 {
-  "generated": "2026-11-12T13:47:28.091529+00:00",
+  "generated": "2026-11-12T22:25:05.941354+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_226319086",
+      "id": "sreality_3531210828",
       "status": "active",
       "type": "dum",
-      "title": "Prodej dvougeneračního domu v Třinci",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
+      "title": "Prodej rodinného domu 80 m², pozemek 1019 m²",
+      "location": "Čeladná",
+      "location_id": "celadna",
       "coordinates": [
-        49.6878,
-        18.3498
+        49.5516025,
+        18.3336625
       ],
-      "area_m2": null,
-      "price": 6850000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/226319086/prodej-dvougeneracniho-domu-v-trinci.php",
-      "portal": "bazos",
-      "added": "2026-11-12",
-      "updated": "2026-11-12",
-      "price_history": [
-        {
-          "date": "2026-11-12",
-          "price": 6850000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24587258",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Baška Kunčičky u Bašky",
-      "location": "Kunčičky u Bašky",
-      "location_id": "kuncicky_u_basky",
-      "coordinates": [
-        49.647352806866,
-        18.358279975994
-      ],
-      "area_m2": 1198,
-      "price": 5990000,
-      "price_per_m2": 5000,
+      "area_m2": 1019,
+      "price": 8300000,
+      "price_per_m2": 8145,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-baska-kuncicky-u-basky/24587258",
-      "portal": "realingo",
-      "added": "2026-11-12",
-      "updated": "2026-11-12",
-      "price_history": [
-        {
-          "date": "2026-11-12",
-          "price": 5990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_3355250764",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1541 m²",
-      "location": "Pržno",
-      "location_id": "przno",
-      "coordinates": [
-        49.6134765834366,
-        18.3616103925137
-      ],
-      "area_m2": 1541,
-      "price": 3852500,
-      "price_per_m2": 2500,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/przno/3355250764",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/3531210828",
       "portal": "sreality",
       "added": "2026-11-02",
-      "updated": "2026-11-12",
+      "updated": "2026-11-02",
       "price_history": [
         {
           "date": "2026-11-02",
-          "price": 2500
-        },
+          "price": 8300000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_3927462476",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 200 m², pozemek 6556 m²",
+      "location": "Dobrá",
+      "location_id": "dobra",
+      "coordinates": [
+        49.6738314343408,
+        18.4139307614521
+      ],
+      "area_m2": 6556,
+      "price": 4300000,
+      "price_per_m2": 656,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/dobra/3927462476",
+      "portal": "sreality",
+      "added": "2026-11-03",
+      "updated": "2026-11-04",
+      "price_history": [
         {
-          "date": "2026-11-12",
-          "price": 3852500
+          "date": "2026-11-04",
+          "price": 4300000
         }
       ],
       "removed_date": null
@@ -1001,34 +969,6 @@
       "removed_date": null
     },
     {
-      "id": "sreality_3927462476",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 200 m², pozemek 6556 m²",
-      "location": "Dobrá",
-      "location_id": "dobra",
-      "coordinates": [
-        49.6738314343408,
-        18.4139307614521
-      ],
-      "area_m2": 6556,
-      "price": 4300000,
-      "price_per_m2": 656,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/dobra/3927462476",
-      "portal": "sreality",
-      "added": "2026-11-03",
-      "updated": "2026-11-04",
-      "price_history": [
-        {
-          "date": "2026-11-04",
-          "price": 4300000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "sreality_2412720204",
       "status": "active",
       "type": "dum",
@@ -1105,34 +1045,6 @@
       "added": "2026-11-02",
       "updated": "2026-11-02",
       "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_3531210828",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 80 m², pozemek 1019 m²",
-      "location": "Čeladná",
-      "location_id": "celadna",
-      "coordinates": [
-        49.5516025,
-        18.3336625
-      ],
-      "area_m2": 1019,
-      "price": 8300000,
-      "price_per_m2": 8145,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/3531210828",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 8300000
-        }
-      ],
       "removed_date": null
     },
     {
@@ -3228,34 +3140,6 @@
       "removed_date": null
     },
     {
-      "id": "sreality_415625292",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1297 m²",
-      "location": "Metylovice",
-      "location_id": "metylovice",
-      "coordinates": [
-        49.6066588043964,
-        18.3391167574802
-      ],
-      "area_m2": 1297,
-      "price": 3900000,
-      "price_per_m2": 3007,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/metylovice/415625292",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 3900000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "sreality_3088257100",
       "status": "active",
       "type": "pozemek",
@@ -3276,6 +3160,38 @@
       "added": "2026-11-03",
       "updated": "2026-11-03",
       "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_3355250764",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1541 m²",
+      "location": "Pržno",
+      "location_id": "przno",
+      "coordinates": [
+        49.6134765834366,
+        18.3616103925137
+      ],
+      "area_m2": 1541,
+      "price": 3852500,
+      "price_per_m2": 2500,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/przno/3355250764",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-12",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 2500
+        },
+        {
+          "date": "2026-11-12",
+          "price": 3852500
+        }
+      ],
       "removed_date": null
     },
     {
@@ -4631,6 +4547,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_226319086",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej dvougeneračního domu v Třinci",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 6850000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/226319086/prodej-dvougeneracniho-domu-v-trinci.php",
+      "portal": "bazos",
+      "added": "2026-11-12",
+      "updated": "2026-11-12",
+      "price_history": [
+        {
+          "date": "2026-11-12",
+          "price": 6850000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_226259212",
       "status": "active",
       "type": "dum",
@@ -5587,6 +5531,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_223935349",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 1297 m², Metylovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1297,
+      "price": 3900000,
+      "price_per_m2": 3007,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/223935349/prodej-pozemku-k-bydleni-1297-m-metylovice.php",
+      "portal": "bazos",
+      "added": "2026-09-17",
+      "updated": "2026-09-17",
+      "price_history": [
+        {
+          "date": "2026-09-17",
+          "price": 3900000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_224693468",
       "status": "active",
       "type": "pozemek",
@@ -5985,6 +5957,34 @@
       "removed_date": null
     },
     {
+      "id": "realingo_24587258",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Baška Kunčičky u Bašky",
+      "location": "Kunčičky u Bašky",
+      "location_id": "kuncicky_u_basky",
+      "coordinates": [
+        49.647352806866,
+        18.358279975994
+      ],
+      "area_m2": 1198,
+      "price": 5990000,
+      "price_per_m2": 5000,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-baska-kuncicky-u-basky/24587258",
+      "portal": "realingo",
+      "added": "2026-11-12",
+      "updated": "2026-11-12",
+      "price_history": [
+        {
+          "date": "2026-11-12",
+          "price": 5990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "realingo_24517678",
       "status": "active",
       "type": "dum",
@@ -6022,6 +6022,29 @@
           "price": 8300000
         }
       ],
+      "removed_date": null
+    },
+    {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -6146,29 +6169,6 @@
           "price": 3250000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -21792,34 +21792,6 @@
       "removed_date": "2026-11-02"
     },
     {
-      "id": "bazos_223935349",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, 1297 m², Metylovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1297,
-      "price": 3900000,
-      "price_per_m2": 3007,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/223935349/prodej-pozemku-k-bydleni-1297-m-metylovice.php",
-      "portal": "bazos",
-      "added": "2026-09-17",
-      "updated": "2026-09-17",
-      "price_history": [
-        {
-          "date": "2026-09-17",
-          "price": 3900000
-        }
-      ],
-      "removed_date": "2026-11-02"
-    },
-    {
       "id": "bazos_223811445",
       "status": "removed",
       "type": "pozemek",
@@ -24826,6 +24798,34 @@
         {
           "date": "2026-06-29",
           "price": 6300000
+        }
+      ],
+      "removed_date": "2026-11-12"
+    },
+    {
+      "id": "sreality_415625292",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1297 m²",
+      "location": "Metylovice",
+      "location_id": "metylovice",
+      "coordinates": [
+        49.6066588043964,
+        18.3391167574802
+      ],
+      "area_m2": 1297,
+      "price": 3900000,
+      "price_per_m2": 3007,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/metylovice/415625292",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 3900000
         }
       ],
       "removed_date": "2026-11-12"
