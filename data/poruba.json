@@ -1,31 +1,96 @@
 {
-  "generated": "2026-11-11T22:53:37.097857+00:00",
+  "generated": "2026-11-12T13:47:28.362979+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
     {
-      "id": "sreality_1083052108",
+      "id": "sreality_2401243212",
       "status": "active",
       "type": "byt",
-      "title": "Prodej bytu 3+1 65 m²",
+      "title": "Prodej bytu 2+1 59 m²",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
-        49.8228531297041,
-        18.1887874093161
+        49.8270701388683,
+        18.1647102955044
       ],
-      "area_m2": 165,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
+      "area_m2": 159,
+      "price": 3432000,
+      "price_per_m2": 21585,
+      "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1083052108",
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/2401243212",
       "portal": "sreality",
-      "added": "2026-11-11",
-      "updated": "2026-11-11",
-      "price_history": [],
+      "added": "2026-11-12",
+      "updated": "2026-11-12",
+      "price_history": [
+        {
+          "date": "2026-11-12",
+          "price": 3432000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_1091965004",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+kk 25 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.827016,
+        18.192998
+      ],
+      "area_m2": 25,
+      "price": 2590000,
+      "price_per_m2": 103600,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1091965004",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-12",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 2750000
+        },
+        {
+          "date": "2026-11-12",
+          "price": 2590000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_683933772",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 3+1 69 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8428406533938,
+        18.1799705282627
+      ],
+      "area_m2": 169,
+      "price": 4000000,
+      "price_per_m2": 23669,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/683933772",
+      "portal": "sreality",
+      "added": "2026-11-06",
+      "updated": "2026-11-06",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "price": 4000000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -159,6 +224,29 @@
       "removed_date": null
     },
     {
+      "id": "sreality_1083052108",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 3+1 65 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8228531297041,
+        18.1887874093161
+      ],
+      "area_m2": 165,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1083052108",
+      "portal": "sreality",
+      "added": "2026-11-11",
+      "updated": "2026-11-11",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "sreality_2590957644",
       "status": "active",
       "type": "byt",
@@ -209,34 +297,6 @@
       "price_history": [
         {
           "date": "2026-11-02",
-          "price": 4000000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_683933772",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 3+1 69 m²",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8428406533938,
-        18.1799705282627
-      ],
-      "area_m2": 169,
-      "price": 4000000,
-      "price_per_m2": 23669,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/683933772",
-      "portal": "sreality",
-      "added": "2026-11-06",
-      "updated": "2026-11-06",
-      "price_history": [
-        {
-          "date": "2026-11-06",
           "price": 4000000
         }
       ],
@@ -294,34 +354,6 @@
         {
           "date": "2026-11-04",
           "price": 2880000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_995156044",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1 40 m²",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.844045732218305,
-        18.158685130493097
-      ],
-      "area_m2": 140,
-      "price": 2590000,
-      "price_per_m2": 18500,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/995156044",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 2590000
         }
       ],
       "removed_date": null
@@ -5605,34 +5637,6 @@
       "removed_date": "2026-11-02"
     },
     {
-      "id": "sreality_1091965004",
-      "status": "removed",
-      "type": "byt",
-      "title": "Prodej bytu 1+kk 25 m²",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.827016,
-        18.192998
-      ],
-      "area_m2": 25,
-      "price": 2750000,
-      "price_per_m2": 110000,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1091965004",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 2750000
-        }
-      ],
-      "removed_date": "2026-11-03"
-    },
-    {
       "id": "sreality_2043818060",
       "status": "removed",
       "type": "byt",
@@ -6041,6 +6045,34 @@
         }
       ],
       "removed_date": "2026-11-11"
+    },
+    {
+      "id": "sreality_995156044",
+      "status": "removed",
+      "type": "byt",
+      "title": "Prodej bytu 1+1 40 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.844045732218305,
+        18.158685130493097
+      ],
+      "area_m2": 140,
+      "price": 2590000,
+      "price_per_m2": 18500,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/995156044",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 2590000
+        }
+      ],
+      "removed_date": "2026-11-12"
     }
   ]
 }

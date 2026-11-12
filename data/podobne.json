@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T22:53:37.513065+00:00",
+  "generated": "2026-11-12T13:47:34.043009+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -67,59 +67,59 @@
       }
     },
     {
-      "id": "sreality_3488219212",
-      "title": "Prodej rodinného domu 110 m², pozemek 1198 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/baska/3488219212",
-      "portal": "sreality",
+      "id": "realingo_24587258",
+      "title": "Rodinny dum, Baška Kunčičky u Bašky",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-baska-kuncicky-u-basky/24587258",
+      "portal": "realingo",
       "price": 5990000,
       "location": "Kunčičky u Bašky",
       "location_id": "kuncicky_u_basky",
-      "added": "2026-11-02",
+      "added": "2026-11-12",
       "price_history": [
         {
-          "date": "2026-11-02",
+          "date": "2026-11-12",
           "price": 5990000
         }
       ],
       "area_m2": 1198,
       "coordinates": [
-        49.6450436862613,
-        18.3636317368151
+        49.647352806866,
+        18.358279975994
       ],
       "score": 100,
       "reasons": [
         "cena 5,99 mil. ✓",
         "užitná 110 m² ✓",
         "pozemek 1 198 m² ✓",
-        "4 pokoje ✓",
+        "4+1 ✓",
         "obec ✓"
       ],
       "match": true,
-      "new": false,
+      "new": true,
       "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/baska/3488219212",
-        "fetched": "2026-11-02",
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-baska-kuncicky-u-basky/24587258",
+        "fetched": "2026-11-12",
         "ok": true,
-        "title": "Prodej rodinného domu 110 m², pozemek 1198 m²",
-        "price": 5990000,
-        "location": "Baška - Kunčičky u Bašky",
+        "title": "Rodinný dům, 110 m² , Baška Kunčičky u Bašky",
+        "price": null,
+        "location": null,
         "usable_area": 110,
         "plot_area": 1198,
         "built_area": 93,
         "rooms": 4,
-        "disposition": null,
-        "year_built": 1968,
-        "condition": "velmi dobrý",
-        "construction": "cihlová",
-        "heating": "plynový kondenzační kotel, krbová kamna",
+        "disposition": "4+1",
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": "plynovým kotlem a krbovými kamny se zásobníkem na pelety, která jsou rovněž napojena na otopnou soustavu",
         "sewer": "veřejná kanalizace",
         "gas": true,
-        "penb": "G",
+        "penb": null,
         "agency": null,
-        "ref_number": "1515",
-        "listed_since": "2026-10-21",
+        "ref_number": null,
+        "listed_since": null,
         "old_price": null,
-        "description": "Nabízíme k prodeji rodinný dům o dispozici 4+1 v Kunčičkách u Bašky. Nemovitost spojuje všechny výhody bydlení v příjemné a tiché lokalitě s blízkostí přírody i kompletní občanské vybavenosti. Velkou předností domu je jedinečný výhled na beskydská panoramata.\r\nV docházkové vzdálenosti se nachází vodní nádrž Baška, oblíbené místo pro rekreaci a aktivní trávení volného času. Lokalita tak nabízí ideální podmínky pro rodinné bydlení i odpočinek v přírodě.\r\n\r\nDům prošel částečnou rekonstrukcí a je ve velmi pečlivě udržovaném stavu, což umožňuje okamžité nastěhování a postupně si jej přizpůsobovat k vlastním představám. Přízemí domu je dispozičně řešeno jako 2+1, nachází se zde dva samostatné pokoje, kuchyně, koupelna a samostatné WC. V patře domu se nachazí dva samostatné pokoje. Dům doplňuje zimní zahrada, která rozšiřuje obytný prostor, a také terasa poskytující příjemné místo k odpočinku. Součástí je rovněž zahrada, kde mohou děti bezpečně trávit volný čas.\r\n\r\nDům je napojen na obecní vodovod, elektřinu. plyn a kanalizaci. Je vytápěn plynovým kotlem a krbovými kamny se zásobníkem na pelety, která jsou rovněž napojena na otopnou soustavu.\r\nCelý dům je z jedné třetiny podsklepený, což poskytuje praktický prostor pro uskladnění a technické zázemí.\r\n\r\nNeváhejte nás kontaktovat, rádi vám poskytneme více informací, domluvíme osobní prohlídku nebo vám pozemek ukážeme i online přes videohovor. Náš zkušený hypoteční specialista vám zdarma pomůže najít nejlepší finanční řešení."
+        "description": null
       }
     },
     {
@@ -344,61 +344,6 @@
         "listed_since": null,
         "old_price": null,
         "description": "BO! vám nabízí k prodeji rodinný dům o dispozici 5+kk. Od základu jej přizpůsobíte vlastním představám nebo je vhodný jako investiční příležitost pro vybudování dvou samostatných bytů. Dům je kompletně podsklepen. Rodinný dům v původním stavu v klidné a žádané obci Pržno, v těsné blízkosti Frýdku-Místku. Nemovitost o celkové užitné ploše 135 m² disponuje dvěma podlažími a nabízí skvělý potenciál pro kompletní rekonstrukci. Prostorný, slunný pozemek kolem domu poskytuje dostatek soukromí pro relaxaci, zahradničení, bezpečný pohyb dětí. Vytápění: na tuhá paliva Voda: dům je napojen na obecní vodovodní řad Kanalizace: v obci je na letošní rok (2026) plánovaná výstavba nové splaškové kanalizace s přímou možností budoucího připojení domu. Lokalita: Obec Pržno nabízí skvělou dostupnost do Frýdku-Místku i Beskyd, výborné vlakové i autobusové spojení Pro více informací nebo domluvení prohlídky mě neváhejte kontaktovat. Těším se na Vás na prohlídce! ev.č.: 8391 třída energetické náročnosti budovy: G - Mimořádně nehospodárná dle vyhlášky č.264/2020 Sb. poloha objektu: Samostatný druh objektu: Cihlová stav objektu: Před rekonstrukcí typ domu: Patrový velikost: 5 a více pokojů zastavěná plocha (m2): 100 užitná plocha (m2): 135 plocha parcely (m2): 1375 počet podlaží objektu: 2"
-      }
-    },
-    {
-      "id": "realingo_24484254",
-      "title": "Rodinny dum, Lubno, Frýdlant nad Ostravicí",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24484254",
-      "portal": "realingo",
-      "price": 6300000,
-      "location": "Frýdlant-Lubno",
-      "location_id": "frydlant_lubno",
-      "added": "2026-06-29",
-      "price_history": [
-        {
-          "date": "2026-06-29",
-          "price": 6300000
-        }
-      ],
-      "area_m2": 1553,
-      "coordinates": [
-        49.593261781164,
-        18.395893210462
-      ],
-      "score": 87,
-      "reasons": [
-        "cena 6,30 mil. ✓",
-        "užitná 150 m² ~",
-        "pozemek 1 553 m² ✓",
-        "obec ✓"
-      ],
-      "match": true,
-      "new": false,
-      "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-lubno-frydlant-nad-ostravici/24484254",
-        "fetched": "2026-11-03",
-        "ok": true,
-        "title": "Rodinný dům, 150 m² , Frýdlant nad Ostravicí Lubno",
-        "price": null,
-        "location": null,
-        "usable_area": 150,
-        "plot_area": 1553,
-        "built_area": 300,
-        "rooms": null,
-        "disposition": null,
-        "year_built": null,
-        "condition": "před rekonstrukcí",
-        "construction": null,
-        "heating": null,
-        "sewer": "veřejná kanalizace",
-        "gas": null,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": null
       }
     },
     {
@@ -1054,57 +999,6 @@
       }
     },
     {
-      "id": "realingo_24781570",
-      "title": "Rodinny dum, Frýdlant nad Ostravicí",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-frydlant-nad-ostravici-okres-frydek-mistek/24781570",
-      "portal": "realingo",
-      "price": null,
-      "location": "Frýdlant nad Ostravicí",
-      "location_id": "frydlant",
-      "added": "2026-11-10",
-      "price_history": [],
-      "area_m2": null,
-      "coordinates": [
-        49.58,
-        18.36
-      ],
-      "score": 58,
-      "reasons": [
-        "cena neuvedena",
-        "užitná plocha neznámá",
-        "pozemek neznámý",
-        "obec ✓",
-        "čeká na detail inzerátu"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-frydlant-nad-ostravici-okres-frydek-mistek/24781570",
-        "fetched": "2026-11-10",
-        "ok": true,
-        "title": null,
-        "price": null,
-        "location": null,
-        "usable_area": null,
-        "plot_area": null,
-        "built_area": null,
-        "rooms": null,
-        "disposition": null,
-        "year_built": null,
-        "condition": null,
-        "construction": null,
-        "heating": null,
-        "sewer": null,
-        "gas": null,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": null
-      }
-    },
-    {
       "id": "realingo_24728549",
       "title": "Rodinny dum, Frýdek-Místek - Skalice",
       "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-skalice/24728549",
@@ -1290,57 +1184,6 @@
       }
     },
     {
-      "id": "sreality_1752183372",
-      "title": "Prodej rodinného domu 100 m², pozemek 9052 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/1752183372",
-      "portal": "sreality",
-      "price": null,
-      "location": "Čeladná",
-      "location_id": "celadna",
-      "added": "2026-11-02",
-      "price_history": [],
-      "area_m2": 9052,
-      "coordinates": [
-        49.5487309952681,
-        18.3375918140113
-      ],
-      "score": 54,
-      "reasons": [
-        "cena neuvedena",
-        "užitná 100 m² ~",
-        "pozemek 9 052 m² ✗",
-        "4 pokoje ✓",
-        "obec ✓"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/1752183372",
-        "fetched": "2026-11-02",
-        "ok": true,
-        "title": "Prodej rodinného domu 100 m², pozemek 9052 m²",
-        "price": null,
-        "location": "Čeladná",
-        "usable_area": 100,
-        "plot_area": 9052,
-        "built_area": 100,
-        "rooms": 4,
-        "disposition": null,
-        "year_built": null,
-        "condition": "dobrý",
-        "construction": "cihlová",
-        "heating": "lokální tuhá paliva, ústřední tuhá paliva",
-        "sewer": "jímka",
-        "gas": false,
-        "penb": "G",
-        "agency": null,
-        "ref_number": "20211",
-        "listed_since": "2025-01-08",
-        "old_price": null,
-        "description": "Rodinný domek nebo chalupa, tato nemovitost nabízí obojí využití. Záleží, co zrovna hledáte? Zde se dá skloubit pohodlné bydlení s příjemnou rekreací.  Navíc obec Čeladná je malebná vesnice, která  leží v samém srdci Moravskoslezských Beskyd. Je zde krásná, mnohde člověkem nedotčená příroda, nádherné údolí řeky Čeladenky, potoky a říčky s čistou průzračnou vodou. Obrovský pozemek o velikosti 9052m2 navíc zajistí opravdu velké soukromí.\r\n\r\nTento útulný domek prošel od roku 2010 částečnou rekonstrukcí.  Jsou zde nové rozvody vody a topení, kotel na tuhá paliva a krbová kamna. Z té doby jsou také nová platová okna a nová koupelna. Kutilové jistě ocení garáž s dílnou a za zmínku určitě také stojí velká zahrada s jezírkem a nově vybudovaným posezením.\r\n\r\nV obci se nachází základní občanská vybavenost jako je obchod, škola, školka, pošta, lékař a lékárna. Vše ostatní lze vyřídit nedaleko ve městě Frýdlant nad Ostravicí.  V okolí obce Čeladná je spousta možností jak pro letní, tak i zimní rekreaci, sporty a výlety.\r\n\r\n V případě více zájemců o nemovitost, si majitel vyhrazuje právo prodat nemovitost zájemci s nejvyšší nabídkou.\r\n \r\nPokud Vás nabídka zaujala, ráda se s Vámi potkám osobně na prohlídce, kde Vám sdělím, všechny podrobné informace, V případě zájmu zajistíme bezkonkurenční financování přímo dle Vašich představ. Těšit se na Vás bude realitní makléřka Lucie Klečková,\r\n\r\n\r\n\r\n\r\n\r\n"
-      }
-    },
-    {
       "id": "sreality_4068868172",
       "title": "Prodej rodinného domu 330 m², pozemek 2100 m²",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/malenovice/4068868172",
@@ -1389,6 +1232,57 @@
         "listed_since": "2026-11-04",
         "old_price": null,
         "description": "Nabízíme k prodeji tuto jedinečnou nemovitost uprostřed slunné paseky pod horami v Beskydech. Pokud hledáte soukromí, klid a pohodu, tak tady jste správně.\r\n\t‌\r\nObec Malenovice je vzdálena 3 km od města Frýdlant nad Ostravicí.Leží na úpatí Lysé hory a je známá jako obec s velkými pozemky a klidným bydlením v souladu s přírodou.\r\n\t‌\r\nNámi nabízená nemovitost se skládá ze tří srubových staveb, velkého pozemku v sousedství lesa a potoka a přírody.\r\n\t‌\r\nPrvní stavbou je srub na betonovém základu s terasou, garáží, dvěmi pokoji, koupelnou a WC a kuchyní. Vše ve stylu dřeva, jednoduchá dispozice jednopatrového domu. V horním patře z balkonu nádherný výhled na hory a zeleň. \r\n\t‌\r\nDruhou stavbou je velmi podobný dům, jen s tím rozdílem, že v přízemí je velká garáž s dílnou a v podkroví dva pokoje.\r\n\t‌\r\nTřetí stavba je obdobná. Jen místo garáže je stáj pro dva koně a v horním patře je nyní uloženo seno a krmení.\r\n\t‌\r\nVšechny rři domy jsou od sebe vzdáleny, takže se vzájemně neruší a nabízí se možnost bydlení tří generací. Nebo je zde možnost úpravy a pronájmu samostatně. Domy jsou koncipovány tak, že za domem je terasa, takže se obyvatelé navzájem neruší. \r\n\t‌\r\nNa pozemku je elektřina a voda. Studna je součástí pozemku jako zásobárna užitkové vody. Odpadní vody a jejich čištění zajistí ČOV. Pozemek je oplocen a vjezd na něj je zajištěn z komunikace Lesy Čr nebo věcným břemenem ze sousední parcely. Příjezdová komunikace Lesů Čr je celoročně udržovaná.\r\n\t‌\r\nV blízkosti najdete nejen vysoké kopce, ale také relax Hotelu Bezruč, restauraci, dvě golfová hřiště, koupaliště ve Frýdlantu nad Ostravicí a multifunkční hřiště obce Malenovice.\r\n\t‌\r\nFinancování rádi zajistíme prostřednictvím hypotečního centra naší kanceláře a to nejvýhodnější nabídkou s porovnáním všech bank a peněžních ústavů. Právní servis včetně advokátní úschovy finančních prostředků zajištěn zdarma.\r\n\t‌\r\nV případě zájmu o prohlídku nebo bližší informace nás kontaktujte!\r\n\t‌\r\n"
+      }
+    },
+    {
+      "id": "sreality_1752183372",
+      "title": "Prodej rodinného domu 100 m², pozemek 9052 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/1752183372",
+      "portal": "sreality",
+      "price": null,
+      "location": "Čeladná",
+      "location_id": "celadna",
+      "added": "2026-11-02",
+      "price_history": [],
+      "area_m2": 9052,
+      "coordinates": [
+        49.5487309952681,
+        18.3375918140113
+      ],
+      "score": 54,
+      "reasons": [
+        "cena neuvedena",
+        "užitná 100 m² ~",
+        "pozemek 9 052 m² ✗",
+        "4 pokoje ✓",
+        "obec ✓"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/celadna/1752183372",
+        "fetched": "2026-11-02",
+        "ok": true,
+        "title": "Prodej rodinného domu 100 m², pozemek 9052 m²",
+        "price": null,
+        "location": "Čeladná",
+        "usable_area": 100,
+        "plot_area": 9052,
+        "built_area": 100,
+        "rooms": 4,
+        "disposition": null,
+        "year_built": null,
+        "condition": "dobrý",
+        "construction": "cihlová",
+        "heating": "lokální tuhá paliva, ústřední tuhá paliva",
+        "sewer": "jímka",
+        "gas": false,
+        "penb": "G",
+        "agency": null,
+        "ref_number": "20211",
+        "listed_since": "2025-01-08",
+        "old_price": null,
+        "description": "Rodinný domek nebo chalupa, tato nemovitost nabízí obojí využití. Záleží, co zrovna hledáte? Zde se dá skloubit pohodlné bydlení s příjemnou rekreací.  Navíc obec Čeladná je malebná vesnice, která  leží v samém srdci Moravskoslezských Beskyd. Je zde krásná, mnohde člověkem nedotčená příroda, nádherné údolí řeky Čeladenky, potoky a říčky s čistou průzračnou vodou. Obrovský pozemek o velikosti 9052m2 navíc zajistí opravdu velké soukromí.\r\n\r\nTento útulný domek prošel od roku 2010 částečnou rekonstrukcí.  Jsou zde nové rozvody vody a topení, kotel na tuhá paliva a krbová kamna. Z té doby jsou také nová platová okna a nová koupelna. Kutilové jistě ocení garáž s dílnou a za zmínku určitě také stojí velká zahrada s jezírkem a nově vybudovaným posezením.\r\n\r\nV obci se nachází základní občanská vybavenost jako je obchod, škola, školka, pošta, lékař a lékárna. Vše ostatní lze vyřídit nedaleko ve městě Frýdlant nad Ostravicí.  V okolí obce Čeladná je spousta možností jak pro letní, tak i zimní rekreaci, sporty a výlety.\r\n\r\n V případě více zájemců o nemovitost, si majitel vyhrazuje právo prodat nemovitost zájemci s nejvyšší nabídkou.\r\n \r\nPokud Vás nabídka zaujala, ráda se s Vámi potkám osobně na prohlídce, kde Vám sdělím, všechny podrobné informace, V případě zájmu zajistíme bezkonkurenční financování přímo dle Vašich představ. Těšit se na Vás bude realitní makléřka Lucie Klečková,\r\n\r\n\r\n\r\n\r\n\r\n"
       }
     },
     {
@@ -1880,17 +1774,17 @@
       }
     },
     {
-      "id": "bazos_223729497",
+      "id": "bazos_226319086",
       "title": "Prodej dvougeneračního domu v Třinci",
-      "url": "https://reality.bazos.cz/inzerat/223729497/prodej-dvougeneracniho-domu-v-trinci.php",
+      "url": "https://reality.bazos.cz/inzerat/226319086/prodej-dvougeneracniho-domu-v-trinci.php",
       "portal": "bazos",
       "price": 6850000,
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
-      "added": "2026-09-13",
+      "added": "2026-11-12",
       "price_history": [
         {
-          "date": "2026-09-13",
+          "date": "2026-11-12",
           "price": 6850000
         }
       ],
@@ -1911,8 +1805,8 @@
       "match": false,
       "new": false,
       "details": {
-        "url": "https://reality.bazos.cz/inzerat/223729497/prodej-dvougeneracniho-domu-v-trinci.php",
-        "fetched": "2026-11-02",
+        "url": "https://reality.bazos.cz/inzerat/226319086/prodej-dvougeneracniho-domu-v-trinci.php",
+        "fetched": "2026-11-12",
         "ok": true,
         "title": "Prodej dvougeneračního domu v Třinci",
         "price": null,
@@ -2096,6 +1990,7 @@
     }
   ],
   "new_ids": [
+    "realingo_24587258",
     "sreality_3347513420",
     "sreality_546926668",
     "sreality_1806041164"
