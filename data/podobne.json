@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T22:12:43.751995+00:00",
+  "generated": "2026-11-14T12:16:53.044941+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -1000,19 +1000,19 @@
       }
     },
     {
-      "id": "realingo_24786542",
-      "title": "Rodinny dum, Lubno, Frýdlant nad Ostravicí",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-frydlant-nad-ostravici-lubno-okres-frydek-mistek/24786542",
+      "id": "realingo_24787813",
+      "title": "Rodinny dum, Chlebovice, Frýdek-Místek",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-pod-kabatici-frydek-mistek-chlebovice/24787813",
       "portal": "realingo",
       "price": null,
-      "location": "Frýdlant-Lubno",
-      "location_id": "frydlant_lubno",
-      "added": "2026-11-13",
+      "location": "Chlebovice",
+      "location_id": "chlebovice",
+      "added": "2026-11-14",
       "price_history": [],
       "area_m2": null,
       "coordinates": [
-        49.59,
-        18.4
+        49.66,
+        18.28
       ],
       "score": 58,
       "reasons": [
@@ -1025,8 +1025,8 @@
       "match": false,
       "new": false,
       "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-frydlant-nad-ostravici-lubno-okres-frydek-mistek/24786542",
-        "fetched": "2026-11-13",
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-pod-kabatici-frydek-mistek-chlebovice/24787813",
+        "fetched": "2026-11-14",
         "ok": true,
         "title": null,
         "price": null,
@@ -1078,6 +1078,57 @@
       "details": {
         "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
         "fetched": "2026-11-04",
+        "ok": true,
+        "title": null,
+        "price": null,
+        "location": null,
+        "usable_area": null,
+        "plot_area": null,
+        "built_area": null,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": null,
+        "sewer": null,
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": null
+      }
+    },
+    {
+      "id": "realingo_24786542",
+      "title": "Rodinny dum, Lubno, Frýdlant nad Ostravicí",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-frydlant-nad-ostravici-lubno-okres-frydek-mistek/24786542",
+      "portal": "realingo",
+      "price": null,
+      "location": "Frýdlant-Lubno",
+      "location_id": "frydlant_lubno",
+      "added": "2026-11-13",
+      "price_history": [],
+      "area_m2": null,
+      "coordinates": [
+        49.59,
+        18.4
+      ],
+      "score": 58,
+      "reasons": [
+        "cena neuvedena",
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "obec ✓",
+        "čeká na detail inzerátu"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-frydlant-nad-ostravici-lubno-okres-frydek-mistek/24786542",
+        "fetched": "2026-11-13",
         "ok": true,
         "title": null,
         "price": null,
