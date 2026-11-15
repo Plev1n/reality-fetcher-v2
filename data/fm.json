@@ -1,43 +1,15 @@
 {
-  "generated": "2026-11-15T12:46:57.406728+00:00",
+  "generated": "2026-11-15T21:08:43.055846+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "sreality_3417075788",
+      "id": "bazos_226464140",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavebního pozemku 2612 m²",
-      "location": "Žabeň",
-      "location_id": "zaben",
-      "coordinates": [
-        49.708779900753,
-        18.304210029374
-      ],
-      "area_m2": 2612,
-      "price": 6490000,
-      "price_per_m2": 2485,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/zaben/3417075788",
-      "portal": "sreality",
-      "added": "2026-11-15",
-      "updated": "2026-11-15",
-      "price_history": [
-        {
-          "date": "2026-11-15",
-          "price": 6490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_226464124",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Frýdlant nad Ostravicí Lubno",
+      "title": "Frýdlant nad Ostravicí Lubno 1000m2",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
@@ -49,7 +21,7 @@
       "price_per_m2": 3,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/226464124/frydlant-nad-ostravici-lubno.php",
+      "url": "https://reality.bazos.cz/inzerat/226464140/frydlant-nad-ostravici-lubno-1000m2.php",
       "portal": "bazos",
       "added": "2026-11-15",
       "updated": "2026-11-15",
@@ -59,29 +31,6 @@
           "price": 3000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24788528",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Malenovice, Zlín",
-      "location": "Malenovice",
-      "location_id": "malenovice",
-      "coordinates": [
-        49.58,
-        18.41
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24788528",
-      "portal": "realingo",
-      "added": "2026-11-15",
-      "updated": "2026-11-15",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -1564,6 +1513,90 @@
       "removed_date": null
     },
     {
+      "id": "sreality_1244364876",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1875 m²",
+      "location": "Janovice",
+      "location_id": "janovice",
+      "coordinates": [
+        49.62335,
+        18.390603
+      ],
+      "area_m2": 1875,
+      "price": 3990000,
+      "price_per_m2": 2128,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/janovice/1244364876",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 3990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_290332748",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1811 m²",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7206124782539,
+        18.3701711785476
+      ],
+      "area_m2": 1811,
+      "price": 3121000,
+      "price_per_m2": 1723,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/sedliste/290332748",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 3121000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_3417075788",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 2612 m²",
+      "location": "Žabeň",
+      "location_id": "zaben",
+      "coordinates": [
+        49.708779900753,
+        18.304210029374
+      ],
+      "area_m2": 2612,
+      "price": 6490000,
+      "price_per_m2": 2485,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/zaben/3417075788",
+      "portal": "sreality",
+      "added": "2026-11-15",
+      "updated": "2026-11-15",
+      "price_history": [
+        {
+          "date": "2026-11-15",
+          "price": 6490000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "sreality_2309685324",
       "status": "active",
       "type": "pozemek",
@@ -1750,34 +1783,6 @@
         {
           "date": "2026-11-02",
           "price": 1990
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_1244364876",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1875 m²",
-      "location": "Janovice",
-      "location_id": "janovice",
-      "coordinates": [
-        49.62335,
-        18.390603
-      ],
-      "area_m2": 1875,
-      "price": 3990000,
-      "price_per_m2": 2128,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/janovice/1244364876",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 3990000
         }
       ],
       "removed_date": null
@@ -2025,34 +2030,6 @@
         {
           "date": "2026-11-02",
           "price": 5500
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_290332748",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1811 m²",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7206124782539,
-        18.3701711785476
-      ],
-      "area_m2": 1811,
-      "price": 3121000,
-      "price_per_m2": 1723,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/sedliste/290332748",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 3121000
         }
       ],
       "removed_date": null
@@ -4518,6 +4495,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_226406382",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinný dům v Nošovicích – Říčkách. Klid, příroda a , 137234",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 9500000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/226406382/rodinny-dum-v-nosovicich-rickach-klid-priroda-a-137234.php",
+      "portal": "bazos",
+      "added": "2026-11-14",
+      "updated": "2026-11-14",
+      "price_history": [
+        {
+          "date": "2026-11-14",
+          "price": 9500000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_225101794",
       "status": "active",
       "type": "dum",
@@ -4653,34 +4658,6 @@
         {
           "date": "2026-11-14",
           "price": 3790000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_226406382",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinný dům v Nošovicích – Říčkách. Klid, příroda a , 137234",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 9500000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/226406382/rodinny-dum-v-nosovicich-rickach-klid-priroda-a-137234.php",
-      "portal": "bazos",
-      "added": "2026-11-14",
-      "updated": "2026-11-14",
-      "price_history": [
-        {
-          "date": "2026-11-14",
-          "price": 9500000
         }
       ],
       "removed_date": null
@@ -5930,6 +5907,29 @@
       "removed_date": null
     },
     {
+      "id": "realingo_24788528",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Malenovice, Zlín",
+      "location": "Malenovice",
+      "location_id": "malenovice",
+      "coordinates": [
+        49.58,
+        18.41
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24788528",
+      "portal": "realingo",
+      "added": "2026-11-15",
+      "updated": "2026-11-15",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "realingo_24788100",
       "status": "active",
       "type": "dum",
@@ -6243,6 +6243,29 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10204793",
       "status": "active",
       "type": "pozemek",
@@ -6308,29 +6331,6 @@
           "price": 9890000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
       "removed_date": null
     },
     {
@@ -6418,34 +6418,6 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3760296",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 990 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 990,
-      "price": 3950100,
-      "price_per_m2": 3990,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-990-m2-3760296.html",
-      "portal": "sousede",
-      "added": "2026-05-05",
-      "updated": "2026-05-05",
-      "price_history": [
-        {
-          "date": "2026-05-05",
-          "price": 3950100
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "sousede_3885793",
       "status": "active",
       "type": "pozemek",
@@ -6474,29 +6446,29 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3885811",
+      "id": "sousede_3760296",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavební parcely 1 082 m² Frýdek-Místek",
+      "title": "Prodej stavební parcely 990 m² Frýdek-Místek",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": 1082,
-      "price": 4641780,
-      "price_per_m2": 4290,
+      "area_m2": 990,
+      "price": 3950100,
+      "price_per_m2": 3990,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-082-m2-3885811.html",
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-990-m2-3760296.html",
       "portal": "sousede",
-      "added": "2026-09-08",
-      "updated": "2026-09-08",
+      "added": "2026-05-05",
+      "updated": "2026-05-05",
       "price_history": [
         {
-          "date": "2026-09-08",
-          "price": 4641780
+          "date": "2026-05-05",
+          "price": 3950100
         }
       ],
       "removed_date": null
@@ -6525,6 +6497,34 @@
         {
           "date": "2026-09-08",
           "price": 3641040
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3885811",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 1 082 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1082,
+      "price": 4641780,
+      "price_per_m2": 4290,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-1-082-m2-3885811.html",
+      "portal": "sousede",
+      "added": "2026-09-08",
+      "updated": "2026-09-08",
+      "price_history": [
+        {
+          "date": "2026-09-08",
+          "price": 4641780
         }
       ],
       "removed_date": null
@@ -25209,6 +25209,34 @@
       "added": "2026-11-13",
       "updated": "2026-11-13",
       "price_history": [],
+      "removed_date": "2026-11-15"
+    },
+    {
+      "id": "bazos_226464124",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Frýdlant nad Ostravicí Lubno",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1000,
+      "price": 3000,
+      "price_per_m2": 3,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/226464124/frydlant-nad-ostravici-lubno.php",
+      "portal": "bazos",
+      "added": "2026-11-15",
+      "updated": "2026-11-15",
+      "price_history": [
+        {
+          "date": "2026-11-15",
+          "price": 3000
+        }
+      ],
       "removed_date": "2026-11-15"
     }
   ]
