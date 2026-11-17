@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T00:20:43.146429+00:00",
+  "generated": "2026-11-17T14:20:38.861361+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -1001,19 +1001,19 @@
       }
     },
     {
-      "id": "realingo_24788823",
-      "title": "Rodinny dum, Ostravice",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice-739-14/24788823",
+      "id": "realingo_24793058",
+      "title": "Rodinny dum, Čeladná",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-okres-frydek-mistek/24793058",
       "portal": "realingo",
       "price": null,
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "added": "2026-11-16",
+      "location": "Čeladná",
+      "location_id": "celadna",
+      "added": "2026-11-17",
       "price_history": [],
       "area_m2": null,
       "coordinates": [
-        49.54,
-        18.39
+        49.55,
+        18.34
       ],
       "score": 58,
       "reasons": [
@@ -1026,8 +1026,8 @@
       "match": false,
       "new": false,
       "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice-739-14/24788823",
-        "fetched": "2026-11-16",
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-okres-frydek-mistek/24793058",
+        "fetched": "2026-11-17",
         "ok": true,
         "title": null,
         "price": null,
@@ -1052,19 +1052,19 @@
       }
     },
     {
-      "id": "realingo_24788528",
-      "title": "Rodinny dum, Malenovice, Zlín",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24788528",
+      "id": "realingo_24792367",
+      "title": "Rodinny dum, Palkovice",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-palkovice-okres-frydek-mistek/24792367",
       "portal": "realingo",
       "price": null,
-      "location": "Malenovice",
-      "location_id": "malenovice",
-      "added": "2026-11-15",
+      "location": "Palkovice",
+      "location_id": "palkovice",
+      "added": "2026-11-17",
       "price_history": [],
       "area_m2": null,
       "coordinates": [
-        49.58,
-        18.41
+        49.63,
+        18.29
       ],
       "score": 58,
       "reasons": [
@@ -1077,8 +1077,8 @@
       "match": false,
       "new": false,
       "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24788528",
-        "fetched": "2026-11-15",
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-palkovice-okres-frydek-mistek/24792367",
+        "fetched": "2026-11-17",
         "ok": true,
         "title": null,
         "price": null,
@@ -1130,6 +1130,57 @@
       "details": {
         "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
         "fetched": "2026-11-04",
+        "ok": true,
+        "title": null,
+        "price": null,
+        "location": null,
+        "usable_area": null,
+        "plot_area": null,
+        "built_area": null,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": null,
+        "sewer": null,
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": null
+      }
+    },
+    {
+      "id": "realingo_24788823",
+      "title": "Rodinny dum, Ostravice",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice-739-14/24788823",
+      "portal": "realingo",
+      "price": null,
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "added": "2026-11-16",
+      "price_history": [],
+      "area_m2": null,
+      "coordinates": [
+        49.54,
+        18.39
+      ],
+      "score": 58,
+      "reasons": [
+        "cena neuvedena",
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "obec ✓",
+        "čeká na detail inzerátu"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice-739-14/24788823",
+        "fetched": "2026-11-16",
         "ok": true,
         "title": null,
         "price": null,
