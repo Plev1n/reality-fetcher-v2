@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T14:20:38.861361+00:00",
+  "generated": "2026-11-17T23:42:01.770111+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -1130,57 +1130,6 @@
       "details": {
         "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
         "fetched": "2026-11-04",
-        "ok": true,
-        "title": null,
-        "price": null,
-        "location": null,
-        "usable_area": null,
-        "plot_area": null,
-        "built_area": null,
-        "rooms": null,
-        "disposition": null,
-        "year_built": null,
-        "condition": null,
-        "construction": null,
-        "heating": null,
-        "sewer": null,
-        "gas": null,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": null
-      }
-    },
-    {
-      "id": "realingo_24788823",
-      "title": "Rodinny dum, Ostravice",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice-739-14/24788823",
-      "portal": "realingo",
-      "price": null,
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "added": "2026-11-16",
-      "price_history": [],
-      "area_m2": null,
-      "coordinates": [
-        49.54,
-        18.39
-      ],
-      "score": 58,
-      "reasons": [
-        "cena neuvedena",
-        "užitná plocha neznámá",
-        "pozemek neznámý",
-        "obec ✓",
-        "čeká na detail inzerátu"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice-739-14/24788823",
-        "fetched": "2026-11-16",
         "ok": true,
         "title": null,
         "price": null,

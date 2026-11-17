@@ -1,66 +1,10 @@
 {
-  "generated": "2026-11-17T14:20:36.463151+00:00",
+  "generated": "2026-11-17T23:42:01.740363+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
-    {
-      "id": "bazos_226548541",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodám byt 3kk",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 72,
-      "price": 3899000,
-      "price_per_m2": 54153,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/226548541/prodam-byt-3kk.php",
-      "portal": "bazos",
-      "added": "2026-11-17",
-      "updated": "2026-11-17",
-      "price_history": [
-        {
-          "date": "2026-11-17",
-          "price": 3899000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_225389398",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1, 33 m², Ostrava, ul. Gen. Sochora",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8361,
-        18.1694
-      ],
-      "area_m2": 33,
-      "price": 3300000,
-      "price_per_m2": 100000,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/225389398/prodej-bytu-11-33-m-ostrava-ul-gen-sochora.php",
-      "portal": "bazos",
-      "added": "2026-11-17",
-      "updated": "2026-11-17",
-      "price_history": [
-        {
-          "date": "2026-11-17",
-          "price": 3300000
-        }
-      ],
-      "removed_date": null
-    },
     {
       "id": "sreality_1026818124",
       "status": "active",
@@ -192,6 +136,34 @@
         {
           "date": "2026-11-03",
           "price": 3540000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_327811148",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+1 33 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8341726582074,
+        18.1819569577293
+      ],
+      "area_m2": 133,
+      "price": 3300000,
+      "price_per_m2": 24812,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/327811148",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 3300000
         }
       ],
       "removed_date": null
@@ -592,6 +564,34 @@
         {
           "date": "2026-11-13",
           "price": 2399000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_226548541",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodám byt 3kk",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8361,
+        18.1694
+      ],
+      "area_m2": 72,
+      "price": 3899000,
+      "price_per_m2": 54153,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/226548541/prodam-byt-3kk.php",
+      "portal": "bazos",
+      "added": "2026-11-17",
+      "updated": "2026-11-17",
+      "price_history": [
+        {
+          "date": "2026-11-17",
+          "price": 3899000
         }
       ],
       "removed_date": null
@@ -6303,28 +6303,28 @@
       "removed_date": "2026-11-17"
     },
     {
-      "id": "sreality_327811148",
+      "id": "bazos_225389398",
       "status": "removed",
       "type": "byt",
-      "title": "Prodej bytu 1+1 33 m²",
+      "title": "Prodej bytu 1+1, 33 m², Ostrava, ul. Gen. Sochora",
       "location": "Ostrava-Poruba",
       "location_id": "poruba",
       "coordinates": [
-        49.8341726582074,
-        18.1819569577293
+        49.8361,
+        18.1694
       ],
-      "area_m2": 133,
+      "area_m2": 33,
       "price": 3300000,
-      "price_per_m2": 24812,
+      "price_per_m2": 100000,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/327811148",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
+      "url": "https://reality.bazos.cz/inzerat/225389398/prodej-bytu-11-33-m-ostrava-ul-gen-sochora.php",
+      "portal": "bazos",
+      "added": "2026-11-17",
+      "updated": "2026-11-17",
       "price_history": [
         {
-          "date": "2026-11-02",
+          "date": "2026-11-17",
           "price": 3300000
         }
       ],
