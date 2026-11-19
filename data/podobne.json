@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T23:08:55.357314+00:00",
+  "generated": "2026-11-19T14:14:25.648148+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -64,62 +64,6 @@
         "listed_since": "2026-05-13",
         "old_price": null,
         "description": "BO! vám nabízí k prodeji rodinný dům o dispozici  5+kk. Od základu jej přizpůsobíte vlastním představám nebo je vhodný jako investiční příležitost pro vybudování dvou samostatných bytů. Dům je kompletně podsklepen.\r\n\r\nRodinný dům v původním stavu v klidné a žádané obci Pržno, v těsné blízkosti Frýdku-Místku. Nemovitost o celkové užitné ploše 135 m² disponuje dvěma podlažími a nabízí skvělý potenciál pro kompletní rekonstrukci. Prostorný, slunný pozemek kolem domu poskytuje dostatek soukromí pro relaxaci, zahradničení, bezpečný pohyb dětí.\r\n\r\nVytápění: na tuhá paliva\r\n\r\nVoda: dům je napojen na obecní vodovodní řad\r\n\r\nKanalizace: v obci je na letošní rok (2026) plánovaná výstavba nové splaškové kanalizace s přímou možností budoucího připojení domu.\r\n\r\nLokalita: Obec Pržno nabízí skvělou dostupnost do Frýdku-Místku i Beskyd, výborné vlakové i autobusové spojení\r\n\r\nPro více informací nebo domluvení prohlídky mě neváhejte kontaktovat. Těším se na Vás na prohlídce!"
-      }
-    },
-    {
-      "id": "realingo_24587258",
-      "title": "Rodinny dum, Baška Kunčičky u Bašky",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-baska-kuncicky-u-basky/24587258",
-      "portal": "realingo",
-      "price": 5990000,
-      "location": "Kunčičky u Bašky",
-      "location_id": "kuncicky_u_basky",
-      "added": "2026-11-12",
-      "price_history": [
-        {
-          "date": "2026-11-12",
-          "price": 5990000
-        }
-      ],
-      "area_m2": 1198,
-      "coordinates": [
-        49.647352806866,
-        18.358279975994
-      ],
-      "score": 100,
-      "reasons": [
-        "cena 5,99 mil. ✓",
-        "užitná 110 m² ✓",
-        "pozemek 1 198 m² ✓",
-        "4+1 ✓",
-        "obec ✓"
-      ],
-      "match": true,
-      "new": true,
-      "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-baska-kuncicky-u-basky/24587258",
-        "fetched": "2026-11-12",
-        "ok": true,
-        "title": "Rodinný dům, 110 m² , Baška Kunčičky u Bašky",
-        "price": null,
-        "location": null,
-        "usable_area": 110,
-        "plot_area": 1198,
-        "built_area": 93,
-        "rooms": 4,
-        "disposition": "4+1",
-        "year_built": null,
-        "condition": null,
-        "construction": null,
-        "heating": "plynovým kotlem a krbovými kamny se zásobníkem na pelety, která jsou rovněž napojena na otopnou soustavu",
-        "sewer": "veřejná kanalizace",
-        "gas": true,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": null
       }
     },
     {
@@ -1057,6 +1001,66 @@
       }
     },
     {
+      "id": "sreality_4291555404",
+      "title": "Prodej rodinného domu 300 m², pozemek 1000 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/janovice/4291555404",
+      "portal": "sreality",
+      "price": 6800000,
+      "location": "Janovice",
+      "location_id": "janovice",
+      "added": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 7200000
+        },
+        {
+          "date": "2026-11-19",
+          "price": 6800000
+        }
+      ],
+      "area_m2": 1000,
+      "coordinates": [
+        49.596102,
+        18.408246
+      ],
+      "score": 60,
+      "reasons": [
+        "cena 6,80 mil. ~",
+        "užitná 300 m² ✗",
+        "pozemek 1 000 m² ✓",
+        "4 pokoje ✓",
+        "obec ✓"
+      ],
+      "match": true,
+      "new": true,
+      "details": {
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/janovice/4291555404",
+        "fetched": "2026-11-19",
+        "ok": true,
+        "title": "Prodej rodinného domu 300 m², pozemek 1000 m²",
+        "price": 6800000,
+        "location": "Janovice",
+        "usable_area": 300,
+        "plot_area": 1000,
+        "built_area": 464,
+        "rooms": 4,
+        "disposition": null,
+        "year_built": 1945,
+        "condition": "velmi dobrý",
+        "construction": "smíšená",
+        "heating": "přímotop, krbová kamna",
+        "sewer": "septik, jímka",
+        "gas": false,
+        "penb": "G",
+        "agency": null,
+        "ref_number": "2197",
+        "listed_since": "2026-06-12",
+        "old_price": 7200000,
+        "description": "Rodinný dům Janovice – Bystré. Pravý venkov a pohoda.\r\n\r\nJednopodlažní zděný dům stojí od roku 1945, ale v letech 2019–2020 si prošel pořádnou proměnou. Nová střecha (nový krov a plechová střešní krytina), plastová okna s dvojskly, zateplená půda (30 cm minerální vaty), fasáda zateplená polystyrénem, kromě jednoho pokoje jsou ve zbytku domu vylité betonové podlahy, betonový věnec, měděná elektroinstalace – prostě pořádný základ. Obvodové stěny mají 40 cm, takže léto i zimu necháte venku. A ta kombinace hnědé fasády s červenou střechou, hezky ladí.\r\n\r\nTeplo zajišťují elektrické nástěnné panely a v obýváku máme kamna na dřevo, které ne jen že skvěle vytopí většinu prostoru, ale hlavně dotvoří tu pravou atmosféru domova. Zahrada to je radost pohledět. Prostor pro bazén, skalky, skleník pro pěstitele-nadšence a kolem dokola vzrostlé túje a les hned za plotem. Totální soukromí. Sednete si na terasu s kávou, koukáte do zeleně a najednou pochopíte, proč tady majitelé žili přes 20 let. Klid trvá do chvíle, než vaše děti vyrazí do bazénu – ale to je přece ten nejlepší ,,hluk'' na světě.\r\n\r\nZázemí, které ocení i ten nejnáročnější kutil nebo podnikatel. Dvě garáže, dílna, uzavřený vnitroblok s bránou na dálkové ovládání. Kdo chce bydlet a zároveň podnikat – tady se to přímo nabízí. A kdo jen chce mít místo na auto, motorku, kolo, zahradní traktor a ještě zásoby na zimu – tady to taky vyjde.\r\n\r\nDům je částečně podsklepený, má vlastní studnu s kvalitní vodou (a možnost napojení na veřejný vodovod), odpady svedené do septiku a půda je připravená pro případnou vestavbu.\r\n\r\nNová školka pár metrů od domu, obchod 300 m, zastávka autobusu 200 m, restaurace U Toflů pro ty správné příležitosti. Základka v Janovicích nebo ve Frýdlantě.\r\n\r\nA pro koho je tento dům? Pro toho, kdo chce opravdový venkov jako způsob života. Kdo ocení velké zázemí, Beskydy za plotem a klid, který se dnes hledá těžko.\r\nMajitelé se o dům starali s láskou přes dvě dekády. Teď přišel čas, aby dělal radost někomu dalšímu."
+      }
+    },
+    {
       "id": "realingo_24797805",
       "title": "Rodinny dum, Dobrá",
       "url": "https://www.realingo.cz/prodej/dum-rodinny-dobra-739-51/24797805",
@@ -1135,108 +1139,6 @@
       "details": {
         "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
         "fetched": "2026-11-04",
-        "ok": true,
-        "title": null,
-        "price": null,
-        "location": null,
-        "usable_area": null,
-        "plot_area": null,
-        "built_area": null,
-        "rooms": null,
-        "disposition": null,
-        "year_built": null,
-        "condition": null,
-        "construction": null,
-        "heating": null,
-        "sewer": null,
-        "gas": null,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": null
-      }
-    },
-    {
-      "id": "realingo_24793058",
-      "title": "Rodinny dum, Čeladná",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-okres-frydek-mistek/24793058",
-      "portal": "realingo",
-      "price": null,
-      "location": "Čeladná",
-      "location_id": "celadna",
-      "added": "2026-11-17",
-      "price_history": [],
-      "area_m2": null,
-      "coordinates": [
-        49.55,
-        18.34
-      ],
-      "score": 58,
-      "reasons": [
-        "cena neuvedena",
-        "užitná plocha neznámá",
-        "pozemek neznámý",
-        "obec ✓",
-        "čeká na detail inzerátu"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-celadna-okres-frydek-mistek/24793058",
-        "fetched": "2026-11-17",
-        "ok": true,
-        "title": null,
-        "price": null,
-        "location": null,
-        "usable_area": null,
-        "plot_area": null,
-        "built_area": null,
-        "rooms": null,
-        "disposition": null,
-        "year_built": null,
-        "condition": null,
-        "construction": null,
-        "heating": null,
-        "sewer": null,
-        "gas": null,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": null
-      }
-    },
-    {
-      "id": "realingo_24792367",
-      "title": "Rodinny dum, Palkovice",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-palkovice-okres-frydek-mistek/24792367",
-      "portal": "realingo",
-      "price": null,
-      "location": "Palkovice",
-      "location_id": "palkovice",
-      "added": "2026-11-17",
-      "price_history": [],
-      "area_m2": null,
-      "coordinates": [
-        49.63,
-        18.29
-      ],
-      "score": 58,
-      "reasons": [
-        "cena neuvedena",
-        "užitná plocha neznámá",
-        "pozemek neznámý",
-        "obec ✓",
-        "čeká na detail inzerátu"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-palkovice-okres-frydek-mistek/24792367",
-        "fetched": "2026-11-17",
         "ok": true,
         "title": null,
         "price": null,
@@ -2201,11 +2103,11 @@
     }
   ],
   "new_ids": [
-    "realingo_24587258",
     "bazos_226592179",
     "sreality_3347513420",
     "sreality_546926668",
-    "sreality_1806041164"
+    "sreality_1806041164",
+    "sreality_4291555404"
   ],
   "notified_ids": [
     "bazos_223729497",
