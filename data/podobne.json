@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T23:12:43.219820+00:00",
+  "generated": "2026-11-20T13:58:31.843693+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -730,6 +730,66 @@
       }
     },
     {
+      "id": "sreality_566612044",
+      "title": "Prodej rodinného domu 128 m², pozemek 866 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/566612044",
+      "portal": "sreality",
+      "price": 6450000,
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "added": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 6800000
+        },
+        {
+          "date": "2026-11-20",
+          "price": 6450000
+        }
+      ],
+      "area_m2": 866,
+      "coordinates": [
+        49.6736439650751,
+        18.333590658412
+      ],
+      "score": 68,
+      "reasons": [
+        "cena 6,45 mil. ✓",
+        "užitná 128 m² ✓",
+        "pozemek 866 m² ~",
+        "6 pokojů ~",
+        "město ~"
+      ],
+      "match": true,
+      "new": false,
+      "details": {
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/566612044",
+        "fetched": "2026-11-02",
+        "ok": true,
+        "title": "Prodej rodinného domu 128 m², pozemek 866 m²",
+        "price": 6800000,
+        "location": "Frýdek-Místek - Místek",
+        "usable_area": 128,
+        "plot_area": 866,
+        "built_area": 95,
+        "rooms": 6,
+        "disposition": null,
+        "year_built": null,
+        "condition": "před rekonstrukcí",
+        "construction": "cihlová",
+        "heating": "plynový kotel",
+        "sewer": "veřejná kanalizace",
+        "gas": true,
+        "penb": "G",
+        "agency": null,
+        "ref_number": "2026131605",
+        "listed_since": "2026-08-10",
+        "old_price": null,
+        "description": "Hledáte starší rodinný dům v lokalitě velmi blízko centra města, který je určen k celkové rekonstrukci? \r\n\r\nPokud jsem vás zaujal, tak možná právě pro Vás mám tuto jedinečnou příležitost. Vítejte ve Frýdku-Místku, na ul. Československé armády. \r\n\r\nJedná se o zděný patrový rodinný dům o dispozici 4+1 (cca 128 m2 + sklep a půda). V přízemí se nachází kuchyň, obývací pokoj, ložnice, koupelna, samostatná toaleta, veranda a předsíň. V patře pak najdeme další dva pokoje, druhou koupelnu s toaletou a vstup na půdu. \r\n\r\nJeho velikost nabídne dostatek místa pro mladou rodinu s dětmi, případně se z některých pokojů může vytvořit pracovna nebo pokoj pro hosty. Dům je vhodný nejen pro bydlení, ale případně i pro vaše podnikání. \r\n\r\nDispozice domu se řadí mezi ty velmi dobře řešené z důvodu velikosti a uspořádání všech místností. \r\n\r\nDům je celopodsklepený s půdním prostorem. Je již napojen na místní vodovod, elektřinu, plynovod i kanalizaci. Navíc se na pozemku nachází starší retenční nádrž na užitkovou vodou. Vytápění zajišťuje starší plynový kotel a el. bojler. Dům disponuje jedním komínem se dvěma průduchy (jeden vyvložkovaný pro plynový kotel, druhý se nepoužívá). \r\n\r\nDům je v původním stavu. V r. 2018 proběhla pouze částečná rekonstrukce kuchyně a přízemní koupelny. Podlahovou krytinu tvoří linoleum, dřevěné desky a koberce, okna jsou původní dřevěná, střešní krytina je ethernitová. Můžete si ho tedy upravit dle svých představ a obléct ho do moderního kabátu. \r\n\r\nZastavěná plocha činí 95 m2. Pozemek má celkovou rozlohu 866 m2. Nabízí dostatek místa pro odpočinek a rodinnou pohodu. Soukromí vám zajistí vzrostlá zeleň. Na okrasné zahradě se také nachází dřevěná pergola pro příjemné posezení. Na pozemku je možné parkovat s více vozy.\r\n\r\nMěsíční náklady pro bydlení dvou osob jsou aktuálně nastaveny na 2.000,- Kč (elektřina) a 4.000,- Kč (plyn) + spotřeba vody. \r\n\r\nNacházíme se v lokalitě zástavby rodinných a panelových domů, poblíž centra města. V blízkém okolí najdeme MHD - zastávka Osmá ZŠ, MŠ, ZŠ, obchod Hruška, polikliniku, poštu, nám. Svobody a další. Tady budete mít vše potřebné v docházkové i dojezdové vzdálenosti. Jedná se o oblíbenou část města nejen díky své lokaci. \r\n\r\nA právě tady může být váš nový domov. \r\n\r\nDům bude k dispozici dle domluvy \r\n\r\nZarezervujte si svůj termín schůzky co nejdříve, ať vám tato příležitost neunikne. Můžete si tím splnit svůj sen o novém bydlení nebo nebo o startu nového podnikání. \r\n\r\nV případě zájmu můžu pomoci s financováním koupě hypotékou, a to díky dlouholeté spolupráci s několika nezávislými hypotečními specialisty. \r\n\r\nTak co říkáte, je to právě tento dům, které hledáte? Pokud ano, pro bližší informace mě kontaktujte, a poté se s vámi rád domluvím na termínu prohlídky. Do té doby se mějte hezky a na shledanou. "
+      }
+    },
+    {
       "id": "sreality_88670284",
       "title": "Prodej rodinného domu 240 m², pozemek 1239 m²",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/88670284",
@@ -781,58 +841,6 @@
       }
     },
     {
-      "id": "sreality_1527742540",
-      "title": "Prodej rodinného domu 0 m², pozemek 0 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/sedliste/1527742540",
-      "portal": "sreality",
-      "price": null,
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "added": "2026-11-05",
-      "price_history": [],
-      "area_m2": null,
-      "coordinates": [
-        49.71836511592695,
-        18.368690478191663
-      ],
-      "score": 62,
-      "reasons": [
-        "cena neuvedena",
-        "užitná plocha neznámá",
-        "pozemek neznámý",
-        "4 pokoje ✓",
-        "obec ✓",
-        "čeká na detail inzerátu"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/sedliste/1527742540",
-        "fetched": "2026-11-05",
-        "ok": true,
-        "title": "Prodej rodinného domu 0 m², pozemek 0 m²",
-        "price": null,
-        "location": "Sedliště",
-        "usable_area": null,
-        "plot_area": 0,
-        "built_area": null,
-        "rooms": 4,
-        "disposition": null,
-        "year_built": null,
-        "condition": "novostavba",
-        "construction": "cihlová",
-        "heating": null,
-        "sewer": null,
-        "gas": false,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": "2026-05-31",
-        "old_price": null,
-        "description": "Prodej novostavby rodinného domu – Sedliště u Frýdku-Místku\n\nNabízíme k prodeji moderní novostavbu rodinného domu v atraktivní a klidné lokalitě Sedliště, pouhé 3 km od Frýdek-Místek.\n\nDům stojí na prostorném pozemku o výměře 1 700 m², který poskytuje dostatek soukromí i prostoru pro relaxaci, zahradu či rodinné aktivity.\n\nHlavní přednosti nemovitosti\n\n* moderní novostavba v klidné lokalitě v blízkosti města\n* pozemek 1 700 m² s velkorysým prostorem\n* fotovoltaická elektrárna 7,7 kWp (střídač GoodWe 8 kW, panely 550 Wp)\n* kvalitní okna s izolačními trojskly\n* 4 parkovací stání přímo u domu\n* výborná dostupnost do Frýdku-Místku a kompletní občanská vybavenost v dosahu\n\nVelkou výhodou je kombinace klidného bydlení v přírodě s rychlou dostupností do města.\n¨\nZkolaudováno 12.10 2026 \n\nZastavěná plocha : 142 m2\nUžitková plocha : 115 m2\n\n\n\n\nNa vedlejší parcele nabízíme k prodeji hrubou stavbu totožného projektu za cenu 7 800 000 Kč. Jedná se o stejný dům se stejnou dispozicí a architektonickým řešením, který si nový majitel může dokončit podle vlastních představ"
-      }
-    },
-    {
       "id": "realingo_24726816",
       "title": "Rodinny dum, Ostravice, okres Frýdek-Místek",
       "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice-okres-frydek-mistek/24726816",
@@ -881,6 +889,63 @@
         "listed_since": null,
         "old_price": null,
         "description": null
+      }
+    },
+    {
+      "id": "bazos_226696573",
+      "title": "Prodej rodinného domu, Frýdek-Místek",
+      "url": "https://reality.bazos.cz/inzerat/226696573/prodej-rodinneho-domu-frydek-mistek.php",
+      "portal": "bazos",
+      "price": 4950000,
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "added": "2026-11-20",
+      "price_history": [
+        {
+          "date": "2026-11-20",
+          "price": 4950000
+        }
+      ],
+      "area_m2": null,
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "score": 62,
+      "reasons": [
+        "cena 4,95 mil. ~",
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "5+1 ✓",
+        "město ~",
+        "čeká na detail inzerátu"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://reality.bazos.cz/inzerat/226696573/prodej-rodinneho-domu-frydek-mistek.php",
+        "fetched": "2026-11-20",
+        "ok": true,
+        "title": "Prodej rodinného domu, Frýdek-Místek",
+        "price": null,
+        "location": null,
+        "usable_area": null,
+        "plot_area": null,
+        "built_area": null,
+        "rooms": 5,
+        "disposition": "5+1",
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": null,
+        "sewer": null,
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": "Dovolujeme si Vám nabídnout celopodsklepený rodinný dům 5+1 s garáží na ul. J. Opletala v Místku, nedaleko centra města. Dům má velmi dobré dispoziční řešení, v přízemí se nachází kuchyň, 2 místnosti, které jsou nyní spojeny v jednu, WC, ve 2. NP se nachází 3 pokoje, koupelna a WC. V suterénu domu jsou velké prostory, které lze využít jako dílny, úložné prostory nebo obytné místnosti. Součástí domu je garáž s kanálem. Dům je připraven k rekonstrukci dle představ nového majitele. Dům má skvělou polohu, do centra Místku cca 10 min. pěšky, kde je veškerá občanská vybavenost. Díky své poloze je také vhodný jako sídlo firmy, nebo služby např. lékaři apod. Lokalita: J. Opletala, Místek Evidenční číslo: 961572 Energetická náročnost : Třída G - Mimořádně nehospodárná"
       }
     },
     {
@@ -1088,57 +1153,6 @@
       "details": {
         "url": "https://www.realingo.cz/prodej/dum-rodinny-palkovice-okres-frydek-mistek/24799727",
         "fetched": "2026-11-19",
-        "ok": true,
-        "title": null,
-        "price": null,
-        "location": null,
-        "usable_area": null,
-        "plot_area": null,
-        "built_area": null,
-        "rooms": null,
-        "disposition": null,
-        "year_built": null,
-        "condition": null,
-        "construction": null,
-        "heating": null,
-        "sewer": null,
-        "gas": null,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": null
-      }
-    },
-    {
-      "id": "realingo_24797805",
-      "title": "Rodinny dum, Dobrá",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-dobra-739-51/24797805",
-      "portal": "realingo",
-      "price": null,
-      "location": "Dobrá",
-      "location_id": "dobra",
-      "added": "2026-11-18",
-      "price_history": [],
-      "area_m2": null,
-      "coordinates": [
-        49.67,
-        18.42
-      ],
-      "score": 58,
-      "reasons": [
-        "cena neuvedena",
-        "užitná plocha neznámá",
-        "pozemek neznámý",
-        "obec ✓",
-        "čeká na detail inzerátu"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-dobra-739-51/24797805",
-        "fetched": "2026-11-18",
         "ok": true,
         "title": null,
         "price": null,
@@ -1501,62 +1515,6 @@
       }
     },
     {
-      "id": "sreality_566612044",
-      "title": "Prodej rodinného domu 128 m², pozemek 866 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/566612044",
-      "portal": "sreality",
-      "price": 6800000,
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "added": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 6800000
-        }
-      ],
-      "area_m2": 866,
-      "coordinates": [
-        49.6736439650751,
-        18.333590658412
-      ],
-      "score": 53,
-      "reasons": [
-        "cena 6,80 mil. ~",
-        "užitná 128 m² ✓",
-        "pozemek 866 m² ~",
-        "6 pokojů ~",
-        "město ~"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/566612044",
-        "fetched": "2026-11-02",
-        "ok": true,
-        "title": "Prodej rodinného domu 128 m², pozemek 866 m²",
-        "price": 6800000,
-        "location": "Frýdek-Místek - Místek",
-        "usable_area": 128,
-        "plot_area": 866,
-        "built_area": 95,
-        "rooms": 6,
-        "disposition": null,
-        "year_built": null,
-        "condition": "před rekonstrukcí",
-        "construction": "cihlová",
-        "heating": "plynový kotel",
-        "sewer": "veřejná kanalizace",
-        "gas": true,
-        "penb": "G",
-        "agency": null,
-        "ref_number": "2026131605",
-        "listed_since": "2026-08-10",
-        "old_price": null,
-        "description": "Hledáte starší rodinný dům v lokalitě velmi blízko centra města, který je určen k celkové rekonstrukci? \r\n\r\nPokud jsem vás zaujal, tak možná právě pro Vás mám tuto jedinečnou příležitost. Vítejte ve Frýdku-Místku, na ul. Československé armády. \r\n\r\nJedná se o zděný patrový rodinný dům o dispozici 4+1 (cca 128 m2 + sklep a půda). V přízemí se nachází kuchyň, obývací pokoj, ložnice, koupelna, samostatná toaleta, veranda a předsíň. V patře pak najdeme další dva pokoje, druhou koupelnu s toaletou a vstup na půdu. \r\n\r\nJeho velikost nabídne dostatek místa pro mladou rodinu s dětmi, případně se z některých pokojů může vytvořit pracovna nebo pokoj pro hosty. Dům je vhodný nejen pro bydlení, ale případně i pro vaše podnikání. \r\n\r\nDispozice domu se řadí mezi ty velmi dobře řešené z důvodu velikosti a uspořádání všech místností. \r\n\r\nDům je celopodsklepený s půdním prostorem. Je již napojen na místní vodovod, elektřinu, plynovod i kanalizaci. Navíc se na pozemku nachází starší retenční nádrž na užitkovou vodou. Vytápění zajišťuje starší plynový kotel a el. bojler. Dům disponuje jedním komínem se dvěma průduchy (jeden vyvložkovaný pro plynový kotel, druhý se nepoužívá). \r\n\r\nDům je v původním stavu. V r. 2018 proběhla pouze částečná rekonstrukce kuchyně a přízemní koupelny. Podlahovou krytinu tvoří linoleum, dřevěné desky a koberce, okna jsou původní dřevěná, střešní krytina je ethernitová. Můžete si ho tedy upravit dle svých představ a obléct ho do moderního kabátu. \r\n\r\nZastavěná plocha činí 95 m2. Pozemek má celkovou rozlohu 866 m2. Nabízí dostatek místa pro odpočinek a rodinnou pohodu. Soukromí vám zajistí vzrostlá zeleň. Na okrasné zahradě se také nachází dřevěná pergola pro příjemné posezení. Na pozemku je možné parkovat s více vozy.\r\n\r\nMěsíční náklady pro bydlení dvou osob jsou aktuálně nastaveny na 2.000,- Kč (elektřina) a 4.000,- Kč (plyn) + spotřeba vody. \r\n\r\nNacházíme se v lokalitě zástavby rodinných a panelových domů, poblíž centra města. V blízkém okolí najdeme MHD - zastávka Osmá ZŠ, MŠ, ZŠ, obchod Hruška, polikliniku, poštu, nám. Svobody a další. Tady budete mít vše potřebné v docházkové i dojezdové vzdálenosti. Jedná se o oblíbenou část města nejen díky své lokaci. \r\n\r\nA právě tady může být váš nový domov. \r\n\r\nDům bude k dispozici dle domluvy \r\n\r\nZarezervujte si svůj termín schůzky co nejdříve, ať vám tato příležitost neunikne. Můžete si tím splnit svůj sen o novém bydlení nebo nebo o startu nového podnikání. \r\n\r\nV případě zájmu můžu pomoci s financováním koupě hypotékou, a to díky dlouholeté spolupráci s několika nezávislými hypotečními specialisty. \r\n\r\nTak co říkáte, je to právě tento dům, které hledáte? Pokud ano, pro bližší informace mě kontaktujte, a poté se s vámi rád domluvím na termínu prohlídky. Do té doby se mějte hezky a na shledanou. "
-      }
-    },
-    {
       "id": "bazos_225101794",
       "title": "Bydlení nebo rekreace bez kompromisů – zrekonstruovaný dům v",
       "url": "https://reality.bazos.cz/inzerat/225101794/bydleni-nebo-rekreace-bez-kompromisu-zrekonstruovany-dum-v.php",
@@ -1780,6 +1738,57 @@
       }
     },
     {
+      "id": "realingo_24800501",
+      "title": "Rodinny dum, Místek, Frýdek-Místek",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-j-opletala-frydek-mistek/24800501",
+      "portal": "realingo",
+      "price": null,
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "added": "2026-11-20",
+      "price_history": [],
+      "area_m2": null,
+      "coordinates": [
+        49.68,
+        18.34
+      ],
+      "score": 48,
+      "reasons": [
+        "cena neuvedena",
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "město ~",
+        "čeká na detail inzerátu"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-j-opletala-frydek-mistek/24800501",
+        "fetched": "2026-11-20",
+        "ok": true,
+        "title": null,
+        "price": null,
+        "location": null,
+        "usable_area": null,
+        "plot_area": null,
+        "built_area": null,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": null,
+        "sewer": null,
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": null
+      }
+    },
+    {
       "id": "bazos_224320106",
       "title": "Prodej rodinného domu Frýdlantská, Frýdek-Místek - Místek",
       "url": "https://reality.bazos.cz/inzerat/224320106/prodej-rodinneho-domu-frydlantska-frydek-mistek-mistek.php",
@@ -1883,6 +1892,65 @@
         "listed_since": "2026-09-10",
         "old_price": null,
         "description": "Unavuje Vás dělat kompromisy v cizích rekonstrukcích? Tady dostáváte neopakovatelnou šanci! Všechny náročné vnější práce jsou již hotové a vnitřní prostory si dokončíte přesně podle svých snů a standardů – bez skrytých vad, bez cizího vkusu a bez ústupků.<br />\r\n<br />\r\nDům o zastavěné ploše 64 m² stojí na pozemku se zahradou 846 m². Součástí je venkovní pergola, menší plechová garáž a sklep.<br />\r\n<br />\r\nStřecha je valbová, krytina speciální IPA. Zvenčí má dům nové zateplení, dřevěné obložení a nová plastová okna. Vnitřek je připraven k dokončení dle představ kupujícího (fotografie obsahují AI návrhy možného vzhledu). Konstrukce domu je smíšená – více info po telefonu.<br />\r\n<br />\r\nInženýrské sítě:<br />\r\nPřívod nové elektřiny v zemi, obecní voda přivedena, odpady napojeny na kanalizaci, možnost napojení na plyn, který je na hranici pozemku.<br />\r\n<br />\r\nHodoňovice nabízí skvělou atmosféru i bohatý společenský život – pořádají se zde tradiční akce jako pálení čarodějnic, stavění i kácení máje nebo letní kino. <br />\r\n<br />\r\nNeváhejte a zavolejte!"
+      }
+    },
+    {
+      "id": "bazos_225089075",
+      "title": "Prodej, rodinný dům, Janovice",
+      "url": "https://reality.bazos.cz/inzerat/225089075/prodej-rodinny-dum-janovice.php",
+      "portal": "bazos",
+      "price": 6800000,
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "added": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 7200000
+        },
+        {
+          "date": "2026-11-20",
+          "price": 6800000
+        }
+      ],
+      "area_m2": null,
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "score": 45,
+      "reasons": [
+        "cena 6,80 mil. ~",
+        "užitná 300 m² ✗",
+        "pozemek 1 000 m² ✓",
+        "město ~"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://reality.bazos.cz/inzerat/225089075/prodej-rodinny-dum-janovice.php",
+        "fetched": "2026-11-20",
+        "ok": true,
+        "title": "Prodej, rodinný dům, Janovice",
+        "price": null,
+        "location": null,
+        "usable_area": 300,
+        "plot_area": 1000,
+        "built_area": 464,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": null,
+        "sewer": "septik / jímka",
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": "Rodinný dům Janovice – Bystré. Pravý venkov a pohoda. Jednopodlažní zděný dům stojí od roku 1945, ale v letech 2019–2020 si prošel pořádnou proměnou. Nová střecha (nový krov a plechová střešní krytina), plastová okna s dvojskly, zateplená půda (30 cm minerální vaty), fasáda zateplená polystyrénem, kromě jednoho pokoje jsou ve zbytku domu vylité betonové podlahy, betonový věnec, měděná elektroinstalace – prostě pořádný základ. Obvodové stěny mají 40 cm, takže léto i zimu necháte venku. A ta kombinace hnědé fasády s červenou střechou, hezky ladí. Teplo zajišťují elektrické nástěnné panely a v obýváku máme kamna na dřevo, které ne jen že skvěle vytopí většinu prostoru, ale hlavně dotvoří tu pravou atmosféru domova. Zahrada to je radost pohledět. Prostor pro bazén, skalky, skleník pro pěstitele-nadšence a kolem dokola vzrostlé túje a les hned za plotem. Totální soukromí. Sednete si na terasu s kávou, koukáte do zeleně a najednou pochopíte, proč tady majitelé žili přes 20 let. Klid trvá do chvíle, než vaše děti vyrazí do bazénu – ale to je přece ten nejlepší ,,hluk'' na světě. Zázemí, které ocení i ten nejnáročnější kutil nebo podnikatel. Dvě garáže, dílna, uzavřený vnitroblok s bránou na dálkové ovládání. Kdo chce bydlet a zároveň podnikat – tady se to přímo nabízí. A kdo jen chce mít místo na auto, motorku, kolo, zahradní traktor a ještě zásoby na zimu – tady to taky vyjde. Dům je částečně podsklepený, má vlastní studnu s kvalitní vodou (a možnost napojení na veřejný vodovod), odpady svedené do septiku a půda je připravená pro případnou vestavbu. Nová školka pár metrů od domu, obchod 300 m, zastávka autobusu 200 m, restaurace U Toflů pro ty správné příležitosti. Základka v Janovicích nebo ve Frýdlantě. A pro koho je tento dům? Pro toho, kdo chce opravdový venkov jako způsob života. Kdo ocení velké zázemí, Beskydy za plotem a klid, který se dnes hledá těžko. Majitelé se o dům starali s láskou přes dvě dekády. Teď přišel čas, aby dělal radost někomu dalšímu. ev.č.: 2197 třída energetické náročnosti budovy: G - Mimořádně nehospodárná dle vyhlášky č.264/2020 Sb. poloha objektu: Samostatný druh objektu: Smíšená stav objektu: Velmi dobrý typ domu: Přízemní velikost: 4 pokoje zastavěná plocha (m2): 464 užitná plocha (m2): 300 plocha parcely (m2): 1000 počet podlaží objektu: 1"
       }
     },
     {
