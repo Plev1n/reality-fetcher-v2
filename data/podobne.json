@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T13:58:31.843693+00:00",
+  "generated": "2026-11-20T22:44:51.931814+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -176,6 +176,62 @@
         "listed_since": "2026-03-03",
         "old_price": null,
         "description": "Hledáte rodinný dům a nebo rekreační nemovitost nedaleko Beskyd?\r\nHledáte místo, kde si vytvoříte domov přesně podle svých představ? \r\nTak právě pro Vás mám menší rodinný dům, v klidné části obce obklopené přírodou a atmosférou podhůří Beskyd.\r\nNemovitost je v původním stavu a určena k rekonstrukci a právě to dává novému majiteli jedinečnou možnost přetvořit dům k obrazu svému - ať už pro pohodlné rodinné bydlení, nebo jako útulné místo k rekreaci a odpočinku mimo ruch města.\r\n\r\nCo vám tato nemovitost přinese?\r\n- klid a soukromí\r\n- blízkost hor a přírody\r\n- prostor pro vlastní realizaci\r\n- možnost celoročního bydlení i víkendové rekreace\r\n- příjemnou dostupnost do okolních měst\r\n\r\nTato nemovitost je ideální pro ty, kteří hledají kombinaci venkovského klidu a aktivního životního stylu v blízkosti hor. \r\nPro více informací nebo sjednání prohlídky mne neváhejte kontaktovat, ráda vám dům osobně představím. "
+      }
+    },
+    {
+      "id": "sreality_700936268",
+      "title": "Prodej rodinného domu 105 m², pozemek 1852 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/palkovice/700936268",
+      "portal": "sreality",
+      "price": 4998000,
+      "location": "Palkovice",
+      "location_id": "palkovice",
+      "added": "2026-11-20",
+      "price_history": [
+        {
+          "date": "2026-11-20",
+          "price": 4998000
+        }
+      ],
+      "area_m2": 1852,
+      "coordinates": [
+        49.6346735124512,
+        18.3150794392153
+      ],
+      "score": 90,
+      "reasons": [
+        "cena 5,00 mil. ~",
+        "užitná 105 m² ✓",
+        "pozemek 1 852 m² ~",
+        "3 pokoje ~",
+        "obec ✓"
+      ],
+      "match": true,
+      "new": true,
+      "details": {
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/palkovice/700936268",
+        "fetched": "2026-11-20",
+        "ok": true,
+        "title": "Prodej rodinného domu 105 m², pozemek 1852 m²",
+        "price": 4998000,
+        "location": "Palkovice",
+        "usable_area": 105,
+        "plot_area": 1852,
+        "built_area": null,
+        "rooms": 3,
+        "disposition": null,
+        "year_built": null,
+        "condition": "před rekonstrukcí",
+        "construction": "smíšená",
+        "heating": null,
+        "sewer": "veřejná kanalizace",
+        "gas": false,
+        "penb": null,
+        "agency": null,
+        "ref_number": "1630",
+        "listed_since": "2026-11-20",
+        "old_price": null,
+        "description": "Nabízíme k prodeji dřevěnici o dispozici 2+1 s pozemkem o celkové výměře 1 852 m² v obci Palkovice. Nemovitost nabízí zajímavou možnost využití stávajícího domu, ale především potenciál pro výstavbu nového rodinného domu. Pozemek je dle platného územního plánu určen k výstavbě rodinného domu a nachází se na něm stavební místo.\r\n\r\nStávající dřevěnice může novému majiteli posloužit pro rekreační pobyty nebo k jinému využití dle vlastních potřeb. Dům má dispozici 2+1, vstup přes verandu a předsíň, kuchyni s původní pecí, obývací pokoj a ložnici. Součástí je také toaleta a prostor určený k vybudování koupelny. Dřevěnice je v původním stavu s částečně provedenými úpravami a počítá s rekonstrukcí dle představ nového majitele.\r\n\r\nPozemek o výměře 1 852 m² nabízí dostatek prostoru pro realizaci vlastního bydlení, zahradu i další zázemí. Možnost napojení na obecní vodovod, kanalizaci a elektřinu. Přístup na pozemek je zajištěn z obecní komunikace.\r\n\r\nPalkovice jsou příjemnou lokalitou pro bydlení v podhůří Beskyd, s dobrou dostupností Frýdku-Místku a okolních obcí.\r\n\r\nNabídka je vhodná pro zájemce, kteří hledají místo pro stavbu vlastního rodinného domu, ocení větší pozemek a možnost využití stávající dřevěnice."
       }
     },
     {
@@ -1066,6 +1122,62 @@
       }
     },
     {
+      "id": "sreality_4256657484",
+      "title": "Prodej rodinného domu 91 m², pozemek 1806 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/metylovice/4256657484",
+      "portal": "sreality",
+      "price": 6750000,
+      "location": "Metylovice",
+      "location_id": "metylovice",
+      "added": "2026-11-20",
+      "price_history": [
+        {
+          "date": "2026-11-20",
+          "price": 6750000
+        }
+      ],
+      "area_m2": 1806,
+      "coordinates": [
+        49.6066588043964,
+        18.3391167574802
+      ],
+      "score": 60,
+      "reasons": [
+        "cena 6,75 mil. ~",
+        "užitná 91 m² ~",
+        "pozemek 1 806 m² ~",
+        "4 pokoje ✓",
+        "obec ✓"
+      ],
+      "match": true,
+      "new": true,
+      "details": {
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/metylovice/4256657484",
+        "fetched": "2026-11-20",
+        "ok": true,
+        "title": "Prodej rodinného domu 91 m², pozemek 1806 m²",
+        "price": 6750000,
+        "location": "Metylovice",
+        "usable_area": 91,
+        "plot_area": 1806,
+        "built_area": 119,
+        "rooms": 4,
+        "disposition": null,
+        "year_built": null,
+        "condition": "ve výstavbě",
+        "construction": "cihlová",
+        "heating": "tepelné čerpadlo, krbová kamna",
+        "sewer": "veřejná kanalizace",
+        "gas": false,
+        "penb": "G",
+        "agency": null,
+        "ref_number": "0904",
+        "listed_since": "2026-11-20",
+        "old_price": null,
+        "description": "Hledáte nové bydlení v klidném prostředí Beskyd, obklopené přírodou a s dostatkem prostoru pro celou rodinu? Právě pro vás může být zajímavou příležitostí tento přízemní rodinný dům o dispozici 4+kk, který se nachází v obci Metylovice, v místní části Metylovičky.\r\n\r\nDům je situován na pozemku o celkové výměře 1 806 m² a nabízí užitnou plochu 91 m². Díky přízemnímu řešení je bydlení praktické a pohodlné pro rodiny s dětmi i pro ty, kteří preferují život bez schodiště. Dominantou domu je prostorný obývací pokoj propojený s kuchyňským koutem, který vytváří přirozené centrum rodinného života. Dále jsou k dispozici tři samostatné pokoje, které lze využít jako ložnici, dětské pokoje či pracovnu. Součástí projektu je koupelna s vanou, sprchovým koutem a WC a dále také samostatná toaleta situovaná u zádveří.\r\n\r\nPřístup k pozemku je zajištěn po obecní příjezdové komunikaci.\r\n\r\nProjektová dokumentace počítá s moderním způsobem vytápění prostřednictvím tepelného čerpadla a komfortním podlahovým vytápěním. Atmosféru domova může doplnit také krbová kamna. Ohřev teplé vody je navržen prostřednictvím elektrického bojleru. Okna jsou navržena plastová, antracitové barvy z vnější strany a bílé barvy z vnitřní strany.\r\n\r\nVelkou předností této nabídky je pozemek o výměře 1 806 m², který poskytuje dostatek prostoru pro zahradu, odpočinkovou zónu, dětské zázemí nebo další využití podle představ budoucích majitelů. Metylovičky jsou vyhledávanou lokalitou pro ty, kteří chtějí žít v příjemném venkovském prostředí, mít kolem sebe přírodu a zároveň zůstat v rozumném dosahu občanské vybavenosti a měst Frýdek-Místek a Frýdlant nad Ostravicí. Okolní krajina s výhledy na beskydské kopce nabízí ideální podmínky pro procházky, cyklistiku i další volnočasové aktivity.\r\n\r\nKupní cena odpovídá domu v jeho aktuálním stavu rozestavěnosti. Pro zájemce, kteří preferují bydlení dokončené bez nutnosti zajišťovat další stavební práce, je po individuální dohodě s prodávajícím možné sjednat také dokončení domu. Rozsah a podmínky dokončovacích prací budou předmětem vzájemné dohody.\r\n\r\nPokud hledáte rodinné bydlení s velkým pozemkem v krásném prostředí podhůří Beskyd, neváhejte mě kontaktovat. Rád vám poskytnu bližší informace a domluvím osobní prohlídku."
+      }
+    },
+    {
       "id": "sreality_4291555404",
       "title": "Prodej rodinného domu 300 m², pozemek 1000 m²",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/janovice/4291555404",
@@ -1123,6 +1235,57 @@
         "listed_since": "2026-06-12",
         "old_price": 7200000,
         "description": "Rodinný dům Janovice – Bystré. Pravý venkov a pohoda.\r\n\r\nJednopodlažní zděný dům stojí od roku 1945, ale v letech 2019–2020 si prošel pořádnou proměnou. Nová střecha (nový krov a plechová střešní krytina), plastová okna s dvojskly, zateplená půda (30 cm minerální vaty), fasáda zateplená polystyrénem, kromě jednoho pokoje jsou ve zbytku domu vylité betonové podlahy, betonový věnec, měděná elektroinstalace – prostě pořádný základ. Obvodové stěny mají 40 cm, takže léto i zimu necháte venku. A ta kombinace hnědé fasády s červenou střechou, hezky ladí.\r\n\r\nTeplo zajišťují elektrické nástěnné panely a v obýváku máme kamna na dřevo, které ne jen že skvěle vytopí většinu prostoru, ale hlavně dotvoří tu pravou atmosféru domova. Zahrada to je radost pohledět. Prostor pro bazén, skalky, skleník pro pěstitele-nadšence a kolem dokola vzrostlé túje a les hned za plotem. Totální soukromí. Sednete si na terasu s kávou, koukáte do zeleně a najednou pochopíte, proč tady majitelé žili přes 20 let. Klid trvá do chvíle, než vaše děti vyrazí do bazénu – ale to je přece ten nejlepší ,,hluk'' na světě.\r\n\r\nZázemí, které ocení i ten nejnáročnější kutil nebo podnikatel. Dvě garáže, dílna, uzavřený vnitroblok s bránou na dálkové ovládání. Kdo chce bydlet a zároveň podnikat – tady se to přímo nabízí. A kdo jen chce mít místo na auto, motorku, kolo, zahradní traktor a ještě zásoby na zimu – tady to taky vyjde.\r\n\r\nDům je částečně podsklepený, má vlastní studnu s kvalitní vodou (a možnost napojení na veřejný vodovod), odpady svedené do septiku a půda je připravená pro případnou vestavbu.\r\n\r\nNová školka pár metrů od domu, obchod 300 m, zastávka autobusu 200 m, restaurace U Toflů pro ty správné příležitosti. Základka v Janovicích nebo ve Frýdlantě.\r\n\r\nA pro koho je tento dům? Pro toho, kdo chce opravdový venkov jako způsob života. Kdo ocení velké zázemí, Beskydy za plotem a klid, který se dnes hledá těžko.\r\nMajitelé se o dům starali s láskou přes dvě dekády. Teď přišel čas, aby dělal radost někomu dalšímu."
+      }
+    },
+    {
+      "id": "realingo_24801337",
+      "title": "Rodinny dum, Metylovice",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-metylovice-okres-frydek-mistek/24801337",
+      "portal": "realingo",
+      "price": null,
+      "location": "Metylovice",
+      "location_id": "metylovice",
+      "added": "2026-11-20",
+      "price_history": [],
+      "area_m2": null,
+      "coordinates": [
+        49.61,
+        18.34
+      ],
+      "score": 58,
+      "reasons": [
+        "cena neuvedena",
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "obec ✓",
+        "čeká na detail inzerátu"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-metylovice-okres-frydek-mistek/24801337",
+        "fetched": "2026-11-20",
+        "ok": true,
+        "title": null,
+        "price": null,
+        "location": null,
+        "usable_area": null,
+        "plot_area": null,
+        "built_area": null,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": null,
+        "construction": null,
+        "heating": null,
+        "sewer": null,
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": null
       }
     },
     {
@@ -1410,57 +1573,6 @@
         "listed_since": "2026-07-03",
         "old_price": null,
         "description": "RODINNÝ DŮM PRŽNO | 218 m² | POZEMEK 951 m² | 2 OBYTNÉ ČÁSTI | GARÁŽ | SKLEP 84 m²\r\n\r\nNabízím k prodeji prostorný rodinný dům v Pržně s užitnou plochou 218 m² a pozemkem o velikosti 951 m².\r\n\r\nDům nabízí dvě samostatně využitelné obytné části, díky kterým je vhodný pro velkou rodinu, vícegenerační bydlení nebo kombinaci vlastního bydlení a pronájmu.\r\n\r\nV 1. nadzemním podlaží je dispozice 2+1 s pracovnou, prostorným obývacím pokojem a přímým vstupem na zastřešenou bioklimatickou terasu.\r\n\r\nVe 2. nadzemním podlaží se nachází 4+kk s mezonetovým prostorem a balkonem.\r\n\r\nK domu dále patří garáž 84 m², sklepních prostor a zahrada o ploše 951 m².\r\n\r\nO vytápění se stará tepelné čerpadlo a plynový kondenzační kotel, dům má podlahové vytápění, radiátory, krb a solární panely. Energetická náročnost B.\r\n\r\nPržno nabízí dobrou dostupnost Frýdku-Místku i Beskyd. V blízkosti domu je škola, školka, obchod, pošta a vlakové spojení.\r\n\r\nDům zaujme především množstvím prostoru a možností využít jednotlivá podlaží podle potřeb nové rodiny.\r\n\r\nPokud hledáte dům, ve kterém může pohodlně fungovat více členů rodiny a zároveň chcete mít dostatek soukromí, doporučuji osobní prohlídku.\r\n\r\nPro více informací nebo termín prohlídky mi zavolejte."
-      }
-    },
-    {
-      "id": "sreality_4068868172",
-      "title": "Prodej rodinného domu 330 m², pozemek 2100 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/malenovice/4068868172",
-      "portal": "sreality",
-      "price": null,
-      "location": "Malenovice",
-      "location_id": "malenovice",
-      "added": "2026-11-04",
-      "price_history": [],
-      "area_m2": 2100,
-      "coordinates": [
-        49.579585,
-        18.4103057
-      ],
-      "score": 54,
-      "reasons": [
-        "cena neuvedena",
-        "užitná 330 m² ✗",
-        "pozemek 2 100 m² ~",
-        "5 pokojů ✓",
-        "obec ✓"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/malenovice/4068868172",
-        "fetched": "2026-11-04",
-        "ok": true,
-        "title": "Prodej rodinného domu 330 m², pozemek 2100 m²",
-        "price": null,
-        "location": "Malenovice",
-        "usable_area": 330,
-        "plot_area": 2100,
-        "built_area": null,
-        "rooms": 5,
-        "disposition": null,
-        "year_built": null,
-        "condition": "velmi dobrý",
-        "construction": "dřevostavba",
-        "heating": null,
-        "sewer": "čov pro celý objekt",
-        "gas": false,
-        "penb": "D",
-        "agency": null,
-        "ref_number": "00143",
-        "listed_since": "2026-11-04",
-        "old_price": null,
-        "description": "Nabízíme k prodeji tuto jedinečnou nemovitost uprostřed slunné paseky pod horami v Beskydech. Pokud hledáte soukromí, klid a pohodu, tak tady jste správně.\r\n\t‌\r\nObec Malenovice je vzdálena 3 km od města Frýdlant nad Ostravicí.Leží na úpatí Lysé hory a je známá jako obec s velkými pozemky a klidným bydlením v souladu s přírodou.\r\n\t‌\r\nNámi nabízená nemovitost se skládá ze tří srubových staveb, velkého pozemku v sousedství lesa a potoka a přírody.\r\n\t‌\r\nPrvní stavbou je srub na betonovém základu s terasou, garáží, dvěmi pokoji, koupelnou a WC a kuchyní. Vše ve stylu dřeva, jednoduchá dispozice jednopatrového domu. V horním patře z balkonu nádherný výhled na hory a zeleň. \r\n\t‌\r\nDruhou stavbou je velmi podobný dům, jen s tím rozdílem, že v přízemí je velká garáž s dílnou a v podkroví dva pokoje.\r\n\t‌\r\nTřetí stavba je obdobná. Jen místo garáže je stáj pro dva koně a v horním patře je nyní uloženo seno a krmení.\r\n\t‌\r\nVšechny rři domy jsou od sebe vzdáleny, takže se vzájemně neruší a nabízí se možnost bydlení tří generací. Nebo je zde možnost úpravy a pronájmu samostatně. Domy jsou koncipovány tak, že za domem je terasa, takže se obyvatelé navzájem neruší. \r\n\t‌\r\nNa pozemku je elektřina a voda. Studna je součástí pozemku jako zásobárna užitkové vody. Odpadní vody a jejich čištění zajistí ČOV. Pozemek je oplocen a vjezd na něj je zajištěn z komunikace Lesy Čr nebo věcným břemenem ze sousední parcely. Příjezdová komunikace Lesů Čr je celoročně udržovaná.\r\n\t‌\r\nV blízkosti najdete nejen vysoké kopce, ale také relax Hotelu Bezruč, restauraci, dvě golfová hřiště, koupaliště ve Frýdlantu nad Ostravicí a multifunkční hřiště obce Malenovice.\r\n\t‌\r\nFinancování rádi zajistíme prostřednictvím hypotečního centra naší kanceláře a to nejvýhodnější nabídkou s porovnáním všech bank a peněžních ústavů. Právní servis včetně advokátní úschovy finančních prostředků zajištěn zdarma.\r\n\t‌\r\nV případě zájmu o prohlídku nebo bližší informace nás kontaktujte!\r\n\t‌\r\n"
       }
     },
     {
@@ -2222,10 +2334,12 @@
     }
   ],
   "new_ids": [
+    "sreality_700936268",
     "bazos_226592179",
     "sreality_3347513420",
     "sreality_546926668",
     "sreality_1806041164",
+    "sreality_4256657484",
     "sreality_4291555404"
   ],
   "notified_ids": [
