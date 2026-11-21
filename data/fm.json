@@ -1,64 +1,31 @@
 {
-  "generated": "2026-11-21T13:25:22.940444+00:00",
+  "generated": "2026-11-21T21:42:08.741653+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_226592129",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek 930 m², Bukovice u Dobratic, sítě na hranic",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 930,
-      "price": 2400000,
-      "price_per_m2": 2581,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/226592129/stavebni-pozemek-930-m-bukovice-u-dobratic-site-na-hranic.php",
-      "portal": "bazos",
-      "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "price_history": [
-        {
-          "date": "2026-11-21",
-          "price": 2400000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24705189",
+      "id": "realingo_24801129",
       "status": "active",
       "type": "dum",
-      "title": "Rodinny dum, Frýdek-Místek, 738 01",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
+      "title": "Rodinny dum, Palkovice",
+      "location": "Palkovice",
+      "location_id": "palkovice",
       "coordinates": [
-        49.680736,
-        18.340302
+        49.63,
+        18.3
       ],
       "area_m2": null,
-      "price": 6600000,
+      "price": null,
       "price_per_m2": null,
-      "price_unknown": false,
+      "price_unknown": true,
       "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-j-opletala-frydek-mistek/24705189",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-palkovice-okres-frydek-mistek/24801129",
       "portal": "realingo",
       "added": "2026-11-21",
       "updated": "2026-11-21",
-      "price_history": [
-        {
-          "date": "2026-11-21",
-          "price": 6600000
-        }
-      ],
+      "price_history": [],
       "removed_date": null
     },
     {
@@ -397,32 +364,28 @@
       "removed_date": null
     },
     {
-      "id": "sreality_2433228876",
+      "id": "sreality_3270381644",
       "status": "active",
       "type": "dum",
-      "title": "Prodej rodinného domu 275 m², pozemek 799 m²",
+      "title": "Prodej rodinného domu 141 m², pozemek 816 m²",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
-        49.68536881058775,
-        18.34837974478252
+        49.6853688105877,
+        18.3483797447825
       ],
-      "area_m2": 799,
+      "area_m2": 816,
       "price": 7900000,
-      "price_per_m2": 9887,
+      "price_per_m2": 9681,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/2433228876",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3270381644",
       "portal": "sreality",
       "added": "2026-11-02",
-      "updated": "2026-11-09",
+      "updated": "2026-11-02",
       "price_history": [
         {
           "date": "2026-11-02",
-          "price": 8500000
-        },
-        {
-          "date": "2026-11-09",
           "price": 7900000
         }
       ],
@@ -736,6 +699,38 @@
         {
           "date": "2026-11-04",
           "price": 5999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_2433228876",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 275 m², pozemek 799 m²",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.68536881058775,
+        18.34837974478252
+      ],
+      "area_m2": 799,
+      "price": 7900000,
+      "price_per_m2": 9887,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/2433228876",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-09",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 8500000
+        },
+        {
+          "date": "2026-11-09",
+          "price": 7900000
         }
       ],
       "removed_date": null
@@ -1559,6 +1554,34 @@
       "removed_date": null
     },
     {
+      "id": "sreality_1450311756",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1000 m²",
+      "location": "FM-Skalice",
+      "location_id": "fm_skalice",
+      "coordinates": [
+        49.6535070298,
+        18.4038857994
+      ],
+      "area_m2": 1000,
+      "price": 3000000,
+      "price_per_m2": 3000,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/frydek-mistek/1450311756",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 3000000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "sreality_1306071116",
       "status": "active",
       "type": "pozemek",
@@ -2076,34 +2099,6 @@
         {
           "date": "2026-11-15",
           "price": 6490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_1450311756",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1000 m²",
-      "location": "FM-Skalice",
-      "location_id": "fm_skalice",
-      "coordinates": [
-        49.6535070298,
-        18.4038857994
-      ],
-      "area_m2": 1000,
-      "price": 3000000,
-      "price_per_m2": 3000,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/frydek-mistek/1450311756",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 3000000
         }
       ],
       "removed_date": null
@@ -3688,34 +3683,6 @@
       "removed_date": null
     },
     {
-      "id": "sreality_3685958476",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1511 m²",
-      "location": "Bruzovice",
-      "location_id": "bruzovice",
-      "coordinates": [
-        49.73905398296194,
-        18.381032425242296
-      ],
-      "area_m2": 1511,
-      "price": 2499000,
-      "price_per_m2": 1654,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/bruzovice/3685958476",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 2499000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "sreality_2971414604",
       "status": "active",
       "type": "pozemek",
@@ -5193,6 +5160,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_226592129",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek 930 m², Bukovice u Dobratic, sítě na hranic",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 930,
+      "price": 2400000,
+      "price_per_m2": 2581,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/226592129/stavebni-pozemek-930-m-bukovice-u-dobratic-site-na-hranic.php",
+      "portal": "bazos",
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "price_history": [
+        {
+          "date": "2026-11-21",
+          "price": 2400000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_226505503",
       "status": "active",
       "type": "pozemek",
@@ -5896,29 +5891,6 @@
       "portal": "realingo",
       "added": "2026-11-20",
       "updated": "2026-11-20",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
-      "id": "realingo_24799727",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinny dum, Palkovice",
-      "location": "Palkovice",
-      "location_id": "palkovice",
-      "coordinates": [
-        49.65,
-        18.33
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-palkovice-okres-frydek-mistek/24799727",
-      "portal": "realingo",
-      "added": "2026-11-19",
-      "updated": "2026-11-19",
       "price_history": [],
       "removed_date": null
     },
@@ -24187,34 +24159,6 @@
       "removed_date": "2026-11-07"
     },
     {
-      "id": "sreality_3270381644",
-      "status": "removed",
-      "type": "dum",
-      "title": "Prodej rodinného domu 141 m², pozemek 816 m²",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6853688105877,
-        18.3483797447825
-      ],
-      "area_m2": 816,
-      "price": 7900000,
-      "price_per_m2": 9681,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/3270381644",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 7900000
-        }
-      ],
-      "removed_date": "2026-11-09"
-    },
-    {
       "id": "bazos_223590339",
       "status": "removed",
       "type": "pozemek",
@@ -25893,6 +25837,85 @@
       "portal": "realingo",
       "added": "2026-11-04",
       "updated": "2026-11-04",
+      "price_history": [],
+      "removed_date": "2026-11-21"
+    },
+    {
+      "id": "realingo_24705189",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Frýdek-Místek, 738 01",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.680736,
+        18.340302
+      ],
+      "area_m2": null,
+      "price": 6600000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-j-opletala-frydek-mistek/24705189",
+      "portal": "realingo",
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "price_history": [
+        {
+          "date": "2026-11-21",
+          "price": 6600000
+        }
+      ],
+      "removed_date": "2026-11-21"
+    },
+    {
+      "id": "sreality_3685958476",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1511 m²",
+      "location": "Bruzovice",
+      "location_id": "bruzovice",
+      "coordinates": [
+        49.73905398296194,
+        18.381032425242296
+      ],
+      "area_m2": 1511,
+      "price": 2499000,
+      "price_per_m2": 1654,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/bruzovice/3685958476",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 2499000
+        }
+      ],
+      "removed_date": "2026-11-21"
+    },
+    {
+      "id": "realingo_24799727",
+      "status": "removed",
+      "type": "dum",
+      "title": "Rodinny dum, Palkovice",
+      "location": "Palkovice",
+      "location_id": "palkovice",
+      "coordinates": [
+        49.65,
+        18.33
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-palkovice-okres-frydek-mistek/24799727",
+      "portal": "realingo",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
       "price_history": [],
       "removed_date": "2026-11-21"
     }
