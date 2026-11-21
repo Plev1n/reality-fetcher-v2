@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T22:44:51.931814+00:00",
+  "generated": "2026-11-21T13:25:26.024138+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -1065,24 +1065,24 @@
       }
     },
     {
-      "id": "bazos_225299945",
-      "title": "Prodej rodinného domu, ul. J. Opletala, Frýdek - Místek",
-      "url": "https://reality.bazos.cz/inzerat/225299945/prodej-rodinneho-domu-ul-j-opletala-frydek-mistek.php",
-      "portal": "bazos",
+      "id": "realingo_24705189",
+      "title": "Rodinny dum, Frýdek-Místek, 738 01",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-j-opletala-frydek-mistek/24705189",
+      "portal": "realingo",
       "price": 6600000,
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
-      "added": "2026-11-02",
+      "added": "2026-11-21",
       "price_history": [
         {
-          "date": "2026-11-02",
+          "date": "2026-11-21",
           "price": 6600000
         }
       ],
       "area_m2": null,
       "coordinates": [
-        49.6878,
-        18.3498
+        49.680736,
+        18.340302
       ],
       "score": 60,
       "reasons": [
@@ -1096,10 +1096,10 @@
       "match": false,
       "new": false,
       "details": {
-        "url": "https://reality.bazos.cz/inzerat/225299945/prodej-rodinneho-domu-ul-j-opletala-frydek-mistek.php",
-        "fetched": "2026-11-02",
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-j-opletala-frydek-mistek/24705189",
+        "fetched": "2026-11-21",
         "ok": true,
-        "title": "Prodej rodinného domu, ul. J. Opletala, Frýdek - Místek",
+        "title": "Rodinný dům , Frýdek-Místek, 738 01",
         "price": null,
         "location": null,
         "usable_area": null,
@@ -1108,7 +1108,7 @@
         "rooms": 5,
         "disposition": "5+1",
         "year_built": null,
-        "condition": null,
+        "condition": "před rekonstrukcí",
         "construction": null,
         "heating": null,
         "sewer": null,
@@ -1118,7 +1118,7 @@
         "ref_number": null,
         "listed_since": null,
         "old_price": null,
-        "description": "Dovolujeme si Vám nabídnout celopodsklepený rodinný dům 5+1 s garáží na ul. J. Opletala v Místku, nedaleko centra města. Dům má velmi dobré dispoziční řešení, v přízemí se nachází kuchyň, 2 místnosti, které jsou nyní spojeny v jednu, WC, ve 2. NP se nachází 3 pokoje, koupelna a WC. V suterénu domu jsou velké prostory, které lze využít jako dílny, úložné prostory nebo obytné místnosti. Součástí domu je garáž s kanálem. Dům je připraven k rekonstrukci dle představ nového majitele. U domu je dostatek prostoru pro parkování aut, v zadní části za domem zahrada. Dům má skvělou polohu, do centra Místku cca 10 min. pěšky, kde je veškerá občanská vybavenost. Díky své poloze je také vhodný jako sídlo firmy, nebo služby např. lékaři apod. Lokalita: J. Opletala, Místek Evidenční číslo: 955767 Energetická náročnost : Třída G - Mimořádně nehospodárná"
+        "description": null
       }
     },
     {
@@ -1316,57 +1316,6 @@
       "details": {
         "url": "https://www.realingo.cz/prodej/dum-rodinny-palkovice-okres-frydek-mistek/24799727",
         "fetched": "2026-11-19",
-        "ok": true,
-        "title": null,
-        "price": null,
-        "location": null,
-        "usable_area": null,
-        "plot_area": null,
-        "built_area": null,
-        "rooms": null,
-        "disposition": null,
-        "year_built": null,
-        "condition": null,
-        "construction": null,
-        "heating": null,
-        "sewer": null,
-        "gas": null,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": null
-      }
-    },
-    {
-      "id": "realingo_24773850",
-      "title": "Rodinny dum, Malenovice",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
-      "portal": "realingo",
-      "price": null,
-      "location": "Malenovice",
-      "location_id": "malenovice",
-      "added": "2026-11-04",
-      "price_history": [],
-      "area_m2": null,
-      "coordinates": [
-        49.58,
-        18.41
-      ],
-      "score": 58,
-      "reasons": [
-        "cena neuvedena",
-        "užitná plocha neznámá",
-        "pozemek neznámý",
-        "obec ✓",
-        "čeká na detail inzerátu"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-malenovice/24773850",
-        "fetched": "2026-11-04",
         "ok": true,
         "title": null,
         "price": null,
