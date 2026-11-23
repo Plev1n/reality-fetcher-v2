@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T21:46:53.325152+00:00",
+  "generated": "2026-11-23T15:47:03.551208+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -1181,57 +1181,6 @@
       }
     },
     {
-      "id": "realingo_24801337",
-      "title": "Rodinny dum, Metylovice",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-metylovice-okres-frydek-mistek/24801337",
-      "portal": "realingo",
-      "price": null,
-      "location": "Metylovice",
-      "location_id": "metylovice",
-      "added": "2026-11-20",
-      "price_history": [],
-      "area_m2": null,
-      "coordinates": [
-        49.61,
-        18.34
-      ],
-      "score": 58,
-      "reasons": [
-        "cena neuvedena",
-        "užitná plocha neznámá",
-        "pozemek neznámý",
-        "obec ✓",
-        "čeká na detail inzerátu"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-metylovice-okres-frydek-mistek/24801337",
-        "fetched": "2026-11-20",
-        "ok": true,
-        "title": null,
-        "price": null,
-        "location": null,
-        "usable_area": null,
-        "plot_area": null,
-        "built_area": null,
-        "rooms": null,
-        "disposition": null,
-        "year_built": null,
-        "condition": null,
-        "construction": null,
-        "heating": null,
-        "sewer": null,
-        "gas": null,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": null
-      }
-    },
-    {
       "id": "realingo_24728549",
       "title": "Rodinny dum, Frýdek-Místek - Skalice",
       "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-skalice/24728549",
@@ -1965,62 +1914,6 @@
       }
     },
     {
-      "id": "sreality_1776488524",
-      "title": "Prodej rodinného domu 189 m², pozemek 1168 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/1776488524",
-      "portal": "sreality",
-      "price": 6990000,
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "added": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 6990000
-        }
-      ],
-      "area_m2": 1168,
-      "coordinates": [
-        49.6940888077896,
-        18.356000327268
-      ],
-      "score": 40,
-      "reasons": [
-        "cena 6,99 mil. ~",
-        "užitná 189 m² ✗",
-        "pozemek 1 168 m² ✓",
-        "5 pokojů ✓",
-        "město ~"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/1776488524",
-        "fetched": "2026-11-02",
-        "ok": true,
-        "title": "Prodej rodinného domu 189 m², pozemek 1168 m²",
-        "price": 6990000,
-        "location": "Frýdek-Místek - Frýdek",
-        "usable_area": 189,
-        "plot_area": 1168,
-        "built_area": 117,
-        "rooms": 5,
-        "disposition": null,
-        "year_built": 1945,
-        "condition": "před rekonstrukcí",
-        "construction": "smíšená",
-        "heating": "plynový kotel",
-        "sewer": "veřejná kanalizace",
-        "gas": true,
-        "penb": "G",
-        "agency": null,
-        "ref_number": "136841",
-        "listed_since": "2026-10-12",
-        "old_price": null,
-        "description": "Kousek od nemocnice ve Frýdku-Místku stojí prvorepubliková vila, která čeká na nového majitele a citlivou rekonstrukci. \r\n\r\nNemovitost nabízí jedinečnou příležitost jak pro vytvoření výjimečného rodinného bydlení, tak pro vybudování reprezentativního sídla podnikání.\r\n\r\nDíky své poloze v blízkosti nemocnice se nabízí využití například jako soukromá lékařská ordinace, fyzioterapeutické centrum, advokátní kancelář, účetní či daňová firma, architektonické studio nebo sídlo společnosti, která chce své klienty přivítat na prestižní adrese s charakterem.\r\n\r\nSoučástí nabídky je pozemek o celkové výměře 1 168 m², který poskytuje dostatek prostoru nejen pro zahradu a odpočinkovou zónu, ale také pro pohodlné parkování klientů, návštěv i zaměstnanců. \r\n\r\nVýznamnou přidanou hodnotou je také blízkost zeleně a lesních cest, které nabízejí příjemné místo k relaxaci, procházkám nebo načerpání energie během pracovního dne.\r\n\r\nAť už hledáte místo pro život, podnikání nebo kombinaci obojího, tato vila představuje příležitost vytvořit něco skutečně jedinečného. Nemovitost s historií, charakterem a potenciálem stát se prestižní adresou pro další generace.\r\n\r\nDomy se prodávají každý den. Takové příležitosti jen výjimečně. Do konce října 2026 nabízíme prostřednictvím našeho partnera úrokové sazby od 5,19 % p.a. Více informací Vám sdělí náš specialista na prohlídce."
-      }
-    },
-    {
       "id": "sreality_3758346316",
       "title": "Prodej rodinného domu 178 m², pozemek 2615 m²",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/malenovice/3758346316",
@@ -2120,6 +2013,61 @@
         "listed_since": "2026-08-04",
         "old_price": null,
         "description": "Špičkově vybavená novostavba rodinného domu z roku 2025 situovaná na téměř hektarovém pozemku v klidné části Čeladné. Architektonický koncept využívá kvalitních přírodních materiálů a díky unikátnímu krajinnému řešení nabízí dokonalé soukromí a úchvatné výhledy na zalesněné vrcholy Beskyd.\r\n\r\nProstorný dům s obytným podkrovím a suterénem je dispozičně rozdělen na několik funkčních zón. Společenský prostor v přízemí tvoří obývací pokoj s krbem a otevřeným stropem do krovu, na který navazuje jídelní část a kompletně vybavená kuchyně s ostrůvkem z masivního dubu a obkladem ze štípaného kamene. Celou místnost lemují velkoformátová hliníková okna s přímým vstupem na hlavní terasu. Z chodby je přístupná pracovna, opticky oddělená designovými skleněnými průhledy. Rodičovské apartmá disponuje walk-in šatnou na míru, koupelnou, toaletou a vstupem na privátní terasu. Dětské/hostinské křídlo nabízí 2 ložnice s přímým vstupem na zahradu, sdílenou koupelnu a prádelnu. V horním patře se nachází otevřená galerie s výhledem do obývacího pokoje a multifunkční pokoj prosvětlený střešními světlíky a štítovým oknem. Dále je zde samostatná koupelna s toaletou a vstup do podkroví. Soukromá wellness zóna s finskou a parní saunou, sprchou a odpočívárnou je umístěna v suterénu.\r\n\r\nVenkovní terasy jsou tvořeny velkoformátovou dlažbou, nechybí letní kuchyně, toaleta přístupná ze zahrady a příprava pro instalaci krytého vířivého bazénu (swim spa). Součástí domu je integrovaná garáž pro 2 auta. Na pozemku dále stojí patrová hospodářská budova se zasíťovanou dílnou, skladem zahradní techniky a úložným prostorem v patře. Rozlehlou zahradou protéká horský potok ústící do říčky a lemuje ji 2 metry vysoký hliněný val zarostlý zelení, který vytváří dokonalou optickou i hlukovou clonu. Travnatá plocha je připravena pro provoz GPS robotické sekačky.\r\n\r\nStavba kolaudovaná v roce 2025 splňuje nejvyšší nároky na energetickou efektivitu a technologické vybavení. Kompletní správa domu, osvětlení a všech technologií včetně optimalizace spotřeby je zajištěna smart home systémem Loxone s možností vzdáleného ovládání. Centrální rekuperace podporuje neustálý přísun čerstvého vzduchu, k tepelné pohodě přispívá podlahové vytápění rozvedené v celém objektu a individuálně regulovatelné klimatizační jednotky. Energeticky úsporné řešení představují tepelná čerpadla (vzduch-voda), FVE s výkonem 30 kWp a bateriovým úložištěm, vlastní studna a retenční nádrž na dešťovou vodu. Ekologická likvidace odpadních vod je vyřešena moderní čistírnou (ČOV). \r\n\r\nNemovitost se rozkládá na absolutně tichém místě na okraji obce obklopené čistou přírodou, zároveň s výbornou a rychlou dopravní dostupností do Ostravy a okolních měst. Čeladná je dlouhodobě považována za nejprestižnější adresu Beskyd, kterou proslavil prvotřídní golfový resort. Dnes obec nabízí také moderní centrum s novou radnicí a obchody, MŠ i ZŠ, prvotřídní restaurace a hotelové služby, pochlubit se může také vlastním rehabilitačním centrem. \r\n\r\nCelková plocha 925,27 m2 (z toho interiér 501.92 m2, terasy 337.85 m2, garáž 47.16 m2, zimní zahrada 38,34 m2), zahrada 8016 m2 a pozemek 9033 m2."
+      }
+    },
+    {
+      "id": "bazos_225001109",
+      "title": "Prvorepubliková vila s neobyčejným potenciálem, 136841",
+      "url": "https://reality.bazos.cz/inzerat/225001109/prvorepublikova-vila-s-neobycejnym-potencialem-136841.php",
+      "portal": "bazos",
+      "price": 6990000,
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "added": "2026-11-23",
+      "price_history": [
+        {
+          "date": "2026-11-23",
+          "price": 6990000
+        }
+      ],
+      "area_m2": null,
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "score": 36,
+      "reasons": [
+        "cena 6,99 mil. ~",
+        "užitná 189 m² ✗",
+        "pozemek 1 168 m² ✓",
+        "město ~"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://reality.bazos.cz/inzerat/225001109/prvorepublikova-vila-s-neobycejnym-potencialem-136841.php",
+        "fetched": "2026-11-23",
+        "ok": true,
+        "title": "Prvorepubliková vila s neobyčejným potenciálem, 136841",
+        "price": null,
+        "location": null,
+        "usable_area": 189,
+        "plot_area": 1168,
+        "built_area": 117,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": "před rekonstrukcí",
+        "construction": null,
+        "heating": null,
+        "sewer": "veřejná kanalizace",
+        "gas": true,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": "Kousek od nemocnice ve Frýdku-Místku stojí prvorepubliková vila, která čeká na nového majitele a citlivou rekonstrukci. Nemovitost nabízí jedinečnou příležitost jak pro vytvoření výjimečného rodinného bydlení, tak pro vybudování reprezentativního sídla podnikání. Díky své poloze v blízkosti nemocnice se nabízí využití například jako soukromá lékařská ordinace, fyzioterapeutické centrum, advokátní kancelář, účetní či daňová firma, architektonické studio nebo sídlo společnosti, která chce své klienty přivítat na prestižní adrese s charakterem. Součástí nabídky je pozemek o celkové výměře 1 168 m², který poskytuje dostatek prostoru nejen pro zahradu a odpočinkovou zónu, ale také pro pohodlné parkování klientů, návštěv i zaměstnanců. Významnou přidanou hodnotou je také blízkost zeleně a lesních cest, které nabízejí příjemné místo k relaxaci, procházkám nebo načerpání energie během pracovního dne. Ať už hledáte místo pro život, podnikání nebo kombinaci obojího, tato vila představuje příležitost vytvořit něco skutečně jedinečného. Nemovitost s historií, charakterem a potenciálem stát se prestižní adresou pro další generace. Domy se prodávají každý den. Takové příležitosti jen výjimečně. Do konce listopadu 2026 nabízíme prostřednictvím našeho partnera úrokové sazby od 5,59 % p.a. Více informací Vám sdělí náš specialista na prohlídce. Číslo zakázky: 136841 Typ budovy: smíšená Poloha objektu: samostatný Typ domu: patrový Sklep: celopodsklepeno Energetická náročnost budovy: G - Mimořádně nehospodárná Bazén: Ne Garáž: Ano Velikost domu: 5 a více pokojů Druh domu: rodinný dům Počet podlaží objektu: 2 Stav objektu: před rekonstrukcí Plocha pozemku: 1 168 m2 Zastavěná plocha: 117 m2 Užitná plocha: 189 m2 Umístění objektu: centrum obce Obytná plocha: 150 m2 Kvalitativní standard: dům z klasických materiálů Počet pokojů: 5 Počet podzemních podlaží: 1 Schodiště: zábradlí - dřevěné Komunikace: asfaltová Doprava: vlak, dálnice, silnice, MHD, autobus Voda: vodovod Odpad: kanalizace Plyn: individuální Občanská vybavenost: škola, školka, zdravotnické zařízení, pošta, supermarket, kompletní síť obchodů a služeb Ostatní vybavení: plot, garáž Další nebytové prostory: garáž, stodola Zdroj topení: plynový kotel Topné těleso: radiátory Zdroj teplé vody: bojler - elektro Typ studny: kopaná studna Typ střechy: polovalbová Střešní krytina: šindel Rok kolaudace: 1 945"
       }
     }
   ],
