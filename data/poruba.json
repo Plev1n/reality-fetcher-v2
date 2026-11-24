@@ -1,10 +1,33 @@
 {
-  "generated": "2026-11-24T03:01:55.018902+00:00",
+  "generated": "2026-11-24T15:44:10.863047+00:00",
   "area": {
     "name": "Ostrava-Poruba",
     "slug": "poruba"
   },
   "listings": [
+    {
+      "id": "sreality_1956646988",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 3+1 68 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.83810020078203,
+        18.16302546711628
+      ],
+      "area_m2": 168,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1956646988",
+      "portal": "sreality",
+      "added": "2026-11-24",
+      "updated": "2026-11-24",
+      "price_history": [],
+      "removed_date": null
+    },
     {
       "id": "sreality_1026818124",
       "status": "active",
@@ -29,6 +52,57 @@
         {
           "date": "2026-11-06",
           "price": 2990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_1183719500",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 2+1 41 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8469186606225,
+        18.1796913468915
+      ],
+      "area_m2": 141,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1183719500",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_1815478348",
+      "status": "active",
+      "type": "byt",
+      "title": "Prodej bytu 1+1 37 m²",
+      "location": "Ostrava-Poruba",
+      "location_id": "poruba",
+      "coordinates": [
+        49.8329904975764,
+        18.1754787480779
+      ],
+      "area_m2": 137,
+      "price": 2850000,
+      "price_per_m2": 20803,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1815478348",
+      "portal": "sreality",
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "price_history": [
+        {
+          "date": "2026-11-23",
+          "price": 2850000
         }
       ],
       "removed_date": null
@@ -61,34 +135,6 @@
         {
           "date": "2026-11-20",
           "price": 2450000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_1815478348",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 1+1 37 m²",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8329904975764,
-        18.1754787480779
-      ],
-      "area_m2": 137,
-      "price": 2850000,
-      "price_per_m2": 20803,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1815478348",
-      "portal": "sreality",
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
-      "price_history": [
-        {
-          "date": "2026-11-23",
-          "price": 2850000
         }
       ],
       "removed_date": null
@@ -179,29 +225,6 @@
           "price": 2390000
         }
       ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_1183719500",
-      "status": "active",
-      "type": "byt",
-      "title": "Prodej bytu 2+1 41 m²",
-      "location": "Ostrava-Poruba",
-      "location_id": "poruba",
-      "coordinates": [
-        49.8469186606225,
-        18.1796913468915
-      ],
-      "area_m2": 141,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/byt/x/ostrava/1183719500",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [],
       "removed_date": null
     },
     {
