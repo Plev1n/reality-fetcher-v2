@@ -1,15 +1,94 @@
 {
-  "generated": "2026-11-25T00:40:16.251818+00:00",
+  "generated": "2026-11-25T15:22:14.869323+00:00",
   "area": {
     "name": "Frýdek-Místek",
     "slug": "fm"
   },
   "listings": [
     {
-      "id": "bazos_226900221",
+      "id": "bazos_226936140",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek 1570 m2  ve Frýdku-Místku",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1570,
+      "price": 2300,
+      "price_per_m2": 1,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/226936140/stavebni-pozemek-1570-m2-ve-frydku-mistku.php",
+      "portal": "bazos",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "price_history": [
+        {
+          "date": "2026-11-25",
+          "price": 2300
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_226914451",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Stavební pozemek 930 m², Bukovice u Dobratic, sítě na hranic",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 930,
+      "price": 2400000,
+      "price_per_m2": 2581,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/226914451/stavebni-pozemek-930-m-bukovice-u-dobratic-site-na-hranic.php",
+      "portal": "bazos",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "price_history": [
+        {
+          "date": "2026-11-25",
+          "price": 2400000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "realingo_24806186",
       "status": "active",
       "type": "dum",
-      "title": "Prodej rodinného domu 4+KK ve Sviadnově",
+      "title": "Rodinny dum, Dobrá",
+      "location": "Dobrá",
+      "location_id": "dobra",
+      "coordinates": [
+        49.67,
+        18.42
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-dobra-739-51/24806186",
+      "portal": "realingo",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_225972167",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinný dům 2+1 v Janovicích",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
@@ -17,43 +96,192 @@
         18.3498
       ],
       "area_m2": null,
-      "price": 8990000,
+      "price": 2299000,
       "price_per_m2": null,
       "price_unknown": false,
       "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/226900221/prodej-rodinneho-domu-4kk-ve-sviadnove.php",
+      "url": "https://reality.bazos.cz/inzerat/225972167/rodinny-dum-21-v-janovicich.php",
       "portal": "bazos",
-      "added": "2026-11-25",
+      "added": "2026-11-04",
       "updated": "2026-11-25",
       "price_history": [
         {
+          "date": "2026-11-04",
+          "price": 2499000
+        },
+        {
           "date": "2026-11-25",
-          "price": 8990000
+          "price": 2299000
         }
       ],
       "removed_date": null
     },
     {
-      "id": "realingo_24805391",
+      "id": "sreality_1806041164",
       "status": "active",
       "type": "dum",
-      "title": "Rodinny dum, Sviadnov",
-      "location": "Sviadnov",
-      "location_id": "sviadnov",
+      "title": "Prodej rodinného domu 176 m², pozemek 1005 m²",
+      "location": "Raškovice",
+      "location_id": "raskovice",
       "coordinates": [
-        49.69,
-        18.33
+        49.6197492405654,
+        18.4728680616386
       ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-ke-splavu-sviadnov-okres-frydek-mistek/24805391",
-      "portal": "realingo",
-      "added": "2026-11-25",
-      "updated": "2026-11-25",
-      "price_history": [],
+      "area_m2": 1005,
+      "price": 5999000,
+      "price_per_m2": 5969,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/raskovice/1806041164",
+      "portal": "sreality",
+      "added": "2026-11-04",
+      "updated": "2026-11-04",
+      "price_history": [
+        {
+          "date": "2026-11-04",
+          "price": 5999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_700936268",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 105 m², pozemek 1852 m²",
+      "location": "Palkovice",
+      "location_id": "palkovice",
+      "coordinates": [
+        49.6346735124512,
+        18.3150794392153
+      ],
+      "area_m2": 1852,
+      "price": 4998000,
+      "price_per_m2": 2699,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/palkovice/700936268",
+      "portal": "sreality",
+      "added": "2026-11-20",
+      "updated": "2026-11-20",
+      "price_history": [
+        {
+          "date": "2026-11-20",
+          "price": 4998000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_1581773388",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 106 m², pozemek 855 m²",
+      "location": "Dobrá",
+      "location_id": "dobra",
+      "coordinates": [
+        49.6738314343408,
+        18.4139307614521
+      ],
+      "area_m2": 855,
+      "price": 8200000,
+      "price_per_m2": 9591,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/dobra/1581773388",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 8200000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_687284300",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 140 m², pozemek 1254 m²",
+      "location": "Malenovice",
+      "location_id": "malenovice",
+      "coordinates": [
+        49.5810239618137,
+        18.386482320413087
+      ],
+      "area_m2": 1254,
+      "price": 8600000,
+      "price_per_m2": 6858,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/malenovice/687284300",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 8600000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_1122095180",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 86 m², pozemek 882 m²",
+      "location": "Řepiště",
+      "location_id": "repiste",
+      "coordinates": [
+        49.7327555246808,
+        18.3108627507044
+      ],
+      "area_m2": 882,
+      "price": 9500000,
+      "price_per_m2": 10771,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/repiste/1122095180",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 9500000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_1956249676",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 150 m², pozemek 979 m²",
+      "location": "FM-Skalice",
+      "location_id": "fm_skalice",
+      "coordinates": [
+        49.662771996,
+        18.39513019
+      ],
+      "area_m2": 979,
+      "price": 8999000,
+      "price_per_m2": 9192,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/1956249676",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-05",
+      "price_history": [
+        {
+          "date": "2026-11-05",
+          "price": 8999000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -256,34 +484,6 @@
       "removed_date": null
     },
     {
-      "id": "sreality_700936268",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 105 m², pozemek 1852 m²",
-      "location": "Palkovice",
-      "location_id": "palkovice",
-      "coordinates": [
-        49.6346735124512,
-        18.3150794392153
-      ],
-      "area_m2": 1852,
-      "price": 4998000,
-      "price_per_m2": 2699,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/palkovice/700936268",
-      "portal": "sreality",
-      "added": "2026-11-20",
-      "updated": "2026-11-20",
-      "price_history": [
-        {
-          "date": "2026-11-20",
-          "price": 4998000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "sreality_3654168652",
       "status": "active",
       "type": "dum",
@@ -428,62 +628,6 @@
       "removed_date": null
     },
     {
-      "id": "sreality_1122095180",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 86 m², pozemek 882 m²",
-      "location": "Řepiště",
-      "location_id": "repiste",
-      "coordinates": [
-        49.7327555246808,
-        18.3108627507044
-      ],
-      "area_m2": 882,
-      "price": 9500000,
-      "price_per_m2": 10771,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/repiste/1122095180",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 9500000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_687284300",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 140 m², pozemek 1254 m²",
-      "location": "Malenovice",
-      "location_id": "malenovice",
-      "coordinates": [
-        49.5810239618137,
-        18.386482320413087
-      ],
-      "area_m2": 1254,
-      "price": 8600000,
-      "price_per_m2": 6858,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/malenovice/687284300",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 8600000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "sreality_3701604428",
       "status": "active",
       "type": "dum",
@@ -535,62 +679,6 @@
         {
           "date": "2026-11-02",
           "price": 7900000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_1581773388",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 106 m², pozemek 855 m²",
-      "location": "Dobrá",
-      "location_id": "dobra",
-      "coordinates": [
-        49.6738314343408,
-        18.4139307614521
-      ],
-      "area_m2": 855,
-      "price": 8200000,
-      "price_per_m2": 9591,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/dobra/1581773388",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 8200000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_1956249676",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 150 m², pozemek 979 m²",
-      "location": "FM-Skalice",
-      "location_id": "fm_skalice",
-      "coordinates": [
-        49.662771996,
-        18.39513019
-      ],
-      "area_m2": 979,
-      "price": 8999000,
-      "price_per_m2": 9192,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/frydek-mistek/1956249676",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-05",
-      "price_history": [
-        {
-          "date": "2026-11-05",
-          "price": 8999000
         }
       ],
       "removed_date": null
@@ -759,34 +847,6 @@
         {
           "date": "2026-11-10",
           "price": 7500000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sreality_1806041164",
-      "status": "active",
-      "type": "dum",
-      "title": "Prodej rodinného domu 176 m², pozemek 1005 m²",
-      "location": "Raškovice",
-      "location_id": "raskovice",
-      "coordinates": [
-        49.6197492405654,
-        18.4728680616386
-      ],
-      "area_m2": 1005,
-      "price": 5999000,
-      "price_per_m2": 5969,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/raskovice/1806041164",
-      "portal": "sreality",
-      "added": "2026-11-04",
-      "updated": "2026-11-04",
-      "price_history": [
-        {
-          "date": "2026-11-04",
-          "price": 5999000
         }
       ],
       "removed_date": null
@@ -1002,6 +1062,34 @@
       "added": "2026-11-03",
       "updated": "2026-11-03",
       "price_history": [],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_926474316",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 111 m², pozemek 1456 m²",
+      "location": "Staříč",
+      "location_id": "staric",
+      "coordinates": [
+        49.68733400949481,
+        18.276442522200846
+      ],
+      "area_m2": 1456,
+      "price": 5990000,
+      "price_per_m2": 4114,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/staric/926474316",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 5990000
+        }
+      ],
       "removed_date": null
     },
     {
@@ -2490,29 +2578,6 @@
       "removed_date": null
     },
     {
-      "id": "sreality_1460146252",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 2731 m²",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53509844828336,
-        18.391645030406185
-      ],
-      "area_m2": 2731,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/ostravice/1460146252",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "sreality_3467161676",
       "status": "active",
       "type": "pozemek",
@@ -2843,29 +2908,29 @@
       "removed_date": null
     },
     {
-      "id": "sreality_3624280140",
+      "id": "sreality_1425290060",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavebního pozemku 886 m²",
-      "location": "Dobrá",
-      "location_id": "dobra",
+      "title": "Prodej stavebního pozemku 3886 m²",
+      "location": "Ostravice",
+      "location_id": "ostravice",
       "coordinates": [
-        49.6738314343408,
-        18.4139307614521
+        49.535002,
+        18.370258
       ],
-      "area_m2": 886,
-      "price": 3101886,
-      "price_per_m2": 3501,
+      "area_m2": 3886,
+      "price": 4999000,
+      "price_per_m2": 1286,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/dobra/3624280140",
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/ostravice/1425290060",
       "portal": "sreality",
-      "added": "2026-11-23",
-      "updated": "2026-11-23",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
       "price_history": [
         {
-          "date": "2026-11-23",
-          "price": 3101886
+          "date": "2026-11-02",
+          "price": 4999000
         }
       ],
       "removed_date": null
@@ -3123,34 +3188,6 @@
       "removed_date": null
     },
     {
-      "id": "sreality_179241036",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 2781 m²",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.53509844828336,
-        18.391645030406185
-      ],
-      "area_m2": 2781,
-      "price": 5599000,
-      "price_per_m2": 2013,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/ostravice/179241036",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 5599000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "sreality_2240487500",
       "status": "active",
       "type": "pozemek",
@@ -3286,6 +3323,34 @@
         {
           "date": "2026-11-02",
           "price": 1999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sreality_3518304332",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 1044 m²",
+      "location": "Dobrá",
+      "location_id": "dobra",
+      "coordinates": [
+        49.673831434340755,
+        18.41393076145214
+      ],
+      "area_m2": 1044,
+      "price": 1990000,
+      "price_per_m2": 1906,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/dobra/3518304332",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 1990000
         }
       ],
       "removed_date": null
@@ -4487,34 +4552,6 @@
       "removed_date": null
     },
     {
-      "id": "sreality_1425290060",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 3886 m²",
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "coordinates": [
-        49.535002,
-        18.370258
-      ],
-      "area_m2": 3886,
-      "price": 4999000,
-      "price_per_m2": 1286,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/ostravice/1425290060",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 4999000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "sreality_172938060",
       "status": "active",
       "type": "pozemek",
@@ -4711,6 +4748,34 @@
       "removed_date": null
     },
     {
+      "id": "bazos_226900221",
+      "status": "active",
+      "type": "dum",
+      "title": "Prodej rodinného domu 4+KK ve Sviadnově",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": null,
+      "price": 8990000,
+      "price_per_m2": null,
+      "price_unknown": false,
+      "area_unknown": true,
+      "url": "https://reality.bazos.cz/inzerat/226900221/prodej-rodinneho-domu-4kk-ve-sviadnove.php",
+      "portal": "bazos",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "price_history": [
+        {
+          "date": "2026-11-25",
+          "price": 8990000
+        }
+      ],
+      "removed_date": null
+    },
+    {
       "id": "bazos_226696573",
       "status": "active",
       "type": "dum",
@@ -4902,34 +4967,6 @@
         {
           "date": "2026-11-10",
           "price": 3490000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_225972167",
-      "status": "active",
-      "type": "dum",
-      "title": "Rodinný dům 2+1 v Janovicích",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": null,
-      "price": 2499000,
-      "price_per_m2": null,
-      "price_unknown": false,
-      "area_unknown": true,
-      "url": "https://reality.bazos.cz/inzerat/225972167/rodinny-dum-21-v-janovicich.php",
-      "portal": "bazos",
-      "added": "2026-11-04",
-      "updated": "2026-11-04",
-      "price_history": [
-        {
-          "date": "2026-11-04",
-          "price": 2499000
         }
       ],
       "removed_date": null
@@ -5251,34 +5288,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_226706544",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej pozemku k bydlení, 1269 m², Dolní Tošanovice",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1269,
-      "price": 2599000,
-      "price_per_m2": 2048,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/226706544/prodej-pozemku-k-bydleni-1269-m-dolni-tosanovice.php",
-      "portal": "bazos",
-      "added": "2026-11-20",
-      "updated": "2026-11-20",
-      "price_history": [
-        {
-          "date": "2026-11-20",
-          "price": 2599000
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_226706539",
       "status": "active",
       "type": "pozemek",
@@ -5302,6 +5311,34 @@
         {
           "date": "2026-11-20",
           "price": 2999000
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "bazos_226706544",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej pozemku k bydlení, 1269 m², Dolní Tošanovice",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1269,
+      "price": 2599000,
+      "price_per_m2": 2048,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/226706544/prodej-pozemku-k-bydleni-1269-m-dolni-tosanovice.php",
+      "portal": "bazos",
+      "added": "2026-11-20",
+      "updated": "2026-11-20",
+      "price_history": [
+        {
+          "date": "2026-11-20",
+          "price": 2599000
         }
       ],
       "removed_date": null
@@ -5386,34 +5423,6 @@
         {
           "date": "2026-11-18",
           "price": 2990000
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_226592129",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek 930 m², Bukovice u Dobratic, sítě na hranic",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 930,
-      "price": 2400000,
-      "price_per_m2": 2581,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/226592129/stavebni-pozemek-930-m-bukovice-u-dobratic-site-na-hranic.php",
-      "portal": "bazos",
-      "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "price_history": [
-        {
-          "date": "2026-11-21",
-          "price": 2400000
         }
       ],
       "removed_date": null
@@ -5559,38 +5568,6 @@
       "removed_date": null
     },
     {
-      "id": "bazos_226170033",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Slunný stavební pozemek 1 570 m² s výhledem na Lysou horu",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1570,
-      "price": 2300,
-      "price_per_m2": 1,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/226170033/prodej-pozemku-k-bydleni-1570-m-frydek-mistek.php",
-      "portal": "bazos",
-      "added": "2026-11-08",
-      "updated": "2026-11-17",
-      "price_history": [
-        {
-          "date": "2026-11-08",
-          "price": 4021550
-        },
-        {
-          "date": "2026-11-17",
-          "price": 2300
-        }
-      ],
-      "removed_date": null
-    },
-    {
       "id": "bazos_226013780",
       "status": "active",
       "type": "pozemek",
@@ -5726,34 +5703,6 @@
         {
           "date": "2026-11-02",
           "price": 420
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "bazos_225421943",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Stavební pozemek Dobrá Frýdek Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 1044,
-      "price": 1990000,
-      "price_per_m2": 1906,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.bazos.cz/inzerat/225421943/stavebni-pozemek-dobra-frydek-mistek.php",
-      "portal": "bazos",
-      "added": "2026-11-04",
-      "updated": "2026-11-04",
-      "price_history": [
-        {
-          "date": "2026-11-04",
-          "price": 1990000
         }
       ],
       "removed_date": null
@@ -6099,6 +6048,29 @@
       "removed_date": null
     },
     {
+      "id": "realingo_24805391",
+      "status": "active",
+      "type": "dum",
+      "title": "Rodinny dum, Sviadnov",
+      "location": "Sviadnov",
+      "location_id": "sviadnov",
+      "coordinates": [
+        49.69,
+        18.33
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-ke-splavu-sviadnov-okres-frydek-mistek/24805391",
+      "portal": "realingo",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "realingo_24784498",
       "status": "active",
       "type": "dum",
@@ -6383,6 +6355,29 @@
       "removed_date": null
     },
     {
+      "id": "eurobydleni_10039554",
+      "status": "active",
+      "type": "dum",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "coordinates": [
+        49.7097,
+        18.37
+      ],
+      "area_m2": null,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": true,
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
+      "added": "2026-04-04",
+      "updated": "2026-04-04",
+      "price_history": [],
+      "removed_date": null
+    },
+    {
       "id": "eurobydleni_10213024",
       "status": "active",
       "type": "pozemek",
@@ -6439,29 +6434,6 @@
       "removed_date": null
     },
     {
-      "id": "eurobydleni_10039554",
-      "status": "active",
-      "type": "dum",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "area_m2": null,
-      "price": null,
-      "price_per_m2": null,
-      "price_unknown": true,
-      "area_unknown": true,
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "added": "2026-04-04",
-      "updated": "2026-04-04",
-      "price_history": [],
-      "removed_date": null
-    },
-    {
       "id": "sousede_3731871",
       "status": "active",
       "type": "pozemek",
@@ -6485,34 +6457,6 @@
         {
           "date": "2026-04-09",
           "price": 6079580
-        }
-      ],
-      "removed_date": null
-    },
-    {
-      "id": "sousede_3885793",
-      "status": "active",
-      "type": "pozemek",
-      "title": "Prodej stavební parcely 979 m² Frýdek-Místek",
-      "location": "Frýdek-Místek",
-      "location_id": "frydek_mistek",
-      "coordinates": [
-        49.6878,
-        18.3498
-      ],
-      "area_m2": 979,
-      "price": 3808310,
-      "price_per_m2": 3890,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-979-m2-3885793.html",
-      "portal": "sousede",
-      "added": "2026-09-08",
-      "updated": "2026-09-08",
-      "price_history": [
-        {
-          "date": "2026-09-08",
-          "price": 3808310
         }
       ],
       "removed_date": null
@@ -6546,29 +6490,29 @@
       "removed_date": null
     },
     {
-      "id": "sousede_3885795",
+      "id": "sousede_3885793",
       "status": "active",
       "type": "pozemek",
-      "title": "Prodej stavební parcely 936 m² Frýdek-Místek",
+      "title": "Prodej stavební parcely 979 m² Frýdek-Místek",
       "location": "Frýdek-Místek",
       "location_id": "frydek_mistek",
       "coordinates": [
         49.6878,
         18.3498
       ],
-      "area_m2": 936,
-      "price": 3641040,
+      "area_m2": 979,
+      "price": 3808310,
       "price_per_m2": 3890,
       "price_unknown": false,
       "area_unknown": false,
-      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-936-m2-3885795.html",
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-979-m2-3885793.html",
       "portal": "sousede",
       "added": "2026-09-08",
       "updated": "2026-09-08",
       "price_history": [
         {
           "date": "2026-09-08",
-          "price": 3641040
+          "price": 3808310
         }
       ],
       "removed_date": null
@@ -6597,6 +6541,34 @@
         {
           "date": "2026-09-08",
           "price": 4641780
+        }
+      ],
+      "removed_date": null
+    },
+    {
+      "id": "sousede_3885795",
+      "status": "active",
+      "type": "pozemek",
+      "title": "Prodej stavební parcely 936 m² Frýdek-Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 936,
+      "price": 3641040,
+      "price_per_m2": 3890,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.sousede.cz/prodej/pozemky/stavebni-parcely/frydek-mistek/prodej-stavebni-parcely-936-m2-3885795.html",
+      "portal": "sousede",
+      "added": "2026-09-08",
+      "updated": "2026-09-08",
+      "price_history": [
+        {
+          "date": "2026-09-08",
+          "price": 3641040
         }
       ],
       "removed_date": null
@@ -24266,34 +24238,6 @@
       "removed_date": "2026-11-07"
     },
     {
-      "id": "sreality_926474316",
-      "status": "removed",
-      "type": "dum",
-      "title": "Prodej rodinného domu 111 m², pozemek 1456 m²",
-      "location": "Staříč",
-      "location_id": "staric",
-      "coordinates": [
-        49.68733400949481,
-        18.276442522200846
-      ],
-      "area_m2": 1456,
-      "price": 5990000,
-      "price_per_m2": 4114,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/staric/926474316",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 5990000
-        }
-      ],
-      "removed_date": "2026-11-07"
-    },
-    {
       "id": "realingo_24775537",
       "status": "removed",
       "type": "dum",
@@ -25980,34 +25924,6 @@
       "removed_date": "2026-11-22"
     },
     {
-      "id": "sreality_3518304332",
-      "status": "removed",
-      "type": "pozemek",
-      "title": "Prodej stavebního pozemku 1044 m²",
-      "location": "Dobrá",
-      "location_id": "dobra",
-      "coordinates": [
-        49.673831434340755,
-        18.41393076145214
-      ],
-      "area_m2": 1044,
-      "price": 1990000,
-      "price_per_m2": 1906,
-      "price_unknown": false,
-      "area_unknown": false,
-      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/dobra/3518304332",
-      "portal": "sreality",
-      "added": "2026-11-02",
-      "updated": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 1990000
-        }
-      ],
-      "removed_date": "2026-11-23"
-    },
-    {
       "id": "bazos_224210975",
       "status": "removed",
       "type": "pozemek",
@@ -26173,6 +26089,173 @@
         }
       ],
       "removed_date": "2026-11-24"
+    },
+    {
+      "id": "sreality_1460146252",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 2731 m²",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53509844828336,
+        18.391645030406185
+      ],
+      "area_m2": 2731,
+      "price": null,
+      "price_per_m2": null,
+      "price_unknown": true,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/ostravice/1460146252",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [],
+      "removed_date": "2026-11-25"
+    },
+    {
+      "id": "sreality_3624280140",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 886 m²",
+      "location": "Dobrá",
+      "location_id": "dobra",
+      "coordinates": [
+        49.6738314343408,
+        18.4139307614521
+      ],
+      "area_m2": 886,
+      "price": 3101886,
+      "price_per_m2": 3501,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/dobra/3624280140",
+      "portal": "sreality",
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "price_history": [
+        {
+          "date": "2026-11-23",
+          "price": 3101886
+        }
+      ],
+      "removed_date": "2026-11-25"
+    },
+    {
+      "id": "sreality_179241036",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Prodej stavebního pozemku 2781 m²",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "coordinates": [
+        49.53509844828336,
+        18.391645030406185
+      ],
+      "area_m2": 2781,
+      "price": 5599000,
+      "price_per_m2": 2013,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://www.sreality.cz/detail/prodej/pozemek/bydleni/ostravice/179241036",
+      "portal": "sreality",
+      "added": "2026-11-02",
+      "updated": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 5599000
+        }
+      ],
+      "removed_date": "2026-11-25"
+    },
+    {
+      "id": "bazos_226592129",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek 930 m², Bukovice u Dobratic, sítě na hranic",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 930,
+      "price": 2400000,
+      "price_per_m2": 2581,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/226592129/stavebni-pozemek-930-m-bukovice-u-dobratic-site-na-hranic.php",
+      "portal": "bazos",
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "price_history": [
+        {
+          "date": "2026-11-21",
+          "price": 2400000
+        }
+      ],
+      "removed_date": "2026-11-25"
+    },
+    {
+      "id": "bazos_226170033",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Slunný stavební pozemek 1 570 m² s výhledem na Lysou horu",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1570,
+      "price": 2300,
+      "price_per_m2": 1,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/226170033/prodej-pozemku-k-bydleni-1570-m-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-11-08",
+      "updated": "2026-11-17",
+      "price_history": [
+        {
+          "date": "2026-11-08",
+          "price": 4021550
+        },
+        {
+          "date": "2026-11-17",
+          "price": 2300
+        }
+      ],
+      "removed_date": "2026-11-25"
+    },
+    {
+      "id": "bazos_225421943",
+      "status": "removed",
+      "type": "pozemek",
+      "title": "Stavební pozemek Dobrá Frýdek Místek",
+      "location": "Frýdek-Místek",
+      "location_id": "frydek_mistek",
+      "coordinates": [
+        49.6878,
+        18.3498
+      ],
+      "area_m2": 1044,
+      "price": 1990000,
+      "price_per_m2": 1906,
+      "price_unknown": false,
+      "area_unknown": false,
+      "url": "https://reality.bazos.cz/inzerat/225421943/stavebni-pozemek-dobra-frydek-mistek.php",
+      "portal": "bazos",
+      "added": "2026-11-04",
+      "updated": "2026-11-04",
+      "price_history": [
+        {
+          "date": "2026-11-04",
+          "price": 1990000
+        }
+      ],
+      "removed_date": "2026-11-25"
     }
   ]
 }
