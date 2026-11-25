@@ -1076,7 +1076,7 @@
   },
   "eurobydleni_10039554": {
     "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-    "fetched": "2026-11-24",
+    "fetched": "2026-11-25",
     "ok": false,
     "title": null,
     "price": null,
@@ -2023,5 +2023,30 @@
     "listed_since": null,
     "old_price": null,
     "description": "Kousek od nemocnice ve Frýdku-Místku stojí prvorepubliková vila, která čeká na nového majitele a citlivou rekonstrukci. Nemovitost nabízí jedinečnou příležitost jak pro vytvoření výjimečného rodinného bydlení, tak pro vybudování reprezentativního sídla podnikání. Díky své poloze v blízkosti nemocnice se nabízí využití například jako soukromá lékařská ordinace, fyzioterapeutické centrum, advokátní kancelář, účetní či daňová firma, architektonické studio nebo sídlo společnosti, která chce své klienty přivítat na prestižní adrese s charakterem. Součástí nabídky je pozemek o celkové výměře 1 168 m², který poskytuje dostatek prostoru nejen pro zahradu a odpočinkovou zónu, ale také pro pohodlné parkování klientů, návštěv i zaměstnanců. Významnou přidanou hodnotou je také blízkost zeleně a lesních cest, které nabízejí příjemné místo k relaxaci, procházkám nebo načerpání energie během pracovního dne. Ať už hledáte místo pro život, podnikání nebo kombinaci obojího, tato vila představuje příležitost vytvořit něco skutečně jedinečného. Nemovitost s historií, charakterem a potenciálem stát se prestižní adresou pro další generace. Domy se prodávají každý den. Takové příležitosti jen výjimečně. Do konce listopadu 2026 nabízíme prostřednictvím našeho partnera úrokové sazby od 5,59 % p.a. Více informací Vám sdělí náš specialista na prohlídce. Číslo zakázky: 136841 Typ budovy: smíšená Poloha objektu: samostatný Typ domu: patrový Sklep: celopodsklepeno Energetická náročnost budovy: G - Mimořádně nehospodárná Bazén: Ne Garáž: Ano Velikost domu: 5 a více pokojů Druh domu: rodinný dům Počet podlaží objektu: 2 Stav objektu: před rekonstrukcí Plocha pozemku: 1 168 m2 Zastavěná plocha: 117 m2 Užitná plocha: 189 m2 Umístění objektu: centrum obce Obytná plocha: 150 m2 Kvalitativní standard: dům z klasických materiálů Počet pokojů: 5 Počet podzemních podlaží: 1 Schodiště: zábradlí - dřevěné Komunikace: asfaltová Doprava: vlak, dálnice, silnice, MHD, autobus Voda: vodovod Odpad: kanalizace Plyn: individuální Občanská vybavenost: škola, školka, zdravotnické zařízení, pošta, supermarket, kompletní síť obchodů a služeb Ostatní vybavení: plot, garáž Další nebytové prostory: garáž, stodola Zdroj topení: plynový kotel Topné těleso: radiátory Zdroj teplé vody: bojler - elektro Typ studny: kopaná studna Typ střechy: polovalbová Střešní krytina: šindel Rok kolaudace: 1 945"
+  },
+  "realingo_24805391": {
+    "url": "https://www.realingo.cz/prodej/dum-rodinny-ke-splavu-sviadnov-okres-frydek-mistek/24805391",
+    "fetched": "2026-11-25",
+    "ok": true,
+    "title": null,
+    "price": null,
+    "location": null,
+    "usable_area": null,
+    "plot_area": null,
+    "built_area": null,
+    "rooms": null,
+    "disposition": null,
+    "year_built": null,
+    "condition": null,
+    "construction": null,
+    "heating": null,
+    "sewer": null,
+    "gas": null,
+    "penb": null,
+    "agency": null,
+    "ref_number": null,
+    "listed_since": null,
+    "old_price": null,
+    "description": null
   }
 }
