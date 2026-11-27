@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T00:32:20.636040+00:00",
+  "generated": "2026-11-27T14:49:32.278915+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -454,59 +454,58 @@
       }
     },
     {
-      "id": "sreality_3505721420",
-      "title": "Prodej rodinného domu 100 m², pozemek 1385 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/baska/3505721420",
-      "portal": "sreality",
+      "id": "idnes_6ad5c47d9008c41f7d0cb202",
+      "title": "prodej domu 100 m² s pozemkem 1 385 m²",
+      "url": "https://reality.idnes.cz/detail/prodej/dum/baska/6ad5c47d9008c41f7d0cb202/",
+      "portal": "idnes",
       "price": 4990000,
       "location": "Baška",
       "location_id": "baska",
-      "added": "2026-11-02",
+      "added": "2026-11-27",
       "price_history": [
         {
-          "date": "2026-11-02",
+          "date": "2026-11-27",
           "price": 4990000
         }
       ],
       "area_m2": 1385,
       "coordinates": [
-        49.6458471650112,
-        18.3723370201315
+        49.6422,
+        18.3553
       ],
       "score": 86,
       "reasons": [
         "cena 4,99 mil. ~",
         "užitná 100 m² ~",
         "pozemek 1 385 m² ✓",
-        "3 pokoje ~",
         "obec ✓"
       ],
       "match": true,
-      "new": false,
+      "new": true,
       "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/baska/3505721420",
-        "fetched": "2026-11-02",
+        "url": "https://reality.idnes.cz/detail/prodej/dum/baska/6ad5c47d9008c41f7d0cb202/",
+        "fetched": "2026-11-27",
         "ok": true,
-        "title": "Prodej rodinného domu 100 m², pozemek 1385 m²",
+        "title": "Prodej domu 100 m² s pozemkem 1 385 m²",
         "price": 4990000,
-        "location": "Baška",
+        "location": "Baška, okres Frýdek-Místek",
         "usable_area": 100,
         "plot_area": 1385,
         "built_area": 132,
-        "rooms": 3,
+        "rooms": null,
         "disposition": null,
         "year_built": 1945,
         "condition": "před rekonstrukcí",
         "construction": "cihlová",
         "heating": null,
         "sewer": "veřejná kanalizace",
-        "gas": false,
+        "gas": true,
         "penb": "G",
-        "agency": null,
-        "ref_number": "0008",
-        "listed_since": "2026-10-19",
+        "agency": "REALITY KAFE - reality s chutí s.r.o.",
+        "ref_number": "IDNES-0008",
+        "listed_since": null,
         "old_price": null,
-        "description": "Ve výhradním zastoupení majitele nabízíme k prodeji rodinný dům se zahradou v centru obce Baška u Frýdku-Místku, situovaný na rovinatém pozemku o celkové výměře 1 385 m².\r\nPředností této nabídky je spojení velkého pozemku, přímo v centru obce a současně dobré dostupnosti do okolních měst i nedalekých Beskyd.\r\n\r\nPozemek tvoří 416 m² zastavěné plochy a nádvoří a 969 m² zahrady, celkem tedy 1 385 m².\r\nSoučástí pozemku je rodinný dům a navazující vedlejší stavby (garáž, dílna). Dům se nachází ve slepé, neprůjezdné ulici, přitom v dosahu běžné občanské vybavenosti.\r\n\r\nStávající rodinný dům je určen ke kompletní rekonstrukci. Je potřeba počítat s celkovou obnovou technického stavu, zejména rozvodů a napojení elektřiny, vody a kanalizace, dále s výměnou oken, dveří, s opravou a zateplením střechy, a s dalšími stavebními zásahy. Na hranici pozemku je přiveden plyn, takže lze vybudovat do domu přípojku.\r\nSoučástí domu je také půdní prostor, který dnes slouží pouze jako sklad. Při kompletní rekonstrukci se nabízí možnost její přestavby a tím rozšíření obytné části domu o další místnosti. Konkrétní rozsah využití podkroví bude záviset na stavebně-technickém posouzení konstrukcí, dispozičním řešení a splnění příslušných stavebních požadavků.\r\n\r\nPrávě tento stav nemovitosti (ke kompletní rekonstrukci) však dává možnost pojmout budoucí bydlení skutečně od základu podle vlastních představ – bez nutnosti přizpůsobovat se stávající dispozici domu a z toho plynoucích kompromisů.\r\nTakže alternativou k rekonstrukci, může být i rozhodnutí o odstranění stávajícího domu a realizaci nového rodinného domu. Nemovitost se podle aktuálního Územního plánu nachází v ploše SV – smíšené obytné venkovské, kde jsou rodinné domy hlavním způsobem využití. Konkrétní nový stavební záměr by však podléhal příslušnému povolovacímu procesu a posouzení místních regulativů a ochranných pásem.\r\n\r\nVýhodou nabízené nemovitosti je samotná poloha v centru obce. V obci je dostupná obvyklá občanská vybavenost – obecní úřad, základní škola, mateřská škola, knihovna, obchod, praktický lékař a další běžné služby.\r\nObec Baška zároveň nabízí velmi dobrou polohu mezi Frýdkem-Místkem a Beskydami. Rychle dostupný je nejen Frýdek-Místek, ale také Frýdlant nad Ostravicí, nebo další oblíbené podhorské lokality, Čeladná a Ostravice.\r\nNedaleko pozemku se nachází oblíbená rekreační oblast - vodní nádrž Baška, vhodná ke koupání a vodním sportům. Procházky, nebo cykloturistika v okolí řeky Ostravice, která protéká obcí je dalším bonusem této lokality a během několika minut jízdy se dostanete přímo do Beskyd.\r\n\r\nTato nemovitost proto dává smysl především tomu, kdo nehledá hotový dům, ale zajímavé místo a dostatek prostoru, kde bude mít možnost vytvořit si budoucí bydlení přesně podle vlastních představ."
+        "description": "Prodej rodinného domu k celkové rekonstrukci, na pozemku 1 385 m², v Bašce u Frýdku-Místku Ve výhradním zastoupení majitele nabízíme k prodeji rodinný dům se zahradou v centru obce Baška u Frýdku-Místku, situovaný na rovinatém pozemku o celkové výměře 1 385 m². Předností této nabídky je spojení velkého pozemku, přímo v centru obce a současně dobré dostupnosti do okolních měst i nedalekých Beskyd. Pozemek tvoří 416 m² zastavěné plochy a nádvoří a 969 m² zahrady, celkem tedy 1 385 m². Součástí pozemku je rodinný dům a navazující vedlejší stavby (garáž, dílna). Dům se nachází ve slepé, neprůjezdné ulici, přitom v dosahu běžné občanské vybavenosti. Stávající rodinný dům je určen ke kompletní rekonstrukci. Je potřeba počítat s celkovou obnovou technického stavu, zejména rozvodů a napojení elektřiny, vody a kanalizace, dále s výměnou oken, dveří, s opravou a zateplením střechy, a s dalšími stavebními zásahy. Na hranici pozemku je přiveden plyn, takže lze vybudovat do domu přípojku. Součástí domu je také půdní prostor, který dnes slouží pouze jako sklad. Při kompletní rekonstrukci se nabízí možnost její přestavby a tím rozšíření obytné části domu o další místnosti. Konkrétní rozsah využití podkroví bude záviset na stavebně-technickém posouzení konstrukcí, dispozičním řešení a splnění příslušných stavebních požadavků. Právě tento stav nemovitosti (ke kompletní rekonstrukci) však dává možnost pojmout budoucí bydlení skutečně od základu podle vlastních představ – bez nutnosti přizpůsobovat se stávající dispozici domu a z toho plynoucích kompromisů. Takže alternativou k rekonstrukci, může být i rozhodnutí o odstranění stávajícího domu a realizaci nového rodinného domu. Nemovitost se podle aktuálního Územního plánu nachází v ploše SV – smíšené obytné venkovské, kde jsou rodinné domy hlavním způsobem využití. Konkrétní nový stavební záměr by však podléhal příslušnému povolovacímu procesu a posouzení místních regulativů a ochranných pásem. Výhodou nabízené nemovitosti je samotná poloha v centru obce. V obci je dostupná obvyklá občanská vybavenost – obecní úřad, základní škola, mateřská škola, knihovna, obchod, praktický lékař a další běžné služby. Obec Baška zároveň nabízí velmi dobrou polohu mezi Frýdkem-Místkem a Beskydami. Rychle dostupný je nejen Frýdek-Místek, ale také Frýdlant nad Ostravicí, nebo další oblíbené podhorské lokality, Čeladná a Ostravice. Nedaleko pozemku se nachází oblíbená rekreační oblast - vodní nádrž Baška, vhodná ke koupání a vodním sportům. Procházky, nebo cykloturistika v okolí řeky Ostravice, která protéká obcí je dalším bonusem této lokality a během několika minut jízdy se dostanete přímo do Beskyd. Tato nemovitost proto dává smysl především tomu, kdo nehledá hotový dům, ale zajímavé místo a dostatek prostoru, kde bude mít možnost vytvořit si budoucí bydlení přesně podle vlastních představ."
       }
     },
     {
@@ -1289,19 +1288,19 @@
       }
     },
     {
-      "id": "realingo_24806186",
-      "title": "Rodinny dum, Dobrá",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-dobra-739-51/24806186",
+      "id": "realingo_24808849",
+      "title": "Rodinny dum, Ostravice",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice-okres-frydek-mistek/24808849",
       "portal": "realingo",
       "price": null,
-      "location": "Dobrá",
-      "location_id": "dobra",
-      "added": "2026-11-25",
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "added": "2026-11-27",
       "price_history": [],
       "area_m2": null,
       "coordinates": [
-        49.67,
-        18.42
+        49.54,
+        18.4
       ],
       "score": 58,
       "reasons": [
@@ -1314,8 +1313,8 @@
       "match": false,
       "new": false,
       "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-dobra-739-51/24806186",
-        "fetched": "2026-11-25",
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice-okres-frydek-mistek/24808849",
+        "fetched": "2026-11-27",
         "ok": true,
         "title": null,
         "price": null,
@@ -1389,33 +1388,6 @@
         "old_price": null,
         "description": null
       }
-    },
-    {
-      "id": "eurobydleni_10039554",
-      "title": "3+1 os. vl., zahrádka, cihlový dům",
-      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
-      "portal": "eurobydleni",
-      "price": null,
-      "location": "Sedliště",
-      "location_id": "sedliste",
-      "added": "2026-04-04",
-      "price_history": [],
-      "area_m2": null,
-      "coordinates": [
-        49.7097,
-        18.37
-      ],
-      "score": 58,
-      "reasons": [
-        "cena neuvedena",
-        "užitná plocha neznámá",
-        "pozemek neznámý",
-        "obec ✓",
-        "čeká na detail inzerátu"
-      ],
-      "match": false,
-      "new": false,
-      "details": null
     },
     {
       "id": "sreality_1444679756",
@@ -1692,62 +1664,6 @@
       }
     },
     {
-      "id": "sreality_1116820300",
-      "title": "Prodej rodinného domu 200 m², pozemek 10918 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/ostravice/1116820300",
-      "portal": "sreality",
-      "price": 5990000,
-      "location": "Ostravice",
-      "location_id": "ostravice",
-      "added": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 5990000
-        }
-      ],
-      "area_m2": 10918,
-      "coordinates": [
-        49.5350984482834,
-        18.3916450304062
-      ],
-      "score": 50,
-      "reasons": [
-        "cena 5,99 mil. ✓",
-        "užitná 200 m² ✗",
-        "pozemek 10 918 m² ✗",
-        "5 pokojů ✓",
-        "obec ✓"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/ostravice/1116820300",
-        "fetched": "2026-11-02",
-        "ok": true,
-        "title": "Prodej rodinného domu 200 m², pozemek 10918 m²",
-        "price": 5990000,
-        "location": "Ostravice",
-        "usable_area": 200,
-        "plot_area": 10918,
-        "built_area": 100,
-        "rooms": 5,
-        "disposition": null,
-        "year_built": null,
-        "condition": "před rekonstrukcí",
-        "construction": "cihlová",
-        "heating": "krbová kamna, kotel na tuhá paliva",
-        "sewer": "jímka",
-        "gas": false,
-        "penb": "G",
-        "agency": null,
-        "ref_number": "134916",
-        "listed_since": "2026-03-12",
-        "old_price": 6249000,
-        "description": "Hledáte výjimečné bydlení v klidném horském prostředí u řeky, ale zároveň s veškerou občanskou vybaveností v dosahu? Požadujete dostatečně velký pozemek v podstatě bez sousedů?\r\nPokud ano, exkluzuivně Vám nabízíme ke koupi prostorný rodinný dům ve velmi vyhledávané lokalitě v obci Ostravice. Velký pozemek, krásná zahrada, klid a bydlení v čistém horském prostředí. Právě toto vše nabízí tato nemovitost. \r\n\r\nJedná se o dvojpodlažní, částečně podsklepený rodinný dům, zastavěná plocha činí cca 100 m2. K nemovitosti náleží pozemek o výměře 10.918 m2. \r\nVelkou devízou je fakt, že část pozemku o výměře cca 1.000 m2 je stavební a je tedy možno postavit zde další rodinný dům či rekreační objekt, případně tuto část pozemku oddělit a následně samostatně prodat.\r\n\r\nDům je v původním stavu a je ideální k rekonstrukci podle představ nového majitele.\r\nPřed vstupem do domu se nachází veranda. V 1. NP nalezneme předsíň, z předsíně se dostaneme do kuchyně a obývacího pokoje a do dalších dvou pokojů. V 1. NP se také nachází koupelna se sprchovým koutem a WC, které je umístěno samostatně. \r\nVe 2. NP, do kterého se dostaneme dřevěnými schody vedoucími z předsíně, se nachází jeden prostorný pokoj a  podkroví, ve kterém je možné dobudovat další pokoj.\r\n\r\nV celém domě jsou původní dřevěná okna, střecha je sedlová, střešní krytina plech. \r\nDům má vlastní studnu s pitnou vodou. Vytápění domu je řešeno kotlem na tuhá paliva a závěsnými radiátory. Topit je možné taktéž v krbových kamnech, které jsou umístěny v kuchyni. Odpady jsou řešeny žumpou a trativodem. Elektřina 230/400V.\r\n\r\nNa přilehlém pozemku se nachází udržovaná zahrada s okrasnými dřevinami a ovocnými stromy. Na zahradě se nachází hospodářská budova a přístřešek. \r\nHned za příjezdovou cestou protéká řeka Ostravice, což umocňuje romantický ráz tohoto místa.\r\nNemovitost se nachází na klidném místě přímo pod horami a s pouhými dvěma sousedy v dosahu, zároveň však s velmi dobrou dostupností. Veškerá občanská vybavenost (ZŠ a MŠ, obchody, restaurace, lékárna, lékaři, pošta) se nachází v centru Ostravice, což je do 5 minut jízdy autem. Autobusová zastávka se nachází 3 minuty chůze od domu. \r\nDojezdové vzdálenosti do okolních měst – Frýdlant nad Ostravicí 10 min., Frýdek-Místek 20 min., Ostrava 30 min. \r\n\r\nObjekt je možné využívat jak k bydlení, tak například jako chalupu k rekreaci.\r\n\r\nPokud hledáte výjimečné bydlení na výjimečné adrese, neváhejte mne kontaktovat pro více informací a prohlídku. Do konce října 2026 nabízíme prostřednictvím našeho partnera úrokové sazby od 5,19 % p.a. Více informací Vám sdělí náš specialista na prohlídce."
-      }
-    },
-    {
       "id": "sreality_74461260",
       "title": "Prodej rodinného domu 64 m², pozemek 910 m²",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/baska/74461260",
@@ -1796,6 +1712,61 @@
         "listed_since": "2026-09-10",
         "old_price": null,
         "description": "Unavuje Vás dělat kompromisy v cizích rekonstrukcích? Tady dostáváte neopakovatelnou šanci! Všechny náročné vnější práce jsou již hotové a vnitřní prostory si dokončíte přesně podle svých snů a standardů – bez skrytých vad, bez cizího vkusu a bez ústupků.<br />\r\n<br />\r\nDům o zastavěné ploše 64 m² stojí na pozemku se zahradou 846 m². Součástí je venkovní pergola, menší plechová garáž a sklep.<br />\r\n<br />\r\nStřecha je valbová, krytina speciální IPA. Zvenčí má dům nové zateplení, dřevěné obložení a nová plastová okna. Vnitřek je připraven k dokončení dle představ kupujícího (fotografie obsahují AI návrhy možného vzhledu). Konstrukce domu je smíšená – více info po telefonu.<br />\r\n<br />\r\nInženýrské sítě:<br />\r\nPřívod nové elektřiny v zemi, obecní voda přivedena, odpady napojeny na kanalizaci, možnost napojení na plyn, který je na hranici pozemku.<br />\r\n<br />\r\nHodoňovice nabízí skvělou atmosféru i bohatý společenský život – pořádají se zde tradiční akce jako pálení čarodějnic, stavění i kácení máje nebo letní kino. <br />\r\n<br />\r\nNeváhejte a zavolejte!"
+      }
+    },
+    {
+      "id": "realingo_24564964",
+      "title": "Rodinny dum, Ostravice",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice-739-14/24564964",
+      "portal": "realingo",
+      "price": 5990000,
+      "location": "Ostravice",
+      "location_id": "ostravice",
+      "added": "2026-11-27",
+      "price_history": [
+        {
+          "date": "2026-11-27",
+          "price": 5990000
+        }
+      ],
+      "area_m2": 10918,
+      "coordinates": [
+        49.541904610489,
+        18.3871402001
+      ],
+      "score": 45,
+      "reasons": [
+        "cena 5,99 mil. ✓",
+        "užitná 200 m² ✗",
+        "pozemek 10 918 m² ✗",
+        "obec ✓"
+      ],
+      "match": false,
+      "new": false,
+      "details": {
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-ostravice-739-14/24564964",
+        "fetched": "2026-11-27",
+        "ok": true,
+        "title": "Rodinný dům, 200 m² , Ostravice",
+        "price": null,
+        "location": null,
+        "usable_area": 200,
+        "plot_area": 10918,
+        "built_area": 100,
+        "rooms": null,
+        "disposition": null,
+        "year_built": null,
+        "condition": "před rekonstrukcí",
+        "construction": null,
+        "heating": "domu je řešeno kotlem na tuhá paliva a závěsnými radiátory",
+        "sewer": "septik / jímka",
+        "gas": null,
+        "penb": null,
+        "agency": null,
+        "ref_number": null,
+        "listed_since": null,
+        "old_price": null,
+        "description": null
       }
     },
     {
@@ -2129,6 +2100,7 @@
     "sreality_700936268",
     "bazos_226592179",
     "sreality_3347513420",
+    "idnes_6ad5c47d9008c41f7d0cb202",
     "sreality_546926668",
     "sreality_1806041164",
     "sreality_4256657484",
