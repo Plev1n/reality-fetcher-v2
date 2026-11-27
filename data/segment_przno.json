@@ -536,6 +536,36 @@
         "bazos_226429678": 6500000,
         "bazos_226381059": 4200000
       }
+    },
+    {
+      "date": "2026-11-27",
+      "count": 12,
+      "count_with_area": 10,
+      "median_price": 5160500,
+      "median_ppm": 46194,
+      "p25_ppm": 39826,
+      "p75_ppm": 50916,
+      "median_ppm_before_renovation": 47600,
+      "price_cuts": 0,
+      "new_30d": 12,
+      "watch": {
+        "sreality_1654624332": 5500000,
+        "sreality_3488219212": null
+      },
+      "listings": {
+        "sreality_700936268": 4998000,
+        "sreality_3505721420": 4990000,
+        "sreality_3701604428": 5200000,
+        "sreality_1654624332": 5500000,
+        "sreality_4193932108": 5121000,
+        "sreality_926474316": 5990000,
+        "sreality_2906263628": 6136000,
+        "sreality_1444679756": 6900000,
+        "sreality_2188382284": 4450000,
+        "sreality_3294769228": 4390000,
+        "bazos_226429678": 6500000,
+        "bazos_226381059": 4200000
+      }
     }
   ]
 }
