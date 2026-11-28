@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T14:49:32.278915+00:00",
+  "generated": "2026-11-28T00:22:28.204533+00:00",
   "profile": {
     "slug": "podobne",
     "name": "Podobné domy (vzor: Pržno, Kunčičky u Bašky)",
@@ -123,59 +123,59 @@
       }
     },
     {
-      "id": "sreality_2906263628",
-      "title": "Prodej rodinného domu 137 m², pozemek 1194 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/paskov/2906263628",
-      "portal": "sreality",
+      "id": "realingo_24736859",
+      "title": "Rodinny dum, Paskov, okres Frýdek-Místek",
+      "url": "https://www.realingo.cz/prodej/dum-rodinny-nadrazni-paskov/24736859",
+      "portal": "realingo",
       "price": 6136000,
       "location": "Paskov",
       "location_id": "paskov",
-      "added": "2026-11-02",
+      "added": "2026-11-28",
       "price_history": [
         {
-          "date": "2026-11-02",
+          "date": "2026-11-28",
           "price": 6136000
         }
       ],
       "area_m2": 1194,
       "coordinates": [
-        49.7317895123593,
-        18.2903709435733
+        49.731786744,
+        18.29036892
       ],
       "score": 100,
       "reasons": [
         "cena 6,14 mil. ✓",
         "užitná 137 m² ✓",
         "pozemek 1 194 m² ✓",
-        "5 pokojů ✓",
+        "5+1 ✓",
         "obec ✓"
       ],
       "match": true,
-      "new": false,
+      "new": true,
       "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/paskov/2906263628",
-        "fetched": "2026-11-02",
+        "url": "https://www.realingo.cz/prodej/dum-rodinny-nadrazni-paskov/24736859",
+        "fetched": "2026-11-28",
         "ok": true,
-        "title": "Prodej rodinného domu 137 m², pozemek 1194 m²",
-        "price": 6136000,
-        "location": "Paskov",
+        "title": "Rodinný dům, 137 m² , Paskov, okres Frýdek-Místek",
+        "price": null,
+        "location": null,
         "usable_area": 137,
         "plot_area": 1194,
         "built_area": null,
         "rooms": 5,
-        "disposition": null,
+        "disposition": "5+1",
         "year_built": null,
-        "condition": "dobrý",
-        "construction": "cihlová",
-        "heating": "plynový kotel",
-        "sewer": "septik",
+        "condition": null,
+        "construction": null,
+        "heating": "plynovým kotlem, část elektroinstalace je v mědi, obecní vodovod, odpady jsou řešeny jímkou",
+        "sewer": "septik / jímka",
         "gas": true,
-        "penb": "G",
+        "penb": null,
         "agency": null,
-        "ref_number": "956666",
-        "listed_since": "2026-10-05",
+        "ref_number": null,
+        "listed_since": null,
         "old_price": null,
-        "description": "Hledáte útulný a prostorný domov v klidné lokalitě blízko Frýdku Místku? Dům o velikosti 5+1 se dvěma koupelnami a dvěma WC se nachází v žádané lokalitě Paskova. Ranní kávu si vychutnáte na terase nebo balkonech. Na zahradě na Vás čeká nadzemní bazén. Dům má plastová okna s trojskly, vytápění plynovým kotlem, část elektroinstalace je v mědi, obecní vodovod, odpady jsou řešeny jímkou. Vjezd na pozemek zajištuje posuvná brána na dálkové ovládání. Prostorná garáž, dílna, skladovací prostory a další 2 parkovací místa na pozemku. Nemovitost dále nabízí využitelné podkroví, které je ideální pro vybudování dalšího bytu, ateliéru nebo rozšíření obytného prostoru. Jedná se o skvělou příležitost, jak pro rodinné bydlení, tak jako zajímavá investice. Přijďte se přesvědčit o možnostech, které tento dům nabízí. Rádi Vás přivítáme na osobní prohlídce! Pro více informaci nás kontaktujte."
+        "description": null
       }
     },
     {
@@ -454,58 +454,59 @@
       }
     },
     {
-      "id": "idnes_6ad5c47d9008c41f7d0cb202",
-      "title": "prodej domu 100 m² s pozemkem 1 385 m²",
-      "url": "https://reality.idnes.cz/detail/prodej/dum/baska/6ad5c47d9008c41f7d0cb202/",
-      "portal": "idnes",
+      "id": "sreality_3505721420",
+      "title": "Prodej rodinného domu 100 m², pozemek 1385 m²",
+      "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/baska/3505721420",
+      "portal": "sreality",
       "price": 4990000,
       "location": "Baška",
       "location_id": "baska",
-      "added": "2026-11-27",
+      "added": "2026-11-02",
       "price_history": [
         {
-          "date": "2026-11-27",
+          "date": "2026-11-02",
           "price": 4990000
         }
       ],
       "area_m2": 1385,
       "coordinates": [
-        49.6422,
-        18.3553
+        49.6458471650112,
+        18.3723370201315
       ],
       "score": 86,
       "reasons": [
         "cena 4,99 mil. ~",
         "užitná 100 m² ~",
         "pozemek 1 385 m² ✓",
+        "3 pokoje ~",
         "obec ✓"
       ],
       "match": true,
-      "new": true,
+      "new": false,
       "details": {
-        "url": "https://reality.idnes.cz/detail/prodej/dum/baska/6ad5c47d9008c41f7d0cb202/",
-        "fetched": "2026-11-27",
+        "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/baska/3505721420",
+        "fetched": "2026-11-02",
         "ok": true,
-        "title": "Prodej domu 100 m² s pozemkem 1 385 m²",
+        "title": "Prodej rodinného domu 100 m², pozemek 1385 m²",
         "price": 4990000,
-        "location": "Baška, okres Frýdek-Místek",
+        "location": "Baška",
         "usable_area": 100,
         "plot_area": 1385,
         "built_area": 132,
-        "rooms": null,
+        "rooms": 3,
         "disposition": null,
         "year_built": 1945,
         "condition": "před rekonstrukcí",
         "construction": "cihlová",
         "heating": null,
         "sewer": "veřejná kanalizace",
-        "gas": true,
+        "gas": false,
         "penb": "G",
-        "agency": "REALITY KAFE - reality s chutí s.r.o.",
-        "ref_number": "IDNES-0008",
-        "listed_since": null,
+        "agency": null,
+        "ref_number": "0008",
+        "listed_since": "2026-10-19",
         "old_price": null,
-        "description": "Prodej rodinného domu k celkové rekonstrukci, na pozemku 1 385 m², v Bašce u Frýdku-Místku Ve výhradním zastoupení majitele nabízíme k prodeji rodinný dům se zahradou v centru obce Baška u Frýdku-Místku, situovaný na rovinatém pozemku o celkové výměře 1 385 m². Předností této nabídky je spojení velkého pozemku, přímo v centru obce a současně dobré dostupnosti do okolních měst i nedalekých Beskyd. Pozemek tvoří 416 m² zastavěné plochy a nádvoří a 969 m² zahrady, celkem tedy 1 385 m². Součástí pozemku je rodinný dům a navazující vedlejší stavby (garáž, dílna). Dům se nachází ve slepé, neprůjezdné ulici, přitom v dosahu běžné občanské vybavenosti. Stávající rodinný dům je určen ke kompletní rekonstrukci. Je potřeba počítat s celkovou obnovou technického stavu, zejména rozvodů a napojení elektřiny, vody a kanalizace, dále s výměnou oken, dveří, s opravou a zateplením střechy, a s dalšími stavebními zásahy. Na hranici pozemku je přiveden plyn, takže lze vybudovat do domu přípojku. Součástí domu je také půdní prostor, který dnes slouží pouze jako sklad. Při kompletní rekonstrukci se nabízí možnost její přestavby a tím rozšíření obytné části domu o další místnosti. Konkrétní rozsah využití podkroví bude záviset na stavebně-technickém posouzení konstrukcí, dispozičním řešení a splnění příslušných stavebních požadavků. Právě tento stav nemovitosti (ke kompletní rekonstrukci) však dává možnost pojmout budoucí bydlení skutečně od základu podle vlastních představ – bez nutnosti přizpůsobovat se stávající dispozici domu a z toho plynoucích kompromisů. Takže alternativou k rekonstrukci, může být i rozhodnutí o odstranění stávajícího domu a realizaci nového rodinného domu. Nemovitost se podle aktuálního Územního plánu nachází v ploše SV – smíšené obytné venkovské, kde jsou rodinné domy hlavním způsobem využití. Konkrétní nový stavební záměr by však podléhal příslušnému povolovacímu procesu a posouzení místních regulativů a ochranných pásem. Výhodou nabízené nemovitosti je samotná poloha v centru obce. V obci je dostupná obvyklá občanská vybavenost – obecní úřad, základní škola, mateřská škola, knihovna, obchod, praktický lékař a další běžné služby. Obec Baška zároveň nabízí velmi dobrou polohu mezi Frýdkem-Místkem a Beskydami. Rychle dostupný je nejen Frýdek-Místek, ale také Frýdlant nad Ostravicí, nebo další oblíbené podhorské lokality, Čeladná a Ostravice. Nedaleko pozemku se nachází oblíbená rekreační oblast - vodní nádrž Baška, vhodná ke koupání a vodním sportům. Procházky, nebo cykloturistika v okolí řeky Ostravice, která protéká obcí je dalším bonusem této lokality a během několika minut jízdy se dostanete přímo do Beskyd. Tato nemovitost proto dává smysl především tomu, kdo nehledá hotový dům, ale zajímavé místo a dostatek prostoru, kde bude mít možnost vytvořit si budoucí bydlení přesně podle vlastních představ."
+        "description": "Ve výhradním zastoupení majitele nabízíme k prodeji rodinný dům se zahradou v centru obce Baška u Frýdku-Místku, situovaný na rovinatém pozemku o celkové výměře 1 385 m².\r\nPředností této nabídky je spojení velkého pozemku, přímo v centru obce a současně dobré dostupnosti do okolních měst i nedalekých Beskyd.\r\n\r\nPozemek tvoří 416 m² zastavěné plochy a nádvoří a 969 m² zahrady, celkem tedy 1 385 m².\r\nSoučástí pozemku je rodinný dům a navazující vedlejší stavby (garáž, dílna). Dům se nachází ve slepé, neprůjezdné ulici, přitom v dosahu běžné občanské vybavenosti.\r\n\r\nStávající rodinný dům je určen ke kompletní rekonstrukci. Je potřeba počítat s celkovou obnovou technického stavu, zejména rozvodů a napojení elektřiny, vody a kanalizace, dále s výměnou oken, dveří, s opravou a zateplením střechy, a s dalšími stavebními zásahy. Na hranici pozemku je přiveden plyn, takže lze vybudovat do domu přípojku.\r\nSoučástí domu je také půdní prostor, který dnes slouží pouze jako sklad. Při kompletní rekonstrukci se nabízí možnost její přestavby a tím rozšíření obytné části domu o další místnosti. Konkrétní rozsah využití podkroví bude záviset na stavebně-technickém posouzení konstrukcí, dispozičním řešení a splnění příslušných stavebních požadavků.\r\n\r\nPrávě tento stav nemovitosti (ke kompletní rekonstrukci) však dává možnost pojmout budoucí bydlení skutečně od základu podle vlastních představ – bez nutnosti přizpůsobovat se stávající dispozici domu a z toho plynoucích kompromisů.\r\nTakže alternativou k rekonstrukci, může být i rozhodnutí o odstranění stávajícího domu a realizaci nového rodinného domu. Nemovitost se podle aktuálního Územního plánu nachází v ploše SV – smíšené obytné venkovské, kde jsou rodinné domy hlavním způsobem využití. Konkrétní nový stavební záměr by však podléhal příslušnému povolovacímu procesu a posouzení místních regulativů a ochranných pásem.\r\n\r\nVýhodou nabízené nemovitosti je samotná poloha v centru obce. V obci je dostupná obvyklá občanská vybavenost – obecní úřad, základní škola, mateřská škola, knihovna, obchod, praktický lékař a další běžné služby.\r\nObec Baška zároveň nabízí velmi dobrou polohu mezi Frýdkem-Místkem a Beskydami. Rychle dostupný je nejen Frýdek-Místek, ale také Frýdlant nad Ostravicí, nebo další oblíbené podhorské lokality, Čeladná a Ostravice.\r\nNedaleko pozemku se nachází oblíbená rekreační oblast - vodní nádrž Baška, vhodná ke koupání a vodním sportům. Procházky, nebo cykloturistika v okolí řeky Ostravice, která protéká obcí je dalším bonusem této lokality a během několika minut jízdy se dostanete přímo do Beskyd.\r\n\r\nTato nemovitost proto dává smysl především tomu, kdo nehledá hotový dům, ale zajímavé místo a dostatek prostoru, kde bude mít možnost vytvořit si budoucí bydlení přesně podle vlastních představ."
       }
     },
     {
@@ -1339,55 +1340,31 @@
       }
     },
     {
-      "id": "realingo_24728549",
-      "title": "Rodinny dum, Frýdek-Místek - Skalice",
-      "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-skalice/24728549",
-      "portal": "realingo",
+      "id": "eurobydleni_10039554",
+      "title": "3+1 os. vl., zahrádka, cihlový dům",
+      "url": "https://www.eurobydleni.cz/31-os-vl-zahradka-cihlovy-dum/detail/10039554/",
+      "portal": "eurobydleni",
       "price": null,
-      "location": "FM-Skalice",
-      "location_id": "fm_skalice",
-      "added": "2026-11-02",
+      "location": "Sedliště",
+      "location_id": "sedliste",
+      "added": "2026-04-04",
       "price_history": [],
-      "area_m2": 1000,
+      "area_m2": null,
       "coordinates": [
-        49.650756905028,
-        18.415542829472
+        49.7097,
+        18.37
       ],
       "score": 58,
       "reasons": [
         "cena neuvedena",
-        "užitná 180 m² ✗",
-        "pozemek 1 000 m² ✓",
-        "3+1 ~",
-        "obec ✓"
+        "užitná plocha neznámá",
+        "pozemek neznámý",
+        "obec ✓",
+        "čeká na detail inzerátu"
       ],
       "match": false,
       "new": false,
-      "details": {
-        "url": "https://www.realingo.cz/prodej/dum-rodinny-frydek-mistek-skalice/24728549",
-        "fetched": "2026-11-02",
-        "ok": true,
-        "title": "Rodinný dům, 180 m² , Frýdek-Místek - Skalice",
-        "price": null,
-        "location": null,
-        "usable_area": 180,
-        "plot_area": 1000,
-        "built_area": 387,
-        "rooms": 3,
-        "disposition": "3+1",
-        "year_built": null,
-        "condition": null,
-        "construction": null,
-        "heating": null,
-        "sewer": "veřejná kanalizace",
-        "gas": null,
-        "penb": null,
-        "agency": null,
-        "ref_number": null,
-        "listed_since": null,
-        "old_price": null,
-        "description": null
-      }
+      "details": null
     },
     {
       "id": "sreality_1444679756",
@@ -1549,62 +1526,6 @@
         "listed_since": null,
         "old_price": null,
         "description": "Hledáte místo, kde si skutečně odpočinete od ruchu města a budete mít přírodu doslova na dosah ruky? Právě jste jej našli. Nabízíme zrekonstruovaný dům v jedné z nejvyhledávanějších lokalit Beskyd, který je vhodný jak pro trvalé bydlení, tak pro rekreaci. Nemovitost prošla rozsáhlou rekonstrukcí a je připravena k okamžitému užívání bez dalších investic. Dům je kompletně podsklepený, disponuje novou střechou, plastovými okny a zateplenou fasádou s dřevěným obkladem, díky kterému přirozeně zapadá do okolní krajiny. Interiér je po rekonstrukci a nabízí útulné a komfortní bydlení. Dispozice domu je prakticky řešena pro každodenní život i víkendový odpočinek. V přízemí se nachází obytná část s kuchyní a ložnicí, odkud vedou prosklené dveře přímo na prostornou venkovní terasu s posezením. Součástí přízemí je také koupelna a krb, který vytváří příjemnou atmosféru během chladnějších dnů. V podkroví jsou umístěny další dva pokoje, které poskytují dostatek prostoru pro rodinu i hosty. Nemovitost se nachází v klidném prostředí obce Komorní Lhotka, která je známá svou jedinečnou atmosférou a výbornou občanskou vybaveností. Přibližně 1 km od domu se nachází vyhledávaná přírodní sauna a restaurace. Oblíbené koupaliště se nachází v sousední obci Řeka. Centrum Komorní Lhotky je vzdálené přibližně 2 km a naleznete zde mimo jiné obchod, knihovnu i lázně. Lokalita nabízí výborné podmínky pro turistiku, cyklistiku, houbaření i zimní sporty. V okolí naleznete množství turistických tras, beskydských vrcholů a dalších možností aktivního odpočinku. Komorní Lhotka je dlouhodobě vyhledávanou lokalitou pro své klidné prostředí, krásnou přírodu a zároveň velmi dobrou dostupnost do Frýdku-Místku, Třince i Ostravy. Přijďte se přesvědčit osobně. Některá místa se totiž nedají popsat slovy – je potřeba je zažít. ev.č.: 1790 třída energetické náročnosti budovy: G - Mimořádně nehospodárná dle vyhlášky č.264/2020 Sb. poloha objektu: Samostatný druh objektu: Cihlová stav objektu: Po rekonstrukci umístění objektu: Polosamota typ domu: Patrový velikost: 4 pokoje zastavěná plocha (m2): 109 užitná plocha (m2): 100 plocha parcely (m2): 404 počet podlaží objektu: 2"
-      }
-    },
-    {
-      "id": "sreality_2637214284",
-      "title": "Prodej vícegeneračního domu 189 m², pozemek 1090 m²",
-      "url": "https://www.sreality.cz/detail/prodej/dum/vicegeneracni-dum/frydlant-nad-ostravici/2637214284",
-      "portal": "sreality",
-      "price": 6950000,
-      "location": "Frýdlant nad Ostravicí",
-      "location_id": "frydlant",
-      "added": "2026-11-02",
-      "price_history": [
-        {
-          "date": "2026-11-02",
-          "price": 6950000
-        }
-      ],
-      "area_m2": 1090,
-      "coordinates": [
-        49.5648877634677,
-        18.3549558982473
-      ],
-      "score": 52,
-      "reasons": [
-        "cena 6,95 mil. ~",
-        "užitná 189 m² ✗",
-        "pozemek 1 090 m² ✓",
-        "5 pokojů ✓",
-        "obec ✓"
-      ],
-      "match": false,
-      "new": false,
-      "details": {
-        "url": "https://www.sreality.cz/detail/prodej/dum/vicegeneracni-dum/frydlant-nad-ostravici/2637214284",
-        "fetched": "2026-11-02",
-        "ok": true,
-        "title": "Prodej vícegeneračního domu 189 m², pozemek 1090 m²",
-        "price": 6950000,
-        "location": "Frýdlant nad Ostravicí - Frýdlant",
-        "usable_area": 189,
-        "plot_area": 1090,
-        "built_area": 102,
-        "rooms": 5,
-        "disposition": null,
-        "year_built": null,
-        "condition": "před rekonstrukcí",
-        "construction": "cihlová",
-        "heating": "plynový kotel",
-        "sewer": "jímka",
-        "gas": true,
-        "penb": "G",
-        "agency": null,
-        "ref_number": "905577",
-        "listed_since": "2024-07-23",
-        "old_price": null,
-        "description": "Prostorný rodinný dům ve Frýdlantu nad Ostravicí k bydlení i jako investice k pronájmu bytů\r\n\r\nTento prostorný dům s rozlehlou zahradou, je ideálním místem pro rodiny, které hledají klidné a pohodové bydlení v těsné blízkosti přírody.\r\n\r\nDům je rozdělen na dva samostatné byty, každý s podlahovou plochou přibližně 80 m², což poskytuje dostatek prostoru pro pohodlné bydlení. \r\nV podkroví se nachází další místnost a ze zbývajícího prostoru podkroví lze vykouzlit další obytné místnosti s luxusním výhledem na Beskydy.\r\nVe videu jsme znázornili možnosti využití prostoru v podkroví a celkovou vizualizaci domu a jednotlivých místností.\r\n\r\nTato investice vám poskytne jedinečnou příležitost vytvořit si domov přesně podle vašich představ.\r\n\r\nDům lze také využít jako investiční příležitost k pronájmu jednotlivých bytů. Navíc lze z podkroví vytvořit třetí bytovou jednotku.\r\nVe Frýdlantu nad Ostravicí se prodávají byty v původním stavu v průměru za 60.000 K4 za m2. Tento dům vychází na necelých 37.000 Kč/m2. I při rekonstrukci ve výši 2 mil.Kč je stále výhodná cena 47.000 Kč/m2. \r\nPřed domem lze vytvořit parkovací stání a jako bonus mají byty rozlehlou zahradu.\r\nPoptávka po bytech ve Frýdlantu nad Ostravicí výrazně převyšuje nabídku. Tudíž se tato nemovitost jeví jako velká příležitost k investici.\r\n\r\nFrýdlant nad Ostravicí je vyhledávanou lokalitou díky své blízkosti k přírodě a zároveň dobré dostupnosti do města. \r\nV okolí najdete veškerou občanskou vybavenost, školky, školy, obchody a možnosti kulturního a sportovního vyžití.\r\n\r\nPro více informací a prohlídku nemovitosti nás neváhejte kontaktovat. \r\nTěšíme se na Vaši návštěvu a rádi Vám poskytneme veškeré potřebné informace.\r\n"
       }
     },
     {
@@ -2097,10 +2018,10 @@
     }
   ],
   "new_ids": [
+    "realingo_24736859",
     "sreality_700936268",
     "bazos_226592179",
     "sreality_3347513420",
-    "idnes_6ad5c47d9008c41f7d0cb202",
     "sreality_546926668",
     "sreality_1806041164",
     "sreality_4256657484",
